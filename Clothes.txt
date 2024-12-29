@@ -1,5 +1,5 @@
-Dostępne są nowe ubrania!
-Brak
+Dostępne nowe ubrania!
+Brak dostępu
 
 
 
@@ -7,7 +7,7 @@ Brak
 
 
 
-Klasyczne
+Mita
 Szkoła
 Wampir
 Boże Narodzenie

@@ -1,9 +1,9 @@
-Rysowanie
+Drawlit
 Karty
 Otwórz drzwi
-Mita 2D
-// Zadanie
-Nic.
-Nie widzisz zbyt dobrze?
-A jeśli inne imię?
-Jest wieczór.
+2D Mita
+// Quest
+Nie ważne.
+Masz słaby wzrok?
+O co chodzi z innym imieniem?
+Na zewnątrz już ciemno.

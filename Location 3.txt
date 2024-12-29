@@ -1,16 +1,16 @@
-// Brak zadania
-Nic
-// Zadanie "Pierwsza Mita"
-Jesteś Mita?
-Co mam zrobić, jeśli chcę wrócić?
-Jak znalazłem się w grze?
-// Quest "Kuchnia jeść"
-Ładny dom, przytulny
+// Quest none
+Nie ważne.
+// Quest "Pierwsza Mita"
+Jesteś... Mita?
+A co jeśli chciałbym wrócić do domu?
+Jakim cudem trafiłem do gry?
+// Quest "Kitchen eat"
+Jest tutaj bardzo przytulnie.
 Kiedy mogę wrócić do domu?
-Wszystko wygląda jak sen
-Dlaczego za oknami jest białe światło?
-Po co nożyczki, skoro jest nóż?
-Smacznego.
+Czuje się tutaj jak w jakimś śnie ...
+Czemu za oknem jest tak biało?
+Po co ci nożyczki skoro mogłaś użyć noża?
+Bon appétit!
 // TV
-Fajny sok
-Mocny sok!!!
+Silny w smaku!
+SILNY w działaniu!

@@ -1,11 +1,11 @@
-// Brak zadania
-Nic
-// Zadanie
-Ty jesteś Mita, prawda? // 1
-Co się z tobą stało? // 2
-Zostać drugim kolegą? // 3
+// Quest none
+Nie ważne.
+// Quest
+Jesteś Mita, prawda?
+Co ci się stało?
+Zostać twoim drugim przyjacielem?
 Czy to twój dom?
-Jak mogę opuścić to miejsce? // 5
+Jak mogę opuścić to miejsce?
 
 // TV
-DATA PREMIERY!
+WOLNOŚĆ!

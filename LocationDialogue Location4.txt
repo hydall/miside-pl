@@ -1,38 +1,38 @@
-Mita? // Gracz
-Oj, już się obudziłeś?
-Jak tu się znalazłaś? // Gracz
-Przecież byłaś tuż obok mnie.
-// Mita
-Nie
+Mita?
+Ooo, już ci lepiej?
+Skąd się tu wzięłaś?
+Przecież przed chwilą byłaś obok mnie.
+
+Nie, wydawało ci się.
 Zamarłeś przed lustrem.
-No i poszłam sobie
-A co z pokojami? // Gracz
-// Mita
-Przestawiłam je
-Żeby było ci wygodniej
-Czyli...
-Zeby nie były w rzędzie
-Tylko tak, jak powinno być
-// Gracz
+Więc zostawiłam cię w spokoju.
+Czemu rozmieszczenie pokoi się zmieniło?
+
+Przemeblowałam pokoje.
+Żebyś mógł się poczuć bardziej jak w domu,
+Na szczęście,
+Tutaj możemy aranżować pokoje
+Jak tylko chcemy.
+
 Nie musiałaś.
-Już zacząłem się przyzwyczająć
-Myślę, że tak będzie ci przytulniej!
-// Gra karciana Mita
-Dobra
-Zaczynamy grę?
-Krótko ci ją opiszę
-Żeton wskazuje rodzaj obrażeń,
-Na przykład, zdrowie:
-Kładziemy karty,
-I jeśli masz żyć na karcie
-Więcej,
-Niż ja,
-To wygrywasz!
-Weź karty,
-Teraz ja.
-Whoa!
-Dostałam dobre karty,
-Idę pierwsza!
+Prawie się już przyzwyczaiłem.
+W każdym razie, uważam że w ten sposób będzie nam tu lepiej.
+// Mita card game
+Dobrze
+Zagramy?
+Zasady gry są proste:
+Moneta dyktuje które na które statystyki gramy,
+Na przykład zdrowie:
+Każdy z nas wystawia kartę,
+I jeśli na twojej karcie
+Symbol zdrowia ma większą wartość
+Niż u mnie,
+To wygrywasz.
+Weź swoje karty.
+Moja kolej.
+Wow!
+Trafiły się niezłe karty!
+Ja pierwsza!
 
 
 
@@ -42,30 +42,30 @@ Idę pierwsza!
 
 
 
-Teraz ty!
-Twój ruch!
-Tak.
+OK!
+Twoja kolej!
+No nie.
 Twoja kolej!
 
-Gramy na zdrowie!
-Tu chodzi o moc!
-Patrz na obronę!
+Zdrowie wygrywa!
+Teraz tylko atak!
+Skup się na obronie!
 
 
-Wygrywasz!
-Ty wygrywasz!
-Ty wygrywasz.
-Och, ty...
+Wygrałeś!
+Wygrałeś!
+Tym razem ci się udało.
+Ożesz ty...
 
-Moje zwycięstwo!
-Jestem zwycięska!
-Zwycięstwo jest moje!
-Mniam, zjadłam!
+Wygrałam!
+Tym razem to ja wygrałam!
+Udało mi się!
+Hah, mam cię!
 
 Remis.
-Ani tu, ani tam!
-Nie do przodu, nie do tyłu!
-Wszystko jest jakoś takie same.
+Wow remis!
+Tym razem to remis!
+Ehh, ta sama liczba...
 
 
 
@@ -77,295 +77,292 @@ Wszystko jest jakoś takie same.
 
 
 
-// Gracz - gra przerwana
+// The card gamę is interrupted
 Co to za dźwięk?
-Dochodzi z szafy
-// Mita
+Ten z szafy.
+
 Dźwięk?
 Jaki dźwięk?
-Nie było żadnego dźwięku
-Powiedz mi, jak on brzmi?
-// [Gracz]
-Stukanie, jakby ktoś tam był
-// Mita
-Ale tam...
-Nikogo tam nie ma.
-// Gracz
-Chcę to sprawdzić
-To jest bardzo dziwne
-// Mita
-Dlaczego...
-Znowu...
+Ja nic nie słyszałam.
+A ty coś słyszałeś?
+
+Jakieś pukanie, jakby ktoś tam był.
+
+Ale...
+Tam nikogo nie ma...
+
+Chciałbym to sprawdzić.
+Trochę mnie to przeraża.
+
+Ale czemu...?
+Znowu to samo...
 
 
 
 
 
 
-// Mita
-Co ty robisz!?
-Tam jest...
-Moja bielizna
-// Gracz
-Ukrywasz coś?
-// Mita
-Dlaczego mi nie wierzysz?
-Co robię nie tak?
-Ja chcę tylko
-Żebyś był ze mną
-// Gracz
-Chciałbym to obiecać, ale co dalej?
-// Mita
-Dlaczego tak cię ciągnie do szafy?
-// Gracz
-Chcę tylko wiedzieć, co to za dźwięki!
-// Mita
-Po prostu...
-Ten świat.
-To tylko te cztery pokoje.
-Pewnie to ci nie wystarczy?
-Moze po prostu spróbujesz zostać ze mną?
+
+Co jest z tobą nie tak!?
+To zwykła szafa...
+Trzymam tam swoją bieliznę ...!
+
+Coś przede mną ukrywasz?
+
+Czemu mi nie wierzysz?
+Co znów robię źle?
+Ja chce tylko...
+chcę żebyś że mną został...
+
+Chciałbym, ale...?
+
+Dlaczego tak się uparłeś na tą szafę?!
+
+Chce cholera jasna wiedzieć co to za odgłos!
+
+Czy to dlatego
+Że ten świat
+Ma tylko cztery pokoje?
+To dla ciebie za mało?
+Czemu po prostu nie możesz ze mną zostać?
 
 
-// Mita (Nie)
-Rozumiem
-Znowu...
-Jeśli chcesz wiedzieć, co tam jest
-To za chwilę...
-się dowiesz!
+// Don't stay with Mita
+Rozumiem.
+Znowu to samo...
+Skoro tak bardzo chcesz się przekonać,
+Co w niej jest,
+To sobie sprawdź!
 
 
 
-// Gracz
+
 Co do...
-// Mita
-Zdarza się
-Pokój nie zdążył się załadować
-Poczekaj trochę!
-// Gracz
-To jest dziwne
+
+Czasami się to zdarza.
+Pokój nie zdążył się załadować.
+Poczekaj chwilkę.
+
+Dziwne.
 Jesteśmy w czyimś telefonie?
-I ten telefon jest taki słaby?
-// Mita
-Nie
-Po prostu nie wszystko jest tak idealnie zrobione
-W tym świecie
-I jesteśmy ładowani
-Przez jądro tego świata
-// Player
-Jądro?
-// Mita.
-Typowe, co nie?
+Może w jakimś słabym, z słabym procesorem?
 
+Nie o to chodzi.
+Niestety nie wszystko jest tutaj
+Idealne...
+Jesteśmy ładowani
+Przez rdzeń świata.
 
-// Mita.
-Możemy
-Pograć na konsoli
-albo w karty,
-Wybieraj!
+Rdzeń świata?
+
+Typowe nie sądzisz?
 
 
 
-// Mita gra w walkę
-Zawalczmy?
-Trzeba wygrać
-Cztery razy
-Dawaj
-Może na początek
-dam ci fory!
-
-// + 1
-Dobra robota!
-A teraz trzymaj sie!
-// + 2
-Whoa!
-Dobra, teraz
-Robię się poważna.
-// + 3
-Och, ty!
-A czy będziesz mógł teraz
-Mnie pokonać?
-// + 4
-Jesteś.
-Po prostu
-Niesamowity! Twoje palce to coś!
-
-// - 1
-No co ty? :(
-To nudne
-// - 2
-No cóż.
-zrobiłam to! Fatality!
-// - 3
-Dobra.
-Weź się w garść, bo zostaniesz przegrywem na całe życie!
-// - 4
-Co się z tobą dzieje?
-Spuściłam ci łomot.
-W ogóle się nie starałeś-
-dlatego wygrałam!
-
-
-Dobra, no to co?
-Zagramy w karty?
-W mojej sypialni
+Nie ważne.
+Możemy pograć na konsoli
+Albo w karty.
+Wybieraj.
 
 
 
-// Gracz [BŁĄD]
-Co to jest?
-Gdzie jest...
-// Mita
-Ups.
-Przepraszam.
-Pobrałam jeden pliczek
-z internetu
-Chciałam, żeby było ładnie
-na zewnątrz
-Ale okazało się, że
-Format pliku był nieprawidłowy...
-Naprawię to później :)
-// Gracz
-To dlatego nie możemy wychodzić z domu?
-Właśnie dlatego :)
-// Mita nieśmiało
-Cóż...
-Co jest?
-Chcesz coś? :)
+// Mita play fight
+Chcesz zawalczyć?
+Musisz wygrać
+Cztery razy.
+No dawaj.
+Nie martw się
+Na początku dam ci fory.
+
+
+Dobrze ci idzie.
+Lepiej się skup!
+
+Wow!
+No dobra.
+Teraz gram na serio.
+
+Nieźle!
+Zobaczymy czy uda ci się
+Pokonać mnie teraz!
+
+Jesteś
+Normalnie
+Niesamowity! Musisz chyba dużo grać!
+
+
+Co się dzieje?
+Nudzi cię to?.
+
+A więc,
+Grasz na serio?
+
+Ehh,
+Weź się w garść albo będę cię nazywać przegrywem!
+
+Co z tobą?
+Wytarłam tobą podłogę.
+Nie dałeś z siebie wszystkiego-
+Dlatego wygrałam!
+
+
+A więc.
+Może zagramy w karty?
+Są w sypialni.
 
 
 
-// Gracz - zegar ścienny
-Ten zegar.
-Jaki czas pokazuje?
-Czas w grze?
-A może synchronizuje się z moim smartfonem?
-// Mita.
-No jak to powiedzieć...
-Ogólnie.
-Nie ma znaczenia, która jest godzina
-I czy jest późno
-W moim domu...
-Silne dziewczyny jak ja
-Nigdy nie znają zmęczenia!
-Jeśli zechcę, będzie wieczna wiosna!
-I wieczne południe!
-// Gracz
-Ciekawe...
-I przerażające w tym samym czasie
-Utknąć w jednej chwili na zawsze...
+// Door > [ERROR]
+Huh, o co chodzi?
+Gdzie są...
+
+Ohh.
+Przepraszam...
+Chyba pobrałam coś
+Z internetu.
+Chciałam trochę urozmaicić
+Obszar wokół domu.
+Ale jak widać
+Musiało być coś nie tak z tym plikiem.
+Później to naprawię.
+
+Dlatego nie mogę opuścić domu?
+Dokładnie.
+// Mita shy
+Hej...
+Co się dzieje?
+Czegoś potrzebujesz?
 
 
 
-// Gracz - zdjęcie autorstwa Mita
+// Wall Clock
+Hej, ten zegar,
+Pokazuje aktualny czas?
+Czy może czas z gry?
+Jest połączony z moim telefonem?
+
+A więc, umm...
+Szczerze to nie wiem.
+Ale czas nie ma tu znaczenia...
+Nie ważne czy jest wcześnie czy późno,
+Dziewczyna jak ja
+Jest zawsze pełna energii-
+Nigdy się nie męczę!
+Możemy mieć wieczną wiosnę,
+Lub urządzić sobie wieczny romantyczny wieczór!
+
+Interesujące...
+I trochę straszne.
+Stać ciągle w czasie, na zawsze...
+
+
+
+// Photos of Mita
 Ładne zdjęcia.
-Zgaduję, że są z tobą.
-// Mita
+Obstawiam, że to ty?
+
+Ano.
+Też mi się podobają.
+
+Kto je zrobił?
+Czyli są tutaj jeszcze inne osoby?
+
+Można tak powiedzieć.
+Kiedyś ci je przedstawię.
+Ale jeszcze nie teraz.
+Teraz, chcę cię mieć tylko dla siebie.
+
+
+
+
+// Portal
+Gdzie jest portal?
+Albo jakkolwiek się to nazywało?
+
+Użyłam odrobinę
+Magii
+I przeniosłam go
+Gdzieś indziej.
+Nie potrzebujemy go już.
+Tylko nam przeszkadzał.
+
+
+// Mirror in the bedroom
+Lustro bez odbić...
+To naprawdę niepokojące...
+
+Możemy włączyć odbicia
+Jeśli tylko chcesz .
+Ale czy naprawdę ich potrzebujemy?
+
+Oczywiście że tak.
+Chyba że... ma to jakieś konsekwencje?
+
 Tak.
-Mi też się podobają.
-// Gracz
-Kto zrobił ci zdjęcie?
-Czy jest ktoś jeszcze na tym świecie?
-// Mita
-Można powiedzieć, że są :)
-A ja ci ich przedstawię.
-Ale to jeszcze nie czas
-By dzielić się tak miłym towarzystwem :)
+Będziemy się zacinać i wolniej poruszać.
+Widziałeś kiedyś jakaś kreskówkę z niskimi klatkami na sekundę?
+Będzie tak mniej więcej cały czas.
 
+Rozumiem.
+Może lepiej zostawmy je wyłączone...
 
+Ej, [player],
+Serio lubisz lustra co?
+Masz nadzieję że zobaczysz tam swój uśmiech?
 
-
-// Gracz - Portal
-A gdzie zniknął portal?
-Albo jak ty go nazywasz?
-// Mita
-Za moim
-Magicznym kliknięciem
-Przeniosłam go
-W inne miejsce
-Już go nie potrzebujemy 
-Będzie nam przeszkadzał
-
-
-// d Player, the mirror in the bedroom d
-To jest takie dziwne, patrzeć w lustro
-Które niczego nie odbija...
-// Mita
-Odbicia można włączyć
-Jeśli chcesz,
-Ale czy tego potrzebujesz?
-// Gracz
-Jasne, że tak
-Ale poczekaj... czy są jakieś konsekwencje?
-// Mita
-Tak
-Będzie nas strasznie zacinać,
-Widziałeś kiedyś kreskówkę z niską liczbą klatek na sekundę?
-I tak będzie przez cały czas...
-// Gracz
-Zrozumiałem.
-W takim razie póki co obejdziemy się bez odbić...
-// Mita
-[player], widzę
-Że lubisz się patrzeć w lustro?
-Czy boisz się zobaczyć na swojej twarzy odrobinę pozytywnego nastawienia?
-// Gracz
-Co? Niczego się nie boję...
+Co? Nie...
 Jestem po prostu zmęczony
-Przez pracę.
+Po całej tej pracy.
 
 
 
-// Niebieskie buty.
-Czy to twoje?
-// Mita.
-Nie, są twoje.
+// Blue sneakers
+To twoje?
+
+Nie, te są twoje.
 Nie pamiętasz?
-// Gracz
-Nie mam takich trenerów.
-// Mita
-Teraz już masz!
-Kiedy pójdziemy na spacer
-Założysz je!
-// Gracz
+
+Nie przypominam sobie żebym takie miał.
+
+To teraz już masz.
+Możesz je nosić
+Gdy wyjdziemy na dwór.
+
 A co z ubraniami?
-Trafiłem do tego światu
-Mam tylko to, co mam na sobie teraz
-A jak mam dostać inne?
-// Mita
-W porządku.
-Widziałam co masz na sobie
-Jaki ty masz smutny gust jeśli chodzi o ubrania.
-Ale w porządku, przyniosę ci je,
-Ale później.
-Obiecuję!
-// Gracz
-Dobra.
+Wszystko co mam
+To tylko te, które mam na sobie.
+Można tu jakoś zdobyć inne?
+
+Oczywiście.
+Widziałam co nosisz-
+I jeśli mam być szczera to masz słaby gust.
+W każdym razie, pomogę ci się porządnie ubrać.
+Ale wszystko w swoim czasie.
+Obiecuję.
+
+Okej.
 
 
-// Gra telewizyjna - Mita
-W co chcesz zagrać?
-// Mleko w grze
-W tej grze będziemy walczyć!
-Aby zobaczyć, kto jest bardziej kwaśny
-No, wymyślą!
-Wystarczy mleka, weźmy następną.
-// Gra pingwiny
-W tej grze trzeba po prostu być pingwinem
-I ślizgać się :)
-Graliśmy już w tę grę // Gracz chciał ponownie wybrać grę - Mita
+// Games on TV
+W co chcesz pograć?
+// Game milk
+To bijatyka!
+Zobaczmy kto kogo pierwszy stłucze na kwaśne jabłko. 
+Nieźle ci poszło!
+Myślę że wystarczy już mleka na ten moment, może zagramy w coś innego?
+// Gamę penguins
+W tej grze jesteś pingwinem
+Musisz się ślizgać i zbierać śnieżki.
+Dokładnie o to w tym chodzi.
 
-// Zostań z Mitą - Mita
-Oj, Co?
-Poważnie? Myślałam, że ty..
-Bardzo się cieszę!
-Coś się nawet trochę zagubiłam...
-Więc...
-Proszę, bądź przy mnie,
-Zawsze.
-
-
-
+// Stay with Mita
+Czekaj, naprawdę?
+Mówisz serio? Myślałam że mnie...
+Jestem taka szczęśliwa!
+I trochę zszokowana...
+Ale...
+Będziemy już razem-
+Już zawsze i na zawsze...
 
 
 
@@ -375,26 +372,29 @@ Zawsze.
 
 
 
-// pingwiny
-Proste jak drut
-Zbieraj śnieżki
-Oczywiście wygrywa ten, kto zbierze ich najwięcej!
-Dawaj, zagramy dwie rundy
-// pierwsza karta.
-Wow, skąd masz ich tyle?
-Ojej! Mam więcej śnieżek
-Nadrabiaj!
-Ha, 1 - 1!
-// druga karta.
-Jesteś urodzonym pingwinem!
-Może naprawdę powinienam wypuścić cię na lód!
-Pfft, jesteś taki powolny.
-Nie zrzuciłeś ciężaru z ostatniej gry?
-Uff, żeby coś takiego się stało, to prawdziwa rzadkość! // remis
-// Gra skończona.
-Zagramy jeszcze raz?
-Czy skończymy na tym?
 
 
+
+// A gamę about penguins
+To bardzo proste:
+Poprostu zbierasz śnieżki .
+Kto zbierze więcej wygrywa!
+Zagrajmy dwie rundy okej?!
+// The first map
+Wow, jak ci się udało zebrać aż tyle?
+Hee-hee! Mam najwięcej śnieżek!
+Lepiej się postaraj!
+Ha, 1:1!
+// The second map
+Jesteś świetnym pingwinem!
+Powinniśmy iść na prawdziwe lodowisko!
+Pfft, jesteś taki ślamazarny.
+Myślisz o następnej rundzie?
+Wow, remis! Tego się nie spodziewałam!
+// The gamę is over
+Więc chcesz w coś jeszcze pograć?
+Czy masz dość?
+
+// Tetris - Mita
 Po co ci to?
-Co ty, uzależniony jesteś?
+Chyba jesteś uzależniony?

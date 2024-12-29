@@ -1,42 +1,42 @@
-// Gracz
+
 Mita?
-// MitaKind
-Jak się tutaj dostałeś?
-// Gracz
-Jesteś Mita, prawda?
-Tylko jakaś inna...
-// MitaKind
-Rozumiem...
-Słuchaj, naprawdę,
-Nie jestem tą Mitą, którą widziałeś.
-Uważaj, ma wobec ciebie bardzo...
-złe plany.
-// Gracz
-Jakie plany?
-// MitaKind
-Cholera.
-Jeśli to wypali, powiem ci wszystko....
-Znajdź klucz przy kanapie.
-// Player
+
+Skąd się tu wziąłeś?
+
+Jesteś Mitą, prawda?
+Ale jakaś inna...
+
+Cóż za spostrzegawczość.
+Jednak masz rację, jestem Mita.
+Ale nie ta, którą poznałeś wcześniej.
+Uważaj ona knuje coś...
+Złowieszczego.
+
+Co? Złowieszczego?
+
+Nie ma czasu żeby ci to teraz tłumaczyć:
+Jeśli nam się uda, wszystko ci wyjaśnię.
+Obok sofy jest klucz, przynieś mi go.
+
 Ale...
-// MitaKind
-Zachowaj pytania na później!
-Daj mi klucz...
-Oto pierścionek
-Hmm? // Gracz
-Chcesz się stąd wydostać, prawda? // MitaKind
-No tak... // Gracz
-Więc załóż to. // MitaKind
-To przydatny artefakt.
-Myślę, że wkrótce może ci się przydać. // MitaKind
-// Gracz
-Dobrze...
-Przy okazji, jestem...
-[player] // [nie]
-// MitaKind
-Brawo,
-[player] // [not]
-A ja jestem... Mita. 
+
+Nie mamy na to czasu!
+Idź po klucz.
+Czekaj, weź ten pierścień.
+Co?
+Chcesz się stąd wydostać?
+Umm, no tak...
+Więc go zakładaj.
+To rzadki artefakt,
+I bardzo możliwe że niedługo ci się przyda.
+
+Okej...
+Tak przy okazji, jestem
+[player].
+
+Mmm,
+[player].
+Jestem... Mita.
 
 
 
@@ -45,106 +45,106 @@ A ja jestem... Mita.
 
 
 
-// MitaKind quest 1 - MitaKind
-Patrz,
-Konsola, weź ją.
-// Gracz
-Nagranie?
-Kto jest z nią?
-// MitaKind.
-To nie jest nagranie,
+// MitaKind quest 1
+Widzisz tą konsolę?
+Podnieś ją.
+
+To nagranie?
+Kto tam z nią jest?
+
+Nie, to dzieje się na żywo.
 To inny gracz.
-Wykorzystuje go teraz.
-Wiedz, że ty też.
-Ryzykujesz staniem się kartridżem...
-// Gracz
-Muszę się stąd szybko wydostać.
-Ty też.
-// MitaKind
-Tak, jasne.
-// Gracz
-Mówisz, że
-wykorzystuje gracza,
-A co jeśli wyciągnę kartridż z konsoli?
-// MitaKind
-Myślę, że takie postępowanie może spowodować
-nieodwracalne uszkodzenie kartridża.
-Czyli... // Gracz
-Gracz umrze. // MitaKind
-// Gracz
-... // [nie]
-A jeśli po prostu wyłączę konsolę? // Gracz
-// MitaKind
-Myślę, że to może pomóc...
-Warto spróbować, tam jest czerwony przycisk!
-Widzisz?
-Znalazłem. // Gracz
-Spróbuj go nacisnąć. // MitaKind
+Wykorzystuje go.
+A później zmieni w kasetę...
+Prawdopodobnie ciebie też zechce.
 
-// MitaKind quest 2 - MitaKind
-Muszę tutaj zostać,
-Chcę zadać jej kilka pytań,
-i dowiedzieć się więcej o niej.
-Chociaż raczej nie wesprze sensownej rozmowy...
+Muszę się stąd wydostać.
+Ty także.
 
-// MitaKind quest 3 - MitaKind
-Właściwie to jest moja wersja,
-Byłam z jednym graczem...
-Nagle coś się zmieniło w świecie,
-I wtedy pojawiła się ona.
-Zamieniła gracza w kartridż,
-I zamknęła mnie tutaj.
-// Gracz
-Zamieniła go w kartridż?
-Ona tak potrafi?
-Dlaczego miałaby to zrobić?
+To prawda.
+
+Czyli ona nas wykorzystuje?
+Tylko po co?
+Co się stanie jeśli wyjmę tą kasetę?
+
+Prawdopodobnie 
+Nieodwracalnie ją uszkodzisz.
+A co za tym idzie...
+Gracz umrze.
+
+...
+A jeśli po prostu wyłączę konsolę?
+
+Możliwe że to zadziała...
+Warto spróbować. Powinien gdzieś być czerwony przycisk!
+Widzisz go?
+Jest.
+Wciśnij.
+
+// MitaKind quest 2
+Muszę tu zostać.
+Jest parę pytań które muszę jej zadać
+Chce się dowiedzieć o niej i o mnie.
+Ale wątpię że połknie haczyk...
+
+// MitaKind quest 3
+Jesteśmy w mojej wersji gry.
+Dotrzymywałam towarzystwa innemu graczowi,
+Ale nagle coś się zmieniło.
+Pojawiła się ona...
+Zmieniła gracza w kasetę
+A mnie zamknęła tutaj.
+
+Czekaj, co?
+Jak to zmieniła w kasetę?
+Ale dlaczego?
 Po co jej gracze?
-// MitaKind
-Oszalala, to oczywiste...
-Ona się tak bawi, ma radość, do diabla!
-Gracz staje się kartridżem...
-Niektórzy mogą niczego nie podejrzewać...
-A niektórzy zdają sobie sprawę, ale nie walczą.
-Wcale mi się to nie podoba... // Gracz
-Słuchaj, musisz nam pomóc! // MitaKind
-Ja? Jakim cudem? // Gracz
-Potrzebuję cię, graczu! // MitaKind
-Pomóż nam, a ja postaram się pomóc tobie!
-Kolejnej szansy może już nie być...
-Pierścionek poprowadzi Cię do właściwej wersji.
+
+Ona jest szalona...
+Bawi się nimi, wykorzystuje ich do spełnia chorych fantazji!
+A później zamienia w kasety...
+Niektórzy nie wiedzieli co się dzieje...
+A inni nie stawiali nawet oporu... Hah!
+To przykre...
+Musisz nam pomóc!
+Ja? Ale jak?
+Potrzebujemy się nawzajem!
+Jeśli mi pomożesz, ja pomogę tobie!
+To może być nasza jedyna szansa.
+Pierścień zaprowadzi cię do prawidłowej wersji.
 Tam się spotkamy.
 
-// MKind quest 4 - Gracz
-Nie mogę w pełni pojąć
-tego, co tam zobaczyłem.
-Ta Mita.
-Ona chce mnie zabić?
-// MitaKind
+// MitaKind quest 4
+Dalej nie rozumiem 
+Co się odwaliło...
+Tamta Mita...
+Czy ona chciała mnie zabić?
+
 Zabić?
-Obawiam się, że ma gorsze pomysły...
-Dlatego musisz się pospieszyć.
+Czeka cie znacznie gorszy los...
+Musisz się pośpieszyć.
 
-// Ukryj się!
-O cholera! Ukryj się!
-Co... // Gracz
-Szybciej! Ona idzie w tę stronę!
-Zaufaj pierścieniowi, on cię stąd wydostanie!
+// Hide!
+Cholera, kryj się!
+Czekaj, czemu...?
+Szybko, zaraz tu będzie!
+Pierścień zaprowadzi cię w bezpieczne miejsce!
 
-// MitaKiller
-Może powiesz mi, gdzie on jest?
-// MitaKind
-Dlaczego miałabym to robić?
-Chyba nie zamierzasz go zabić?
-// MitaKiller
-Więc nie...
-W porządku, podoba mi się, że się ukrywa.
-Wiem, że tu jest.
-// MitaKind
-Dlaczego jesteś taka agresywna?
-Nawet mi nie mówisz, co się dzieje!
-A zresztą...
-Po co ci są gracze?
-To nie są zabawki!
-Na co jesteś tak obrażona?
-// MitaKiller
-Huh, zamknij się, lalko!
+
+Proszę, proszę, powiesz mi gdzie on jest?
+
+Czemu miałabym?
+Przecież zamierzasz go zabić, prawda?
+
+Hah, czyli nie chcesz po dobroci.
+Niech ci będzie, lubię wyzwania.
+Wiem że gdzieś tu jest.
+
+Czemu jesteś dla nas taka wredna?
+Nawet nie masz odwagi mi tego wyjaśnić!
+Poza tym...
+Po co ci są ci wszyscy gracze?
+To nie zabawki!
+Co w ciebie wstąpiło?!
+
+Wystaczy! Morda w kubeł, idiotko!

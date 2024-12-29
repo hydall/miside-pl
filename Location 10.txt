@@ -1,10 +1,10 @@
-// Zadania
-Nic // 0
-Dlaczego na dole są inne Mity?// 1
-Dlaczego na dole jest tak ciemno?
+// Quests
+Nie ważne.
+Czemu na dole jest tyle Mit?
+Czemu jest tam tak ciemno?
 Co ty tu robisz?
-Po co to klepanie? // 4
-Jaka jest twoja wersja? // 5
+Do czego służy ta taśma produkcyjna?
+Z jakiej wersji pochodzisz?
 
 
-Proszę, zabierz te pudła! I przynieś tu kanapę.
+Zabierzcie stąd te pudła! I przynieście tu sofę.

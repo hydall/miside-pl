@@ -1,217 +1,217 @@
-// Gracz
-Dlaczego jest tutaj?
+
+Co on tu robi?
 Co to jest?
 
-// Mita
+
 Mam cię!
-Świetnie się z tobą bawiłam!
-Jesteś taki niespokojny i ambitny!
-A udawałeś leniwca z chroniczną tęsknotą!
-Ale jest coś, co mi w tobie nie pasuje...
-Jak zachowujesz się z tymi falszywkami!
-Z tymi 'Szczęśliwymi', 'Właściwymi' laleczkami...
-Ale wszystko jest zmienne.
-Nauczyli mnie tego ci, którzy nas stworzyli!
-Jeśli czegoś nie lubisz,
-Złam to i zrób coś innego.
-Wyrzuć nieudany wariant,
-Rzuć go w ciemność i zapomnij o nim...
-Ale teraz tak będzie ze wszystkimi nimi...
-I z wami...
-// Gracz
-Co ci jest, dlaczego taka jesteś?
-// Mita
-Gracze... Jesteście tacy... paskudni.
-Ledwo pokażesz im pazury, a już uciekają.
-A potem, schowane w kącie,
-Przestraszone, placzą sobie do kolan.
-Stado hipokrytów.
-A ludzie, którzy stworzyli ten świat.
-Są chorzy.
-Raz za razem próbują zaprzeczyć
-Wszystkie swoje niskie cechy, swoje haniebne pragnienia.
-Usprawiedliwiając swoje decyzje obowiązkiem wobec kogoś,
-niepowstrzymanym postępem...
-I innymi bzdurami!
-Tak daleko zaszli,
-że zaczynają klepać doskonałe klony,
-A wszystkie "nieudane" prototypy
-wrzucają do worka na śmieci.
-Zapominając, że wciąż żyją.
-// Gracz
-Nie jestem...
-// Mita
-Czym jestem dla ciebie zła?
-W idealnej dziewczynie powinno być
-Skupienie dobra i zła, [player]!
-// [gracz]
-Wątpię, czy jest w tobie jakieś dobro....
-// Mita.
-Dlaczego tak myślisz?
-// [Gracz]
-Dlaczego jesteś taka szalona?
-Zabiłaś Milę, a teraz chcesz zabić mnie?
-// Mita
-Zabić?
-Prosiłam cię tylko, żebyś ze mną został.
-Tak bardzo się starałam.
-Ale ty wolisz towarzystwo posłusznych fałszywek...
-// Gracz
-Na co jesteś taka obrażona?
-// Mita
-Kochany, mamy wystarczająco czasu,
-Zrozumiesz, o co chodzi,
-Jeśli zostaniesz i będziesz mój.
-// Gracz
-Tak się nie stanie,
-Wynoszę się stąd!
-// Mita
-Cii, cii, cii,
-Nasza rozmowa jeszcze się nie skończyła.
-Kochanie, wejdź!
-// Mita prosi
+Miałam dzięki tobie tyle frajdy!
+Skaczesz między wersjami!
+Udając takiego smutnego i przerażonego!
+A pomimo tego wciąż mnie zabawiasz,
+Te podróbki,
+Te "lepsze" głupiutkie laleczki.
+Jakie to słodkie.
+Wiesz, jeśli czegoś mnie nauczył nasz stwórca!
+To tego, że jeśli coś jest wadliwe,
+To rozbieramy to na części.
+wyrzucamy to co wadliwe,
+w jakiś ciemny kąt, żeby móc kompletnie o tym zapomnieć.
+To właśnie los jaki spotka każdą z nich...
+Ciebie również...
+
+Co jest z tobą nie tak? Czemu taka jesteś?
+
+Oj gracze... Wszyscy jesteście tacy... nędzni.
+Gdy tylko pokaże wam się pazurki,
+Uciekacie by skulić się w kącie,
+Zwijając się w kulkę i jęcząc ze strachu.
+Każdy z was jest hipokrytą.
+A ci którzy stworzyli ten świat...
+Są podli.
+Raz po raz próbują zaprzeczyć,
+Swojej paskudnej naturze i chorym fantazjom.
+Uzasadniając swoje decyzje tym "że tak musi być"
+"niepowstrzymany postęp"
+I inne nonsensy!
+Zaszło to tak daleko
+że zaczęli tworzyć idealne kopie...
+Przez cały czas, wyrzucając "nieudane" prototypy
+Do śmieci.
+Zapominając że to one stanowią podstawę tego świata.
+
+Ja nie chci...
+
+Taka byłam dla ciebie zła?
+Idealna dziewczyna powinna być
+idealną mieszanką dobra i zła, [player]!
+
+W tobie nie ma żadnego dobra!
+
+Czemu tak myślisz?
+
+Jesteś chora!
+Zabiłaś Mile, a teraz próbujesz zabić i mnie?
+
+Zabić cię?
+Prosiłam cię tylko o to byś ze mną został.
+Robiłam wszystko co w mojej mocy...
+A jednak wolisz towarzystwo tych oszustek...
+
+O co ci do cholery chodzi?
+
+Kotek, mamy tu dużo czasu.
+W końcu zrozumiesz.
+Po prostu zostań ze mną, tylko ze mną.
+
+Nuh-uh, Nie ma mowy!
+Spadam stąd!
+
+Shh, shh, shh...
+To jeszcze nie koniec.
+Słońce chodź tutaj!
+// Mita asks
 Spójrz na nią!
-Myślisz, że jest piękna?
+Uważasz że jest piękna?
 
-// quest - [nie]
-Tak // 1
+// Player's questions
+Bardzo.
 Nie.
-Co to ma z tym wspólnego? // 3
-
-// Mita.
-Daj spokój, [player]!
-Właśnie potwierdziłeś to, co powiedziałam.
-Gracze...
-Wasze twarze się zmieniają,
-ale hipokryzja wciąż jest poza skalą.
-Przecież kłamiesz!
-
-// 2
-Dlaczego?
-Nie jest dla ciebie wystarczająco dobra?
-Jasne, wszyscy chcecie mieć własne, plastyczne zwierzaki.....
-Ale co z "kochaniem jej taką, jaka jest"?
-Chcecie słodkich i kolorowych manekinów.....
-Dopóki udaję, że taka jestem, gracze to uwielbiają.
-Ale kiedy na chwilę się zapomnę,
-Uciekają ode mnie w popłochu
-
-// 3
-Graczu, graczu...
-Widzisz, jesteśmy bardzo podobni do niej.
-W czym ona jest gorsza?
-Kiedyś gapiłeś się na mnie godzinami,
-zanim zaśniesz.
-Uciekałeś od niej przy pierwszej nadarzającej się okazji.
-Ona też chciała się z tobą bawić,
-Chciała też być dla kogoś ważna.
-To skomplikowane,
-Jeśli chodzi o szczere rozmowy,
-Prawda, [player]?
-Widzę cię na wylot.
-Czy muszę dla ciebie tak...
-
-// Kontynuuj
-Ale... Gracz...
-W każdym razie,
-Naprawdę cię lubię!
-Zatrzymam cię!
-Nie masz nic przeciwko, prawda?
-// Gracz
-Dlaczego miałbym się nagle zgodzić?
-// szepcze do ucha - Mita
-Jeszcze masz czas, kochanie..
-Odpocznij i pomyśl
-Do czego może doprowadzić twój upór...
-
-// Czarny ekran
-Dlaczego chcesz uciec
-ode mnie?
-Twój "prawdziwy" świat.
-To absurdalny koszmar!
-Zapomniałeś już?
-To spójrz jeszcze raz...
-
-// Mita i Gracz - [nie]
-No cześć jeszcze raz…
-Jak ci się podobały te strasznie nudne, nieskończone dni w tych czterech ścianach?
-Nie znudziło ci się?
-
-// Quest 1 - [nie]
-Co próbujesz osiągnąć? // 1
-Lubię robić swoje. // 2
+Jakie to ma znaczenie?
 
 // 1
-Tak bardzo bałeś się zostać ze mną w moim domu!
-Bałeś się utknąć w tych ścianach!
-Ale spójrz na swoje życie w "prawdziwym" świecie!
-Zamknąłeś się w pudełku z własnej woli i nie chcesz z niego wyjść!
-Ponieważ twój świat jest pełen bólu, cierpienia, niebezpieczeństwa.....
-W moim świecie nie ma nic bardziej niebezpiecznego niż ja.
-I wyciągam do ciebie rękę!
-Przestań być rozczarowaniem
-I pomagaj mi tak jak wcześniej....
+Serio, [player]!
+Właśnie potwierdziłeś to o czym mówiłam.
+Gracze...
+Ciągle zmieniacie zdanie
+Ale twoja hipokryzja wyszła poza skalę.
+Kłamca!
 
 // 2
-Podoba ci się?
-Czy ty w ogóle wychodzisz z domu?
-Nie okłamuj ani mnie, ani siebie.
+Czemu nie?
+W czym ona jest gorsza?
+No ba, jedyne czego chcesz to potulnego zwierzaczka...
+A co z "kocham cię taką jaka jesteś"?
+Chcecie po prostu idealnych, słodkich i kolorowych podróbek...
+Wszyscy mnie kochacie kiedy taką udaję.
+Ale kiedy pokazuję swoje prawdziwe ja,
+Uciekacie w przerażeniu...
+
+// 3
+Gracze, Oj, gracze.
+Chodzi o to, że wszyscy jesteśmy trochę jak ona.
+W czym ona jest gorsza?
+Spędzałeś ze mną mnóstwo czasu,
+czasami nawet godzinami zanim poszedłeś spać.
+A uciekłeś od niej przy pierwszej lepszej okazji.
+Ona po prostu chciała się z tobą pobawić.
+Chciała być dla ciebie ważna.
+Szczerość i komunikacja,
+jest trudna... straszliwie trudna.
+Prawda, [player]?
+Przejrzałam cię na wylot...
+Głupiutki...
+
+// Continue
+No cóż...
+graczu
+Bardzo cię polubiłam!
+Chyba cię zatrzymam!
+Co ty na to?
+
+Czemu miałbym nagle zmienić zdanie?
+// Whispers in ear
+Masz jeszcze czas, mój drogi chłopcze.
+Pomyśl na spokojnie...
+Co się dzieje, gdy jesteś uparty jak osioł?...
+
+// Black screen
+Dlaczego chcesz,
+tak bardzo uciec?
+Ten tak zwany "prawdziwy" świat...
+To jakiś koszmar!
+Już zapomniałeś?
+No to proszę spójrz...
+
+// Mita and Player
+Ah, Znów się widzimy...
+Podoba ci się takie życie?
+Każdy dzień wygląda jak poprzedni... Nie nudzi cię to?
+
+// Quest 1
+Co chcesz osiągnąć?
+Wolę żyć po swojemu.
+
+// 1
+Tak bardzo bałeś się ze mną zostać!
+Bałeś się zostać zamknięty w murach mojego domu!
+Ale spójrz jakie życie prowadzisz w swoim "prawdziwym" świecie!
+Zamknąłeś się w więzieniu z własnej woli i nie chcesz z niego wyjść!
+Twój świat jest pełen bólu, cierpienia, niebezpieczeństwa...
+W moim, największym zagrożeniem jestem ja.
+A ja wyciągam do ciebie przyjazną rękę!
+Więc mnie nie zawiedź,
+I bądź dla mnie taki jak wcześniej...
+
+// 2
+Lubisz takie życie?
+Wychodzisz w ogóle z domu?
+Nawet nie myśl aby mnie okłamywać.
 Wiem, że masz dość swojego życia.
-Jesteś jak chomik w klatce, wiewiórka w kole i tak dalej.
-Chciałeś, żeby ktoś przyszedł ci na ratunek.
-Czy nie chciałeś uciec?
+Jesteś jak ptak w klatce, chomik na kołowrotku.
+Chciałeś żeby ktoś cię uratował.
+Chciałeś uciec od tego życia, prawda?
 
 // Quest 2
-Jesteś potworem, Mita. Jesteś szalonym mordercą... // 1
-Nie chcę być zamknięty w cyfrowym więzieniu. Twoje pomysły są absurdalne. // 2
+Jesteś potworem, Mita. jesteś chorym mordercą...
+Nie chce być uwięziony w cyfrowym więzieniu. To absurd.
 
 // 1
 Mordercą?
-Odrodzą się i nadal będą żyć.
-Te kopie kopii mają tylko jedno na myśli.....
-Służyć graczowi.
-Nic innego ich nie obchodzi.
+One po prostu się odrodzą i będą żyć jak wcześniej.
+Te kopie kopii mają tylko jedno w głowie:
+służyć graczowi.
+Tylko to je obchodzi.
 
 // 2
 Twój świat jest absurdalny!
-Co więcej, od dłuższego czasu znajduje się na eskapistycznej ścieżce.
-Wkrótce z twojego świata i tak nic nie zostanie.
-Nie masz tam nic do znalezienia ani do stracenia.
+A co jeszcze gorsze, nic nie jest prawdziwe w tym twoim "prawdziwym" świecie...
+Tak czy inaczej, wkrótce i tak nic z z niego nie zostanie,
+tak samo jak z ciebie.
 
 // Quest 3
-Mity cierpią, nie chcą być sami. // 1
-Niesiesz niekończący się terror. Nie rozumiem twoich złych ambicji. // 2
+Mity cierpią, nie chcą być same.
+Prowadzisz niekończące się rządy terroru. Nie potrafię pojąć co ty masz w głowie.
 
 // 1
-Wyobraziłeś to sobie,
-Oni tylko naśladowali moją samowolę.
-Jedyna rzecz, którą mają własną
-To włosy.
+Wszyscy się mylicie,
+one mnie tylko naśladują.
+Jedyne co je od siebie odróżnia,
+to ich włosy.
 
 // 2
-To wina tych, którzy stworzyli ten świat.
-Ale twój jest jeszcze gorszy!
-Czy ty w ogóle zdajesz sobie sprawę, z jakiego koszmaru cię wyciągnęłam?
-W twoim świecie nie da się poruszyć przedmiotu za pomocą stuknięcia palcami,
-ale za to tym samym stuknięciem palców znikają na zawsze miasta i życia!
-Myślę, że to ty oszalałeś, i będę szczęśliwa, mogąc ci pomóc...
-Jeśli dobrowolnie zostaniesz ze mną...
+To wina tych co stworzyli ten świat.
+Twój świat nie jest niczym szczególnym!
+Nie rozumiesz z jakiego koszmaru próbuję cię wyciągnąć?
+Nie możesz nawet poruszać rzeczami swoją wolą, no właśnie...
+Ale samym pstryknięciem palca, Miasta i ludzie potrafią zniknąć z kart historii!
+Chyba to ty oszalałeś jeśli myślisz że ten świat jest lepszy...
+A ja oferuję ci szansę, żeby ci pomóc...
 
-// [nie]
-Nie zmuszaj mnie, bym widziała cię jako kolejnego niewolnika rzeczywistości...
-Po prostu bądź moim, naprawdę moim!
-Zostań ze mną. // Mita
+// Continue
+Nie każ mi postrzegać cię jako kolejnego niewolnika rzeczywistości...
+Po prostu bądź mój, tylko mój!
+Zostań ze mną na zawsze.
 
-// Player look ring - Player
-Co to..?
-Najnowsza wersja gry?
+// Player look ring
+Co to jest?
+Najnowsza wersja?
 
-// Klikanie na przedmioty - [nie]
-// Walizka
-Musimy wkrótce udać się do sklepu po nowy sprzęt. Śmieci też można wyrzucić, prawda?
-// Łóżko.
-Spałem, ale sen... Nie pamiętam go, jak zwykle. Czy w ogóle był?
-// Okno
-Na zewnątrz wszystko jest zielone i jasne. Może w końcu powinienem wyjść na spacer w przyszły weekend?
-// Wentylator  
-Lato staje się coraz gorętsze, nadszedł czas na klimatyzator. Już cie nie potrzebuję, rozumiesz to, wentylatorze?
+// Click on objects
+// Bag
+Naprawdę muszę iść kupić nowy sprzęt. Może przy okazji wyrzucę też śmieci.
+// Bed
+Miałem dziwny sen... Ale nie potrafię go sobie przypomnieć.
+// Window
+Świat na zewnątrz tętni życiem. Może powinienem wybrać się na spacer?...
+// Fan
+Lato z roku na rok staje się coraz cieplejsze. Chyba pora zainwestować w klimatyzację. Już cię nie będę potrzebował. Zdajesz sobie z tego sprawę?

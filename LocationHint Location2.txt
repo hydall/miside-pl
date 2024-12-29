@@ -1,6 +1,6 @@
-Rozejrzyj się.
-Znajdź przedmioty i umieść je na skanerze.
-Zeskanuj przedmioty i uruchom urządzenie.
-Wlącz ponownie prąd przy drzwiach wejściowych.
-Znajdź baterie serwera i włóż je z powrotem do urządzenia.
-Uruchom ponownie urządzenie.
+Rozejrzyj się dookoła 
+Znajdź wymagane rzeczy i połóż je na skaner.
+Zeskanuj rzeczy i włącz maszynę.
+Znajdź skrzynkę z bezpiecznikami.
+Znajdź i włóż baterie do maszyny.
+Włącz maszynę.

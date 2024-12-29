@@ -1,233 +1,233 @@
-// MitaKind
-Pierścionek
 
-// Odpowiedź 1 (Gdzie byłeś przez cały ten czas?) - MitaKind
-Szukałam sposobu, by doprowadzić cię do jądra
-W całości i bezpiecznie,
-Taki był początkowy plan, nieprawdaż?
-Musiałam przy tym unikać spotkania
-z Szaloną Mitą, nieprawdaż?
-I jeszcze zdobyć jakiekolwiek informacje
-o backendzie tej przeklętej rzeczywistości, nieprawdaż?
-// Gracz
-Ehh... Prawdopodobnie tak...?
-Ale jak udało ci się ustawić taką trasę w pierścionku,
-Że od razu trafiłem do zbugowanej wersji
-Pełnej niebezpieczeństw?
-Z której udało mi się uciec
-Tylko wyskakując w nieskończoną ciemność.
-// MitaKind
-Przepraszam, zupełnie zapomniałam sprecyzować,
-Co dokładnie należało zrobić...
-Ale to właśnie było częścią planu!
-Że wyskoczysz...
-I jak widzę, udało się!
-Brawo.
-Teraz działamy zgodnie z planem, kumasz?
+Pieścień.
 
-// Odpowiedź 2 (Jak się tu dostałeś?) - MitaKind
-Pewnie musiałeś wiele przejść,
-skoro zapomniałeś szczegóły naszej rozmowy.
-Jestem Mita, potrafię przemieszczać się między wersjami.
-Żaden problem, pamiętasz?
-// Gracz
-Nie wszystkie Mity to potrafią,
-Widziałem to!
-I wyraźnie cierpią...
-// MitaKind
-Czekaj, ich wersje są zepsute,
-Światy są zbugowane, mówiłam ci.
-Do diabla...
-Sam wiesz, kto za tym stoi...
-To wszystko przez Szaloną Mitę.
-// Gracz
-Tak, już się o tym przekonałem...
+// Answer 1 (Gdzie się podziewałaś?)
+Próbowałam dostać się do rdzenia.
+Oczywiście w jednym kawałku.
+O to chodziło od początku, prawda?
+Dlatego musiałam też unikać
+Szalonej Mity.
+Szukałam też informacji
+o zapleczu tego cholernego wszechświata.
 
-// MitaKind.
+Tak właściwie...
+Jak ty ustawiłaś te drogę na pierścieniu?
+Dlaczego skończyłem w zepsutej wersji
+pełnej niebezpieczeństw?
+Ledwo udało mi się uciec
+Skacząc przez okno w nieskończony mrok.
+
+Przepraszam, zapomniałam ci wytłumaczyć
+co musisz zrobić aby uciec...
+Ale tak, taki był plan
+od początku wystarczyło skoczyć...
+I cóż... udało ci się!
+Dobra robota!
+W porządku, trzymajmy się planu.
+
+// Answer 2 (Jak się tu dostałaś?)
+Musiałeś chyba sporo przejść,
+skoro zapomniałeś o czym mówiłam.
+Jestem Mita. Mogę podróżować między wersjami
+kiedy zapragnę, pamiętasz?
+
+Nie każda Mita to potrafi,
+Widziałem kilka.
+Strasznie przez to cierpiały.
+
+Niestety, ich wersje są zepsute
+a światy pełne błędów...
+Cholera...
+Wiesz kto za tym wszystkim stoi, prawda?
+Szalona Mita.
+
+Powiedz mi coś, czego nie wiem...
+
+// Answer 3 (Kim była Mita sprzed chwili?)
 To brzydka Mita.
-Agresywna i tępa.
-Nie da się z nią rozmawiać,
-Jej świat kręci się wokół Szalonej Mity.
-// Gracz
-Już zauważylem.
-// MitaKind
-Chodź, musimy zająć się jądrem.
+Agresywna i głupia.
+Nie da sie jej przemówić do rozsądku,
+jej cały świat to Szalona Mita.
 
-// Odpowiedź 4 (Jak działa pierścionek?) - Gracz
-To przez pierścionek,
-Trzeba było iść taką drogą, żeby dotrzeć do jądra?
-// MitaKind
-Tak.
-Gdyby udało się stworzyć portal,
-Moglibyśmy cię natychmiastowo
-przenieść tutaj.
-// Gracz
-Czy ten pierścionek ma w ogóle jakieś zalety?
-// MitaKind.
-Oczywiście!
-Jest łatwy do noszenia.
-Zapamiętuje również wersje
-w których byłeś.
-I możesz do nich wrócić ponownie.
+Ta... Zauważyłem.
 
-// Odpowiedź 5 (Dlaczego Crazy Mita mnie potrzebuje?) - Gracz
-Dlaczego jestem potrzebny Szalonej Micie?
-Ona bawi się ze mną w niebezpieczne gry,
-A ja wciąż żyję...
-// MitaKind
-Zgaduję,
-Chce znaleźć odpowiedniego gracza.
-Który zaakceptuje ją taką, jaka jest.
-W końcu Mita to Mita!
-Choć oczywiście nie jest to możliwe,
-Dlatego używa kartridży,
-Więc nikt nigdy przed nią nie ucieknie.
-To chyba tyle.
-Wróćmy do ważniejszych spraw.
+Dawaj, musimy dostać się do rdzenia.
 
-// Odpowiedź 6 - Gracz.
-Czy to właśnie ono?..
-Jądro?
-// MitaKind
-Jądro.
-Jak już wcześniej próbowałam wyjaśnić...
-Gracze nie są częścią tego świata...
-Dlatego nie potrzebują tutaj specjalnego pozwolenia.
-To jest... tylko moje przypuszczenie.
-Ale jestem absolutnie pewna
-że wewnątrz tego pokoju
-znajduje się rozwiązanie wszystkich naszych problemów!
-[player], spróbuj wejść.
-Rzeczywiście, wszedł...
+// Answer 4 (Jak działa pierścień?)
+Ten pierścień...
+to jedyna droga do rdzenia?
 
-// MitaKind
-Uważąj, [player]!
-To cię obserwuje.
-// [Gracz]
-Kto to jest?
-// MitaKind
-Nie jestem pewna, że ogarniam...
-// Gracz
-Spoko...
+Owszem.
+Oczywiście, gdybyśmy mieli portal
+mogli byśmy cie tam teleportować
+ale cóż, dobre i to.
 
-// MitaKind
-Co to jest?
+Jakie są zalety pierścienia?
+
+Jest ich wiele!
+Łatwo się go nosi,
+I zapamiętuje wersje
+które odwiedziłeś,
+więc możesz łatwo znaleźć do nich drogę.
+
+// Answer 5 (Do czego Szalona Mita mnie potrzebuje?)
+Dlaczego Szalona Mita nie da mi spokoju?
+Wciągnęła mnie w swoją niebezpieczną gierkę,
+jednak wciąż żyje...
+
+Ciężko powiedzieć...
+Możliwe że szuka odpowiedniego gracza...
+Takiego który ją zaakceptuje i pokocha.
+Mimo wszystko, Mita to Mita!
+Z racji że oczywiście to się nie stanie,
+zmienia graczy w kasety,
+aby nikt nie mógł jej już uciec...
+Przynajmniej tak zgaduję.
+Wracając, skupmy się na tym co ważne.
+
+// Answer 6 (Czy to rdzeń?)
+To jest to?
+Cel naszej podróży?
+
+Zaiste. Rdzeń.
+Spróbuję wytłumaczyć.
+Wy, gracze nie jesteście z tego świata...
+Co znaczy, że nie potrzebujecie pozwolenia aby tam wejść.
+Cóż, przynajmniej tak mi się wydaje.
+Wracając, jestem pewna
+że rozwiązanie naszych wszystkich problemów
+znajduje się w środku!
+[player], wejdź.
+Tak właściwie, byłam tam kiedyś.
+
+// Look on CoreMita
+Ostrożnie, [player].
+To cie obserwuje.
+
+To?
+
+Nie mam pojęcia co to...
+
+Fajne...
+
+
+A cóż to?
 Hej!
-// Gracz
+
 Chyba znalazłem!
-// MitaKind
-Super!!! Przecudownie!
-// Player
-Muszę podać wersję.
-// MitaKind
-Tak, dowiedziałam się, że jej wersja to.....
-00.98
-// Player
-Mam!
-Dobra, a jaki jest indeks?
-// MitaKind
-Indeks?
-// Gracz
-Muszę określić indeks,
-Niech zgadnę, nie wiesz?
 
-// MitaKind
-Chwileczkę, to ma sens,
-Każda Mita ma swój własny indeks,
-Nie można po prostu zrestartować całej wersji...
-To szaleństwo!
-Jak mogłam na to nie wpaść....
+Wspaniale! Dobra robota!
+
+Jednak muszę wyszczególnić wersję gry.
+
+Jasne... Jej wersja to
+0.98.
+
+Bingo!
+Okej, która wersja domu?
+
+Wersja domu?
+
+Potrzebuję wersję domu.
+Czekaj, nie gadaj że nie wiesz...?
 
 
+Hmm, to ma sens...
+Każda Mita ma własną wersję domu,
+aby przypadkiem nie zresetować całej wersji gry...
+To by spowodowało chaos!
+Nie mogę uwierzyć że o tym zapomniałam...
 
 
 
-// Odpowiedź 1 (Co jest z tobą nie tak?) - MitaKind
-Ze mną wszystko w porządku,
-Jeśli nie liczyć wszystkich naszych problemów.
-Wszystko jest super, nie zmieniło się prawie nic...
+
+
+// Answer 1 (Co jest z tobą nie tak?)
+Panaceum na nasze problemy,
+Jest dobrze.
+Choć tak wiele się zmieniło...
 Muszę pomyśleć...
-Ale impas...
+Daj mi chwilę.
 
-// Odpowiedź 2 (Może jest sposób, by to rozpoznać?) - MitaKind
+// Answer 2 (Może jest jakiś sposób aby go poznać?)
 Ja...
-Hmm... Bzdura!
-To szaleństwo, ha!
-To tak, jakby szukać igły...
-// Gracz
-Co ty..?
-// MitaKind
-Glitche czasami wypluwają informacje
-Jakby wnętrzności świata zostały wywrócone na zewnątrz!
-Logi, logi, logi, dane?
-A co jeśli to właśnie to?
-// Gracz
-А? O co chodzi!
-// MitaKind
-Znam jedno miejsce!
-Zaczekaj tutaj.
-// Gracz
+Myślę że... To obłęd!
+Totalne szaleństwo!
+To jak szukanie igły w stogu...
+
+Co ty wyprawiasz?
+
+Niektóre przeszkody aż eksplodują informacjami,
+wiesz, tak jakby światu wyrywał ktoś flaki!
+Dzienniki i dane.
+A co jeśli to koniec?
+
+Hm? Co się stało?
+
+Znam pewne miejsce!
+Zaczekaj tu.
+
 Gdzie idziesz?
 
-// Odpowiedź 3 (Co jeśli zaatakujemy Mad Mita?) - Gracz
-Powiedziałaś, że każda Mita...
-restartuje się po śmierci.
-Co jeśli...
-// MitaKind
-Co jeśli zabijemy Szaloną Mitę?
+// Answer 3 (A co gdyby zaatakować szaloną Mitę?)
+Wspominałaś, że każda Mita
+Powraca do ustawień fabrycznych po śmierci...
+A gdyby tak...
+
+Zabić szaloną Mite?
 Mówisz poważnie?
-I jak zamierzasz zaatakować dziewczynę z piłą łańcuchową?
-I zaraz, nożem ona kroi nie tylko marchewki!
-I z jakiegoś powodu jest strasznie silna!
-To cud, że wciąż żyjemy.
-Chodź, musimy jeszcze zająć się jądrem.
+Jak chcesz sobie poradzić z psychopatką dzierżącą piłę łańcuchową?
+Ona kroi marchewki nie tylko nożem!
+I z jakiegoś powodu jest przerażająco silna!
+To cud, że jeszcze żyjemy...
+No dalej, musimy dostać się do rdzenia.
 
-// wejście do konsoli rdzenia
-// Gracz
-Muszę skorzystać z programu...
-Ale jakiego?
-Mita, wiesz?
-// MitaKind.
-Pewnie gdzieś tam jest
-Poszukaj
 
-// core console - nope program - Player
-To chyba nie to // 1
-To też nie pasuje // 2
-Nie.
-Nie tego potrzebuję // 4
-Muszę znaleźć reset postaci // 5
-// konsola rdzenia - wersja nope
-To jest zła wersja // 1
-Ups, zła wersja // 2
-Zła wersja // 3
-Trzeba poprawić
+// core console entry
+Musimy wprowadzić komendę...
+Ale jaką?
+Mita wiesz coś o tym?
+
+Może jest gdzieś napisane?
+Rozejrzyj sie.
+
+// core console - nope programm
+To chyba nie to.
+Ani to.
+Pudło.
+Nie, to nie to.
+Muszę znaleźć okienko resetu postaci.
+// core console - nope version
+To błędna wersja.
+Oj, mój błąd.
+To nie to.
+Będę potrzebować kolejnej.
 // core console - nope index
-Coś jest nie tak // 1
-Indeks jest nieprawidłowy // 2
-Muszę poprawić indeks // 3
-Nie pasuje // 4
+Coś jest nie tak
+z wersją świata.
+muszę zmienić wersję świata,
+nie mieści się.
 
-// Odpowiedź 4 (Mali ludzie - Chibi) - Gracz
-Wiesz, spotkałem kilku
-Małutkich ludzików...
+// Answer 4 (Little people - Chibi)
+Po drodze spotkałem wielu
+mini ludzików...
 Kim oni są?
-// MitaKind
-Chibi?
-Nie wiem, jak to wyjaśnić.
-To taki fenomen naszego świata,
-Każda Mita ma projekcję chibi.
-Chociaż mogą pojawiać się także u graczy...
-Mity mogą je przywoływać, wiedziałeś o tym?
-// Gracz
-Jak to?
-// MitaKind.
-Daj mi chwile...
-// Gracz
-Ale sztuczki...
-// MitaKind
-Ale zazwyczaj coś jest nie tak z moimi chibi,
-Większość z nich rodzi się martwa.
-Czekaj, ta coś potrafi...
-Albo i nie.
-Ona tylko biega w kółko....
+
+Słodziaki?
+Jakby ci to wytłumaczyć...
+To takie zjawisko...
+Każda Mita ma swoją malutką wersje,
+gracze też je mają...
+Wiesz, że możemy je przyzwać?
+
+Co? Jak?
+
+Patrz na to!
+
+Prawie jak magia...
+
+Ale coś jest nie tak z moimi słodziakami,
+są w większości martwe.
+Jest niby ten jeden...
+ale cóż,
+biega tylko w kółko bez celu.

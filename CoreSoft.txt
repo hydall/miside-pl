@@ -1,58 +1,58 @@
-Uruchamianie aplikacji
+Startowanie Aplikacji
 
 Podaj login
-Login jest nieprawidłowy
+Nieprawidłowy login
 Programy
-Powrót
+Wróć
 
-Menedżer urządzeń wirtualnych
-Ewidencja jednostek serwera [Wybierz wersję]
-Monitorowanie głównego procesora [Wybierz wersję]
-Monitorowanie procesów graficznych [Wybierz wersję]
-Quadra Liner
-Zakończ grę
-
-
-Zaawansowana administracja systemem
-Restart postaci [Wybierz wersję]
-Restart jednostki [Wybierz wersję]
-Aktualizacja wersji [Wybierz wersję]
-Przeliczanie geometrii [Ogólne]
+Zarządzanie Urządzeniami Mobilnymi
+Księgowanie Serwera [Wybierz Wersję]
+Monitorowanie Procesów Głównych [Wybierz Wersję]
+Monitorowanie procesów Graficznych [Wybierz Wersję]
+Czworokąt
+Koniec Gry
 
 
-
-
-Przywracanie systemu
-Wyszukiwarka błędów [Ogólne]
-Antywirus [Ogólne]
-Konsola poleceń [Ogólne]
+Zaawansowany System Zarządzania
+Reset Postaci [Wybierz Wersję]
+Reset Urządzenia [Wybierz Wersję]
+Aktualizacja Wersji [Wybierz Wersję]
+Przeliczanie Geometrii [Ustawienia Ogólne]
 
 
 
 
-Funkcje wysokiego poziomu
-Usuń obiekt [Wybierz wersję]
-Wyświetlanie kamer [Wybierz wersję]
-Wyświetlanie triggerów [Wybierz wersję]
-Ustawienia silnika fizyki [Wybierz wersję]
-Otrzymaj pendrive
-
-
-
-Funkcje niskiego poziomu
-Edytor kodu binarnego [dostęp specjalny]
-Edytor macierzy jednostki [dostęp specjalny]
+Reset systemu
+Rozwiązywanie problemów [Ustawienia Ogólne]
+Anty-wirus [Ustawienia Ogólne]
+Konsola komend [Ustawienia Ogólne]
 
 
 
 
+Funkcje Zaawansowane
+Usuń Obiekt [Wybierz Wersję]
+Wyświetlanie Obrazu [Wybierz Wersję]
+Wyświetlanie Triggerów [Wybierz Wersję]
+Opcje Silnika Fizycznego [Wybierz Wersję]
+Dostęp do Pamięci Fizycznej
 
-Określ wersję postaci
-Określ indeks postaci
-Potwierdź ponowne uruchomienie
+
+
+Funkcje podrzędne
+Edytor Kodu Binarnego [Dostęp Specjalny]
+Edytor Macierzy Jednostkowych [Dostęp Specjalny]
+
+
+
+
+
+Wprowadź Wersję Postaci
+Wprowadź Indeks Postaci
+Potwierdź Reset
 Użyj dźwigni
-Uruchomienie podprogramu
-Proces ponownego uruchamiania jest w toku!
-Przygotowanie do ponownego uruchamiania
-Ponowne uruchamianie...
+Odpal Program
+Zresetuj Działanie Programu
+Przygotowanie do Restartu
+Reset...
 Potwierdź

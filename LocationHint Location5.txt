@@ -1,5 +1,5 @@
 Wyłącz radio.
-Sprawdź, co jest w kuchni.
+Sprawdź kuchnie.
 Znajdź Mitę.
-Idź za ciałem.
-Idź do piwnicy.
+Idź za dolną częścią Mity.
+Znajdź piwnice.

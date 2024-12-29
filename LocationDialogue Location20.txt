@@ -1,92 +1,92 @@
-// Gracz
-Mila! Nie! Jesteś chora!
-// Mita
-Ha ha! CO JA WIDZĘ?
-Nowa emocja na twojej twarzy?!
-No dalej, pokaż więcej, więcej!
-Znudziło mi się już patrzenie na to samo!
 
-// Mita arena "Hello" - Mita
-Co tam, mój niespokojny?
-Nie masz już dość włóczenia się?
-// Gracz
+Mila! Nieee! Jesteś chora!
+
+Ha-ha! CO TO MA BYĆ?
+Nowy wyraz twarzy?
+Nie wstydź się, pozwól mi się przyjrzeć!
+Oglądanie tego samego grymasu robi się z czasem nudne!
+
+// Mita arena "Hello"
+Jak się masz, mój mały wędrowcze??
+Ciągle gdzieś biegasz, nie masz dość?
+
 Co zrobiłaś Mili?
-// Mita
-Więc nie masz!
-Zagrajmy razem jeszcze raz!
-// Gracz
-Ty...
-// Mita
-Zacznijmy od małego testu!
-Sprawdźmy twoją koordynację!
-Zbadamy twoje zachowanie!
-A co, jeśli coś jest z tobą nie tak!?
-A co, jeśli nie zasługujesz na tę SKÓRĘ,
-którą dumnie nosisz?
 
-// Pokaż noże
-Zobacz,
-Który wybierzysz?
-Prawy
+Oh, czyli nie jesteś jeszcze zmęczony!
+Idealnie! Zagrajmy więc w pewną grę!
+
+Niech cię...
+
+Zacznijmy od małego testu!
+Sprawdzimy twoją koordynację!
+oraz umiejętność adaptacji!
+Co jeśli jest coś z tobą nie tak!?
+Co jeśli nie zasługujesz nawet
+na to ciało z którego jesteś taki dumny!?
+
+// Show knifes
+Spójrz...
+Który ci się bardziej podoba?
+Prawy?
 A może
 Lewy?
 
-// Noże do rzucania
-Jesteś poważny?
-Co za różnica?
-Ja tylko żartowałam!
-Zapomnij, dźgnięcia to już przeszłość.
-No cóż, nieważne.
-Mam lepsze pomysł.
-A na początek...
-// Rejestrator pokazu
-Zobacz, co mam!
-Potrzebujemy muzyki!
-Co sądzisz o tej melodii?
-Sprawia, że jestem podekscytowana!
-Zacznę
-Od zasad!
-// Zasady show
-Podczas grania tej melodii,
+// Throw knifes
+Serio?
+Ma to w ogóle jakieś znaczenie?
+Po prostu się z tobą droczę!
+Dźganie nożem odeszło do lamusa.
+Nie uważasz?
+Zaplanowałam dla nas coś lepszego,
+na przykład...
+// Show recorder
+Obczaj to!
+Potrzebujemy do tego muzyki!
+Co myślisz o tej melodii?
+Sprawia że moja krew pulsuje!
+Najpierw wyjaśnię ci
+Zasady tej gry!
+// Show rules
+Gdy gra muzyka,
 możesz się poruszać.
-Jeśli nie ma melodii
-Nie ruszaj się!
-Inaczej zginiesz.
-Patrz, musisz dotrzeć do końca.
-Jeśli ci się uda,
-to gramy dalej!
-No co tam stoisz?
-Biegnij, dzieciaku, biegnij!
+Ale gdy muzyka zamilknie...
+ANI DRGNIJ!
+Albo cię zabiję, Hihi~
+W skrócie: dobiegnij do końca
+zanim skończy się muzyka.
+Zaczynajmy! 
+Dalej stoisz w miejscu?
+Biegnij, kochaniutki, BIEGNIJ!
 
-// Nagrywarka gotowa - Mita
-Och!
-Jesteś taki posłuszny!
-Świetny egzemplarz!
-Chcę cię dla siebie!
-Choć to było super proste, nieprawdaż?
-// Gracz
-Puść mnie!
-// Mita
-Nie rozluźniaj się!
-Mamy jeszcze wiele gier do rozegrania!
-Dobra!
-Teraz zamknę oczy...
-A kiedy je otworzę.
-Nie powinno być po tobie ani śladu, ani wieści!
-Zrozumiałeś?
-Jeśli cię zobaczę, ukarzę cię!
-Dobra, zaczynajmy!
-// Gracz
-Bez sensu...
+// Ready recorder
+Oh!
+Spójrz na siebie! Jesteś taki posłuszny!
+Doskonały okaz.
+Chcę cię mieć tylko dla siebie!
+To było za łatwe, prawda?
 
-// Gotowy do ukrycia się - Mita
+Wypuść mnie w końcu!
+
+Nie przyzwyczajaj się!
+Znam jeszcze inne gry!
+Na przykład...:
+Zamknę oczy...
+A gdy je otworzę,
+lepiej żebym cię nie widziała!
+Rozumiesz?
+Jeśli cię zobaczę, to będzie kara!
+Gotowy? Zaczynajmy!
+
+To bezsensu...
+
+// Ready hide
 Udało ci się!
-Świetnie sobie radzisz! Ekscytujące!
-Teraz będzie trudniej!
-Wielokrotnie trudniej...
-Kryj się! Uciekaj! A potem kręć się!
-// Gracz
-Niech cię szlag!
+Jesteś w tym świetny!
+Ale teraz będzie trudniej.
+O wiele trudniej
+Chowaj się, Biegnij, Przeżyj—
 
-// Upadek gracza - Gracz
-Chyba już po wszystkim...
+Ugh! Niech cię diabli!
+
+// Player falls
+Chyba udało mi się uciec...

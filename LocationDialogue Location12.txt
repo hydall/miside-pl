@@ -1,21 +1,19 @@
-// Mita
-Zostań tutaj.
+
+Zostań tu.
 Chyba coś upuściłam. Zaraz wracam.
-Potem ruszymy po kolejny, nowy świat....
-// MitaCreepy - [nie]
-Dobra.
+I wtedy przejdziemy się do innego świata...
 
-// MitaCreepy - [nie]
-Gramy!
-Chcę niedźwiedzia!
+Dobrze.
+
+
+Pobawmy się!
+Chce mojego misia!
 Zgubiłam go...
-Znajdź go!
-
-// MitaCreepy - [nie]
-Ty...
-Na co się gapisz?
+ZNAJDŹ GO!
 
 
+Ej...
+na co się patrzysz?
 
 
 
@@ -23,49 +21,51 @@ Na co się gapisz?
 
 
 
-// Odpowiedź 1 - MitaCreepy - [nie]
+
+
+// Quest 1 (Kim jesteś?)
 Jestem Mita.
-Najlepsza Mita.
+Najlepsiejsza Mita.
 Pierwsza Mita.
-Tak powiedziała Mita, moja Mita.
+Tak mówiła Mita, moja Mita.
 
-// Odpowiedź 2 - MitaCreepy - [nie]
+// Quest 2 (Dlaczego tak wyglądasz?)
+Jak?
+Niby jak?
 Jak wyglądam?
-Jak wyglądam?
-Jak wyglądam?
-Moja Mita mówi, że jestem piękna i oryginalna.
-Tak właśnie wyglądam.
+Moja Mita mówi, że jestem pięknym oryginałem.
+To ja!
 
-// Odpowiedź 3 - MitaCreepy - [nie]
-Ona mnie zabierze.
-Będziemy żyć w nowym świecie.
+// Quest 3 (Co robiła tutaj Mita?)
+Zabierze mnie stąd.
+Będziemy mieszkać w innym świecie.
 Moja Mita mnie zaprosiła.
-Ona mnie zabierze. Będziemy grać.
+Zabierze mnie i będziemy się bawić.
 
-// Odpowiedź 4 - MitaCreepy - [nie]
-Mały Niedźwiedź to ty.
-A ty się zgubiłeś,
-Jak mój mały miś
+// Quest 4 (Po co ci ta przytulanka?)
+Bo jesteś jak miś,
+który się zgubił,
+przypominasz mi mojego misia...
 
-// Odpowiedź 5 - MitaCreepy - [nie]
+// Quest 5 (Dlaczego Mita była zła?)
 Moja...
 Mita.
 Chce się bawić.
-Chce zabrać
-Tylko mnie.
-Jesteśmy oryginalni.
-Jesteśmy jedyni.
+Ona chce tylko
+MNIE.
+Jesteśmy wyjątkowe,
+jedyne w swoim rodzaju.
 Mita i moja Mita,
-0.8A I 8M54*
+0.8Alpha and 8Ę54*.
 
-// Odpowiedź 6 - MitaCreepy - [nie]
-Moja Mita...
-Moja najlepsza przyjaciółka...
+// Quest 6 (Wierzysz jej?)
+Moja Mita.
+Moja najulubieńsza.
 Moja Mita.
 Moja jedyna przyjaciółka.
 
-// MitaCreepy - [nie]
+
 To ty!
-Patrz.
-Zagrajmy!
-Pokażę ci jak.
+Hej.
+Pobawmy się!
+Pokaże ci jak...

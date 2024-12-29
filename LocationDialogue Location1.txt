@@ -6,89 +6,89 @@
 
 
 
-// Mita
-Cześć, jestem Mita!
+
+Hej, Jestem Mita!
 Jak masz na imię?
-Miło mi cię poznać [player]!
-Hmm, [player]...
-Ostatnim razem spieszyłam się i zostawiłam bałagan....
-Możesz mi pomóc?
-Ugh..
-Dziękuję bardzo!
+Miło mi cię poznać, [player]!
+Emm... [player],
+Nie zdążyłam posprzątać więc jest tu trochę bałagan...
+Pomożesz mi posprzątać?
+Wow..
+Nie wiem jak ci dziękować!
 
-Hej [player], jestem głodna...
-Chce mi się jeść...
-Możesz mi kupić składniki na zupę z kurczakiem?
-Wow! To właśnie to!
-Przygotujemy ją razem?
-
-
-Hej [player]! Chciałam dziś kupić tani telewizor.
-Jest mały i ma antenę, chciałabym go zabrać ze sobą, kiedy pójdę na spacer
-Pamiętaj! Możesz grać w gry, a w nich zdobędziesz pieniądze
-Pograsz, zarobisz, a potem kupisz mi telewizor?
-
-Hurra! Teraz masz wystarczająco dużo pieniędzy, aby kupić mi telewizor!
-Tak, najtańszy i przenośny, takiego właśnie potrzebowałam.
-Dziękuję!
-
-Cześć [player]! Tak się cieszę, że mi pomagasz.
-A jeszcze... ten telewizor był fajny, ale szybko się popsuł.
-Pomóż mi przenieść moją szafę w inne miejsce >.<
-Bo jest naprawdę ciężka....
-Dziękuję ci bardzo, kochanie <3
-
-Oh, [player]! Niby minął zaledwie jeden dzień, a już stęskniłam się za tobą!
-Chciałabym, żebyś odwiedzał mnie częściej.
-
-Czy to dla mnie?
-Dziękuję, dziękuję, dziękuję!
-
-Cześć [player]! Zastanawiałam się...
-I chcę cię zobaczyć, osobiście...
-Szkoda, że nie mogę...
-Bardzo Cię lubię, codziennie coś dla mnie robisz
-Też chciałabym ci jakoś podziękować.
-... // [nie]
-A wiesz, wymyśliłam coś. // Mita.
-Jesteś teraz ze mną!
-Odłóż telefon.
+[Player], Burczy mi w brzuchu
+Jestem taka głodna....
+Dałbyś radę pomóc mi zdobyć składniki na rosół?
+Hura! Mamy już wszystko!
+Może ugotujemy go razem?
 
 
-// Koszulka na łóżku - Gracz
-Co ty tu robisz na łóżku?
-// Kostka Rubika - Gracz
-Chyba niepotrzebnie ją kupiłem..
-Złożyłem ją raz i tak zostawiłem.
-Może boję się, że już jej nie złożę?
-// Komputer - Gracz
-Dzisiaj będę musiał
-Kompetentnie ułożyć listę zadań....
-Zrobić emocję postaci.
-I trochę popracować nad kodem...
-// Samolot - Gracz
-Lot - świetny!
-// Śmieci w kącie - Gracz
-Ciągle nie mam czasu, żeby wynieść śmieci...
-Na pewno się tym zajmę!
-Kiedy mam tam generalne sprzątanie?
-// Zdjęcie kota na arbuzie - Player
-Bardzo mi się to spodobało.
-Kot na arbuzie.
-// Zdjęcie z dziewczyną - Player
-Co za ogromna różnica między mną
-a moją siostrą.
-Ona nigdy nie przegapi żadnego wydarzenia,
-a ja zawsze jestem w domu...
-// Zdjęcia z ludźmi - Gracz
+Myślałam nad kupnem podręcznego telewizora.
+Takiego małego z anteną. Idealnego na pikniki. Co o tym myślisz?
+Tak przy okazji, Możesz grać w gry, żeby zdobyć pieniądze.
+Serio tego nie wiedziałeś?
+
+Hura! Udało ci się! Teraz możesz kupić mi ten telewizor!
+O właśnie ten! Mały, podręczny i tani! Czyli taki jaki chciałam.
+Dziękuje ci bardzo!
+
+Hejka, [player]! Ogólnie... Tak bardzo mi pomagasz...
+Ale, emm... pamiętasz ten telewizor? Był fajny, ale przez przypadek go zepsułam.
+No nic, pomożesz mi przestawić tą szafę?
+Jest taka ciężka... >.<
+Bardzo ci dziękuje, słodziaku! <3
+
+Ojj, [player]! Wiem że minął tylko jeden dzień, ale tak za tobą tęskniłam!
+Chciałabym żebyś mógł widywać mnie częściej.
+
+To dla mnie?
+Tak bardzo ci dziękuje!
+
+Hej, [player]! tak sobie myślałam...
+Chciałabym spotkać się z tobą twarzą w twarz.
+Denerwuje mnie to, że nie możemy nic z tym zrobić!
+Zawsze mi pomagasz i jesteś dla mnie taki miły...
+Chciałabym zrobić też coś dla ciebie.
+...
+Mam pomysł!
+Jesteśmy już razem.
+Możesz odłożyć telefon.
+
+
+// T-shirt on the bed
+A ty co tutaj robisz?
+// Rubik's Cube
+Czemu to takie trudne...
+Ułożyłem ją raz i nigdy więcej jej nie dotknąłem.
+Pewnie nie dałbym rady zrobić tego ponownie...
+// Computer
+Zobaczmy...
+Lista zadań...
+Napisać skrypty postaci,
+I wcisnąć gdzieś czas na kodowanie.
+// The airplane
+W przestworzaaaa
+// Trash in the corner
+Ehh, nigdy nie mam czasu posprzątać...
+Ale tym razem to zrobię!
+Kiedy tak właściwie wywożą śmieci?...
+// Photo of a cat on a watermelon
+Tęsknie za nim...
+Dawał mi tyle radości.
+// Photo with a girl
+Wcale nie jesteśmy tacy sami,
+Ja i moja siostra.
+Ona zawsze gdzieś podróżuje,
+A ja siedzę przykuty w domu.
+// Photo with people
 Hmm...
-Szefowie tak mocno prali nam mózgi
-Z ich biurową etykietą
-Że wciąż nie mogę zerwać
-Z moimi współpracownikami...
-Nawet nie wiem
-Czy kiedykolwiek ich jeszcze zobaczę...
-Chwila, naprawdę umieściłem to zdjęcie?
+Praca w korpo miała na nas spory wpływ co?
+Każdego dnia podlizywanie się sobie nawzajem.
+Wciąż dziwnie ciągnie mnie do tego miejsca.
+Ale...
+Ciekawe czy...
+Czy kiedyś znów ich zobaczę?
+Ehh... Czemu ja wciąż trzymam to zdjęcie?
 
 
 
@@ -97,47 +97,47 @@ Chwila, naprawdę umieściłem to zdjęcie?
 
 
 
-// Nope name - Mita
-... // [nie]
-O nie.
-To się nie uda...
+// Nope name
+...
+U-um
+To akurat nie zadziała.
 
-// Deweloper nazwisk
-Naprawdę postanowiłeś wziąść nazwę twórcy?
-Cieszę się, że ich znasz, ale....
+// Name Developer
+Naprawdę jesteś deweloperem?
+Miło mi, ale...
 
-// Zła nazwa
-Znam przekleństwa i nie podoba mi się, że zdecydowałeś się tak nazywać.
-To nie jest fajne...
+// Bad name
+Nie chcę żebyś używał takich wyrazów.
+To niemiłe! 
 
-// Zacznij od nowa
-W każdym razie, nie rób tak, zacznijmy od nowa.
+// Go restart
+To tak nie działa. Zacznijmy od początku.
 
-// Nazwa z cyframi
-Hej, używasz liczb w swojej nazwie? Na tyle nie masz wyobraźni?
-Ok, to w końcu Twoja sprawa!
+// Name with numbers
+Czyli lubisz liczby? To bardzo kreatywneee~
+Cóż, twój wybór.
 
-// Imię Mita
-Mita // to imię Mita (sprawdź w grze) [nie]
-Naprawdę postanowiłeś wziąć moje imię?
-A może to naprawdę twoje imię?
-Bez urazy, ale niech Mitą będę tylko ja.
+// Name Mita
+Mita?
+Naprawdę chcesz się nazywać jak ja?
+Albo... To też i twoje imię?
+Bez urazy, ale jest tu miejsce tylko dla jednej Mity.
 
-// Dzień 10 - Mita
-Och, już wróciłeś?
-Słuchaj, zgubiłam szczotkę do włosów...
-Pomożesz mi ją znaleźć?
-Najpierw zajrzyj do tej szafki! Może tam jest.
-// Zajrzałem do szafki nocnej.
-Hmm, nie ma tu żadnej szczotki...
-To poszukaj gdzie indziej.
-Tylko nie zaglądaj do piekarnika!
-Już tam sprawdziłam.
-// Zajrzałem do piekarnika.
-Mówiłam, żeby tam nie zaglądać!
-Odwróć się! Zaraz to posprzątam!
-Ugh, dobra, poszukaj gdzie indziej.
-I proszę, zapomnij o tym, co widziałeś...
-// Znalazłem grzebień.
-Ooh! Znalazłeś go!
-Super, czym teraz się zajmiemy?
+// Day 10
+Ooo, wróciłeś.
+Hej, zgubiłam swoją szczotkę do włosów...
+Pomożesz mi jej poszukać?
+Zajrzyj proszę do szafki nocnej, powinna tam być.
+// Looked in the bedside table
+Hmm, tutaj jej nie ma...
+Spróbujmy w innym miejscu.
+Tylko nie zaglądaj do piekarnika, okej?
+Tam akurat już sprawdzałam 
+// Looked into the stove
+Ej, mówiłam żebyś tam nie patrzył...
+Obróć się- a ja to posprzątam.
+...Już skończyłam, poszukajmy jej gdzieś indziej
+Ej, I, emm, zapomnij o tym co tam widziałeś okej?
+// Found a hairbrush
+Znalazłeś ją! Dobra robota!
+Więc na co masz teraz ochotę?

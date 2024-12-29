@@ -1,6 +1,6 @@
-// Zadania
-Nic // 0
-Co dalej? // Zadanie 1
-Dlaczego zatrzymałaś klucz? // zadanie 2
-Dlaczego jesteś w klatce? // zadanie 3
-Agresywna i zastraszająca Mita....  // zadanie 4
+// Quests
+Nie ważne.
+Co teraz zrobimy?
+Czemu nie użyjesz klucza?
+Czemu jesteś tu zamknięta?
+Co do szalonej Mity...

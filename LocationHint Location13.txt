@@ -1,6 +1,6 @@
 Porozmawiaj z Mitą.
-Idź do pokoju Jądra.
-Znajdź program do ponownego uruchomienia postaci.
+Wejdź do rdzenia.
+Znajdź sposób żeby zresetować postać.
 Porozmawiaj z Mitą.
-Usiądź na kanapie i poczekaj na Mitę.
-Minęło sporo czasu, spróbuj udać się za Mitą.
+Poczekaj na Mitę na sofie.
+Minęło zbyt dużo czasu. Lepiej poszukaj Mity.

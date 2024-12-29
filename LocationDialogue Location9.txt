@@ -1,46 +1,46 @@
-// Mita Chibi - [nie]
-Hej ty!
+
+Hej, ty!
 Cześć!
-Chcesz się wydostać?
-To pomóż mi znaleźć klucz!
-// Poszukiwanie klucza - MitaChibi - [nie]
-Cholera! Nie ma klucza!
-Nic!
-Absolutnie nic!
-Znalazłam go!
+Chcesz się stąd wydostać?
+To nie stój tak i pomóż mi znaleźć klucz!
+// Key Search
+Cholera! Nie ma go!
+Nic tu nie ma—
+Nic a nic!
+Mam cię!
 
-// MitaChibi - [nie]
-Myślałam, że będziesz niższy!
-A ty taki duży!
-Jak siostrzyczka!
-// Gracz
-Hm... siostrzyczka?
-// MitaChibi - [nie]
-Tak, siostrzyczka.
-Mowisz jakbyś jej nigdy nie widział!
-// Gracz
-Jeszcze jak widziałem...
-// MitaChibi - [nie]
-Głupi jesteś?
-// Gracz
-Eee...
-// MitaChibi - [nie]
-Głupi...
-Dawaj, pokaż, gdzie szukać klucza!
+// The usual conversation
+Huh, myślałam że będziesz niższy!
+A jesteś ogromniasty!
+tak jak moja siostrzyczka!
 
-// MitaChibi - [nie]
-Tutaj.
-Wrzuć żelazo do rury!
+Twoja siostrzyczka?
+
+Tak, moja siostrzyczka.
+Nie gadaj że jej nie spotkałeś!
+
+Em... Spotkałem... Chyba?
+
+Nie rób z siebie idioty
+
+Emm...
+
+Eh, chyba już na to za późno...
+No dalej, po prostu pomóż mi znaleźć ten klucz!
+
+// Next work
+Chodź.
+Włóż to żelastwo do rury!
+Dzięki, kochanieńki!
+Teraz drewno...
 Dziękuję!
-A teraz opuść drewno dla mnie!
-Dziękuję!
-Teraz pomóż tu!
-Zrobione! Teraz...
-Patrz, jak pięknie...
-Naciśnij, dawaj!
-Hop!
-No i masz
-Swój kluczyk!
+Pomożesz, proszę?
+Gotowe. I teraz...
+Whoa... Ale ślicznie.
+Naciśnij przycisk, no dalej!
+Teraz uważaj...
+proszę, weź go!
+Klucz jest twój.
 
 
 
@@ -50,38 +50,38 @@ Swój kluczyk!
 
 
 
-// zadanie 1 - MitaChibi - [nie]
-Jestem ChibiMita.fbx!
-Z garścią kodu,
-najprostszym rigiem,
-I najpiękniejszymi włosami!
+// Quest 1 (Jesteś Mita?)
+Jestem MiniMita.fbx!
+Masa lin,
+Najprostszy model, i—
+co najważniejsze - piękne włoski!
 
-// quest 2 - MitaChibi - [nie]
-Pan wielki głupek,
-wyglądasz bardzo uroczo,
-zadając głupie pytania.
-Jednak,
-widzę cię po raz pierwszy!
-Ale... // Gracz
-Jeśli ktoś ukradł mój cudowny wygląd,
-To będzie na jego sumieniu!
+// Quest 2 (Czy myśmy się gdzieś nie widzieli?)
+Głuptas!
+To trochę urocze, wiesz?
+pytasz o takie bzdury...
+Ale,
+to nasze pierwsze spotkanie!
+Więc ci wybaczam
+Ale ostrzegam, jeśli skradniesz moją stylowe
+To nawet szalona Mita mnie nie powstrzyma!
 
-// quest 3 - MitaChibi - [nie]
+// Quest 3 (Dlaczego tu jesteś?)
 Nie rozumiesz?
-To punkt kontrolny —
-test twojej bystrości!
-No chodź!
-Jestem tu, żeby prowadzić beznadziejnie zagubionych!
+To punkt kontrolny—
+test inteligencji!
+No weź!
+Wskazuje drogę zaginionym duszyczkom!
 
-// zadanie 4 - MitaChibi - [nie]
-A kim ty jesteś?
-Żeby ci NIE pomóc?
-// Gracz
-Co?
-// MitaChibi - [nie]
-Głupku
-Po prostu spadłeś znikąd!
+// Quest 4 (Dlaczego mi pomagasz?)
+Nie jesteś jakiś specjalny...
+Po prostu stwierdziłam, że czemu nie.
+
+No co..
+
+Taki niemądry...
+Pojawiłeś się znikąd
 Nie powinno cię tu być,
 więc ci pomagam!
 
-Pa pa, głuptasie!
+Pa-Pa głuptasku!

@@ -1,84 +1,84 @@
-// Najpierw gracz
-Kim jesteś?
-Co z tobą?
-Nie możesz mówić?
+// The first meeting
+K-kim jesteś?
+Co się stało?
+Nie potrafisz mówić?
 
-// MitaBroke
-Czekaj...
-Chcesz odejść?
-// Gracz
+
+Zaczekaj...
+Chcesz opuścić to miejsce?
+
 Tak...
-Muszę się przełączyć
-na poprzednią wersję...
-// MitaBroke
-"Poprzednią wersją"?
-Po co ci iść
-Gdzieś?
-Możesz zostać tutaj...
-Stać się moim
-drugim przyjacielem...
+Muszę wracać
+do poprzedniej wersji gry.
 
-// MitaBroke skip
-Do-obra...
+Poprzedniej wersji?...
+Dlaczego chcesz wracać
+do poprzedniej wersji?
+Dlaczego nie chcesz zostać
+I być moim
+drugim przyjacielem?...
 
-// stojąc przy oknie (losowo) - MitaBroke
-Drzwi - to nie wyjście.
-Wygląda na to, że się spieszysz...
-Biegasz w kółko, nie możesz uciec.
+// Skipping all dialogs
+Dobrze...
+
+// Standing by the window (Random)
+Drzwi cię stąd nie wyprowadzą.
+Wygląda na to, że się śpieszysz...
+Bieganie w kółko ci nie pomoże.
 Tak bardzo chcesz uciec?
-Zwróć uwagę na okno...
+Wyjrzyj przez okno...
 
 
-// zadanie 1 (Jesteś Mita, prawda?) - MitaBroke
-Graczu... jesteś graczem, prawda?
-Możemy pobawić się...
-Jeśli znajdę siły,
-na pewno się pobawimy.
+// Quest 1 (Aren't you Mita?)
+Gracz... Jesteś graczem, prawda?
+Możemy się pobawić... Razem...
+Jeśli odnajdę w sobie wystarczająco siły,
+będziemy mogli się pobawić.
 
-// zadanie 2 (Co jest z tobą nie tak?) - MitaBroke
-Nie jestem pewna czy, um... nie wiem.
-Chyba nic złego się nie stało...
-Ale dzieje się coraz mniej dobrych rzeczy...
-Ale przynajmniej mam przyjaciela.
-Gracze odeszli.
-Odwrócili się ode mnie?
-Boję się.
+// Quest 2 (What happened to you?)
+Nie mam pewności... Nie wiem...
+Nie sądzę aby stało się coś złego...
+Ale wszystko co dobre szybko się kończy...
+Przynajmniej został mi przyjaciel.
+Dlaczego mnie zostawili?
+Czy nie byłam wystarczająca?...
+Boję się...
 
-// zadanie 3 (Zostać drugim przyjacielem?) - MitaBroke
+// Quest 3 (Become a second friend?)
 Przyjaciele...
-Było ich coraz mniej.
-I został tylko jeden.
-To smutne, graczu.
-Czy możesz zostać moim nowym przyjacielem?
-// Gracz
-Bardzo bym chciał,
-ale muszę iść dalej.
-// MitaBroke
-To boli.
+Zostało ich tak niewielu.
+Tylko jeden...
+Jest mi przykro, graczu.
+Zostaniesz moim przyjacielem?
 
-// Zadanie 4 (Czy to twój dom?) - MitaBroke
+Z wielką chęcią,
+ale muszę iść naprzód...
+
+Moje serduszko mi pęka...
+
+// Quest 4 (Is this your house?) - MitaLittle
 Dom?
-Gracz... a ty wyglądasz inaczej....
-Twoje ramiona są krótsze, a twarz nie jest już taka zła...
-Graczu, jesteś łagodniejszy.
-// Gracz
-Nie wiem.
-Co to znaczy.
-// MitaBroke
-Nic strasznego...
-Bo teraz nie będzie mnie boleć?
+Graczu...zmieniłeś się...
+Twoje ramiona są krótsze i nie wyglądasz na zdenerwowanego...
+Graczu, stałeś się milszy, łagodniejszy.
 
-// Zadanie 5 (Jak opuścić to miejsce?) - MitaBroke
-Zostawisz mnie, graczu?
-Może to moje...
+Nie mam pewności.
+co to oznacza...
+
+Jest dobrze...
+bo nikogo już nie skrzywdzę, prawda?
+
+// Quest 5 (How do I leave this place?)
+Naprawdę zamierzasz mnie zostawić?
+Czy to już jest moje...
 przeznaczenie?
-// Gracz
-Ja...
-// MitaBroke
-Drzwi nigdy ci nie pomogą...
 
-// Przytrzymaj gracza (losowo) - MitaBroke
+Ja...
+
+Drzwi na nic się nie przydadzą.
+
+// Hołd player (Random)
 Dlaczego chcesz odejść?
-Zostań...
-Zagrajmy.
+Zostań tu...
+Pobaw się że mną...
 Graczu...

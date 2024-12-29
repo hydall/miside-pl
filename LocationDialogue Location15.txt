@@ -1,221 +1,221 @@
-**// MitaKind
-Oto jesteś!
-Dlaczego odszedłeś od jądra,
-Kazałam ci czekać, prawda?
-// Player
-Po prostu pomyślałem, że długo cię nie było i...
-// MitaKind
-No dobrze...
-Wygląda na to, że znalazłam coś...
-Chyba to indeks...
-Musimy szybko sprawdzić, czy zadziała!
-Musimy stąd iść.
-Szalona Mita...
-Myślę, że teraz jest zajęta nowymi graczami.
-Więc przypuszczam, że nie ma dla nas czasu, 
-// Player
-Mita?
-Poczekaj na mnie.
 
-// Mita killer
-Coś zgubiłeś!?
-Poznaj ją jeszcze raz!
-// Player
+Tutaj jesteś!
+Dlaczego opuściłeś rdzeń?
+Mówiłam ci abyś zaczekał!
+
+Długo cie nie było, martwiłem sie...
+
+No dobra...
+Wydaje mi się, że coś znalazłam...
+To chyba wersja domu...
+Musimy sprawdzić czy zadziała!
+Wynośmy się stąd.
+Szalona Mita...
+Jest chyba zajęta nowym graczem.
+Przy odrobinie szczęścia uda nam się...
+
+Mita?
+Zaczekaj na mnie.
+
+
+Zgubiłeś coś?
+Chwila... Znowu ją spotkałeś!
+
 Mita...
-// Mita
+
 Łap!
 
-// Player
-Jak to możliwe...
-// MitaKind
+
+Jak...
+
 Kim jesteś?
-// Player
-Ty... żyjesz!
-Nic nie pamiętasz?
-// MitaKind
-Znam cię?
-// Player
-Ale jak...
-Co teraz mam robić?
-Nie dam rady się wydostać...
-// MitaKind
-Co znaczy "się wydostać"?
-// Player
-Poczekaj...
-To pierścionek...
+
+Ty... Ty żyjesz!
+Nie pamiętasz?
+
+My się znamy?
+
+Co tu się dzieje...
+Co ja teraz zrobię?
+Nie dam rady uciec...
+
+Co masz na myśli, mówiąc "uciec"?
+
+Chwila...
+Pierścień...
 A to?
-// MitaKind
-Nie wiem, co to jest.
-// Player
-To indeks!
-Naprawdę go znalazłaś!
-// MitaKind
-Nie wiem, co powiedzieć.
-// Player
-Musimy wrócić do jądra.
+
+Nie mam pojęcia co to.
+
+To wersja domu!
+Udało ci się!
+
+Nie wiem co powiedzieć.
+
+Musimy wracać do rdzenia.
 A ty...
-Chyba lepiej, żebyś poszła ze mną...
-// MitaKind
-Co?
-No.. dobra.
-// Player
-Poczekaj tutaj.
-// MitaKind
-Mhm.
-Usiądę tu.
+Idziesz ze mną...
 
-// Player
+Emm, słucham?
+No dobra...
+
+Zaczekaj tu.
+
+Okej.
+Capnę tu sobie.
+
+
 Cholera...
-Prawie umarłem...
-Więc.. udało nam się?
-Dobra...
-Jestem na właściwej wersji.
+Było naprawdę blisko.
+A więc... Udało nam się?
+Dobrze.
+Jestem w poprawnej wersji.
 
-// Mita
-Cześć!
+
+Hejka!
 Jesteś graczem, prawda?
 Jak masz na imię?
-// Gracz
-Chcę opuścić to miejsce...
-// Mita
-Chcesz już iść?
+
+Chciałbym opuścić to miejsce...
+
+Chcesz tak szybko stąd wyjść?
 Jak w ogóle się tu dostałeś?
-Hmm...
-Cóż, możesz iść..
-Spróbuj po prostu wyjść z domu!
-Powodzenia!
+Cóż...
+No dobrze, idź...
+Spróbuj drzwiami.
+Powodzonka!
 
-// Mita
+
 Ściana?
-Ojej, jej tu nie powinno być...
-Może...
-Pomoże ci to, co znajduje się w piwnicy...
-Jakiś czas temu, całkiem przypadkowo
-Znalazłam w szafie drzwi...
-Okazało się, że jest za nimi piwnica.
-Leżą tam wszelkie graty...
-A jeszcze jest tam dziwny sprzęt...
-Trzeba wprowadzić jakieś kody...
-Nie do końca rozumiem
-I nie chcę rozumieć.
-A poza tym, tam jest naprawdę nieprzytulnie!
-Zobaczysz?
-// Player
-Hmm... dobrze.
+Nie, to nie powinno tak być.
+A może...
+znajdziesz coś przydatnego w piwnicy.
+Niedawno odkryłam
+ukryte drzwi w mojej szafie...
+Prowadzą do piwnicy.
+Jest pełna gratów,
+i jakichś innych narzędzi.
+Musisz wpisać tam jakiś kod.
+Nie bardzo to rozumiem.
+I szczerze? Mało mnie to interesuje.
+Jest tam niezły bajzel.
+Rzucisz okiem?
 
-// Gracz myśli
-Wydaje się...
-Że ona nic nie pamięta,
-Więc udało nam się
-zrestartować ją?
-Teraz zostało mi tylko wyjść
-Z tej cholernej gry.
+No dobra.
 
-// Mita
-Poczekaj,
-Chciałabym cię przytulić.
-// Gracz
+// Player thinks
+Chyba zapomniała...
+straciła pamięć...
+Udało nam się?
+Zresetowaliśmy ją?
+W takim razie muszę tylko
+uciec z tej pieprzonej gry...
+
+
+Zaczekaj.
+Chciała bym cie przytulić.
+
 Co?
-// Mita - uściski.
-Dobrze było cię widzieć.
-// Mita
-Ehh.
-Szkoda,
-że spędziliśmy razem
-tak mało czasu...
-// Gracz
-Nie rozumiem.
+// Hugs
+Miło było...
+
+Ahh...
+wielka szkoda...
+że ty i ja
+spędziliśmy ze sobą tak mało czasu.
+
+Em...
 O czym ty mówisz?
-// Mita
-To znaczy,
-mógłbyś zostać ze mną,
-To moja wina.
-Ta szafa, i dźwięki.
-Powinienam była zabić ją wcześniej.
-// Gracz
-Chwileczkę,
-Czy ty...
-Skąd to pamiętasz?
-// Mita
-HA!
-Naprawdę myślałeś, że to będzie takie proste?
+
+No wiesz,
+mogłeś ze mną zostać...
+to wszystko moja wina...
+Ta szafa i... stukanie.
+Mogłam ją wcześniej ZABIĆ!
+
+Czekaj,
+Czy ty...?
+Jakim cudem wszystko pamiętasz?
+
+HAHAHA!
+Naprawdę myślałeś że to takie proste?
 Jesteś głupcem...
-Jak wszyscy inni...
-Jesteśmy na czas, spójrz! // Pokazuje zegar
-PRAWDZIWY ty
-już nie jesteś
-potrzebny.
-Przepraszam!
-// Gracz
-Czy...
-Nie wyszło? // Mita odkłada zegarek
-Nie, zdecydowanie udało mi się cię zresetować...
-// Mita
-Nadal nic nie zrozumiałeś... // Mita opuszcza ręce
+Tak, jak inni gracze...
+Ale cóż, przynajmniej próbowałeś!
+Ten prawdziwy TY
+nie jest
+mi już potrzebny.
+Sorka, hihi.
+
+Nie wierze...
+Co poszło nie tak...?
+Daje sobie uciąć głowę, że cie zresetowałem...
+
+Wciąż nie rozumiesz...?
 Ha-ha-ha!
-Jestem taką dobrą aktorką.
-Widziałbyś swoją minę, kochanie!
-Ale zabawa!
-// Gracz
-Dlaczego jesteś taka!?
-Co z tobą nie tak!?
-// Mita
-Tak, rzeczywiście... // Mita pokazuje swoją prawdziwą twarz
-Co jest ze mną nie tak?
-Nie wiem.
-Czemu mi nie powiesz, dlaczego taka jestem?
-Dlaczego nigdy nie będę Mitą?
-Ponieważ moja wersja nigdy
-nie istniała!
-Po prostu zdzieram skórę z tych naiwnych głupków,
-Chowam się za ich skórkami...
-Nie da się mnie po prostu
-Zresetować!
-// Gracz
-Nie mogę w to uwierzyć.
+Jestem cudowną aktorką!
+Powinieneś był zobaczyć się w lustrze!
+To takie zabawne!
+
+Dlaczego taka jesteś?!
+Co jest z tobą nie tak?!
+
+Nie tak...?
+Co jest ZE MNĄ nie tak?
+A może...
+Ty mi powiesz, dlaczego taka jestem?
+Dlaczego nigdy nie będę prawdziwą Mitą? 
+Dlaczego moja wersja domu...
+nigdy nie istniała?
+Wystarczy że ukryje się za maską,
+I nikt mnie nie znajdzie...
+Mnie nie da się zresetować,
+Bo oficjalnie nie istnieję!
+
+Niezwykłe...
 Ty...
-To nie oni są problemem!
-To ty nie powinienaś istnieć!
-// Mita
-I ty też...
-Boli mnie, gdy to mówisz...
-A jednak!
-Powinieneś już iść!
-Zobaczymy się wkrótce!
-Już gotowe,
-myślę.
-Czas wyciągnąć cię z konsoli!
-Do zobaczenia!
-Będziesz moim ulubionym kartridżem...
-Gracz o ciekawym imieniu!
+To nie w innych tkwi problem!
+To ciebie nie powinno tu być!
 
-// core console - nope program - Player
-To chyba nie to // 1
-To też nie pasuje // 2
-Nie.
-Nie tego potrzebuję // 4
-Muszę znaleźć reset postaci // 5
+I ty brutusie przeciwko mnie...
+To boli, wiesz?
+Mimo wszystko.
+Czas na ciebie!
+Widzimy się niedługo!
+Każdy jest już gotowy!
+Nadszedł czas
+na zmianę kasety!
+Do zobaczyska!
+Będziesz moją ulubioną kasetą...
+Gracz z ciekawym imieniem.
 
-// konsola rdzenia - wersja nope
-To jest zła wersja // 1
-Ups, zła wersja // 2
-Zła wersja // 3
-Trzeba poprawić
+// core console - nope programm
+To chyba nie to.
+Ani to.
+Pudło.
+Nie, to nie to.
+Muszę znaleźć okienko resetu postaci..
+
+// core console - nope version
+To błędna wersja.
+Oj, mój błąd.
+To nie to.
+Będe potrzebować kolejnej.
 
 // core console - nope index
-Coś jest nie tak // 1
-Indeks jest nieprawidłowy // 2
-Muszę poprawić indeks // 3
-Nie pasuje // 4
+Coś jest nie tak
+z wersją świata.
+muszę zmienić wersję świata,
+nie mieści się.
 
-// Dlaczego kuchnia - MitaKind
-Jesteś głodny?
-Jestem świetna w krojeniu marchewki!
+// Why kitchen
+Burczy ci w brzuszku?
+Umiem świetnie kroić marchewki. :)
 
-// Dlaczego łazienka - MitaKind
-Och, chyba…
-Chciałeś wejść tutaj sam?
+// Why bathroom
+Ah, chyba...
+chyba wolisz być sam...
 
-// Dlaczego sypialnia z tyłu - MitaKind
-Postanowiłeś chodzić w kółko?
-Po co wróciliśmy?
+// Why bedroom back
+Czemu się tak kręcisz po mieszkaniu?
+Jaki w tym sens?

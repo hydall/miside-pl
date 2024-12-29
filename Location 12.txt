@@ -1,7 +1,7 @@
-// Zadania
-Kim jesteś? // 1
-Dlaczego tak wyglądasz?
-Co tu robiła Mita? // 3
-Dlaczego masz niedźwiadka? // 4
-Dlaczego Mita jest zła?
-Czy wierzysz Micie? // 6
+// Quests
+Kim jesteś?
+Czemu tak wyglądasz?
+Co Mita tu robiła?
+Po co ci ten miś?
+Dlaczego Mita jest wściekła?
+Ufasz Micie?

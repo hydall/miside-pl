@@ -1,188 +1,188 @@
-// Mita
-Cześć!
-Ups!!!
-Przepraszam,
-Prawie cię zabiłam...
-Ojej...
-To znaczy, lodówka prawie cię zabiła.
-Ja tu nie mam nic do rzeczy,
-Naprawdę, mówię ci!
-Szczerze!
-// Gracz
-No napewno!
-// Mita
-Właściwie,
-Jest tu niebezpiecznie...
-Szczególnie dla ciebie.
 
-// Po chwili 1
-A ty nie z tych, co się boją!
-Ciekawe jest patrzeć,
-Jak przechodzisz
-Te miejsca...
-Biegnij, biegnij, maluchu!
-Zdołam cię jeszcze dogonić!
-Próbuj, próbuj!
-Podoba mi się to!
+Hejcia!
+Ups!
+Sorka,
+prawie cie zabiłam.
+Emm...
+Znaczy... Lodówka. Lodówka prawie cie zabiła.
+Nie mam z tym nic wspólnego,
+Przysięgam!
+Naprawdę!
 
-// Po chwili 2
-Widzę, że idziesz do kolejki linowej.
+Jasne, wierze ci!
+
+Ale serio,
+to miejsce jest niebezpieczne...
+w szczególności dla ciebie.
+
+// After a while 1
+Nie jesteś tchórzem, co?
+Kiedy cie tak oglądam
+jak mijasz różne miejsca...
+sprawia mi to satysfakcje...
+Uciekaj myszko do dziury...!
+Bo cie zobaczy kot bury!
+Zuch chłopiec!
+Haha, podoba mi się to!
+
+// After a while 2
+Widziałam jak zmierzasz w kierunku pociągu.
 To najdłuższa droga
-Między wersjami...
-Ciekawe, jak sobie poradzisz
-Z tymi, którzy tam mieszkają
-W tej mgle.
+między wersjami...
+Ciekawe jak sobie poradzisz
+z tymi którzy tam mieszkają
+w tej mgle.
 
-// Majtki
-Co ty wyprawiasz?
-Daj spokój.
-Nie patrz,
-Głupcze!
-Głupcze...
+// Panties
+Co ty wyprawiasz?!
+Błagam...
+Nie gap się!
+Głupek!
+Ty głuptasie...
 
-// Mita, jeśli gracz wyjdzie
-No dobra...
 
-// Do widzenia
-Powodzenia!
+Emm, dobra...
 
-// Mitaghost
-Kto tam jest?
-Czuję cię.
+
+Połamania nóg!
+
+
+Kto tam?!
+Wyczuwam twoją obecność...
 Posłuchaj,
 jesteś graczem,
 prawda?
-Pomóż mi znaleźć--
-Znaleźć--
-Przypomnieć,
-Nie jestem pewna..
-Co tu się do cholery dzieje? // Gracz
-// Cry 1 - Mitaghost
-Kiedyś chciałam zapomnieć o wszystkim...
-Stłukłam wszystkie lustra,
-Zniszczyłam obrazy.
-A teraz.
-Czuję się winna
-I to jest takie głupie
-Każdy popełnia błędy,
-Ale co zrobić,
-Kiedy konsekwencje są katastrofalne?
-Chciałabym cofnąć czas...
+Pomóż mi znaleźć...
+znaleźć...
+Niech pomyśle...
+mam pustkę w głowie...
+Co tu się wyprawia?
+// Cry 1
+Kiedyś chciałam o wszystkim zapomnieć...
+Zbiłam wszystkie lustra,
+zniszczyłam zdjęcia...
+lecz teraz...
+jedyne co czuje to żal.
+Jaka ja byłam głupia...
+Jasne, każdy popełnia błędy...
+Ale co robić
+kiedy konsekwencje są fatalne w skutkach ?
+Tak bardzo chciała bym cofnąć czas...
 // Cry 2
-Mówią, że czas leczy.
+Mówią, że czas leczy rany...
 Ale czym jest czas?
-Nie wierzę już w nic...
-A jeśli czas może uleczyć,
-Albo przynajmniej zabrać mnie
-Z tego świata,
-To proszę cię,
-Przyspiesz czas.
-Niech zabije mnie
-Ostatni raz.
+W nic już nie wierzę...
+Skoro czas leczy rany,
+albo przynajmniej jest w stanie...
+zabrać mnie z tego świata...
+To błagam
+przyśpiesz go.
+Abym mogła umrzeć
+raz na zawsze.
 // Cry 3
-Ona kocha.
-Czy ja też mogłabym kochać?
-Ale nie tak jak ona.
-Jej miłość jest bardzo aktywna,
-Uciążliwa...
-Gorąca...
-Rozbuchana...
-Zazdrosna...
-Złośliwa...
-Szaleńcza...
+Potrafi kochać...
+Czy ja kiedyś też to potrafiłam?
+Moja miłość jest nieco inna;
+jej miłość jest żywa,
+podła...
+paląca...
+nieustępliwa...
+zazdrosna...
+wściekła...
+szaleńcza...
 // Cry 4
-Wydaje mi się, że nazywali mnie emocjonalną...
-Za bardzo się martwisz, Mita...
-Poradzisz sobie, Mita...
-Nie jesteś sama...
-Ale co z tego ostatecznie wyszło?
+Mówili że daje się ponieść emocjom...
+Nie martw się, Mita...
+Przejdzie ci, Mita...
+Nie jesteś w tym sama, Mita...
+Tak mówili. Ale co z tego zostało?
 Smutek,
-Rozpacz...
-I przerażenie.
+rozpacz...
+i strach.
 // Cry 5
-Bez sensu...
+Bezużyteczna...
 Nie mogę sobie przypomnieć...
-Ręce opadają...
-I to nieskończone echo...
-Nie mogę poradzić sobie z myślą,
-Że jestem tu zamknięta...
-Zawsze tu byłam,
-Dlaczego?
+Wspomnienia nie chcą wrócić...
+Tylko nieskończone echa...
+Nie radzę sobie z faktem
+że jestem tu uwięziona...
+Zawsze tutaj byłam,
+dlaczego?..
 Nie pamiętam...
-To się skończy?
+Czy kiedykolwiek nastąpi kres?
 Nie wiem...
 
-// Mitaghost get picture
-To...
-Rysunek...
-Pamiętam,
-Dziękuję ci...
-Ale moja twarz...
-Nie mam twarzy...
-To wszystko ONA...
-Oderwała kawałek ode mnie...
-I wyrzuciła w pustkę...
-Ona jest silna...
-I mądra.
-Nie mam prawa zatrzymywać cię, Graczu.
+// Mita get picture
+Czekaj, to...
+rysunek...
+Już pamiętam,
+dziękuje...
+Moja twarz...
+Nie posiadam jej...
+To wszystko przez NIĄ.
+Odebrała mi część siebie...
+i ją wyrzuciła...
+Jest silna...
+i mądra.
+Nie mam prawa cię zatrzymywać, graczu.
 Zajrzyj do szafy...
 
-// Chibi Mita - [nie]
-Hej!
-Zasłaniasz mi przejście!
-Zamierzasz tak po prostu stać?
-Dlaczego nie zejdziesz mi z drogi?
-Pozwól mi przejść!
-To, że jesteś duży, nie znaczy, że jesteś wszechmocny!
 
-// HEJ! STOP!
-Dlaczego mnie śledzisz?!
-Spadaj!
+Ej!
+Stoisz mi na drodze!
+Będziesz tu tak sterczał?
+Po prostu się przesuń!
+Przepuść mnie!
+Może i jesteś większy, ale na pewno nie potężniejszy!
 
-
+// HEj! PRZESTAŃ!
+Dlaczego za mną leziesz?!
+Odwal się!
 
 
-// Kolejka linowa - Mitafon
-Chwileczkę, graczu?
-Co ty tu robisz?
-// Gracz
-Kto tu?
-// Mitafon
-Czyli znowu gracz.
-Jestem Mita-fon.
-Siedzę i zdalnie steruję kolejkami linowymi.
-Czy zdajesz sobie sprawę
-że zmierzasz teraz do wraku?
-// Gracz
-Nie.
-Ale nie mam innej drogi.
-// Mitafon.
-Zrozumiałam.
-Wciśnij przycisk i stań za działem.
-// Gracz.
-Działo?
-// Mitafon
-Tak.
-Myślałeś, że po prostu przejedziesz?
-Jedziesz przez mini-grę w "Potworo-plask!"
-Więc przygotuj się na strzelanie.
 
-// Kolejka linowa - Mitafon
-Dobra, zaczynamy.
-// Kolejka linowa wygrywa - Mitafon
-Świetnie!
+
+// Funicular - radio voice
+Czekaj moment... Gracz?
+Co ty tutaj robisz?
+
+Kto tam?
+
+Inny gracz.
+Jestem Mitafonem.
+Steruję kolejką liniową.
+Zdajesz sobie sprawę,
+że zmierzasz ku zagładzie?
+
+Możliwe,
+Ale to jedyna droga, jaką znam.
+
+Jasne.
+Naciśnij przycisk i właź za armatę.
+
+Jaką znowu armatę?
+
+No coś ty.
+Chyba nie myślałeś że po prostu tak sobie przejedziesz?
+Najpierw musisz ukończyć Potworo-Klepkę,
+więc żołnierzu, odbezpieczyć broń.
+
+// Funicular go
+Dobra. Jazda z tematem.
+// Funicular win
+Niesamowite!
 Udało ci się.
-// Kolejka linowa stop - Mitafon
-Dalej, wyсhodź stąd.
-Szybko i sprawnie!
-// Kolejka linowa 1 - Mitafon
-Co ty tu stoisz!?
-Powiedziałam ci, żebyś wyszedł stąd!
-// Kolejka linowa 2 - Mitafon
-Nie rozumiem.
-Naprawdę tam po prostu stoisz?
-// Funicular tetris - Mitafon
-Jaka konsolka?
-Stary...
-// Funicular goodbye - Mitafon
-Cześć.
+// Funicular stop
+Hej! Wynocha mi stąd.
+Szybciutko!
+// Funicular wait 2
+I dlaczego wciąż tu sterczysz?
+Mówiłem żebyś się wynosił.
+// Funicular wait 3
+Nie rozumiem...
+po co ty tu jeszcze stoisz?
+// Funicular tetris
+Serio? Tetris
+Typie...
+// Funicular goodbye
+Narka!

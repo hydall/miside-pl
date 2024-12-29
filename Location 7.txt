@@ -1,19 +1,19 @@
-// nazwy utworów
-Cracker // utwór 1
-Bubble Drink // utwór 2
-Balloon // utwór 3
+// Nazwy utworów 
+Cracker
+Bubble drink
+Balloon
 // Quest none
-Nic
-// Zadanie "Spotkanie z Uprzejmą Mitą"
-Czy mogę ci zaufać? // 1
-Jak się tu dostałem? // 2
-Co to za miejsce? // 3
-Jak się tu znalazłaś?
-Co zrobiłaś z pierścionkiem? // 5
-Czy przejścia są niebezpieczne? // 6
-Pomożesz mi się wydostać? // 7
-Mówiłaś o jakimś planie... // 8
-// Quest MitaCap
-Pamiętasz coś? // 1
-Co sądzisz o Micie z pierścionkiem? // 2
-Czy zawsze nosisz tą czapkę? // 3
+Nie ważne.
+// Quest "Mila Mita"
+Powinienem ci ufać?
+Skąd tu się wziąłem?
+Co to za miejsce?
+Jak się tutaj znalazłaś?
+Co zrobiłaś z pierścieniem?
+Czy te przejście jest niebezpieczne?
+Pomożesz mi uciec?
+Podobno masz plan.
+// Quest Mita z czapka.
+Czyli nic nie pamiętasz?
+Co myślisz o Micie z pierścieniem?
+Zawsze nosisz tą czapkę?

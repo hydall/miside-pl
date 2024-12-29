@@ -1,102 +1,102 @@
-Naciśnij
-Pogadaj
-Załóż pierścionek
-Znajdź przycisk
+Wciśnij
+Porozmawiaj
+Włóż pierścień
+Poszukaj przycisku
 Przytrzymaj
 Wstań
-Zabierz pierścionek
+Weź pierścień
 Usuń grę
-Wyjdź
-Naciśnij
+Zakończ
+Wciśnij
 Stop
-Biegnij // [SHIFT] uruchom
+Biegnij
 Otwórz wiadomość
 Pobierz aplikację
-Uruchom aplikację
-Pogadaj
+Włącz aplikację
+Porozmawiaj
 
-Wziąć baterię
+Weź baterię
 
-Zobacz
-Odłóż
-Przekaż nożyczki
+Sprawdź
+Połóż
+Podaj nożyczki
 Odmów
-Jedz
+Zjedz
 Wstań
 Spróbuj wstać
 Weź tabletki
 Weź sos
-Podnieś karty
-Wybierz kartę
-Odłóź karty
-W prawo
-W lewo
-Użyj kartę
-Pozostać
-Odrzuć
+Weź karty
+Spójrz na karty
+Schowaj karty
+Prawo
+Lewo
+Zagraj kartę
+Zostań
+Odmów
 
-Kartridże
+Kasety
 Otwórz
 
-Wypić sok
-Nie próbować
+Wypij sok
+Odmów
 
-idź w prawo
-iść w lewo
-skakać
-kucnąć
-uderzyć
+Idź w prawo
+Idź w lewo
+Skacz
+Kucnij
+Atakuj
 
-Kręcić w prawo
-Kręcić w lewo
-Połóż
+Obrót w prawo
+Obrót w lewo
+Postaw
 
-Zwolnić się
+Puść
 
-Obudź się
+Wstań
 Usiądź
 Wstań
 Włącz komputer
-Weź ramen
-Zakończ
+Podnieś ramen
+Skończ
 Idź spać
 
-Znajdź więcej puzzli
+Znajdź więcej zagadek
 
-Spróbuj // Guitara = Tak
-Nie trzeba // Guitara = Nie
+Spróbuj
+Nie powinienem
 
-Wiem // HammerGame > jak grać? = Tak
-Nie wiem // HammerGame > jak grać? = Nie
-Uderz miękko // Hammer game > uderz miękko
-Uderz mocno // Hammer Game > uderz mocno
-Naciśnij! // Hammer game > przycisk Put
+Wiem
+Nie wiem
+Uderz lekko
+Uderz mocno
+Wciśnij!
 
-Lewo // Gra taneczna - Lewo
-Środek // Gra taneczna - Środek
-Prawo // Gra taneczna - prawy
+Lewo
+Środek
+Prawo
 
-Prawo // Gra taneczna - Zmień lewo
-Wybierz // Gra taneczna - Zmień muzykę
-Lewo // Gra taneczna - Zmień prawą
+Prawo
+Wybierz
+Lewo
 
-Jeszcze jedną // Gra taneczna - Następna muzyka
-Wystarczy // Gra taneczna - Zatrzymaj grę
+Jeszcze raz
+Starczy
 
-Mieszaj // Obrót kawy łyżeczką
+Wtrąć się
 
-Pociągnij za dźwignię
+Pociągnij dźwignię
 
-Wybierz prawy // Wybierz prawy nóż
-Wybierz lewy // Wybierz lewy nóż
+Wybierz prawo
+Wybierz lewo
 
-Obróć w prawo // Obrót w prawo
-Obróć w lewo // Obrót w prawo
-Skok // Jump
-Otwórz drzwi // Otwórz drzwi
+Obrót w prawo
+Obrót w lewo
+Skok
+Otwórz drzwi
 
 Wybierz grę
-Zakończ grę
+Skończ grać
 Kontynuuj
 Graj
 
@@ -104,29 +104,29 @@ Graj
 Zamknij drzwi
 
 Prawo
-W lewo
-W dół
-W górę
+Lewo
+Dół
+Góra
 
-Odejdź
-Naciśnij dowolny przycisk
+Cofnij się
+Wciśnij przycisk
 
-Jedz
+Jedź
 Pij
-Weź kotlet
-Weź naleśnik
+Weź pasztecika
+Weź chleb
 Dodaj mleko
-Dodać cukier
-Dodać mąkę
-Dodać masło
-Dodać jajka
-Wymieszaj
-Dodać mieszaninę
-Przewróć
-Przelóź
+Dodaj cukier
+Dodaj mąkę
+Dodaj olej
+Dodaj jajko
+Miksuj
+Dodaj do miksu
+Obróć
+Za dużo
 
-Pasują ci // [Tak] założyć okulary?
-Lepiej zdjąć // [Nie] założyć okulary?
+Dobrze na tobie wyglądają
+Po prostu je zdejmij
 
-Opowiedz
-Nie warto
+Mów do mnie
+Nie ma potrzeby

@@ -1,53 +1,53 @@
 Sklep
 Kategorie
 Jedzenie
-Meble
+Wystrój
 Pokój
-Odzież
+Ubrania
 Zabawki
 Ulepszenia
-Zupa
-Sałatka
-Przekąska
+Zupy
+Sałatki
+Przekąski
 Napoje
 Stół
 Łóżko
-Telewizor
+TV
 Krzesło
 
 Dzień
 
 Powrót
-Kupiono
-Składniki zupy z kurczakiem
+Kupiłeś
+Składniki na rosół
 
 
 
 
-// AIHASTO
+
 Prezentuje
-// Interfejs
-Mini gry
+
+Mini-Gry
 Energia
-Elektronika
-Przetwarzanie
-Platformówki
-Gry
-// Smartphone
-Nowa wiadomość (1)
-Zobacz nową wersję gry!
-Załączony plik
+Elektroniczne
+Mechaniczne
+Platformowe
+Logiczne
+
+(1) Nowa wiadomość
+Obczaj nową wersję! Spodoba ci się!
+Załącznik
 
 Znajomy: M.K.
-// Days
+
 DZIEŃ [0]
 
 
 
 
 
-// Samouczek
-Samouczek: chcesz się nauczyć, jak grać?
-Rozejrzenie się
-Ruch
-Interakcja
+
+Samouczek: Potrzebujesz pomocy w nauce gry?
+Rozglądnij się.
+Przejdź się.
+Interakcja.

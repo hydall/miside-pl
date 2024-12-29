@@ -1,8 +1,8 @@
-Finisz!
-Pozycja w wyścigu
+Wyścig ukończony!
+Pozycja
 Zebrane monety
 Inwazja
-Pokonaj bossa
+Pokonaj bossa!
 Boss pokonany!
 Nitro
-Naciśnij dowolny przycisk, aby rozpocząć wyścig.
+Naciśnij A aby zacząć wyścig.

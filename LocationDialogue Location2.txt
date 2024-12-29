@@ -1,9 +1,9 @@
-// Start gracza
-Gdzie jestem?
-Znajome miejsce.
-Jestem w tej grze?
-// Gracz próbuje otworzyć drzwi
-Zamknięte?..
-// Gracz w ciemności
-Jest tu ciemno.
-Nic nie widzę.
+// Player start
+Gdzie ja jestem?
+To miejsce wygląda znajomo...
+O cholera... Jestem w grze???
+// Player try open the door
+Hmm... Zamknięte?
+// Player in dark
+Cholera jak tu ciemno.
+Nic nie widzę!

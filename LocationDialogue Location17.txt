@@ -1,161 +1,161 @@
-// Gracz myśli
-Nie sądzę, żebym mógł to zrobić sam.
-Mam nadzieję, że tutejsza Mita nie gryzie....
-// Kawa
-Na co ja marnuję czas...
+// Player thinks + Make coffee
+Potrzebuję czyjejś pomocy.
+Mam nadzieję że ta Mita nie gryzie...
+
+Marnuje swój czas...
 
 
 
 
-// Gracz próbuje obudzić Mitu
-Mita? // Próba 1
-Mita, obudź się. // Spróbuj 2
-Mi-ita. // Spróbuj 3
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, wstawaj!
+Mita!
 
-Mita, obudź się.
+Mita, Pobudkaaa!
 Potrzebuję twojej pomocy.
-// MitaDream
-Kim jesteś?
-// Gracz.
-Pomóż mi z dźwigniami.
-// MitaDream.
-Jakimi dźwigniami?
+
+Kim ty jesteeeeeś?
+
+Musisz mi pomóc z przełącznikami.
+
+Jakimi przełącznikami?
 Daj mi spać...
-Albo zrób mi kawę.
-// Gracz
-Przecież jest tuż obok...
+Albo przynieś mi kawę.
+
+Ekspres do kawy powinien gdzieś tu być.
 Mita?
 Mi-ita!
 
 
 
-// Gracz rozdaje kawę
+// Player gives away the coffee
 Mita,
-Masz kawę
+Masz swoją kawusie.
 
 
 
-// MitaDream
-Więc mówisz
-Dźwignie?
-// Player
-Tak
-// MitaDream
+// MitaDreamer exercise
+Przełączniki...
+powiadasz...
+
+Tak.
+
 Skąd o nich wiesz?
-Chociaż, co ja się pytam...
-Skoro tu jesteś,
-to już wiesz wiele rzeczy...
+W sumie głupie pytanie...
+Patrząc na to,
+ile już tu jesteś...
 
-Chwileczkę,
-Muszę usiąść.
+Poczekaj chwilkę,
+muszę usiąść.
 
-Dobra, to..?
-// Gracz
-Nie wiem, co ci powiedzieć.
-Ale muszę iść dalej.
-Wzdłuż trasy, którą buduje pierścionek...
-// MitaDream
-Masz jej pierścionek?
-To juz rozumiem,
-Jak się tu dostałeś...
-// Gracz.
-Zgadza się.
-Więc możesz mi pomóc?
-Z dźwigniami?
-// MitaDream
-Jasne... // Sle
-Pomogę... // Slee
-Z dźwigniami... // Śpij
+No i?
 
-// Gracz
-Mita, znowu?
+Nie wiem co powiedzieć...
+Muszę iść dalej,
+pierścień wskazuje mi drogę.
+
+Masz jej pierścień?
+Nie dziwię się
+że znalazłeś te miejsce.
+
+Dokładnie.
+Więc, pomożesz mi?
+No wiesz, z przełącznikami?
+
+Spoko.
+Pomogę.
+Już idę...
+
+
+Mita, no dawaj...
 Chodźmy już.
-// MitaDream
-А?
-Dobra.
+
+Uh?
+Dobrze.
 Chodźmy.
 
 
-// upadek mitadream - Gracz
+// MitaDreamer fall
 Wstawaj.
-Aż tak ci się chce spać?
+Jesteś aż tak senna?
 
-// znowu spać mitadream - Gracz
-Obudź się.
-Już jesteśmy.
+// MitaDreamer again sleep
+Wstawaj.
+Już prawie jesteśmy.
+
 
 // Switches
-// MitaDream
 Dobra,
 Jestem gotowa.
-// Player
-Ja też jestem gotowy.
-// MitaDream
-Cóż...
-Zacznę
-Odliczanie.
-A potem razem pociągniemy za dźwignie.
-Dobrze? // powolny sen
-// Gracz
-Tylko nie zasypiaj,
-Zaczynaj odliczanie.
 
-// MitaDream
+Też jestem gotowy.
+
+Dobra.
+Zacznę
+Odliczać.
+I pociągniemy dźwignię razem.
+Okej?
+
+Po prostu nie zaśnij, OK?
+Zaczynaj.
+
+
 3
 2
 1
 
-// Gracz przegrywa 1 - MitaDream
-Co ty wyprawiasz?
-No cóż,
-Zróbmy to jeszcze raz.
+// Player lose 1
+Zasypiasz?
+No dawaj,
+Jeszcze raz...
 
-// Gracz przegrywa 2 - MitaDream
-Znowu?
-Jeszcze trochę.
-I
-zasnę...
+// Player lose 2
+Jeszcze jeden raz?
+No weź,
+Zas...
+Ja tu zasypiam...
 
-// Gracz przegrywa 3 - MitaDream
-Zaraz zasnę...
+// Player lose 3
+Zaraz usnę...
 
 
-// Gracz wygrywa
+
 Wspaniale,
 Dziękuję, Mita.
-// MitaDream
-Mm-hmm
 
-// MitaDream
-Takie
-Powolne
-Drzwi
+Mm-hmm.
 
-// MitaDream
+
+Drzwi...
+takie...
+wolne...
+
+
 Idę spać...
 
-// Dlaczego kuchnia? - MitaDream
-Dlaczego tu przyszliśmy?
-Jeśli zasnę na zimnej podłodze kuchni,
+// Why kitchen?
+Czemu idziemy do kuchni?
+Jak zasnę na zimnej podłodze,
 to będzie twoja wina.
 
-// Dlaczego łazienka? - MitaDream
+// Why bathroom?
 Nie rozumiem...
-Za jakie dźwignie chciałeś tu pociągnąć?
+Z czym ty dokładnie potrzebujesz pomocy?
 
-// Wciśnij przycisk - Gracz
+// Put button
 Nic się nie stało?
-To po co jest tu ten przycisk?
+Co tu robi ten przycisk?
 
-// Kawa - Gracz
-Może napijesz się jeszcze kawy?
-Przecież zaraznowu zaśniesz.
-// MitaDream
-Co?
-Nie.
-I ta kawa smakuje okropnie...
-Nic mi nie jest...
+// Cofee
+Jeszcze kawy?
+Czy znów mi zaśniesz?
 
-// Przycisk - Gracz
-Mita? Przycisk nie działa, słyszysz mnie?
-Halo?
+Coo?
+Nieeee...
+Ta kawa jest okropna...
+Wszystko jest w porządku...
+
+// Button
+Mita? Przycisk nie działa... słyszysz mnie?
+Haloo?
