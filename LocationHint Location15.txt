@@ -1,7 +1,7 @@
 Wyjdź z piwnicy.
 Rozejrzyj się.
 Wejdź do rdzenia.
-Wprowadź dane i użyj dźwigni żeby usunąć szaloną Mitę.
+Wprowadź dane i użyj dźwigni żeby zrestartować Szaloną Mitę.
 Otwórz drzwi wejściowe.
-Idź do piwnicy i wpisz swoje ID.
-Ucieknij z tego świata.
+Idź do piwnicy i wprowadź swoje ID.
+Opuść ten świat.

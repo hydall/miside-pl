@@ -1,7 +1,7 @@
 Wciśnij
 Porozmawiaj
-Włóż pierścień
-Poszukaj przycisku
+Załóż pierścień
+Znajdź przycisku
 Przytrzymaj
 Wstań
 Weź pierścień
@@ -9,11 +9,11 @@ Usuń grę
 Zakończ
 Wciśnij
 Stop
-Biegnij
+Biegnij // [SHIFT] uruchom
 Otwórz wiadomość
 Pobierz aplikację
 Włącz aplikację
-Porozmawiaj
+Pogadaj
 
 Weź baterię
 
@@ -57,43 +57,43 @@ Wstań
 Usiądź
 Wstań
 Włącz komputer
-Podnieś ramen
+Weź ramen
 Skończ
 Idź spać
 
 Znajdź więcej zagadek
 
-Spróbuj
-Nie powinienem
+Spróbuj // Gitara = Tak
+Nie powinienem // Gitara = Nie
 
-Wiem
-Nie wiem
-Uderz lekko
-Uderz mocno
-Wciśnij!
+Wiem // HammerGame > jak grać? = Tak
+Nie wiem // HammerGame > jak grać? = Nie
+Uderz lekko // Hammer game > uderz miękko
+Uderz mocno // Hammer Game > uderz mocno
+Wciśnij! // Hammer game > przycisk Put
 
-Lewo
-Środek
-Prawo
+Lewo // Gra taneczna - Lewo
+Środek // Gra taneczna - Środek
+Prawo // Gra taneczna - prawy
 
-Prawo
-Wybierz
-Lewo
+Prawo // Gra taneczna - Zmień lewo
+Wybierz // Gra taneczna - Zmień muzykę
+Lewo // Gra taneczna - Zmień prawą
 
-Jeszcze raz
-Starczy
+Jeszcze raz // Gra taneczna - Następna muzyka
+Starczy // Gra taneczna - Zatrzymaj grę
 
-Wtrąć się
+Mieszaj // Obrót kawy łyżeczką
 
-Pociągnij dźwignię
+Pociągnij za dźwignię
 
-Wybierz prawo
-Wybierz lewo
+Wybierz prawy // Wybierz prawy nóż
+Wybierz lewy // Wybierz lewy nóż
 
-Obrót w prawo
-Obrót w lewo
-Skok
-Otwórz drzwi
+Obróć w prawo // Obrót w prawo
+Obróć w lewo // Obrót w prawo
+Skok // Jump
+Otwórz drzwi // Otwórz drzwi
 
 Wybierz grę
 Skończ grać
@@ -111,22 +111,22 @@ Góra
 Cofnij się
 Wciśnij przycisk
 
-Jedź
+Jedz
 Pij
-Weź pasztecika
-Weź chleb
+Weź kotlet
+Weź naleśnik
 Dodaj mleko
-Dodaj cukier
-Dodaj mąkę
-Dodaj olej
-Dodaj jajko
-Miksuj
-Dodaj do miksu
+Dodać cukier
+Dodać mąkę
+Dodać masło
+Dodać jajka
+Wymieszaj
+Dodać mieszaninę
 Obróć
 Za dużo
 
-Dobrze na tobie wyglądają
-Po prostu je zdejmij
+Dobrze na tobie wyglądają // [Tak] założyć okulary?
+Po prostu je zdejmij // [Nie] założyć okulary?
 
 Mów do mnie
 Nie ma potrzeby
