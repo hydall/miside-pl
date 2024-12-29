@@ -1,0 +1,5 @@
+// Snaker
+Porażka
+Zwycięstwo!
+// DontWork
+Przestań!

@@ -1,0 +1,16 @@
+// Brak zadania
+Nic
+// Zadanie "Pierwsza Mita"
+Jesteś Mita?
+Co mam zrobić, jeśli chcę wrócić?
+Jak znalazłem się w grze?
+// Quest "Kuchnia jeść"
+Ładny dom, przytulny
+Kiedy mogę wrócić do domu?
+Wszystko wygląda jak sen
+Dlaczego za oknami jest białe światło?
+Po co nożyczki, skoro jest nóż?
+Smacznego.
+// TV
+Fajny sok
+Mocny sok!!!

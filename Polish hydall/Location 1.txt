@@ -1,0 +1,53 @@
+Sklep
+Kategorie
+Jedzenie
+Meble
+Pokój
+Odzież
+Zabawki
+Ulepszenia
+Zupa
+Sałatka
+Przekąska
+Napoje
+Stół
+Łóżko
+Telewizor
+Krzesło
+
+Dzień
+
+Powrót
+Kupiono
+Składniki zupy z kurczakiem
+
+
+
+
+// AIHASTO
+Prezentuje
+// Interfejs
+Mini gry
+Energia
+Elektronika
+Przetwarzanie
+Platformówki
+Gry
+// Smartphone
+Nowa wiadomość (1)
+Zobacz nową wersję gry!
+Załączony plik
+
+Znajomy: M.K.
+// Days
+DZIEŃ [0]
+
+
+
+
+
+// Samouczek
+Samouczek: chcesz się nauczyć, jak grać?
+Rozejrzenie się
+Ruch
+Interakcja

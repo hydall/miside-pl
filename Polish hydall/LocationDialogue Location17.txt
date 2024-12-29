@@ -1,0 +1,161 @@
+// Gracz myśli
+Nie sądzę, żebym mógł to zrobić sam.
+Mam nadzieję, że tutejsza Mita nie gryzie....
+// Kawa
+Na co ja marnuję czas...
+
+
+
+
+// Gracz próbuje obudzić Mitu
+Mita? // Próba 1
+Mita, obudź się. // Spróbuj 2
+Mi-ita. // Spróbuj 3
+
+Mita, obudź się.
+Potrzebuję twojej pomocy.
+// MitaDream
+Kim jesteś?
+// Gracz.
+Pomóż mi z dźwigniami.
+// MitaDream.
+Jakimi dźwigniami?
+Daj mi spać...
+Albo zrób mi kawę.
+// Gracz
+Przecież jest tuż obok...
+Mita?
+Mi-ita!
+
+
+
+// Gracz rozdaje kawę
+Mita,
+Masz kawę
+
+
+
+// MitaDream
+Więc mówisz
+Dźwignie?
+// Player
+Tak
+// MitaDream
+Skąd o nich wiesz?
+Chociaż, co ja się pytam...
+Skoro tu jesteś,
+to już wiesz wiele rzeczy...
+
+Chwileczkę,
+Muszę usiąść.
+
+Dobra, to..?
+// Gracz
+Nie wiem, co ci powiedzieć.
+Ale muszę iść dalej.
+Wzdłuż trasy, którą buduje pierścionek...
+// MitaDream
+Masz jej pierścionek?
+To juz rozumiem,
+Jak się tu dostałeś...
+// Gracz.
+Zgadza się.
+Więc możesz mi pomóc?
+Z dźwigniami?
+// MitaDream
+Jasne... // Sle
+Pomogę... // Slee
+Z dźwigniami... // Śpij
+
+// Gracz
+Mita, znowu?
+Chodźmy już.
+// MitaDream
+А?
+Dobra.
+Chodźmy.
+
+
+// upadek mitadream - Gracz
+Wstawaj.
+Aż tak ci się chce spać?
+
+// znowu spać mitadream - Gracz
+Obudź się.
+Już jesteśmy.
+
+// Switches
+// MitaDream
+Dobra,
+Jestem gotowa.
+// Player
+Ja też jestem gotowy.
+// MitaDream
+Cóż...
+Zacznę
+Odliczanie.
+A potem razem pociągniemy za dźwignie.
+Dobrze? // powolny sen
+// Gracz
+Tylko nie zasypiaj,
+Zaczynaj odliczanie.
+
+// MitaDream
+3
+2
+1
+
+// Gracz przegrywa 1 - MitaDream
+Co ty wyprawiasz?
+No cóż,
+Zróbmy to jeszcze raz.
+
+// Gracz przegrywa 2 - MitaDream
+Znowu?
+Jeszcze trochę.
+I
+zasnę...
+
+// Gracz przegrywa 3 - MitaDream
+Zaraz zasnę...
+
+
+// Gracz wygrywa
+Wspaniale,
+Dziękuję, Mita.
+// MitaDream
+Mm-hmm
+
+// MitaDream
+Takie
+Powolne
+Drzwi
+
+// MitaDream
+Idę spać...
+
+// Dlaczego kuchnia? - MitaDream
+Dlaczego tu przyszliśmy?
+Jeśli zasnę na zimnej podłodze kuchni,
+to będzie twoja wina.
+
+// Dlaczego łazienka? - MitaDream
+Nie rozumiem...
+Za jakie dźwignie chciałeś tu pociągnąć?
+
+// Wciśnij przycisk - Gracz
+Nic się nie stało?
+To po co jest tu ten przycisk?
+
+// Kawa - Gracz
+Może napijesz się jeszcze kawy?
+Przecież zaraznowu zaśniesz.
+// MitaDream
+Co?
+Nie.
+I ta kawa smakuje okropnie...
+Nic mi nie jest...
+
+// Przycisk - Gracz
+Mita? Przycisk nie działa, słyszysz mnie?
+Halo?

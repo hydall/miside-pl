@@ -1,0 +1,132 @@
+Naciśnij
+Pogadaj
+Załóż pierścionek
+Znajdź przycisk
+Przytrzymaj
+Wstań
+Zabierz pierścionek
+Usuń grę
+Wyjdź
+Naciśnij
+Stop
+Biegnij // [SHIFT] uruchom
+Otwórz wiadomość
+Pobierz aplikację
+Uruchom aplikację
+Pogadaj
+
+Wziąć baterię
+
+Zobacz
+Odłóż
+Przekaż nożyczki
+Odmów
+Jedz
+Wstań
+Spróbuj wstać
+Weź tabletki
+Weź sos
+Podnieś karty
+Wybierz kartę
+Odłóź karty
+W prawo
+W lewo
+Użyj kartę
+Pozostać
+Odrzuć
+
+Kartridże
+Otwórz
+
+Wypić sok
+Nie próbować
+
+idź w prawo
+iść w lewo
+skakać
+kucnąć
+uderzyć
+
+Kręcić w prawo
+Kręcić w lewo
+Połóż
+
+Zwolnić się
+
+Obudź się
+Usiądź
+Wstań
+Włącz komputer
+Weź ramen
+Zakończ
+Idź spać
+
+Znajdź więcej puzzli
+
+Spróbuj // Guitara = Tak
+Nie trzeba // Guitara = Nie
+
+Wiem // HammerGame > jak grać? = Tak
+Nie wiem // HammerGame > jak grać? = Nie
+Uderz miękko // Hammer game > uderz miękko
+Uderz mocno // Hammer Game > uderz mocno
+Naciśnij! // Hammer game > przycisk Put
+
+Lewo // Gra taneczna - Lewo
+Środek // Gra taneczna - Środek
+Prawo // Gra taneczna - prawy
+
+Prawo // Gra taneczna - Zmień lewo
+Wybierz // Gra taneczna - Zmień muzykę
+Lewo // Gra taneczna - Zmień prawą
+
+Jeszcze jedną // Gra taneczna - Następna muzyka
+Wystarczy // Gra taneczna - Zatrzymaj grę
+
+Mieszaj // Obrót kawy łyżeczką
+
+Pociągnij za dźwignię
+
+Wybierz prawy // Wybierz prawy nóż
+Wybierz lewy // Wybierz lewy nóż
+
+Obróć w prawo // Obrót w prawo
+Obróć w lewo // Obrót w prawo
+Skok // Jump
+Otwórz drzwi // Otwórz drzwi
+
+Wybierz grę
+Zakończ grę
+Kontynuuj
+Graj
+
+
+Zamknij drzwi
+
+Prawo
+W lewo
+W dół
+W górę
+
+Odejdź
+Naciśnij dowolny przycisk
+
+Jedz
+Pij
+Weź kotlet
+Weź naleśnik
+Dodaj mleko
+Dodać cukier
+Dodać mąkę
+Dodać masło
+Dodać jajka
+Wymieszaj
+Dodać mieszaninę
+Przewróć
+Przelóź
+
+Pasują ci // [Tak] założyć okulary?
+Lepiej zdjąć // [Nie] założyć okulary?
+
+Opowiedz
+Nie warto

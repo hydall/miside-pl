@@ -1,0 +1,87 @@
+// Mita Chibi - [nie]
+Hej ty!
+Cześć!
+Chcesz się wydostać?
+To pomóż mi znaleźć klucz!
+// Poszukiwanie klucza - MitaChibi - [nie]
+Cholera! Nie ma klucza!
+Nic!
+Absolutnie nic!
+Znalazłam go!
+
+// MitaChibi - [nie]
+Myślałam, że będziesz niższy!
+A ty taki duży!
+Jak siostrzyczka!
+// Gracz
+Hm... siostrzyczka?
+// MitaChibi - [nie]
+Tak, siostrzyczka.
+Mowisz jakbyś jej nigdy nie widział!
+// Gracz
+Jeszcze jak widziałem...
+// MitaChibi - [nie]
+Głupi jesteś?
+// Gracz
+Eee...
+// MitaChibi - [nie]
+Głupi...
+Dawaj, pokaż, gdzie szukać klucza!
+
+// MitaChibi - [nie]
+Tutaj.
+Wrzuć żelazo do rury!
+Dziękuję!
+A teraz opuść drewno dla mnie!
+Dziękuję!
+Teraz pomóż tu!
+Zrobione! Teraz...
+Patrz, jak pięknie...
+Naciśnij, dawaj!
+Hop!
+No i masz
+Swój kluczyk!
+
+
+
+
+
+
+
+
+
+// zadanie 1 - MitaChibi - [nie]
+Jestem ChibiMita.fbx!
+Z garścią kodu,
+najprostszym rigiem,
+I najpiękniejszymi włosami!
+
+// quest 2 - MitaChibi - [nie]
+Pan wielki głupek,
+wyglądasz bardzo uroczo,
+zadając głupie pytania.
+Jednak,
+widzę cię po raz pierwszy!
+Ale... // Gracz
+Jeśli ktoś ukradł mój cudowny wygląd,
+To będzie na jego sumieniu!
+
+// quest 3 - MitaChibi - [nie]
+Nie rozumiesz?
+To punkt kontrolny —
+test twojej bystrości!
+No chodź!
+Jestem tu, żeby prowadzić beznadziejnie zagubionych!
+
+// zadanie 4 - MitaChibi - [nie]
+A kim ty jesteś?
+Żeby ci NIE pomóc?
+// Gracz
+Co?
+// MitaChibi - [nie]
+Głupku
+Po prostu spadłeś znikąd!
+Nie powinno cię tu być,
+więc ci pomagam!
+
+Pa pa, głuptasie!

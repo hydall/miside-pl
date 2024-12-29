@@ -1,0 +1,233 @@
+// MitaKind
+Pierścionek
+
+// Odpowiedź 1 (Gdzie byłeś przez cały ten czas?) - MitaKind
+Szukałam sposobu, by doprowadzić cię do jądra
+W całości i bezpiecznie,
+Taki był początkowy plan, nieprawdaż?
+Musiałam przy tym unikać spotkania
+z Szaloną Mitą, nieprawdaż?
+I jeszcze zdobyć jakiekolwiek informacje
+o backendzie tej przeklętej rzeczywistości, nieprawdaż?
+// Gracz
+Ehh... Prawdopodobnie tak...?
+Ale jak udało ci się ustawić taką trasę w pierścionku,
+Że od razu trafiłem do zbugowanej wersji
+Pełnej niebezpieczeństw?
+Z której udało mi się uciec
+Tylko wyskakując w nieskończoną ciemność.
+// MitaKind
+Przepraszam, zupełnie zapomniałam sprecyzować,
+Co dokładnie należało zrobić...
+Ale to właśnie było częścią planu!
+Że wyskoczysz...
+I jak widzę, udało się!
+Brawo.
+Teraz działamy zgodnie z planem, kumasz?
+
+// Odpowiedź 2 (Jak się tu dostałeś?) - MitaKind
+Pewnie musiałeś wiele przejść,
+skoro zapomniałeś szczegóły naszej rozmowy.
+Jestem Mita, potrafię przemieszczać się między wersjami.
+Żaden problem, pamiętasz?
+// Gracz
+Nie wszystkie Mity to potrafią,
+Widziałem to!
+I wyraźnie cierpią...
+// MitaKind
+Czekaj, ich wersje są zepsute,
+Światy są zbugowane, mówiłam ci.
+Do diabla...
+Sam wiesz, kto za tym stoi...
+To wszystko przez Szaloną Mitę.
+// Gracz
+Tak, już się o tym przekonałem...
+
+// MitaKind.
+To brzydka Mita.
+Agresywna i tępa.
+Nie da się z nią rozmawiać,
+Jej świat kręci się wokół Szalonej Mity.
+// Gracz
+Już zauważylem.
+// MitaKind
+Chodź, musimy zająć się jądrem.
+
+// Odpowiedź 4 (Jak działa pierścionek?) - Gracz
+To przez pierścionek,
+Trzeba było iść taką drogą, żeby dotrzeć do jądra?
+// MitaKind
+Tak.
+Gdyby udało się stworzyć portal,
+Moglibyśmy cię natychmiastowo
+przenieść tutaj.
+// Gracz
+Czy ten pierścionek ma w ogóle jakieś zalety?
+// MitaKind.
+Oczywiście!
+Jest łatwy do noszenia.
+Zapamiętuje również wersje
+w których byłeś.
+I możesz do nich wrócić ponownie.
+
+// Odpowiedź 5 (Dlaczego Crazy Mita mnie potrzebuje?) - Gracz
+Dlaczego jestem potrzebny Szalonej Micie?
+Ona bawi się ze mną w niebezpieczne gry,
+A ja wciąż żyję...
+// MitaKind
+Zgaduję,
+Chce znaleźć odpowiedniego gracza.
+Który zaakceptuje ją taką, jaka jest.
+W końcu Mita to Mita!
+Choć oczywiście nie jest to możliwe,
+Dlatego używa kartridży,
+Więc nikt nigdy przed nią nie ucieknie.
+To chyba tyle.
+Wróćmy do ważniejszych spraw.
+
+// Odpowiedź 6 - Gracz.
+Czy to właśnie ono?..
+Jądro?
+// MitaKind
+Jądro.
+Jak już wcześniej próbowałam wyjaśnić...
+Gracze nie są częścią tego świata...
+Dlatego nie potrzebują tutaj specjalnego pozwolenia.
+To jest... tylko moje przypuszczenie.
+Ale jestem absolutnie pewna
+że wewnątrz tego pokoju
+znajduje się rozwiązanie wszystkich naszych problemów!
+[player], spróbuj wejść.
+Rzeczywiście, wszedł...
+
+// MitaKind
+Uważąj, [player]!
+To cię obserwuje.
+// [Gracz]
+Kto to jest?
+// MitaKind
+Nie jestem pewna, że ogarniam...
+// Gracz
+Spoko...
+
+// MitaKind
+Co to jest?
+Hej!
+// Gracz
+Chyba znalazłem!
+// MitaKind
+Super!!! Przecudownie!
+// Player
+Muszę podać wersję.
+// MitaKind
+Tak, dowiedziałam się, że jej wersja to.....
+00.98
+// Player
+Mam!
+Dobra, a jaki jest indeks?
+// MitaKind
+Indeks?
+// Gracz
+Muszę określić indeks,
+Niech zgadnę, nie wiesz?
+
+// MitaKind
+Chwileczkę, to ma sens,
+Każda Mita ma swój własny indeks,
+Nie można po prostu zrestartować całej wersji...
+To szaleństwo!
+Jak mogłam na to nie wpaść....
+
+
+
+
+
+// Odpowiedź 1 (Co jest z tobą nie tak?) - MitaKind
+Ze mną wszystko w porządku,
+Jeśli nie liczyć wszystkich naszych problemów.
+Wszystko jest super, nie zmieniło się prawie nic...
+Muszę pomyśleć...
+Ale impas...
+
+// Odpowiedź 2 (Może jest sposób, by to rozpoznać?) - MitaKind
+Ja...
+Hmm... Bzdura!
+To szaleństwo, ha!
+To tak, jakby szukać igły...
+// Gracz
+Co ty..?
+// MitaKind
+Glitche czasami wypluwają informacje
+Jakby wnętrzności świata zostały wywrócone na zewnątrz!
+Logi, logi, logi, dane?
+A co jeśli to właśnie to?
+// Gracz
+А? O co chodzi!
+// MitaKind
+Znam jedno miejsce!
+Zaczekaj tutaj.
+// Gracz
+Gdzie idziesz?
+
+// Odpowiedź 3 (Co jeśli zaatakujemy Mad Mita?) - Gracz
+Powiedziałaś, że każda Mita...
+restartuje się po śmierci.
+Co jeśli...
+// MitaKind
+Co jeśli zabijemy Szaloną Mitę?
+Mówisz poważnie?
+I jak zamierzasz zaatakować dziewczynę z piłą łańcuchową?
+I zaraz, nożem ona kroi nie tylko marchewki!
+I z jakiegoś powodu jest strasznie silna!
+To cud, że wciąż żyjemy.
+Chodź, musimy jeszcze zająć się jądrem.
+
+// wejście do konsoli rdzenia
+// Gracz
+Muszę skorzystać z programu...
+Ale jakiego?
+Mita, wiesz?
+// MitaKind.
+Pewnie gdzieś tam jest
+Poszukaj
+
+// core console - nope program - Player
+To chyba nie to // 1
+To też nie pasuje // 2
+Nie.
+Nie tego potrzebuję // 4
+Muszę znaleźć reset postaci // 5
+// konsola rdzenia - wersja nope
+To jest zła wersja // 1
+Ups, zła wersja // 2
+Zła wersja // 3
+Trzeba poprawić
+// core console - nope index
+Coś jest nie tak // 1
+Indeks jest nieprawidłowy // 2
+Muszę poprawić indeks // 3
+Nie pasuje // 4
+
+// Odpowiedź 4 (Mali ludzie - Chibi) - Gracz
+Wiesz, spotkałem kilku
+Małutkich ludzików...
+Kim oni są?
+// MitaKind
+Chibi?
+Nie wiem, jak to wyjaśnić.
+To taki fenomen naszego świata,
+Każda Mita ma projekcję chibi.
+Chociaż mogą pojawiać się także u graczy...
+Mity mogą je przywoływać, wiedziałeś o tym?
+// Gracz
+Jak to?
+// MitaKind.
+Daj mi chwile...
+// Gracz
+Ale sztuczki...
+// MitaKind
+Ale zazwyczaj coś jest nie tak z moimi chibi,
+Większość z nich rodzi się martwa.
+Czekaj, ta coś potrafi...
+Albo i nie.
+Ona tylko biega w kółko....

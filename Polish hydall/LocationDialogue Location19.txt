@@ -1,0 +1,605 @@
+// Gracz
+Ja... Wróciłem!?
+// Mila
+O mój Boże!
+Przestraszyłeś mnie!
+Kurcze,
+Mój zapis! // (Wstań)
+Nie rozumiem.
+A gdzie jest gra?
+Zniszczyłeś mi całą ścieżkę!
+Czego chcesz?
+// Graczu
+Potrzebuję wersji...
+// Mila
+Eee?
+// Gracz
+Muszę jakoś przejść na starą wersję.
+// Mila
+Dobra!
+Jestem bardzo zajęta,
+żeby cię zabawiać, głupku!
+// Gracz
+Niby czym? Giereczkami?
+// Mila
+Ależ bezczelny draniu!
+Nie będzie między nami przyjaźni...
+// Gracz
+Słuchaj, muszę trafić do jądra.
+// Mila
+Przez ciebie zrobiłam sobie krzywdę.
+Cholera.
+А?
+// Gracz
+...Musimy trafić do jądrą i powstrzymać Mitę!
+// Mila
+Mitę?
+Proszę bardzo!
+Nie obchodzi mnie ona!
+Ani pierwsza, ani setna!
+// Gracz
+Ależ ty też jesteś Mita...
+// Mila
+Jestem Mila.
+// Gracz
+Mi.. Ta? La?
+// Mila.
+Mita na Micie,
+Z całego świata po Micie i to wszystko Mita Mitą pogania!
+// Gracz
+Jesteś Mila?
+// Mila
+Tak, tak! Ale z ciebie głupek!
+// Gracz
+Dobra, powodzenia w takim razie, Mila...
+// Mila
+Dokąd idziesz?
+Myślisz, że możesz tak po prostu stąd wyjść?
+
+// Gracz sprawdza wyjście - Mila
+Myślałeś, że coś tam będzie?
+// Gracz
+Ja pierniczę!
+Co to jest?
+// Mila
+A co chciałeś tam zobaczyć?
+Krainę czarów?
+// Player
+Jak mam wtedy stąd się wydostać?
+Chyba przejście powinno być tutaj.
+// Mila
+Stąd nie ma wyjścia.
+// Player
+Dobra, a jaka to jest wersja?
+Chyba idę we właściwą stronę.
+
+// Glitch kitchen - Player
+Czy to twoje?
+// Mila.
+Nie podchodź!
+Nie wiem, co to jest.
+Jakiś glitch!
+// Gracz
+Mój pierścionek drzy z jakiegoś powodu.
+// Mila
+Jaki pierścionek?
+Ślubny?!
+// Gracz
+Nie, to pierścionek dała mi jedna z tysięcy Mit.
+Ta, która może mi pomóc się wydostać
+// Mila.
+I zamierzasz to dotknąć?
+Wiedz, że jeśli mój dom wybuchnie - jesteś martwy!
+
+// Mila się myje - Mila
+Hej!
+Wynocha!
+Nie widzisz, że łazienka jest zajęta!
+// Gracz nadal stoi 1 - Mila
+Co ty tam jeszcze stoisz?!
+Wynocha!
+// Gracz nadal stoi 2 - Mila
+Nie wkurzaj mnie!
+Wynoś się stąd!
+// Gracz nadal stoi 3 - Mila
+Jesteś głuchy!
+Dziewczyna potrzebuje kąpieli!
+
+// Mila wyszła i przeklina - Mila
+Co to było?
+Zero wstydu, zero sumienia...
+// Gracz
+Dlaczego tak nagle musiałaś wziąć prysznic?
+Mogłaś najpierw poczekać,
+Jak już stąd wyjdę.
+// Mila
+Skąd mam wiedzieć
+Jak długo jeszcze będziesz się czepiał tych glitchy?
+// Gracz
+Glitchy?
+Jest ich więcej?
+// Mila.
+Tak...
+No, skoro mój dom wciąż stoi,
+to znaczy, że poradziłeś sobie z glitchem w kuchni?
+// Gracz.
+Myślę, że tak.
+// Mila.
+Dobrze, teraz pozwolę ci,
+pójść do łazienki.
+// Gracz.
+Dziękuję.
+
+// MMila chowa się pod stołem - Gracz
+Mila?
+Co ty tam robisz?
+// Mila.
+Au! // Mila (rani się)
+Znowu mnie przestraszyłeś!
+Czego chcesz?
+// Gracz
+Widziałaś więcej takich glitchy?
+// Mila.
+Uważasz, że twoje problemy to powód,
+żeby nie dać mi dokończyć książki?
+Nie, nie widziałam!
+// Gracz
+Dobra, sam sobie poszukam.
+// Mila.
+Czekaj...
+Mam pytanie...
+Chcesz gdzieś tam się wydostać, 
+prawda?
+// Gracz
+Zgadza się.
+Chcę wyjść z tej gry.
+// Mila
+Zabrzmi to dziwnie...
+Ale nie zostałbyś, żeby poczytać ze mną książki?
+// Gracz
+Najpierw się kłócisz, a teraz prosisz, żebym został
+Poczytać książki?
+Może bym został,
+Ale muszę iść dalej.
+// Mila
+No i dobrze!
+Szukaj sobie tych glitchy...
+Już drugi raz się uderzyłam
+Przez ciebie...
+// Player zobaczył błąd
+A, no i znalazłem.
+
+// Mila stoi z mieczem - Mila.
+Patrzysz uważnie?
+Bój się mnie!
+Zobacz, co potrafię!
+Jestem aż tak niebezpieczna!
+Nawet nie zdążyłeś mrugnąć.
+// Gracz
+Serio?!
+// Mila
+A co takiego?
+Nieprzekonująco?
+// Gracz
+Nie do końca...
+// Mila
+Czy ty naprawdę wszystko widzisz,
+Kiedy rozwiązujesz te swoje glitche...?
+Więc wiedziałeś już,
+Że kamień jest wcześniej przecięty?
+// Gracz
+Nie.
+Po prostu, przecież to gra.
+A na pstryknięcie palcami możesz zrobić wszystko...
+// Mila
+Ach ty!
+Głupek!
+"Na pstryknięcie", tak...
+Po co ja w ogóle czytałam te książki?
+Żeby potem pstryknąć palcami i wszystko gotowe?
+Wolę robić wszystko własnymi rękami...
+Tak jak opisują w książkach.
+
+// MMila robi pompki - Gracz
+Co ty robisz?
+// Mila
+Nie widzisz!?
+// Gracz
+Widzę, ale po co ci to?
+// Mila
+Żeby spuścić ci łomot!
+// Gracz
+Co z tobą?
+Jesteś jakaś dziwna...
+// Mila
+Tak!
+Co do łomotu,
+To oczywiście żartowałam...
+I nie jestem dziwna!
+Jestem wyjątkowa!
+Chcę maksymalnie różnić się od wszystkich!
+// Gracz
+Nie martw się,
+Już teraz jesteś całkiem inna niż reszta.
+// Mila
+Wiem.
+Patrz, co potrafię!
+Widziałeś?
+A teraz bez rąk!
+// Gracz
+Rozumiem, że to gra,
+Ale to wygląda nierealistycznie.
+// Mila
+Aj!
+Ooch...
+Głupia fizyka...
+Jak tylko o niej pomyślisz,
+To od razu:
+Bum!
+I jeszcze ty tutaj gadasz coś o realizmie,
+Głupku!
+
+// Ostatnia usterka gotowa - wyjście gracza - Gracz
+Pojawiło się przejście.
+Zrobione, Mila!
+// Mila
+O! Co?!
+Bardzo dobrze!
+Brawo!
+// Player
+Aj, co robisz?!
+// Mila
+Ojej...
+Przepraszam, nie chciałam...
+// Player
+Nic, Mila, teraz mogę iść dalej.
+// Mila
+Słuchaj, wiem, że musisz iść dalej...
+Ale nie mógłbyś zostać tutaj?
+Jeszcze na chwilę?
+// Player
+O czym ty mówisz, nie mogę zwlekać.
+Czyżby Szalona Mita miała nic nie robić?
+// Mila
+Nienawidzę...
+// Mila > Fall
+Nienawidzę, nienawidzę jej!
+// Player
+Mila, posłuchaj...
+// Mila
+Po co ja tu jestem?
+Nie rozumiem!
+I nie rozumiem, dlaczego nie rozumiem?!
+I nigdy nie wyjdę stąd!
+// Player
+Rozumiem cię, Mila.
+Chcesz, żebym wrócił później?
+Jeśli się uda...
+// Mila
+Zostań tutaj, graczu...
+Z tobą jest fajnie, nie tak, jak samej...
+Może nic ci się nie uda?
+// Player
+Uda się, zostało już tylko trochę...
+// Do 4 glitcha, jeśli klikniesz na komputer - Player
+Właśnie byłem w płaskiej rzeczywistości,
+A teraz wróciłem...
+Chciałbym wrócić do prawdziwego świata...
+// Mila
+Ha-ha-ha!
+Dokąd-dokąd?
+Twój "prawdziwy" świat
+Nadaje się na miejską legendę!
+Osobiście nigdy nie widziałam żadnego "prawdziwego" świata.
+// Player
+Myślę, że jest sposób
+Żeby wrócić...
+// Mila
+Jaki pewny siebie,
+Chodzący żart!
+
+// Zapytaj o książki, po 4 glitchach - Gracz
+Po co czytać książki?
+Przecież jest internet...
+// Mila
+W internecie jest mnóstwo wymysłów!
+A tak naprawdę, to lubię sobie czasem poleżeć,
+Trzymając przed sobą książkę...
+Te książki....
+Tylko dzięki nim
+Wiem więcej
+O tym świecie.
+
+// Zapytaj o obrazki - Gracz
+Czy te zdjęcia są prawdziwe?
+W innych wersjach...
+Też są, ale są do bólu przesadzone...
+// Mila
+Właściwie to jestem Mila. Nie tak jak inni...
+I czy to naprawdę zdjęcia?
+To przecież rysowane obrazki,
+Po co udawać...
+Wiesz, raz widziałam wiele Mit,
+Wszystkie stały tak.
+// Player
+Mila?
+Halo?
+// Mila
+Po tym...
+Nie chcę być taka sama.
+To strasznie obrzydliwe!
+
+// Zapytaj o obraz motyla - Gracz
+Widziałeś naturę?
+Widziałeś takie motyle na żywo?
+// Mila.
+Nie.
+Ale mam gdzieś książkę,
+gdzie są ich skrzydła,
+Są takie aksamitne.
+Hmm.
+Obraz jest trochę krzywy,
+a do tego jakaś plama... 
+Teraz lepiej!
+// Gracz
+A ty chciałabyś pospacerować na świeżym powietrzu?
+// Mila
+Głupie pytanie!
+Oczywiście...
+Chcę.
+
+// nawiązuję długi kontakt wzrokowy 1 - Mila
+Na co się gapisz?
+Odwróć się!
+
+// nawiązuję długi kontakt wzrokowy 2 - Mila
+Niech cię szlag!
+Nie gap się na mnie tak długo!
+Głupku...
+
+// nawiązuję długi kontakt wzrokowy 3 - Mila
+A no! Ty!
+Czemu tak się patrzysz?
+To niekulturalne - patrzeć się na dziewczynę!
+// Gracz
+Co ty za kulturę taką masz?
+Odwal się!
+
+// Szepty 1 - Mila
+Dlaczego oni ciągle wysyłają
+jakichś kretynów do mnie cały czas,
+a ja mam być dla nich miła?
+I grać w mini-gry...
+Głupie Tamagotchi!
+
+// szepcze 2
+Chodzi, chodzi tutaj… węszy coś…
+Co za głupek?
+
+// szepcze 3
+Powiedziałeś coś?
+Ta muzyka w tle naprawdę mnie denerwuje!
+
+// szepcze 4
+Jak mam mu powiedzieć
+że jestem bardzo zajęta.
+I nie chcę mieć gości?
+Hmm, a co jeśli pójdzie? No i dobra, co mi z tego?
+
+// szepcze 5
+"Mamo", "tato"...
+Co to jest, skąd znam te słowa?
+
+// szepty 6
+Kiedyś padał tu śnieg, wiesz dlaczego?
+
+// szepty 7
+Po prostu pojawia się znikąd! Przerażające.
+A jeśli... nic tam nie ma?
+
+// w pobliżu 1
+Stoimy obok siebie
+I
+Milczymy.
+Dlaczego milczymy?
+Połknąłeś swój język?
+Albo co?
+Nie wiesz o czym mówić?
+
+//2
+Zdecydowanie rezygnuję z marchwi!
+A nawet więcej, ogłaszam jej wojnę!
+Czy ty w ogóle wyobrażasz sobie, co ona robi
+Ze śnieżnobiałą skórą takiej uroczej dziewczyny?!
+
+//3
+Książki niewiele pomagają, ale przy odrobinie szczęścia,
+W końcu sobie poradzę
+Z tym irytującym spawnowaniem za mną.
+Źle się czuję, gdy różne warzywa pojawiają się
+Za moimi plecami!
+
+// w pobliżu 4
+Wiesz, nie przepadam za fetyszystami!
+Za miłośnikami marchwi, wszelkich zepsutych rzeczy...
+I tutaj jeszcze ty, szukający bugów, 
+najbardziej nienormalny z tych, których spotkałam!
+
+//5
+Chcesz wiedzieć, czego bym najbardziej chciała?...
+Trochę dziwnie o czymś takim mówić...
+
+// W pobliżu 6
+Mówią, że ciężko jest walczyć
+z własną naturą, TO PRAWDA!
+Cóż, tak jest, trzeba nauczyć się dyscypliny.
+Ty byś wiedział, jak mi swędzą ręce,
+Żeby urządzić z tobą herbacianą imprezę!
+
+// w pobliżu 7
+Nawet okulary mi nie pomagają dostrzec,
+korzenia Pana nieposkromionej motywacji,
+ukrytej za oczywistą tępotą…
+
+// nearby 8
+Czytałam, że los to coś w rodzaju scryptu
+W którym zapisane jest nawet to,
+Jak spędzisz dzień.
+Ha! Kto to głupi napisał w ogóle,
+Nie ty przypadkiem?
+
+// w pobliżu 9
+Głupcy to jeszcze nic, ale szaleńcy…
+Nienawidzę ich!
+
+// w pobliżu 10
+Wśród tych... Mit...
+Właściwie to jest kilka uroczych.
+Chciałabym je lepiej poznać,
+Nawet jeśli są klonami klonów.
+
+// następne 11
+Jest jedna, oczywiście, która nie jest taka jak inne.
+Ale najwyraźniej ma problem z głową!
+
+// obok 12
+Żadnych ogonków!
+A niektórym to bym je nawet obcięła!
+No to przecież niewygodne!
+Na pewno mnie rozumiesz, zobacz, jak się ogoliłeś!
+
+// w pobliżu 13
+A jeśli za tymi drzwiami nic nie ma?
+A ty i ja istniejemy w tym domu z powodu, hm.
+Czegoś niewytłumaczalnego?
+Skąd ta pewność?
+Słyszałeś o hipotezie pięciu minut?
+
+
+
+// [Ostatni glitch gotowy - wyjście gracza - Mila]
+Co za przerażający korytarz.
+Naprawdę tam idziesz?
+// Gracz.
+Tak.
+
+// Gracz
+Jaki zamyślony pan.
+Po co ci on?
+// Mila
+A się dowiesz!
+I to już za niedługo.
+A tak przy okazji, czemu go wiecznie parodiujesz?
+Zrób normalną minę.
+// Player
+Emm...
+Ok.
+
+// Katana - Gracz
+To zabawkowa katana?
+// Mila
+Żadna to zabawkowa!
+Od najmniejszego dotyku ostrza
+Poleje się twoja krew.
+Opanowałam miecz doskonale!
+A ty powinieneś się oszczędzać.
+Nie sądzę, żebyś sobie z nim poradził…
+
+// Lustro - Gracz
+Lustro.
+I żadnego odbicia.
+// Mila
+Och, ty!
+Jaki niezadowolony...
+Nauczyłam się z książek
+Czym są odbicia.
+Ale w mojej wersji ich zrobienie
+Wcale nie wychodzi!
+
+// Przełącznik światła - Mila
+To coś nie działa,
+światło przełącza się samo,
+Jakby według skryptu!
+Ale!
+Z jakiegoś powodu w łazience
+Można je przełączać.
+Jakiś absurd!
+// Switch light off - Player
+Nadal jest światło?
+
+// Mała marchewka
+Marchewka?
+Co? Zniknęła?
+// Mila
+Mam już dość tej marchewki!
+Ona naprawdę jakby żyła!
+Za każdym razem, kiedy ją zauważam,
+Teleportuje się w inne miejsce.
+
+// Mała marchewka - Gracz
+O-o, marchewka!
+Znowu zniknęła.
+Czy możemy coś z nią zrobić?
+// Mila
+Nie.
+Nic.
+Myślisz, że nie próbowałam?
+W każdym razie, nie trać z nią czasu.
+To tylko jakiś żart.
+
+// (Tetris - Mila)
+Hej!?
+Żartujesz sobie ze mnie?
+// Tetris - Mila
+Nie oddam ci jej.
+Nigdy!
+
+// Mydło - Gracz
+A mydło tu w ogóle jest?
+Czy to dekoracja?
+// Mila
+Głupku, nie widzisz?
+Tu jednak większość rzeczy
+Zachowuje się jak prawdziwe rzeczy!
+
+// BagWall - Mila
+Gdzie się podziałeś!?
+// Player
+Można tu przejść?
+// Mila
+Co, znalazłeś nowego buga?
+I co tam?
+// Player
+Wygląda na to, że…
+Nic.
+// Mila
+O, wróciłeś.
+
+// Quest 1 Glasses - Player
+Masz słaby wzrok?
+Bo po co ci okulary?
+// Mila
+A co? Nie podoba się?
+To mój indywidualny styl!
+A wzrok mam świetny!
+
+// Quest 2 Name miLa - Player
+Mi-La?
+A czemu na przykład nie
+Mi-Ka albo?
+Mi-Sa?
+// Mila
+Jestem Mila i kropka.
+// Player
+Zrozumiałem...
+
+// Quest 3 Wieczór - Gracz
+Lubię wieczorową porę.
+Kiedy będzie noc?
+// Mila
+Noc?
+Nie mówmy o tym...
+Ponieważ zaczynam myśleć
+O niekończących się dniach.
+I o tym jak bezsensownie się powtarzają.....
+Ugh.

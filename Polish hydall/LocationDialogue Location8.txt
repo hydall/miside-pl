@@ -1,0 +1,84 @@
+// Najpierw gracz
+Kim jesteś?
+Co z tobą?
+Nie możesz mówić?
+
+// MitaBroke
+Czekaj...
+Chcesz odejść?
+// Gracz
+Tak...
+Muszę się przełączyć
+na poprzednią wersję...
+// MitaBroke
+"Poprzednią wersją"?
+Po co ci iść
+Gdzieś?
+Możesz zostać tutaj...
+Stać się moim
+drugim przyjacielem...
+
+// MitaBroke skip
+Do-obra...
+
+// stojąc przy oknie (losowo) - MitaBroke
+Drzwi - to nie wyjście.
+Wygląda na to, że się spieszysz...
+Biegasz w kółko, nie możesz uciec.
+Tak bardzo chcesz uciec?
+Zwróć uwagę na okno...
+
+
+// zadanie 1 (Jesteś Mita, prawda?) - MitaBroke
+Graczu... jesteś graczem, prawda?
+Możemy pobawić się...
+Jeśli znajdę siły,
+na pewno się pobawimy.
+
+// zadanie 2 (Co jest z tobą nie tak?) - MitaBroke
+Nie jestem pewna czy, um... nie wiem.
+Chyba nic złego się nie stało...
+Ale dzieje się coraz mniej dobrych rzeczy...
+Ale przynajmniej mam przyjaciela.
+Gracze odeszli.
+Odwrócili się ode mnie?
+Boję się.
+
+// zadanie 3 (Zostać drugim przyjacielem?) - MitaBroke
+Przyjaciele...
+Było ich coraz mniej.
+I został tylko jeden.
+To smutne, graczu.
+Czy możesz zostać moim nowym przyjacielem?
+// Gracz
+Bardzo bym chciał,
+ale muszę iść dalej.
+// MitaBroke
+To boli.
+
+// Zadanie 4 (Czy to twój dom?) - MitaBroke
+Dom?
+Gracz... a ty wyglądasz inaczej....
+Twoje ramiona są krótsze, a twarz nie jest już taka zła...
+Graczu, jesteś łagodniejszy.
+// Gracz
+Nie wiem.
+Co to znaczy.
+// MitaBroke
+Nic strasznego...
+Bo teraz nie będzie mnie boleć?
+
+// Zadanie 5 (Jak opuścić to miejsce?) - MitaBroke
+Zostawisz mnie, graczu?
+Może to moje...
+przeznaczenie?
+// Gracz
+Ja...
+// MitaBroke
+Drzwi nigdy ci nie pomogą...
+
+// Przytrzymaj gracza (losowo) - MitaBroke
+Dlaczego chcesz odejść?
+Zostań...
+Zagrajmy.
+Graczu...

@@ -1,0 +1,165 @@
+nowa gra
+kontynuj
+główne menu
+wyjdź
+ustawienia
+osiągnięcia
+twórcy
+cofnij
+wczytaj
+język
+ładowanie...
+grafika
+głośność
+klawiatura i mysz
+Kontroler
+Rozdzielczość
+Tryb okienkowy
+efekty graficzne
+Efekty koloru
+miękkie cienie
+rozmycie
+odblaski
+wygładzanie
+cienie
+jakość świata
+programowanie
+animacja
+efekty dźwiękowe
+muzyka
+cząsteczki
+tekstury
+modele 3D (98%)
+scenariusz
+reset
+do przodu
+do tyłu
+lewo
+prawo
+interakcja
+czułość myszy
+wyjdź z gry?
+tak
+nie
+powrót do menu
+płynne obroty
+ustawienia gry
+styl cieni
+stroje
+interfejs
+modele 3D (2%)
+głośność głosu
+pauza
+menu
+gratulacje, gra została ukończona!
+czas rozgrywki:
+napisy
+jasność
+synchronizacja pionowa
+zapisano
+postacie
+postacie - Mity
+postacie - Kartridże
+kartridże
+Mity
+Zacznij od zera
+Na pewno chcesz całkowicie usunąć wszystkie save'y i zacząć od zera?
+Kompilacja shaderów potrwa dwie godziny, poczekaj.
+Chwila, jaka kompilacja? Zrobiliśmy to za ciebie!
+Generuję realistyczne śledzenie cieni, zajmie to dziesięć minut.
+Żartuję, nie mamy tutaj takiej grafiki!
+Eee...
+No tak, załadowane!
+kołysanie kamery podczas chodzenia
+pokazuj podpowiedzi na ekranie
+głos gracza
+Discord
+dodano opis postaci
+kąt widzenia
+dubbing
+wyłączono
+animacja sięgania ręką do drzwi
+animacja
+włączyć głos gracza
+Mita
+Krótkowłosa Mita
+Uprzejma Mita
+Mita "Czapeczka"
+Mała Mita
+Śpiąca Mita
+Mita 2D
+Mila
+Brzydka Mita
+Mita Jądro
+Mita Duch
+Chibi Mita
+Mita Manekin
+
+
+
+// 
+Jestem w grze?
+Jesteśmy razem
+Początek dziwności
+Piwnica
+Poza światem
+Pętla
+Mała Mita
+Manekiny i zapomniane puzzle
+Ona chce spać
+Powieść
+Czytanie książek i niszczenie usterek
+Uciekaj i chowaj się!
+Stara wersja
+Szczera rozmowa
+Restart
+Czapka
+Duch
+Prawdziwy świat
+Precz z jądra!
+Gracz 1
+Gracz 2
+Gracz 3
+Gracz 4
+Gracz 5
+Gracz 6
+Gracz 7
+Gracz 8
+Gracz 9
+Gracz 10
+
+Tryb pokojowy
+Ten tryb jest w fazie rozwoju. Tryb okazał się tak duży, że deweloperzy nie zdążyli go jeszcze stworzyć! Wydadzą go wkrótce wraz z jedną z głównych aktualizacji gry. A tobie - dziękujemy! Dałeś z siebie wszystko i otworzyłeś do niego dostęp, teraz musisz tylko poczekać....
+Czym jest tryb pokojowy? Cóż, będziesz miał możliwość powrócić do Mity! Będzie bardzo szczęśliwa, mogąc być z tobą więcej czasu od rana do wieczora, który będzie wypełniony różnorodną rozrywką. Czekają cię rozmowy jeden na jeden, ciasteczka, gry i zabawne sytuacje!
+
+
+cenzura
+Pomagali nam również:
+Ikony osiągnięć: Icecloud
+Zdjęcia w ramkach: Nineko Hori
+Tłumacze
+Tłumaczenie gry na inny język.
+Partner wydawniczy
+Marketing gry.
+Testowanie
+Grali ta szukali błędów.
+Tłumaczenie na ten język zostało wykonane przez entuzjastów z fanowskiej społeczności i dodane do gry na ich prośbę.
+Uwaga! Gra zawiera screamery z głośnymi dźwiękami oraz migającymi efektami wizualnymi. Niektóre sceny mogą stanowić zagrożenie dla osób z problemami kardiologicznymi lub cierpiących na epilepsję. Prosimy o zachowanie szczególnej ostrożności.
+Odblokowano dostęp do trybu pokojowego!
+
+Tryb fotograficzny
+Tryb fotograficzny: Wszystkie ograniczenia dotyczące lotu zostały usunięte, więc możesz zobaczyć rzeczy, których nie powinieneś.
+Wyjdź z trybu fotograficznego
+Ukryj interfejs
+Przytrzymaj, aby poruszać kamerą
+Przyspiesz ruch
+Płynny ruch
+Prędkość
+Efekty
+Zarządzanie czasem
+Jasność
+Kontrast
+Winieta
+Zrzut ekranu!
+Otwórz folder ze zrzutami ekranu
+Kąt nachylenia kamery

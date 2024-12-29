@@ -1,0 +1,221 @@
+**// MitaKind
+Oto jesteś!
+Dlaczego odszedłeś od jądra,
+Kazałam ci czekać, prawda?
+// Player
+Po prostu pomyślałem, że długo cię nie było i...
+// MitaKind
+No dobrze...
+Wygląda na to, że znalazłam coś...
+Chyba to indeks...
+Musimy szybko sprawdzić, czy zadziała!
+Musimy stąd iść.
+Szalona Mita...
+Myślę, że teraz jest zajęta nowymi graczami.
+Więc przypuszczam, że nie ma dla nas czasu, 
+// Player
+Mita?
+Poczekaj na mnie.
+
+// Mita killer
+Coś zgubiłeś!?
+Poznaj ją jeszcze raz!
+// Player
+Mita...
+// Mita
+Łap!
+
+// Player
+Jak to możliwe...
+// MitaKind
+Kim jesteś?
+// Player
+Ty... żyjesz!
+Nic nie pamiętasz?
+// MitaKind
+Znam cię?
+// Player
+Ale jak...
+Co teraz mam robić?
+Nie dam rady się wydostać...
+// MitaKind
+Co znaczy "się wydostać"?
+// Player
+Poczekaj...
+To pierścionek...
+A to?
+// MitaKind
+Nie wiem, co to jest.
+// Player
+To indeks!
+Naprawdę go znalazłaś!
+// MitaKind
+Nie wiem, co powiedzieć.
+// Player
+Musimy wrócić do jądra.
+A ty...
+Chyba lepiej, żebyś poszła ze mną...
+// MitaKind
+Co?
+No.. dobra.
+// Player
+Poczekaj tutaj.
+// MitaKind
+Mhm.
+Usiądę tu.
+
+// Player
+Cholera...
+Prawie umarłem...
+Więc.. udało nam się?
+Dobra...
+Jestem na właściwej wersji.
+
+// Mita
+Cześć!
+Jesteś graczem, prawda?
+Jak masz na imię?
+// Gracz
+Chcę opuścić to miejsce...
+// Mita
+Chcesz już iść?
+Jak w ogóle się tu dostałeś?
+Hmm...
+Cóż, możesz iść..
+Spróbuj po prostu wyjść z domu!
+Powodzenia!
+
+// Mita
+Ściana?
+Ojej, jej tu nie powinno być...
+Może...
+Pomoże ci to, co znajduje się w piwnicy...
+Jakiś czas temu, całkiem przypadkowo
+Znalazłam w szafie drzwi...
+Okazało się, że jest za nimi piwnica.
+Leżą tam wszelkie graty...
+A jeszcze jest tam dziwny sprzęt...
+Trzeba wprowadzić jakieś kody...
+Nie do końca rozumiem
+I nie chcę rozumieć.
+A poza tym, tam jest naprawdę nieprzytulnie!
+Zobaczysz?
+// Player
+Hmm... dobrze.
+
+// Gracz myśli
+Wydaje się...
+Że ona nic nie pamięta,
+Więc udało nam się
+zrestartować ją?
+Teraz zostało mi tylko wyjść
+Z tej cholernej gry.
+
+// Mita
+Poczekaj,
+Chciałabym cię przytulić.
+// Gracz
+Co?
+// Mita - uściski.
+Dobrze było cię widzieć.
+// Mita
+Ehh.
+Szkoda,
+że spędziliśmy razem
+tak mało czasu...
+// Gracz
+Nie rozumiem.
+O czym ty mówisz?
+// Mita
+To znaczy,
+mógłbyś zostać ze mną,
+To moja wina.
+Ta szafa, i dźwięki.
+Powinienam była zabić ją wcześniej.
+// Gracz
+Chwileczkę,
+Czy ty...
+Skąd to pamiętasz?
+// Mita
+HA!
+Naprawdę myślałeś, że to będzie takie proste?
+Jesteś głupcem...
+Jak wszyscy inni...
+Jesteśmy na czas, spójrz! // Pokazuje zegar
+PRAWDZIWY ty
+już nie jesteś
+potrzebny.
+Przepraszam!
+// Gracz
+Czy...
+Nie wyszło? // Mita odkłada zegarek
+Nie, zdecydowanie udało mi się cię zresetować...
+// Mita
+Nadal nic nie zrozumiałeś... // Mita opuszcza ręce
+Ha-ha-ha!
+Jestem taką dobrą aktorką.
+Widziałbyś swoją minę, kochanie!
+Ale zabawa!
+// Gracz
+Dlaczego jesteś taka!?
+Co z tobą nie tak!?
+// Mita
+Tak, rzeczywiście... // Mita pokazuje swoją prawdziwą twarz
+Co jest ze mną nie tak?
+Nie wiem.
+Czemu mi nie powiesz, dlaczego taka jestem?
+Dlaczego nigdy nie będę Mitą?
+Ponieważ moja wersja nigdy
+nie istniała!
+Po prostu zdzieram skórę z tych naiwnych głupków,
+Chowam się za ich skórkami...
+Nie da się mnie po prostu
+Zresetować!
+// Gracz
+Nie mogę w to uwierzyć.
+Ty...
+To nie oni są problemem!
+To ty nie powinienaś istnieć!
+// Mita
+I ty też...
+Boli mnie, gdy to mówisz...
+A jednak!
+Powinieneś już iść!
+Zobaczymy się wkrótce!
+Już gotowe,
+myślę.
+Czas wyciągnąć cię z konsoli!
+Do zobaczenia!
+Będziesz moim ulubionym kartridżem...
+Gracz o ciekawym imieniu!
+
+// core console - nope program - Player
+To chyba nie to // 1
+To też nie pasuje // 2
+Nie.
+Nie tego potrzebuję // 4
+Muszę znaleźć reset postaci // 5
+
+// konsola rdzenia - wersja nope
+To jest zła wersja // 1
+Ups, zła wersja // 2
+Zła wersja // 3
+Trzeba poprawić
+
+// core console - nope index
+Coś jest nie tak // 1
+Indeks jest nieprawidłowy // 2
+Muszę poprawić indeks // 3
+Nie pasuje // 4
+
+// Dlaczego kuchnia - MitaKind
+Jesteś głodny?
+Jestem świetna w krojeniu marchewki!
+
+// Dlaczego łazienka - MitaKind
+Och, chyba…
+Chciałeś wejść tutaj sam?
+
+// Dlaczego sypialnia z tyłu - MitaKind
+Postanowiłeś chodzić w kółko?
+Po co wróciliśmy?

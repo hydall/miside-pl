@@ -1,0 +1,14 @@
+// Brak zadania
+Nic
+// Zadanie "Pierwszy"
+Gdzie byłaś przez cały ten czas? // 1
+Jak się tu dostałaś?
+Co to była za Mita przed chwilą? //3
+Jak działa pierścionek?
+Po co jestem potrzebny Szalonej Micie? // 5
+To jądro? // 6
+// Quest "Drugi"
+Co ci jest? // 1
+Czy jest jakiś sposób, by go znaleźć? // 2
+A co, jeżeli zaatakujemy Szaloną Mitę? // 3
+Małe ludziki // 4

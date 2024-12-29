@@ -1,0 +1,9 @@
+// Start gracza
+Gdzie jestem?
+Znajome miejsce.
+Jestem w tej grze?
+// Gracz próbuje otworzyć drzwi
+Zamknięte?..
+// Gracz w ciemności
+Jest tu ciemno.
+Nic nie widzę.

@@ -1,0 +1,246 @@
+// MitaShorthairs
+Hola-hola!
+Tylko mów ciszej...
+Dalej iść niebezpiecznie,
+A w ogóle...
+Jak tu trafiłeś?
+// Gracz
+Ehh...
+Pierścionek otwiera mi odpowiednie drzwi,
+Nie jestem pewien, jak to działa...
+// MitaShorthairs
+Pierścionek?
+// Gracz
+Co z tym miejscem?
+Dlaczego tu tak ciemno?
+// MitaShorthairs
+Później ci opowiem,
+Idź w stronę wyjścia,
+Spotkasz mnie koło automatu do gier.
+
+
+// (MitaShorthairs)
+Idź-Idź, nie zwlekaj!
+
+// Po mini-grze
+// MitaShorthairs
+No co? Zrozumiałeś sens tej gry?
+// Gracz
+Za moją skórą są kości, a za waszą manekin?
+// MitaShorthairs
+Oho!
+Brzmi strasznie.
+Boję się, że to dokładnie tak!
+// Gracz
+Zrozumiałem, ale po co mam to wiedzieć?
+// MitaShorthairs
+Myślisz, że tak po prostu ci powiedziałam,
+że dalej iść - niebezpiecznie?
+Tam spotkasz tych manekinów...
+Tych, którzy zostali odrzuceni, którzy "się nie udały".
+Są bardziej agresywni niż zwykle, po co ci to?
+// Gracz
+A co mam robić?
+Gdzie otworzą się drzwi,
+tam pójdę.
+// MitaShorthairs
+Ależ ty jesteś!
+To nie odwracaj się do nich plecami
+I nie spuszczaj z nich wzroku!
+Zbyt się zawstydzają, gdy patrzysz na nie,
+Na tyle, że kamienieją.
+Myślę, że to pomoże!
+
+
+
+
+
+
+
+// zadanie 1 - MitaShorthairs
+Właśnie dostali skórki,
+Teraz potrzebują czasu
+By zyskać trochę samoświadomości.
+Potem muszę zabrać każdą z nich
+Do jej własnego domu.
+
+// zadanie 2 - MitaShorthairs
+Mity w zasadzie "rodzą się" w ciemności.
+Dlatego na początku muszą jeszcze trochę postać w ciemności...
+Wyobrażasz sobie,
+Jak im boli od razu wychodzić na światło?
+
+// zadanie 3 - MitaShorthairs
+A ty jeszcze nie zrozumiałeś?
+Pomagam biednym Mitom się zaaklimatyzować!
+Kto im pomoże, jeśli nie ja?
+Ty?
+
+// zadanie 4 - Gracz
+Po co ta taśmą produkcyjną?
+Czy wystarczy miejsca dla wszystkich?
+// MitaShorthairs
+Poczekaj, a ty w ogóle rozumiesz,
+Jak działa nasz świat?
+I to, że jest nieskończony?
+// Gracz
+Nieskończony?
+Hmm...
+Ale jak?
+Jeśli najnowsza wersja to 1.9.
+Oznacza to, że jest tylko 19 światów.
+// MitaShorthairs
+O mój Boże, myślę, że w ogóle
+Nie ogarniasz tego światu.
+Mogę ci na tej tablicy
+Wszystko opisać.
+Chciałbyś?
+
+// zadanie 5 - Gracz
+Myślę, że
+widziałem cię w najnowszych wersjach.
+A może tylko mi się wydaje.
+// MitaShorthairs
+Może!
+Moja wersja to 1.5.
+Byłeś tam?
+// Player
+Tak.
+Pierwszy raz, kiedy tu trafiłem,
+Znalazłem się tam!
+// MitaShorthairs
+Whoa!
+Jak to...
+Ciekawe, do którego numeru domu trafiłeś.
+Jest "Ja", która zawsze narzeka.
+Jest "Ja", która zawsze kocha grać.
+I jest "Ja", która wiecznie zapomina i straszy.
+Och, można by wymieniać długo...
+Pamiętasz coś?
+// Gracz
+Było ciemno.
+Widziałem też napisy,
+Coś w stylu.
+Zagrajmy.
+// MitaShorthairs
+Och...
+Co za wstyd.
+To jednak ta,
+Która straszy i zapomina.
+
+// MSHairs chce ci powiedzieć [Nie] - Gracz
+Nie muszę,
+Mogę się bez tego obejść.
+// MitaShorthairs
+Hmm, ok.
+
+// MSHairs chce ci powiedzieć [Tak] - Gracz
+Dobra, mów.
+Mam nadzieję, że nie będzie jak na lekcji,
+i nie zasnę z nudów.
+// MitaShorthairs
+Możesz iść, jeśli chcesz.
+A jeśli jesteś zainteresowany,
+to słuchaj.
+Gracz ściągnął MiSide na telefon. // Wskazuje na tablicę
+Siedzi zadowolony i gra.
+W ten sposób stworzył nowy dom,
+I nową Mitę. // Wskazuje na wersje
+Tutaj masz dwuwymiarowe przedstawienie.
+Oto wersje, // Wskazuje na wersje
+Są przedstawione jako linie. // Wskazuje na linie
+Na tych liniach znajdują się domki. // Wskazuje na kółka
+Czyli, jeśli gracz ściągnął grę w wersji 1.14,
+To znaczy, że w tej wersji rodzi się
+Nowe życie, Mita i jej domek.
+// Gracz
+Niesamowite...
+// MitaShorthairs
+Możesz zapytać o konkretne rzeczy,
+Które tutaj są narysowane.
+Postaram się wyjaśnić.
+
+// Pyta o jedyny okrąg - Gracz
+Dlaczego jest tylko jedno kółko?
+// MitaShorthairs
+Ta wersja została wydana jednorazowo.
+Nie jest dystrybuowana w żaden inny sposób,
+więc jest jedyna.
+Również cechą tej wersji jest to,
+Że nie można ją przeskoczyć.
+W wersji 1.1 mieszka Śpiąca Mita.
+// Gracz
+Śpiąca?
+To dlatego, że wszyscy przez nią przechodzą,
+nie dają jej się wyspać?
+// MitaShorthairs
+Nie.
+Mogę po prostu przejść obok jej drzwi,
+nawet nie zaglądając do niej.
+
+// Pyta o zacieniony okrąg - Gracz.
+Dlaczego ten okrąg jest zacieniony?
+// MitaShorthairs
+Właściwie, ten rysunek jest tutaj
+Dzięki Słodkiej Micie.
+To ona go narysowała.
+Kłóciliśmy się z nią,
+Jak najszybciej dostać się do wersji 1.11.
+// Gracz
+I kto wygrał tę kłótnię?
+// MitaShorthairs.
+Oczywiście, że ja!
+Spójrz, tutaj jesteśmy // Wskazuje na wersję 1
+Wersja 1.15.
+Indeks domu 809 // Wskazuje na okrąg 1
+Musimy dostać się do wersji 1.11 // Wskazuje na wersję 2
+Do indeksu domu 805 // Wskazuje na okrąg 2
+Początkowo jej ścieżka wyglądała następująco. // Rysuje linię do okręgu 1
+Szukaliśmy jeszcze krótszej ścieżki.
+Wtedy Słodka zaproponowała następującą ścieżkę. // Rysuje linię do okręgu 2
+Ale ja po prostu narysowałam najprostszą drogę.
+To przecież oczywiste!
+Patrz. // Rysuje linię do okręgu 3
+Stąd możesz przejść bezpośrednio do wybranej wersji.
+Chociaż wydawało się, że ten dom będzie przeszkadzał. // Rysuje linię do okręgu 3
+Co nie pozwoliłoby na przejście.
+Przy okazji, twój pierścionek działa na tej samej zasadzie.
+Gdzie cię wysłali?
+// Gracz.
+Zmierzam do jądra.
+// MitaShorthairs
+Do jądra?
+Ciekawe...
+Jeśli skierowano cię krótszą drogą,
+To znaczy, że też odwiedzisz wersję 1.11.
+Potem na pewno trafisz do Śpiącej Mity.
+Myślę, że Mita, która cię skierowała,
+Stworzyła taką samą drogę.
+Albo nie ogarnęła i odwiedzisz jeszcze jedną wersję.
+Albo jest geniuszką,
+która wymyśliła jeszcze krótszą drogę!
+// Gracz
+Chyba zrozumiałem.
+
+// Pyta o napis - Gracz
+A to?
+// MitaShorthairs
+To dla Odjazdowej Mity.
+Będzie tu za kilka godzin.
+Niech już zabierze te pudełka.
+I postawi tu kanapę!
+Bo już mnie tyłek boli!
+// Gracz
+Ehh...
+Mogę pomóc?
+// MitaShorthairs
+Nie, to dla Odjazdowej Mity.
+Jest silna.
+
+// Pyta o rysunki - Gracz
+To po prostu rysunek?
+Czy
+Też coś znaczy?
+// MitaShorthairs
+No tak.
+Po prostu rysunek.

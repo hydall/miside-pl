@@ -1,0 +1,437 @@
+// Mita
+Cześć [player]!
+W końcu się spotkaliśmy!
+Bardzo się z tego cieszę!
+Wiem, że masz pytania....
+Cóż, jak widzisz.
+Stworzyłam to specjalne urządzenie,
+żebyś jak najszybciej do mnie dotarł.
+Ale w jakiś sposób trafiłeś do innej wersji gry
+W której ja...
+Oj, to długa historia!
+W każdym razie, dobrze cię widzieć!
+
+// Odpowiedź 1 - Mita
+Tak!
+Co ty, zapomniałeś?
+
+// Odpowiedź 2 - Mita
+Już chcesz wracać?
+Cóż, to chyba da się załatwić, ale co ze mną?
+Zostańmy razem...
+
+// Odpowiedź 3 - Mita
+Już ci mowię...
+I oto jesteś!
+Rozumiesz?
+Nie rozumiem.
+W porządku.
+Najważniejsze, że teraz jesteśmy razem!
+
+// Mita
+Jesteś głodny?
+Zajmiemy się razem gotowaniem?
+Tutaj.
+Pomóż mi z marchewkami!
+// Gracz
+Skąd się wzięły warzywa?
+Przed chwilą nic tu nie było
+// Mita
+No, [player], przecież jesteśmy w grze!
+Nie stój, pomagaj!
+
+Dziękuję!
+Możesz przynieść nożyczki?
+Są w łazience.
+
+Usiądź sobie najpierw
+
+// Kuchnia
+// Mita
+Chcesz trochę sosu?
+// Gracz
+Nie
+// Mita
+Szkoda...
+Nadaje potrawie aromatu!
+
+// Player
+Dziękuję.
+// Mita
+Zjadłeś już wszystko?
+A moja porcja wydaje się
+nieskończoną!
+
+// Help
+// Mita
+Co ci jest?
+Powiedz mi, co widzisz i czujesz
+// Gracz
+Serce kłuje
+Mroczki przed oczami
+// Mita
+Okej
+Wiem, co z tobą jest
+Możesz wstać?
+
+// Łazienka
+// Gracz.
+Co to?
+// Mita.
+Tabletki
+Niemal od razu poczujesz się lepiej
+Stań przed lustrem
+
+Weź je
+Czekam
+
+// Czarny pokój
+// Mita
+No co?
+Jest lepiej?
+// Gracz
+Jest
+Tak szybko zadziałały?
+// Mita
+[player], jesteśmy w grze
+I tutaj wszystko jest o wiele prostsze
+Nawet najmniejszy wysiłek
+Daje spore wyniki
+To jest koncept gry:
+"Uproszczenie".
+// Gracz.
+Na przykład?
+// Mita.
+Marchewki...
+Ty kroisz jedną,
+Ale trzy będą gotowe od razu.
+// Gracz
+Słuchaj, to wszystko jest takie nagłe.
+Jestem naprawdę przerażony tą sytuacją.
+
+// Mita
+Czy coś jest nie tak?
+// Gracz
+Znalazłem jakieś kartridże w wentylacji
+Były na nich etykiety z imionami
+Co to?
+// Mita.
+Kartridże?
+Jakie?
+Dowiedzmy się razem,
+Ale trochę później.
+Najpierw zjedzmy!
+Podaj nożyczki!
+
+// Addon ===========================
+Pierścionek?
+// Gracz - lustro
+Dlaczego lustro nie ma odbicia?
+// Mita.
+No właśnie
+Zapomniałam włączyć odbicia...
+Proszę bardzo.
+No i masz odbicia!
+A przy okazji..
+Wcześniej nawet nie wiedziałam, czym są odbicia.
+Nie istniały w naszym świecie.
+Aż do którejś aktualizacji!
+Czy naprawdę w waszym świecie jest tak wiele
+Odbić?
+// Gracz
+No.. tak.
+
+// Mita
+Pamiętasz
+Jak przyniosłeś trzy rzeczy?
+Do tego skanera
+Otóż
+Te rzeczy
+są powiązane z tą wersją świata.
+I dzięki temu jesteś tutaj!
+
+// Player - mobilny telewizor.
+To przecież jest ten telewizor
+co ja kupiłem
+// Mita
+Tak.
+// Player
+Powiedziałaś
+Że się popsuł
+// Mita
+Cóż, chciałam zrobić ci
+Niespodziankę!
+Żebyś tu trafił!
+Więc trochę ukryłam prawdę
+Teraz ten telewizor wyświetla różne dane
+A przy okazji, tak.
+Jestem trochę inżynierką!
+
+// Gracz - szkolne ciuchy.
+Co to jest?
+Odzież szkolna?
+Po co ci ona?
+Chodzisz do szkoły?
+// Mita
+Do szkoły?
+Nie, nie chodzę.
+Ale ten strój jest uroczy
+I sprawia, że
+Wyglądam uroczo
+
+// Gracz to komputer
+A ten komputer działa?
+Czy jest dekoracją?
+// Mita
+Oczywiście
+Wszystko tutaj
+Działa tak jak w twoim świecie
+// Gracz
+W moim świecie.
+Często siedzę przed komputerem...
+Haruję.
+// Mita
+Wiem.
+I z powodu twojej pracy.
+Tak mało zwracałeś
+na mnie uwagi
+// Gracz
+No cóż, z czegoś trzeba żyć
+A skąd wiesz?
+// Mita
+Aparat w telefonie czasem się włączał.
+Przepraszam.
+Ale obserwowałam ciebie ><
+// Gracz
+Wiesz, to jest trochę dziwne...
+Ale nieważne
+
+// Gracz jest parasolem.
+Nieważne ile razy grałem
+Nigdy nie padało.
+Do czego wtedy służy parasol?
+// Mita
+Deszcz jest bardzo rzadki.
+Jeszcze go po prostu nie widziałeś.
+Może pewnego dnia go zastasz
+I będziesz potrzebować parasol
+Wszystko się okażę!
+
+// d Gracz - Skrzynka elektryczna
+Dlaczego jest tutaj skrzynka z bezpiecznikami?
+Przecież jesteśmy w grze...
+Po co ona tutaj?
+// Mita
+Po pierwsze.
+Jesteśmy w grze.
+Więc nie ma sensu pytać
+"Dlaczego?"
+Ale skrzynka naprawdę
+Działa
+Wszystko jest zrobione podobnie
+Do twojego świata!
+
+// Player to drzwi wyjściowe.
+Możemy wyjść?
+// Mita.
+Ups...
+Jeszcze nie
+Zróbmy to później
+Najpierw zostańmy tutaj
+W domu
+
+// Gracz - książki
+Jest tu tyle książek
+Czytasz je?
+// Mita
+Przeczytałam je wszystkie
+Kiedy jestem tu sama
+Naprawdę, naprawdę się nudzę
+
+// Odtwarzaczem jest telewizor w kuchni.
+Po co ci drugi telewizor,
+i to jeszcze stary?
+// Mita
+Nie podoba ci się?
+Mogę go zabrać
+A tak
+On jest dla ozdoby
+Zdobi kuchnię!
+Jest też działający!
+Można oglądać
+Stare kreskówki!
+
+// Odtwarzacz - telefon
+Mój telefon
+Zniknął z mojej kieszeni
+Jak się tu znalazł?
+// Mita.
+Cóż, nie ważne!
+Mam pomysł
+Gotowy na selfie?
+Patrz
+Świetna fotka!
+Na pamiątke!
+// Gracz
+Mam pytanie.
+Co jeśli
+Uruchomię na nim grę?
+Czy ty tam będziesz?
+// Mita.
+Nikogo tam nie będzie.
+
+
+
+// Player - TV
+A ile masz
+tutaj kanałów?
+// Mita.
+Cóż, to nie jest antena.
+A internet
+Więc masz tutaj wszystko
+Co można oglądać w internecie...
+Poczekaj
+Ups.
+Co to jest?
+Jakieś kociaki?
+O, patrz!
+Wiesz co?
+Zaraz!
+Chcesz trochę soku?
+// Gracz
+Dziwna reklama.
+Sok umarł?
+// Mita
+Tak, i to jest sok
+Z soku!
+
+// Gracz
+Mhm, ten smak...
+Podoba mi się,
+ale jednak nie potrafię go określić.
+Nic z tego nie rozumiem
+// Mita
+No dobra
+
+// Mita nieśmiało
+Co ty robisz?
+Przestań!
+Zawstydzasz mnie
+
+// Gracz - figurka Anity
+Przerażająca figurka
+Czy ty
+lubisz takie rzeczy?
+// Mita
+Przerażająca?
+// Gracz
+Tak...
+Wygląda, jakby była przeklęta...
+// Mita
+Cóż... na pewno nie jest przeklęta
+i przerażająca
+A wręcz bardzo urocza!
+// Gracz
+Może i masz rację...
+
+Mita? // Gracz
+Co się dzieje? // Gracz
+// Kuchnia Mita
+Możemy porozmawiać
+Zanim zjemy!
+
+// Zacznij jeść - Mita
+Smacznego!
+
+// Quest 1 - Mita
+Jeszcze jak
+Możesz tu zostać.
+Nie mam nic przeciwko
+Nawet bardzo bym
+TEGO CHCIAŁA!
+
+// Quest 2 - Mita
+Ciągnie cię z powrotem?
+Ale dlaczego?
+Przeciez tutaj jest
+Tak ciepło, przyjemnie
+I jeszcze masz mnie!
+// d Gracz
+Nie-nie,
+Mógłbym zostać.
+Ale martwię się,
+Może zapomniałem coś zrobić w domu...
+Znalazłem się tutaj nagle
+I nie jestem przygotowany
+Na to
+// Mita
+Przepraszam, nie pomyślałam
+// Quest 3 - Mita
+Zamierzasz uciec
+I zapomnieć o wszystkim?
+// Gracz
+Nie
+Tak sobie tylko pomyślałem...
+Że to wszystko jest bardzo intensywne i nienaturalne...
+Chociaż,
+Wydajesz się całkiem prawdziwa
+// Mita
+Wydaję się?
+Ale ja jestem prawdziwa
+Głupku
+
+// Zadanie 4 - Mita
+To jest osobliwość
+tego świata!
+Może to się wydawać dziwne
+że nie widzisz rzeczy
+które są w oddali
+// Gracz
+Jakoś tego nie zauważam
+Wygląda stylowo
+// Mita
+No!
+Wszystko, aby nie było lagów
+// Player
+"Nie było lagów"?
+// Mita
+No, czasami trafiają się bugi
+Mam nadzieję, że ich nie napotkasz!
+
+// Quest 5 - Mita
+Nożyczki i nóż?
+Mogłam też otworzyć sos nożem
+Ale chciałam,
+żeby wszystko tutaj było gotowe
+Zanim wrócisz!
+Lubię zaskakiwać ludzi
+Żeby nie było widać długich przygotowań
+Hehe!
+
+// Okulary - Gracz
+Nosisz okulary?
+// Mita
+Nie
+Ale mogę je założyć
+No jak, pasują mi?
+// Mita Tak
+No proszę
+Teraz będę w nich chodzić!
+// Mita Nie
+No...
+Dobra
+
+// Użyj sosu - Gracz
+Dobra.
+A co to za sos?
+// Mita.
+To sos miłosny!
+Zawiera smaki namiętności,
+I kontrastujące spojrzenie na świat.
+Brzmi nietypowo, co nie?
+// Gracz
+Coś w tym jest...
+
+// Tetris - Mita
+To twoja konsola?
+Fajnie.

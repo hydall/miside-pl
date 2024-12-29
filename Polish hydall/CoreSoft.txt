@@ -1,0 +1,58 @@
+Uruchamianie aplikacji
+
+Podaj login
+Login jest nieprawidłowy
+Programy
+Powrót
+
+Menedżer urządzeń wirtualnych
+Ewidencja jednostek serwera [Wybierz wersję]
+Monitorowanie głównego procesora [Wybierz wersję]
+Monitorowanie procesów graficznych [Wybierz wersję]
+Quadra Liner
+Zakończ grę
+
+
+Zaawansowana administracja systemem
+Restart postaci [Wybierz wersję]
+Restart jednostki [Wybierz wersję]
+Aktualizacja wersji [Wybierz wersję]
+Przeliczanie geometrii [Ogólne]
+
+
+
+
+Przywracanie systemu
+Wyszukiwarka błędów [Ogólne]
+Antywirus [Ogólne]
+Konsola poleceń [Ogólne]
+
+
+
+
+Funkcje wysokiego poziomu
+Usuń obiekt [Wybierz wersję]
+Wyświetlanie kamer [Wybierz wersję]
+Wyświetlanie triggerów [Wybierz wersję]
+Ustawienia silnika fizyki [Wybierz wersję]
+Otrzymaj pendrive
+
+
+
+Funkcje niskiego poziomu
+Edytor kodu binarnego [dostęp specjalny]
+Edytor macierzy jednostki [dostęp specjalny]
+
+
+
+
+
+Określ wersję postaci
+Określ indeks postaci
+Potwierdź ponowne uruchomienie
+Użyj dźwigni
+Uruchomienie podprogramu
+Proces ponownego uruchamiania jest w toku!
+Przygotowanie do ponownego uruchamiania
+Ponowne uruchamianie...
+Potwierdź

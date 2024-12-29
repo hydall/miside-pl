@@ -1,0 +1,35 @@
+Wymagane skanowanie!
+Wymagania
+Wersja
+Liczba kości
+Nie znaleziono. Wymagane skanowanie!
+Zeskanowano
+
+
+
+
+
+
+
+
+
+
+
+Whoo-hoo! Udało ci się!
+Zadanie zostało wykonane!
+
+// Wskazówki
+Hej, co ja tu robię?
+Muszę dostać się do twojego ekranu.....
+Zaraz...
+A więc!
+Musisz upewnić się, że ten prototyp jest pasujący.
+Najpierw go zeskanuj.
+Teraz porównamy wersję i informacje o kościach.
+Weź folię z danymi tego prototypu i porównaj ją z wymaganym standardem.
+Pasuje, dobrze! Sprawdźmy teraz emocje.
+Egzemplarz pomyślnie pokazuje emocje! Teraz sprawdźmy zachowanie.
+Dobrze, sprawdziliśmy wszystko i pasuje! Teraz pociągnij dźwignię do góry.
+Tak! Teraz pojawił się jej skin! Podaj jej pudełko z ubraniami.
+No i tyle! Widzisz te światła na górze? Jedno z nich zmieniła kolor na zielony, co oznacza, że wszystko zrobiliśmy dobrze!
+Teraz ogarnij to sam. Wrócę, gdy wszystkie światła zmienią kolor na zielony. Powodzenia!

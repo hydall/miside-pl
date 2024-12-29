@@ -1,0 +1,11 @@
+// Brak zadania
+Nic
+// Zadanie
+Ty jesteś Mita, prawda? // 1
+Co się z tobą stało? // 2
+Zostać drugim kolegą? // 3
+Czy to twój dom?
+Jak mogę opuścić to miejsce? // 5
+
+// TV
+DATA PREMIERY!

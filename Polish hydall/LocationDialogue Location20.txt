@@ -1,0 +1,92 @@
+// Gracz
+Mila! Nie! Jesteś chora!
+// Mita
+Ha ha! CO JA WIDZĘ?
+Nowa emocja na twojej twarzy?!
+No dalej, pokaż więcej, więcej!
+Znudziło mi się już patrzenie na to samo!
+
+// Mita arena "Hello" - Mita
+Co tam, mój niespokojny?
+Nie masz już dość włóczenia się?
+// Gracz
+Co zrobiłaś Mili?
+// Mita
+Więc nie masz!
+Zagrajmy razem jeszcze raz!
+// Gracz
+Ty...
+// Mita
+Zacznijmy od małego testu!
+Sprawdźmy twoją koordynację!
+Zbadamy twoje zachowanie!
+A co, jeśli coś jest z tobą nie tak!?
+A co, jeśli nie zasługujesz na tę SKÓRĘ,
+którą dumnie nosisz?
+
+// Pokaż noże
+Zobacz,
+Który wybierzysz?
+Prawy
+A może
+Lewy?
+
+// Noże do rzucania
+Jesteś poważny?
+Co za różnica?
+Ja tylko żartowałam!
+Zapomnij, dźgnięcia to już przeszłość.
+No cóż, nieważne.
+Mam lepsze pomysł.
+A na początek...
+// Rejestrator pokazu
+Zobacz, co mam!
+Potrzebujemy muzyki!
+Co sądzisz o tej melodii?
+Sprawia, że jestem podekscytowana!
+Zacznę
+Od zasad!
+// Zasady show
+Podczas grania tej melodii,
+możesz się poruszać.
+Jeśli nie ma melodii
+Nie ruszaj się!
+Inaczej zginiesz.
+Patrz, musisz dotrzeć do końca.
+Jeśli ci się uda,
+to gramy dalej!
+No co tam stoisz?
+Biegnij, dzieciaku, biegnij!
+
+// Nagrywarka gotowa - Mita
+Och!
+Jesteś taki posłuszny!
+Świetny egzemplarz!
+Chcę cię dla siebie!
+Choć to było super proste, nieprawdaż?
+// Gracz
+Puść mnie!
+// Mita
+Nie rozluźniaj się!
+Mamy jeszcze wiele gier do rozegrania!
+Dobra!
+Teraz zamknę oczy...
+A kiedy je otworzę.
+Nie powinno być po tobie ani śladu, ani wieści!
+Zrozumiałeś?
+Jeśli cię zobaczę, ukarzę cię!
+Dobra, zaczynajmy!
+// Gracz
+Bez sensu...
+
+// Gotowy do ukrycia się - Mita
+Udało ci się!
+Świetnie sobie radzisz! Ekscytujące!
+Teraz będzie trudniej!
+Wielokrotnie trudniej...
+Kryj się! Uciekaj! A potem kręć się!
+// Gracz
+Niech cię szlag!
+
+// Upadek gracza - Gracz
+Chyba już po wszystkim...
