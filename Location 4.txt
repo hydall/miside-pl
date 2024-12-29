@@ -2,5 +2,5 @@ Wymagania: Ukończ główną grę.
 Zagraj na konsoli.
 Spróbuj sosu.
 Zignoruj wentylację.
-Podnieś magnesy z lodówki.
-Nie zaglądaj do piekarnika.
+Podnieś magnesy spod lodówki.
+Nie zaglądaj do piekarnika!
