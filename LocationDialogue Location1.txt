@@ -16,15 +16,15 @@ Pomożesz mi posprzątać?
 Wow..
 Nie wiem jak ci dziękować!
 
-[Player], Burczy mi w brzuchu
+Hej [Player], burczy mi w brzuchu...
 Jestem taka głodna....
-Dałbyś radę pomóc mi zdobyć składniki na rosół?
+Możesz mi kupić składniki na rosół?
 Hura! Mamy już wszystko!
-Może ugotujemy go razem?
+Przygotujemy go razem?
 
 
-Myślałam nad kupnem podręcznego telewizora.
-Takiego małego z anteną. Idealnego na pikniki. Co o tym myślisz?
+Hej [player]! Myślałam nad kupnem przenośnego telewizora.
+Wiesz, takiego małego z anteną. Idealnego na pikniki. Co o tym myślisz?
 Tak przy okazji, Możesz grać w gry, żeby zdobyć pieniądze.
 Serio tego nie wiedziałeś?
 

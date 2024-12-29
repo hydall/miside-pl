@@ -12,34 +12,34 @@ Przekąski
 Napoje
 Stół
 Łóżko
-TV
+Telewizor
 Krzesło
 
 Dzień
 
 Powrót
 Kupiłeś
-Składniki na rosół
+Składniki na Rosół
 
 
 
 
-
+// AIHASTO
 Prezentuje
-
-Mini-Gry
+// Interfejs
+Mini gry
 Energia
-Elektroniczne
-Mechaniczne
-Platformowe
-Logiczne
-
-(1) Nowa wiadomość
-Obczaj nową wersję! Spodoba ci się!
-Załącznik
+Elektronika
+Przetwarzanie
+Platformówki
+Gry
+// Smartphone
+Nowa wiadomość (1)
+Obczaj nową wersję!
+Załączony plik
 
 Znajomy: M.K.
-
+// Days
 DZIEŃ [0]
 
 

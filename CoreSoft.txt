@@ -1,58 +1,58 @@
-Startowanie Aplikacji
+Uruchamianie aplikacji
 
 Podaj login
-Nieprawidłowy login
+Login jest nieprawidłowy
 Programy
-Wróć
+Powrót
 
-Zarządzanie Urządzeniami Mobilnymi
-Księgowanie Serwera [Wybierz Wersję]
-Monitorowanie Procesów Głównych [Wybierz Wersję]
-Monitorowanie procesów Graficznych [Wybierz Wersję]
-Czworokąt
-Koniec Gry
-
-
-Zaawansowany System Zarządzania
-Reset Postaci [Wybierz Wersję]
-Reset Urządzenia [Wybierz Wersję]
-Aktualizacja Wersji [Wybierz Wersję]
-Przeliczanie Geometrii [Ustawienia Ogólne]
+Menedżer urządzeń wirtualnych
+Ewidencja jednostek serwera [Wybierz wersję]
+Monitorowanie głównego procesora [Wybierz wersję]
+Monitorowanie procesów graficznych [Wybierz wersję]
+Quadra Liner
+Zakończ grę
 
 
-
-
-Reset systemu
-Rozwiązywanie problemów [Ustawienia Ogólne]
-Anty-wirus [Ustawienia Ogólne]
-Konsola komend [Ustawienia Ogólne]
+Administracja systemem
+Restart postaci [Wybierz wersję]
+Restart jednostki [Wybierz wersję]
+Aktualizacja wersji [Wybierz wersję]
+Przeliczanie geometrii [Ogólne]
 
 
 
 
-Funkcje Zaawansowane
-Usuń Obiekt [Wybierz Wersję]
-Wyświetlanie Obrazu [Wybierz Wersję]
-Wyświetlanie Triggerów [Wybierz Wersję]
-Opcje Silnika Fizycznego [Wybierz Wersję]
-Dostęp do Pamięci Fizycznej
-
-
-
-Funkcje podrzędne
-Edytor Kodu Binarnego [Dostęp Specjalny]
-Edytor Macierzy Jednostkowych [Dostęp Specjalny]
+Przywracanie systemu
+Wyszukiwarka błędów [Ogólne]
+Antywirus [Ogólne]
+Konsola poleceń [Ogólne]
 
 
 
 
+Funkcje zawaaansowane
+Usuń obiekt [Wybierz wersję]
+Wyświetlanie kamer [Wybierz wersję]
+Wyświetlanie triggerów [Wybierz wersję]
+Ustawienia silnika fizyki [Wybierz wersję]
+Otrzymaj pendrive
 
-Wprowadź Wersję Postaci
-Wprowadź Indeks Postaci
-Potwierdź Reset
+
+
+Funkcje podstawowe
+Edytor kodu binarnego [dostęp specjalny]
+Edytor macierzy jednostki [dostęp specjalny]
+
+
+
+
+
+Określ wersję postaci
+Określ indeks postaci
+Potwierdź ponowne uruchomienie
 Użyj dźwigni
-Odpal Program
-Zresetuj Działanie Programu
-Przygotowanie do Restartu
-Reset...
+Uruchomienie podprogramu
+Proces ponownego uruchamiania jest w toku!
+Przygotowanie do ponownego uruchamiania
+Ponowne uruchamianie...
 Potwierdź

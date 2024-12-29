@@ -10,9 +10,9 @@ Skąd tu się wziąłem?
 Co to za miejsce?
 Jak się tutaj znalazłaś?
 Co zrobiłaś z pierścieniem?
-Czy te przejście jest niebezpieczne?
+Czy te przejścia są niebezpieczne?
 Pomożesz mi uciec?
-Podobno masz plan.
+Wspomniałaś o jakimś planie.
 // Quest Mita z czapka.
 Czyli nic nie pamiętasz?
 Co myślisz o Micie z pierścieniem?
