@@ -85,7 +85,7 @@ Wciśnij.
 Muszę tu zostać.
 Jest parę pytań które muszę jej zadać
 Chce się dowiedzieć o niej i o mnie.
-Ale wątpię że połknie haczyk...
+Choć pewnie nie będzie zbyt chętna do rozmowy...
 
 // MitaKind quest 3
 Jesteśmy w mojej wersji gry.
@@ -147,4 +147,4 @@ Po co ci są ci wszyscy gracze?
 To nie zabawki!
 Co w ciebie wstąpiło?!
 
-Wystaczy! Morda w kubeł, idiotko!
+Wystaczy! Morda w kubeł, podróbko!

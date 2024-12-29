@@ -6,7 +6,7 @@ Co to za miejsce?
 Pokaż mi pierścień.
 Dobra...
 Gotowe!
-Chyba czas na wyjaśnienia nie sądzisz?
+Chyba czas na wyjaśnienia, nie sądzisz?
 // If the player did not approach the good Mitya and decided to play a race - Mita Kind
 Czekam tu na ciebie tyle czasu,
 A ty sobie beztrosko grasz?!
@@ -29,20 +29,20 @@ Sam widzisz, że ona jest szurnięta i tylko my możemy ją powstrzymać.
 
 // Quest 2 (How did I get here?)
 Pierścień cię tu przyprowadził.
-To niezwykły wynalazek.
-Pomaga graczom odnaleźć drogę
-Do prawidłowej wersji gry.
+To niezwykły artefakt.
+Gracze go potrzebują,
+Bez niego nie można podróżować pomiędzy wersjami.
 
 // Quest 3 (What is this place?)
 To są przejścia 
 Które prowadzą do różnych wersji gry.
 Tak, wiem że jest tu trochę pusto.
-Oh! Była taka jedna Mita która tu zabłądziła 
-I nie mogła znaleźć drogi do swojej wersji gry...
-Więc jej dom 
-Po prostu przestał istnieć...
-Podobno nadal gdzieś tutaj jest...
-Biedaczysko.
+Oh! Słyszałam o jednej Micie,
+której wersja świata nie została zarchiwizowana...
+Dom tej Mity
+Po prostu zniknął...
+Teraz podobno błądzi
+W tych korytarzach,
 Szkoda mi jej...
 
 // Quest 4 (How did you end up here?)
@@ -96,8 +96,8 @@ Paskudna Mita.
 I żeby nie było, to nie ja ją tak nazwałam!
 Po prostu...
 To najstarsza wersja Mity.
-Przez co błędy w jej pokoju
-są jeszcze liczniejsze i niebezpieczniejsze niż w innych wersjach...
+Przez co błędy, które generuje,
+są bardziej niebezpieczne niż w innych wersjach...
 Boję się że na nią trafimy
 W końcu jej wersja, była tą pierwszą...
 
@@ -129,7 +129,7 @@ Okej.
 Mhm...
 Nadszedł czas żeby przedstawić cię
 Czaderskiej Micie!
-Przez jej zajebistą czapkę,
+Przez jej superową czapkę,
 Nazywam ją 
 Czapcia.
 Planowałam z nią jak,
@@ -140,7 +140,7 @@ W drogę, [player]!
 Siemaneczko!
 Jesteś moim nowym... Graczem?
 Jak masz na imię?
-Imię?!...
+Ja...
 
 Czapciu!
 Czy ty...
@@ -331,8 +331,8 @@ Zagrać ci coś?
 Hura!
 Podejdź bliżej, słońce...
 Dobra!
-Szczerze myślałam że lepiej mi pójdzie...
-No cóż! Zdarza się najlepszym.
+No, mogłam zagrać coś innego,
+Ale dobra!
 // MitaCap Guitar No
 Przynudzasz...
 
@@ -392,10 +392,10 @@ Wiesz w ogóle co to za gra?
 Widzisz te liczby?
 To jest zegar.
 Jeśli liczby spadną do zera,
-będzie to znak.
-Żebyś wcisnął przycisk.
+i pojawi się zielony ptaszek,
+wciśnij przycisk.
 Ale jeśli będę szybsza,
-Albo wciśniesz go bez sygnału,
+Albo wciśniesz go w złym momencie,
 Dostaniesz młotem w łeb!
 
 Zamierzasz mnie tym walić?
@@ -445,10 +445,10 @@ I co, to tyle?
 Tak, to wszystko!
 Chodźmy dalej.
 
-
-
-
-
+// Dance - [not]
+Cracker
+Bubbly Drink
+Balloon
 
 
 // GAME DANCE
@@ -490,7 +490,7 @@ I kto tu rządzi?
 // MitaCap = Lose 2
 Ojoj!
 Trzy przyciski,
-I moje szybciutkie nogi!
+A ruszasz się jak stary dziad!
 
 // MitaCap = Lose 3
 Może jakbyś usiadł
@@ -567,8 +567,8 @@ oraz takich jak...
 Dobra, już rozumiem.
 
 Szczerze,
-To deska do krojenia zrobiła ka-cha-cha!
-I tak już zostało!
+To deska do krojenia zrobiła ciach-ciach!
+I tak jakoś wyszło...
 
 // Books
 Czytasz je tak w kółko, co?
@@ -621,10 +621,10 @@ Co to jest?
 To interfejs pierścienia,
 Zmieniam na nim trasę.
 
-Umm, przecież ty nim po prostu kręcisz w kółko?
+Umm, przecież ty tylko przesuwasz kółka... 
 
 Tak ci się tylko wydaje.
-Po prostu przesyłam dane.
+Ja tu widzę dane.
 
 Długo ci to zajmie?
 
@@ -730,7 +730,7 @@ To sama już nie wiem!
 // quest Cap 2
 Jakie to uczucie
 spotkać dokładną kopię siebie?
-Wiesz, chodzi o tą z pokoju obok.
+Wiesz, chodzi o tą z pierścieniem.
 
 Na początku chciałam krzyczeć.
 Coś w stylu.

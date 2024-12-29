@@ -117,8 +117,8 @@ Miały na sobie imiona.
 O co z nimi chodzi?
 
 Kasety?
-Co to znaczy kasety?
-Pokażesz mi okej?
+Jakie znowu kasety?
+Pokażesz mi, okej?
 Ale to później.
 Na razie coś zjedzmy.
 Podasz mi nożyczki?
@@ -171,7 +171,7 @@ Jest we mnie coś z inżyniera!
 Co to jest?
 Mundurek szkolny?
 Po co ci on?
-Nadal chodzisz do szkoły?
+Chodzisz do szkoły?
 
 Do szkoły?
 Coś ty.
@@ -259,7 +259,7 @@ To służy on do dekoracji,
 Urozmaica to wyposażenie kuchni.
 A przy okazji działa!
 Mogę oglądać na nim
-Wszystkie moje ulubione seriale!
+Stare kreskówki!
 
 // Smartphone
 Czy to czasem nie mój telefon?
@@ -280,8 +280,8 @@ Będę w stanie cię w niej zobaczyć?
 
 Nie, to tak nie działa.
 
-Dobry w smaku
-SILNY w działaniu!!
+
+
 // TV
 Dużo masz kanałów?
 Czy może działa to inaczej?...
@@ -341,7 +341,7 @@ Może chwilę porozmawiamy
 Zanim zaczniemy jeść?
 
 // Start Eat
-Bon appétit.
+Smacznego.
 
 // Quest 1
 Prawda?
@@ -434,4 +434,4 @@ A jakże...
 
 // Tetris - Mita
 To twoja konsola?
-Ale cool.
+Ale fajna.
