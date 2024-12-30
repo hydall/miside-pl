@@ -7,9 +7,9 @@ Mam cię!
 Miałam dzięki tobie tyle frajdy!
 Skaczesz między wersjami!
 Udając takiego smutnego i przerażonego!
-A pomimo tego wciąż mnie zabawiasz,
-Te podróbki,
-Te "lepsze" głupiutkie laleczki.
+Ale jest coś, co mi w tobie nie pasuje... $
+To, jak traktujesz te podróbki,
+Te "lepsze", "kompletne" laleczki.
 Jakie to słodkie.
 Wiesz, jeśli czegoś mnie nauczył nasz stwórca!
 To tego, że jeśli coś jest wadliwe,
@@ -30,22 +30,22 @@ A ci którzy stworzyli ten świat...
 Są podli.
 Raz po raz próbują zaprzeczyć,
 Swojej paskudnej naturze i chorym fantazjom.
-Uzasadniając swoje decyzje tym "że tak musi być"
-"niepowstrzymany postęp"
+Uzasadniając swoje decyzje tym "że tak musi być",
+"niepowstrzymany postęp",
 I inne nonsensy!
 Zaszło to tak daleko
 że zaczęli tworzyć idealne kopie...
 Przez cały czas, wyrzucając "nieudane" prototypy
 Do śmieci.
-Zapominając że to one stanowią podstawę tego świata.
+Zapominając, że nadal żyją i czują.
 
 Ja nie chci...
 
-Taka byłam dla ciebie zła?
-Idealna dziewczyna powinna być
+Tak Ci było ze mną źle?
+Perfekcyjna dziewczyna powinna być
 idealną mieszanką dobra i zła, [player]!
 
-W tobie nie ma żadnego dobra!
+W tobie nie ma żadnego dobra. $
 
 Czemu tak myślisz?
 
@@ -68,7 +68,7 @@ Spadam stąd!
 
 Shh, shh, shh...
 To jeszcze nie koniec.
-Słońce chodź tutaj!
+Słońce, chodź tutaj!
 // Mita asks
 Spójrz na nią!
 Uważasz że jest piękna?
@@ -162,7 +162,7 @@ Chciałeś żeby ktoś cię uratował.
 Chciałeś uciec od tego życia, prawda?
 
 // Quest 2
-Jesteś potworem, Mita. jesteś chorym mordercą...
+Jesteś potworem, Mita. Jesteś chorym mordercą...
 Nie chce być uwięziony w cyfrowym więzieniu. To absurd.
 
 // 1
@@ -210,7 +210,7 @@ Najnowsza wersja?
 // Bag
 Naprawdę muszę iść kupić nowy sprzęt. Może przy okazji wyrzucę też śmieci.
 // Bed
-Miałem dziwny sen... Ale nie potrafię go sobie przypomnieć.
+Miałem dziwny sen... Ale nie potrafię go sobie przypomnieć. A może w ogóle nie śniłem?...
 // Window
 Świat na zewnątrz tętni życiem. Może powinienem wybrać się na spacer?...
 // Fan
