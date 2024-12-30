@@ -1,7 +1,7 @@
 Wciśnij
 Porozmawiaj
 Załóż pierścień
-Znajdź przycisku
+Znajdź przycisk
 Przytrzymaj
 Wstań
 Weź pierścień
@@ -64,7 +64,7 @@ Idź spać
 Znajdź więcej zagadek
 
 Spróbuj // Gitara = Tak
-Nie powinienem // Gitara = Nie
+Nie powinnaś // Gitara = Nie
 
 Wiem // HammerGame > jak grać? = Tak
 Nie wiem // HammerGame > jak grać? = Nie
@@ -90,9 +90,9 @@ Pociągnij za dźwignię
 Wybierz prawy // Wybierz prawy nóż
 Wybierz lewy // Wybierz lewy nóż
 
-Obróć w prawo // Obrót w prawo
-Obróć w lewo // Obrót w prawo
-Skok // Jump
+Skręć w prawo // Obrót w prawo
+Skręć w lewo // Obrót w prawo
+Skocz // Jump
 Otwórz drzwi // Otwórz drzwi
 
 Wybierz grę
@@ -128,5 +128,5 @@ Za dużo
 Dobrze na tobie wyglądają // [Tak] założyć okulary?
 Po prostu je zdejmij // [Nie] założyć okulary?
 
-Mów do mnie
+Opowiadaj
 Nie ma potrzeby

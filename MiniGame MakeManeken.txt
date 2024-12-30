@@ -30,6 +30,6 @@ Weź folię z danymi tego prototypu i porównaj ją z wymaganym standardem.
 Pasują idealnie! Sprawdźmy teraz emocje.
 Nasz okaz potrafi okazywać emocje! Pora sprawdzić moduł zachowania.
 W porządku. Wszystko się zgadza. Pociągnij za dźwignię
-Yay! Prawie gotowe! Podaj jej pudło z ubraniami.
+Jej! Prawie gotowe! Podaj jej pudło z ubraniami.
 No i to chodzi! Widzisz te światełka na górze? Udało nam się, więc jedno z nich pali się na zielono!
 Teraz twoja kolej! Wrócę, kiedy wszystkie światełka będą zielone. Powodzenia!
