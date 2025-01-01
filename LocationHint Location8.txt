@@ -1,2 +1,2 @@
-Ustaw prawidłowo zegar,
+Ustaw prawidłową godzinę na zegarze.
 Opuść tą wersję.

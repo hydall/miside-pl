@@ -19,7 +19,7 @@ Efekty graficzne
 Efekty koloru
 Wygładzanie cieni
 Rozmycie
-Odbicia
+Odblaski
 Anti-aliasing
 Cienie
 Szczegóły renderowania świata
@@ -62,38 +62,38 @@ Postacie - Mity
 Postacie - Kasety
 Kasety
 Mity
-Rozpocznij z czystym stanem gry
+Zacznij od zera
 Jesteś pewny? Usunie to wszystkie twoje postępy i zapisy!
 Kompilacja shaderów, Przewidywany czas: 2 godziny.
 Dwu godzinna kompilacja?! Bzdura! Specjalnie dla ciebie ją skróciliśmy!
 Tworzenie realistycznych cieni— Może zająć to do 10 minut.
-Żarcik. Nie potrzeba takich udogodnień.
-Umm...
-O! jesteśmy gotowi!
-Kołysanie podczas chodu
-Podpowiedzi
+Żartuję, nie mamy tutaj takiej grafiki!
+Eee...
+No tak, załadowane!
+Kołysanie kamery podczas chodzenia
+Pokazuj podpowiedzi
 Głos gracza
 Discord
 Profile postaci
-Kąt kamery (FOV)
+Pole widzenia (FOV)
 Język audio
 Wyłączone
-Dłoń przy otwieraniu drzwi
+Animacja dłoni przy otwieraniu drzwi
 Animacje
 Włącz głos gracza
 Mita
 Krótkowłosa Mita
 Uprzejma Mita
-Czaderska Mita
+Czapcia
 Zniszczona Mita
-Zaspana Mita
+Śpiąca Mita
 2D Mita
 Mila
-Paskudna Mita
-Mita rdzenia
-Mistling
-Słodziaśna Mita
-Manekin
+Brzydka Mita
+Mita Rdzenia
+Mita Duch
+Chibi Mita
+Mita Manekin
 
 
 
@@ -109,7 +109,7 @@ Relikty z przeszłości
 Ona po prostu lubi spać
 Powieści i nowele
 Książki przeczytane, błędy rozwiązane
-Chowanego!
+Uciekaj i chowaj się!
 Stara wersja
 Bądź szczery...
 Restart
@@ -151,7 +151,7 @@ Tryb fotograficzny
 Tryb fotograficzny: Brak ograniczeń kamery. Możesz eksplorować normalnie niewidoczne części gry.
 Opuść tryb fotograficzny
 Ukryj interfejs
-Przytrzymaj aby przybliżyć
+Przytrzymaj aby poruszać
 Szybkość ruchu
 Wygładzanie ruchu
 Szybkość
@@ -162,4 +162,4 @@ Kontrast
 Winieta
 Zrób zdjęcie!
 Folder ze zdjęciami
-Kąt kamery
+Pole widzenia
