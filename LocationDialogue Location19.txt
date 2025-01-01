@@ -7,7 +7,7 @@ Typie...
 Mój zapis-o, nie!
 Nie rozumiem...
 Gdzie on jest?
-I tyle godzin romansów psu w...!
+I tyle godzin romansów na marne!
 Czego w ogóle tu szukasz?
 
 Wersji...
@@ -20,14 +20,14 @@ Dobra!
 Jestem zbyt zajęta
 żeby cie zabawiać, głupolu!
 
-A to co? Zabawki?
+Niby czym? Graniem?
 
 Patrzcie państwo, znalazł się dorosły!
-Chyba się nie polubimy.
+Nie będzie przyjaźni między nami...
 
 Słuchaj, muszę pilnie dostać się do rdzenia.
 
-Przez ciebie się potłukłam.
+Przez ciebie się uderzyłam.
 Kurde.
 Co?
 
@@ -35,12 +35,12 @@ Co?
 
 Mitę?
 Weź!
-Mam ją w czterech literach!
+Mam ją gdzieś!
 Pierwszą, dziesiątą... każdą!
 
 Przecież ty też jesteś Mita...
 
-Jestem Mila, palancie.
+Jestem Mila.
 
 Mi-La? Nie "Ta"?
 
@@ -89,7 +89,7 @@ Bardzo śmieszne. Dostałem go od jednej z Mit.
 Tej, która może pomóc mi się stąd wydostać.
 
 Zamierzasz tego dotknąć?
-Jak wysadzisz mi dom, to masz przewalone!
+Jak wysadzisz mi dom - jesteś trupem!
 
 // Bathroom - Mila is washing
 EJ!
@@ -110,8 +110,8 @@ Co to miało znaczyć?
 Bezwstydny rozpustnik...
 
 Byłaś obok i tak nagle zniknęłaś...
-Bałem się o ciebie!
-Albo że stało się coś złego...
+Nie wiedziałem gdzie jesteś
+Więc poszedłem cię poszukać.
 
 Bo nie wiedziałam ile ci to zajmie..
 Jak długo zamierzasz babrać się w tych błędach?
@@ -121,7 +121,7 @@ Jest ich więcej?
 
 No... tak.
 Cóż, skoro nie wysadziłeś mi domu,
-To zakładam że uporałeś się z tym w kuchni?
+To zakładam, że uporałeś się z tym w kuchni?
 
 Powiedzmy.
 
@@ -160,19 +160,19 @@ ale nie mógłbyś zostać i ze mną poczytać?
 Najpierw się drzesz, a potem każesz zostać?
 I to jeszcze żeby czytać?
 Cóż... może i mógłbym zostać,
-ale muszę powstrzymać pewnego potwora.
+ale muszę przeć naprzód.
 
 Dobra!
 Idź sobie szukaj tych głupich błędów...
-Już drugi raz zrobiłam sobie przez ciebie krzywdę
-palant!
+Już drugi raz zrobiłam sobie przez ciebie krzywdę.
+Głupek!
 // Player saw a glitch
-Mam cie!
+Mam cię!
 
 // Mila stands with a sword
 Uważasz?
-Klękajcie narody!
-Pa teraz!
+Klękajcie narody! $
+Spójrz na to!
 Taka jestem niebezpieczna!
 Nawet nie miałeś czasu mrugnąć.
 
@@ -183,19 +183,19 @@ Nie było to przekonujące?
 
 No... niezbyt.
 
-Taa, pewnie widziałeś że kamień jest nacięty
-kiedy szukałeś błędów.
-Ah, taki jesteś,
-Nie dasz kobiecie zabłysnąć.
+Czyli ty naprawdę widzisz wszystko...
+Kiedy naprawiasz te błędy...
+Wiedziałeś, że kamień był przecięty
+Prawda?
 
 Nie.
 Po prostu... Jesteśmy w grze.
-Tutaj wszystko jest na wyciągnięcie ręki.
+Tutaj wszystko jest na pstryknięcie palca.
 
 Oh,
-debil!
-Na wyciągnięcie ręki, co?
-Jak myślisz, po co czytam te wszystkie książki?
+Głupek!
+Na pstryknięcie palca, co?
+A jak myślisz, po co czytam te wszystkie książki?
 Żebym mogła wyciągnąć rękę, i je sobie streścić?
 Wole robić wszystko sama,
 a nie polegać na leniwym systemie.
@@ -222,10 +222,10 @@ Chce być inna niż wszystkie.
 Przecież nie musisz się tak starać.
 Uwierz, jesteś wystarczająco wyjątkowa.
 
-No wiadomo!
+No wiadomo.
 Patrz co umiem!
-Czekaj pa tera.
-Potrzymaj mi piwo! Tak się mówi, nie?
+Widziałeś?
+A teraz bez rąk!
 
 Wiem, że to gra,
 ale to cholernie nierealistyczne...
@@ -233,11 +233,11 @@ ale to cholernie nierealistyczne...
 Ała!
 Ahh!
 Głupia fizyka...
-Może to i tylko gra,
-ale wiesz,
-Nawet małe bum naprawdę boli!
-I mówisz że to ja jestem dziwna?
-Głupek!
+Na samą myśl
+Od razu:
+Bum!
+I jeszcze masz czelność mi o tym mówić?
+Głupku!
 
 // Last glitch ready - player exit
 Oto i przejście.
@@ -247,7 +247,7 @@ Udało nam się, Mila!
 Gratulację,
 panie bohaterze!
 
-O Boże!
+Hej! Co robisz?!
 
 Oh!
 Przepraszam! Nie chciałam.
@@ -258,7 +258,7 @@ Wiem że musisz, ale...
 nie mógł byś zostać
 choć jeszcze chwile?
 
-Przepraszam Mila.
+Wybacz Mila, nie mam czasu do stracenia.
 Szalona Mita nie należy do cierpliwych.
 
 Ugh, nienawidzę jej!
@@ -277,7 +277,7 @@ Chciała byś abym kiedyś wrócił?
 Wiesz, po wszystkim?
 
 Zostań tu...
-Nienawidzę samotności...
+Z tobą jest fajnie, nie chcę być znowu sama...
 A co jeśli ci się nie uda?
 
 Uda. Potrzebuję tylko trochę czasu.
@@ -286,7 +286,7 @@ Dopiero co udało mi się wydostać z tego płaskiego świata,
 a teraz... no proszę.
 Nie mogę się doczekać powrotu do prawdziwego świata...
 
-Ha-ha-ha! :)
+Ha-ha-ha!
 Oj,
 'prawdziwy' świat, co?
 To tylko miejska legenda!
@@ -302,35 +302,35 @@ Niezły dowcip!
 Po co ty w ogóle to czytasz?
 Przecież masz internet...
 
-Internet jest pełen treści!
-Ale osobiście wolę
-prawdziwą, namacalną książkę.
+W internecie jest pełno głupot!
+Osobiście wolę
+się odprężyć w spokoju z
+prawdziwą, namacalną książką.
 To właśnie przez nie
 zaczynam się uczyć
 o tym świecie...
-zaskoczony?
 
 // Ask about the paintings
 Te zdjęcia. Są prawdziwe?
-W innych wersjach?
-Tak, istnieją. Ale są zbyt... 'przemalowane'.
+W innych wersjach też istnieją,
+ale wyglądają sztucznie...
 
-Jestem MiLa, pamiętaj
-A te zdjęcia.
-To w rzeczywistości rysunki.
-każda inna Mita je posiada.
-ale wszystkie są
-tak samo sztuczne.
+Jestem Mila, nie Mita.
+I czy to naprawdę zdjęcia?
+To przecież rysunki,
+Po co udawać...
+Swego czasu widziałam te Mity,
+wszystkie stały w ten sposób.
 
 Mila?
 Ziemia do Mili?
 // Mila.
-Mam tego dość...
-Ja już tak nie chce.
+Po tym wszystkim...
+Nie chcę być jak one.
 To... Obrzydliwe!
 
 // Ask about the butterfly painting
-Widziałaś kiedyś naturę?
+Czy widziałaś kiedyś piękno natury?
 Wiesz, motyle i te sprawy?
 
 Nie,
@@ -360,9 +360,9 @@ Głuptas...
 // Make long eye contact 3
 No weź!
 Gapisz się jakbyś kobiety nie widział.
-To niezręczne!
+To niekulturalne!
 
-Słyszałeś kiedyś o manierach?
+Słyszałaś kiedyś o kulturze?
 Sio! Won!
 
 // Whispers 1
@@ -373,7 +373,7 @@ Traktują mnie jak zabawkę!
 Jak jakieś Tamagotchi!
 
 // Whispers 2
-Ten debil tylko łazi po domu...
+Ten głupek tylko łazi po domu...
 i wtyka nos w nie swoje sprawy.
 
 // Whispers 3
@@ -404,13 +404,13 @@ w ciszy...
 PO CO MY TU W OGÓLE STOIMY?
 Odjęło ci mowę?
 Czy,
-po prostu przerósł cie mój urok?
+po prostu przerósł cię mój urok?
 
 // Nearby 2
 Przysięgam na marcheweczki!
 Chcesz wojny? Będzie wojna!
 Czy ty w ogóle zdajesz sobie sprawę, co stres
-robi z idealną kobiecą cerą?
+robi z idealną kobiecą cerą? $
 
 // Nearby 3
 Książki nie wydają się być zbyt pomocne,
@@ -420,7 +420,7 @@ Marcheweczek pojawiających się z niczego
 To przerażające!
 
 // Nearby 4
-Istnieje wiele typów ekscentryków!
+Istnieje wiele typów dziwaków!
 Jedni kochają marcheweczki, inni koty...
 I jesteś też ty. Szukający błędów.
 Serio, jesteś najdziwniejszą osobą jaką poznałam!
@@ -437,9 +437,9 @@ nie wiem jak ty to robisz, że tak mnie przyciągasz
 mam ochotę wypić z tobą herbatkę!
 
 // Nearby 7
-Nawet moje okulary,
-Nie pozwalają mi dojrzeć przez warstwy,
-twojej prostolinijnej determinacji.
+Nawet moje okulary $
+nie pozwalają mi dojrzeć
+sensu Pana ślepej pogoni.
 
 // Nearby 8
 Czytałam kiedyś, że przeznaczenie jest jak skrypt
@@ -456,7 +456,7 @@ Nienawidzę ich.
 Niektóre Mity
 są nawet dość urocze...
 Chciała bym je poznać, nawet jeśli
-są tylko kopiami kopii kopii.
+są tylko kopiami kopii.
 
 // Nearby 11
 Jest taka jedna, całkiem inna.
@@ -465,7 +465,7 @@ Ale chyba poluzowała jej się śruba.
 // Nearby 12
 Nienawidzę kucyków!
 Odcięła bym je, gdybym mogła!
-Są zawstydzające!
+Są niewygodne!
 Wiesz o czym mówię. W końcu masz krótkie włosy!
 
 // Nearby 13
@@ -490,7 +490,7 @@ Po co ci ta statuetka?
 Dowiesz się
 w swoim czasie.
 Tak właściwie, czemu go naśladujesz?
-Rozchmurz się, ponurasie.
+Rozchmurz się.
 
 Em...
 dobra.
@@ -503,7 +503,7 @@ jeden celny cios
 pozbawił by cię głowy.
 Jestem wykwalifikowaną szermierką, w porównaniu do kogoś!
 Lepiej uważaj—
-nie chciał byś przypadkiem stracić paluszków hihi.
+nie chciał byś przypadkiem stracić paluszków.
 
 // Mirror
 Lustro...
@@ -558,7 +558,7 @@ Nigdy, przenigdy!
 To mydło... Jest prawdziwe?
 Czy może to tylko kolejna dekoracja?
 
-Jaja sobie robisz?
+Żartujesz sobie?
 Większość tutejszych rzeczy
 jest jak najbardziej prawdziwe...
 
@@ -579,7 +579,7 @@ Ah, wróciliśmy.
 Masz słaby wzrok?
 Po co ci okulary?
 
-Co ci się znowu nie podoba.
+Co ci się znowu nie podoba?
 To się nazywa mieć styl!
 A mój wzrok jest idealny.
 
@@ -589,9 +589,9 @@ A czemu nie...
 Mi-Ka?
 lub Mi-Sa?
 
-Jestem Mila. To tyle. Dlaczego?
+Jestem Mila. To tyle.
 
-Bo tak.
+Rozumiem...
 
 // Quest 3 Evening
 Kocham wieczory.

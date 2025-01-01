@@ -63,8 +63,8 @@ Idź spać
 
 Znajdź więcej zagadek
 
-Spróbuj // Gitara = Tak
-Nie powinnaś // Gitara = Nie
+Spróbuj
+Nie trzeba
 
 Wiem // HammerGame > jak grać? = Tak
 Nie wiem // HammerGame > jak grać? = Nie

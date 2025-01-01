@@ -8,11 +8,11 @@ Zaczekaj...
 Chcesz opuścić to miejsce?
 
 Tak...
-Muszę wracać
+Muszę przedostać się
 do poprzedniej wersji gry.
 
 Poprzedniej wersji?...
-Dlaczego chcesz wracać
+Dlaczego chcesz przejść
 do poprzedniej wersji?
 Dlaczego nie chcesz zostać
 I być moim
@@ -66,7 +66,7 @@ Nie mam pewności.
 co to oznacza...
 
 Jest dobrze...
-bo nikogo już nie skrzywdzę, prawda?
+bo już wiecej nie będę cierpieć?
 
 // Quest 5 (How do I leave this place?)
 Naprawdę zamierzasz mnie zostawić?

@@ -17,13 +17,13 @@ Potrzebuję twojej pomocy.
 
 Kim ty jesteeeeeś?
 
-Musisz mi pomóc z przełącznikami.
+Musisz mi pomóc z dźwigniami.
 
-Jakimi przełącznikami?
+Jakimi dźwigniami?
 Daj mi spać...
 Albo przynieś mi kawę.
 
-Ekspres do kawy powinien gdzieś tu być.
+Przecież są niedaleko...
 Mita?
 Mi-ita!
 
@@ -36,7 +36,7 @@ Masz swoją kawusie.
 
 
 // MitaDreamer exercise
-Przełączniki...
+Dźwignie...
 powiadasz...
 
 Tak.
@@ -61,7 +61,7 @@ Nie dziwię się
 
 Dokładnie.
 Więc, pomożesz mi?
-No wiesz, z przełącznikami?
+No wiesz, z dźwigniami?
 
 Spoko.
 Pomogę.
@@ -94,7 +94,7 @@ Też jestem gotowy.
 Dobra.
 Zacznę
 Odliczać.
-I pociągniemy dźwignię razem.
+I pociągniemy je razem.
 Okej?
 
 Po prostu nie zaśnij, OK?

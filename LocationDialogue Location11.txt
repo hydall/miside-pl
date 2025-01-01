@@ -15,7 +15,7 @@ Ale serio,
 to miejsce jest niebezpieczne...
 w szczególności dla ciebie.
 
-// After a while 1
+// After a while 1 $
 Nie jesteś tchórzem, co?
 Kiedy cie tak oglądam
 jak mijasz różne miejsca...
@@ -35,7 +35,7 @@ w tej mgle.
 
 // Panties
 Co ty wyprawiasz?!
-Błagam...
+No weź...
 Nie gap się!
 Głupek!
 Ty głuptasie...
@@ -66,7 +66,7 @@ jedyne co czuje to żal.
 Jaka ja byłam głupia...
 Jasne, każdy popełnia błędy...
 Ale co robić
-kiedy konsekwencje są fatalne w skutkach ?
+kiedy konsekwencje są fatalne w skutkach?
 Tak bardzo chciała bym cofnąć czas...
 // Cry 2
 Mówią, że czas leczy rany...
@@ -100,7 +100,7 @@ Smutek,
 rozpacz...
 i strach.
 // Cry 5
-Bezużyteczna...
+To wszystko bez sensu...
 Nie mogę sobie przypomnieć...
 Wspomnienia nie chcą wrócić...
 Tylko nieskończone echa...
@@ -148,8 +148,8 @@ Co ty tutaj robisz?
 
 Kto tam?
 
-Inny gracz.
-Jestem Mitafonem.
+Ehh... kolejny gracz...
+Mitafon - miło mi.
 Steruję kolejką liniową.
 Zdajesz sobie sprawę,
 że zmierzasz ku zagładzie?
@@ -177,12 +177,12 @@ Hej! Wynocha mi stąd.
 Szybciutko!
 // Funicular wait 2
 I dlaczego wciąż tu sterczysz?
-Mówiłem żebyś się wynosił.
+Mówiłam żebyś się wynosił.
 // Funicular wait 3
 Nie rozumiem...
 po co ty tu jeszcze stoisz?
 // Funicular tetris
-Serio? Tetris
+Serio? Gierka?
 Typie...
 // Funicular goodbye
-Narka!
+Bywaj.

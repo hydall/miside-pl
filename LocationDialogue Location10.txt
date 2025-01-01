@@ -16,7 +16,7 @@ Jest tu okropnie ciemno.
 
 Później ci powiem.
 Na razie zmierzaj ku wyjściu.
-Spotkajmy się w maszynie do gier.
+Spotkajmy się przy maszynie do gier.
 
 
 
@@ -26,7 +26,7 @@ Pośpiesz się!
 // After mini-gamę
 Więc, rozumiesz już sens gry?
 
-Że jestem zrobiony ze skóry i kości a ty z modelu szkieleta?
+Pod moją skórą są kości, a pod waszą - manekin? $
 
 Whoa!
 To dość niepokojące, kiedy przedstawiasz to w ten sposób.
@@ -113,7 +113,7 @@ Whoa!
 Ale jak...?
 Czekaj, w której wersji domu byłeś?
 Jest wersja, w której "ja" nie potrafię przestać się mazać,
-wersja, w której moje "ja" lubi się lenić,
+wersja, w której moje "ja" lubi się bawić,
 wersja, w której ma słabą pamięć i lubi zastraszać innych...
 Długo by wymieniać...
 Powiedz mi co pamiętasz.
@@ -121,7 +121,7 @@ Powiedz mi co pamiętasz.
 Było mrocznie.
 Na ścianach były napisy
 na przykład...
-"Pobaw się ze mną."
+"Pobawimy się?"
 
 Ah,
 szkoda...
@@ -136,8 +136,8 @@ W porządku, twój wybór.
 
 // Mita wants to tell you [Yes].
 Jasne, dawaj.
-Mam tylko nadzieję że nie będzie jak w szkole
-zawsze z nudów zasypiałem na lekcji.
+Mam tylko nadzieję że nie będzie jak na lekcji
+i nie zasnę z nudów.
 
 Wiesz, zawsze możesz wyjść,
 albo zostań i posłuchaj
@@ -175,8 +175,8 @@ Bo inni przechodzący przez jej wersje
 nie dają jej się wyspać?
 
 Nie, to nie tak.
-Możesz hałasować tuż obok niej
-ale nie da się jej dobudzić.
+Możesz przejść tuż obok niej,
+a ona nawet się nie zorientuje.
 
 // He asks about the shaded circle
 Dlaczego to kółko jest zamalowane?

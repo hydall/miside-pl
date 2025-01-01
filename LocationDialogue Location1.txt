@@ -25,15 +25,15 @@ Przygotujemy go razem?
 
 Hej [player]! Myślałam nad kupnem przenośnego telewizora.
 Wiesz, takiego małego z anteną. Idealnego na pikniki. Co o tym myślisz?
-Tak przy okazji, Możesz grać w gry, żeby zdobyć pieniądze.
-Serio tego nie wiedziałeś?
+Pamiętaj, że możesz grać w gry, żeby zdobyć pieniądze.
+Serio tego nie wiedziałeś? $
 
 Hura! Udało ci się! Teraz możesz kupić mi ten telewizor!
 O właśnie ten! Mały, podręczny i tani! Czyli taki jaki chciałam.
 Dziękuje ci bardzo!
 
 Hejka, [player]! Ogólnie... Tak bardzo mi pomagasz...
-Ale, emm... pamiętasz ten telewizor? Był fajny, ale przez przypadek go zepsułam.
+Ale, emm... pamiętasz ten telewizor? Był fajny, ale niestety się popsuł
 No nic, pomożesz mi przestawić tą szafę?
 Jest taka ciężka... >.<
 Bardzo ci dziękuje, słodziaku! <3
@@ -73,12 +73,12 @@ Ehh, nigdy nie mam czasu posprzątać...
 Ale tym razem to zrobię!
 Kiedy tak właściwie wywożą śmieci?...
 // Photo of a cat on a watermelon
-Tęsknie za nim...
-Dawał mi tyle radości.
+Bardzo mi się to spodobało.
+Kot na arbuzie.
 // Photo with a girl
 Wcale nie jesteśmy tacy sami,
 Ja i moja siostra.
-Ona zawsze gdzieś podróżuje,
+Nie usiedzi w jednym miejscu,
 A ja siedzę przykuty w domu.
 // Photo with people
 Hmm...

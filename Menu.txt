@@ -30,7 +30,7 @@ Muzyka
 Cząsteczki
 Tekstury
 Modele 3D (98%)
-Skrypty
+Skrypt
 Reset
 Dalej
 Wróć

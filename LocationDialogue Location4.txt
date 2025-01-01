@@ -122,7 +122,7 @@ Chce cholera jasna wiedzieć co to za odgłos!
 
 Czy to dlatego
 Że ten świat
-Ma tylko cztery pokoje?
+To tylko cztery pokoje?
 To dla ciebie za mało?
 Czemu po prostu nie możesz ze mną zostać?
 
@@ -176,7 +176,7 @@ Na początku dam ci fory.
 
 
 Dobrze ci idzie.
-Lepiej się skup!
+Ale teraz się przygotuj!
 
 Wow!
 No dobra.
@@ -188,7 +188,7 @@ Pokonać mnie teraz!
 
 Jesteś
 Normalnie
-Niesamowity! Musisz chyba dużo grać!
+Niesamowity! Twoje palce to coś! $
 
 
 Co się dzieje?
@@ -284,7 +284,7 @@ Magii
 I przeniosłam go
 Gdzieś indziej.
 Nie potrzebujemy go już.
-Tylko nam przeszkadzał.
+Będzie nam przeszkadzał.
 
 
 // Mirror in the bedroom
@@ -347,7 +347,7 @@ Okej.
 W co chcesz pograć?
 // Game milk
 To bijatyka!
-Zobaczmy kto kogo pierwszy stłucze na kwaśne jabłko. 
+Zobaczmy kto kogo pierwszy stłucze na zsiadłe mleko. 
 Nieźle ci poszło!
 Myślę że wystarczy już mleka na ten moment, może zagramy w coś innego?
 // Gamę penguins
@@ -389,7 +389,7 @@ Ha, 1:1!
 Jesteś świetnym pingwinem!
 Powinniśmy iść na prawdziwe lodowisko!
 Pfft, jesteś taki ślamazarny.
-Myślisz o następnej rundzie?
+Może rewanż?
 Wow, remis! Tego się nie spodziewałam!
 // The gamę is over
 Więc chcesz w coś jeszcze pograć?

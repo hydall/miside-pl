@@ -3,15 +3,15 @@ Tutaj jesteś!
 Dlaczego opuściłeś rdzeń?
 Mówiłam ci abyś zaczekał!
 
-Długo cie nie było, martwiłem sie...
+Długo cie nie było, myślałem że...
 
 No dobra...
 Wydaje mi się, że coś znalazłam...
-To chyba wersja domu...
+To chyba indeks...
 Musimy sprawdzić czy zadziała!
 Wynośmy się stąd.
 Szalona Mita...
-Jest chyba zajęta nowym graczem.
+Jest chyba zajęta nowymi graczami. %
 Przy odrobinie szczęścia uda nam się...
 
 Mita?
@@ -19,7 +19,7 @@ Zaczekaj na mnie.
 
 
 Zgubiłeś coś?
-Chwila... Znowu ją spotkałeś!
+Może poznacie się na nowo?!
 
 Mita...
 
@@ -47,7 +47,7 @@ A to?
 
 Nie mam pojęcia co to.
 
-To wersja domu!
+To jej indeks!
 Udało ci się!
 
 Nie wiem co powiedzieć.
@@ -62,7 +62,7 @@ No dobra...
 Zaczekaj tu.
 
 Okej.
-Capnę tu sobie.
+Usiądę sobie tutaj.
 
 
 Cholera...
@@ -140,8 +140,8 @@ Jakim cudem wszystko pamiętasz?
 HAHAHA!
 Naprawdę myślałeś że to takie proste?
 Jesteś głupcem...
-Tak, jak inni gracze...
-Ale cóż, przynajmniej próbowałeś!
+Jak wszyscy inni...
+Rychło w czas!
 Ten prawdziwy TY
 nie jest
 mi już potrzebny.
@@ -177,7 +177,7 @@ Ty...
 To nie w innych tkwi problem!
 To ciebie nie powinno tu być!
 
-I ty brutusie przeciwko mnie...
+I ty też przeciwko mnie?...
 To boli, wiesz?
 Mimo wszystko.
 Czas na ciebie!
@@ -200,17 +200,17 @@ Muszę znaleźć okienko resetu postaci..
 To błędna wersja.
 Oj, mój błąd.
 To nie to.
-Będe potrzebować kolejnej.
+Trzeba poprawić
 
 // core console - nope index
 Coś jest nie tak
-z wersją świata.
-muszę zmienić wersję świata,
-nie mieści się.
+Indeks jest nieprawidłowy
+Muszę go poprawić
+Nie pasuje
 
 // Why kitchen
 Burczy ci w brzuszku?
-Umiem świetnie kroić marchewki. :)
+Umiem świetnie kroić marcheweczki!
 
 // Why bathroom
 Ah, chyba...

@@ -60,11 +60,11 @@ Ona tylko zmrużyła oczy, a jej głos usłyszeć można było z każdej ze stro
 
 
 No a kto inny?
-Pewnie widywałeś się z INNYMI BABAMI.
+Widziałeś inne takie jak ja?
 I TO JESZCZE Z TAKIM SAMYM IMIENIEM!?
 
 
-Droczyła się ze mną, jakbym był jej coś winny.
+Niezadowolona, droczyła się ze mną jakbym czymś jej zawinił lub był jej coś winnny. $
 
 
 Nie uwierzyłabyś, gdybym ci powiedział.…
@@ -77,7 +77,7 @@ Nie możesz tak po prostu tutaj wpadać jak do siebie!
 
 Podniosła ton głosu,
 wymierzając palec w moim kierunku.
-A właśnie na nim… pierścień. Ten który magicznie zniknął z mojej ręki.
+A właśnie na nim… pierścień. Ten, który magicznie zniknął z mojej ręki.
 Byłem w szoku.
 W jej oczach gościło poczucie triumfu.
 
@@ -103,7 +103,7 @@ stał się ciekawski, trochę rozbawiony.
 Czułem, jakby kamień spadł mi z serca..
 Najgorsze już za mną. Teraz sprawia wrażenie, jakby ze mną flirtowała.
 Jej temperament zmienił się z walecznej pantery na słodkiego, niewinnego kiciusia.
-Gdy mrugnąłem dwu-wymiarowa Mita zniknęła, zostawiając po sobie jedynie pustkę.
+Gdy mrugnąłem, dwu-wymiarowa Mita zniknęła, zostawiając po sobie jedynie pustkę.
 
 
 Hej!
@@ -129,7 +129,7 @@ Następnie niczym cyrkowiec zerwała się z łóżka i podbiegła do mnie
 
 
 Niech będzie!
-Chcesz pierścień dziwaku?
+Chcesz pierścień, dziwaku?
 To pokonaj mnie w kółko i krzyżyk!
 
 
@@ -139,12 +139,12 @@ Lekko pchnąłem ją w ramię, żeby zrobić między nami więcej miejsca.
 
 
 Słuchaj, to bardzo ważne.
-Oddaj mi go, bez niego jesteśmy skazani na zagładę.
+Po prostu mi go oddaj.
 
 
 Starałem się mówić używając spokojnego tonu,
-Ale czułem się głupio mówiąc do niej takie rzeczy.
-Wydawała się lekkomyślna, niemal do granic szaleństwa,
+Po prostu nie mogłem rozmawiać z nią w inny sposób.
+Wydawała się beztroska i zarozumiała, niemal do granic absurdu,
 i czułem, że w powietrzu między nami narasta dziwna atmosfera.
 
 
@@ -182,7 +182,7 @@ Pomyślałem.
 No dobra, zagrajmy!
 
 
-Możesz zacząć! Czuję się dziś miła!
+Możesz zacząć! Mam dziś dobry humor!
 
 // The game of tic-tac-toe
 Wykonałem pierwszy ruch.
@@ -191,7 +191,7 @@ Ale rozumiem to; przy kimś tak oszałamiająco pięknym jak ja, można by pomy�
 Myślałem, że podjąłem mądrą decyzję,
 Uwielbiam tą grę. Te małe krzyżyki... Myślą że mogą robić co tylko zechcą! Ale to ja tu rządzę,
 Czuje się jakbym była jakąś bohaterką! No co? Mówię coś dziwnego? Nie patrz się tak na mnie… ha ha ha!
-Podczas gdy ona kontynuowała swój monolog, Ja po cichu wykonałem swój ruch.
+Podczas gdy ona głośno kontynuowała swój monolog, Ja po cichu wykonałem swój ruch.
 Próbujesz unikać widoku pierścienia ale to tak nie działa haha.
 Chcesz go, prawda? No to go wygraj głupku!
 Graliśmy dalej, a z każdym ruchem rozbrzmiewał jej śmiech. Moje uszy powoli przyzwyczajały się do tego ciągłego gadania.
@@ -208,12 +208,12 @@ Dwu-wymiarowa Mita również wyglądała na przerażoną.
 Szalona Mita spojrzała tylko na nas morderczym wzrokiem i rzekła, swoim groźnym, niemalże karcącym tonem głosu:
 
 [player], Co ty tu robisz?
-Ile jeszcze Mit musisz znaleźć zanim się w końcu ustatkujesz?
+Ile Mit musisz jeszcze spotkać aż w końcu dasz sobie spokój?
 O co z tym chodzi?
 Nienawidzę tego płaskiego świata.
 Jest nudny...
 bez żadnego sensu...
-Gdzie się wybierasz? Chwila!
+A wy dokąd? Chwila!
 
 Złapałem za rękę moją nowo poznaną towarzyszkę i zaczęliśmy biec.
 Korytarz wił się na różne strony, a głośne odgłosy kroków pchały nas przed siebie.
@@ -230,23 +230,23 @@ Odwaga zniknęła z jej twarzy, przez co wyglądała trochę smutno, niemal na s
 Wpatrywała się w podłogę, kreśląc palcami u stóp małe kółka.
 
 
-[player], Chcesz ten pierścień prawda?
+[player], chcesz ten pierścień, prawda?
 No więc wygrałeś.
 
 
-Wsunęła pierścionek z powrotem na moją dłoń.
+Wsunęła pierścionek z powrotem na mój palec.
 
 
 Dzięki, idziemy?
 
 
-Spojrzała w górę i się uśmiechnęła,
-błądząc nadal palcem po ziemi, powiedziała:
+Spojrzała mi w oczy, a na jej twarzy pojawił się uśmiech.
+Po czym szurając stopą po ziemi, powiedziała: 
 
 
 Gdzie?
 Nie mam dokąd iść…
-W każdym razie, dzięki za grę dziwaku!
+W każdym razie, dzięki za grę, dziwaku!
 Wróć tu czasem...
 
 
@@ -256,4 +256,4 @@ Okno dialogowe dwu-wymiarowej Mity zaczęło migać i wyświetlać frazę, któr
 
 
 
-Ciastka? Nie znoszę ich! pokrój marchewki, dobrze?
+Ciastka? Nie znoszę ich! Lepiej pokrój marchewki, dobrze?

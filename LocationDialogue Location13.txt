@@ -87,7 +87,7 @@ Wracając, skupmy się na tym co ważne.
 
 // Answer 6 (Czy to rdzeń?)
 To jest to?
-Cel naszej podróży?
+Rdzeń?
 
 Zaiste. Rdzeń.
 Spróbuję wytłumaczyć.
@@ -121,19 +121,19 @@ Wspaniale! Dobra robota!
 Jednak muszę wyszczególnić wersję gry.
 
 Jasne... Jej wersja to
-0.98.
+00.98.
 
 Bingo!
-Okej, która wersja domu?
+Okej, który indeks domu?
 
-Wersja domu?
+Indeks domu?
 
-Potrzebuję wersję domu.
+Potrzebuję indeksu domu.
 Czekaj, nie gadaj że nie wiesz...?
 
 
 Hmm, to ma sens...
-Każda Mita ma własną wersję domu,
+Każda Mita ma własny indeks,
 aby przypadkiem nie zresetować całej wersji gry...
 To by spowodowało chaos!
 Nie mogę uwierzyć że o tym zapomniałam...
@@ -143,7 +143,7 @@ Nie mogę uwierzyć że o tym zapomniałam...
 
 
 // Answer 1 (Co jest z tobą nie tak?)
-Panaceum na nasze problemy,
+To nic takiego... $
 Jest dobrze.
 Choć tak wiele się zmieniło...
 Muszę pomyśleć...
@@ -186,7 +186,7 @@ No dalej, musimy dostać się do rdzenia.
 // core console entry
 Musimy wprowadzić komendę...
 Ale jaką?
-Mita wiesz coś o tym?
+Mita, wiesz coś o tym?
 
 Może jest gdzieś napisane?
 Rozejrzyj sie.
@@ -213,7 +213,7 @@ Po drodze spotkałem wielu
 mini ludzików...
 Kim oni są?
 
-Słodziaki?
+Chibi?
 Jakby ci to wytłumaczyć...
 To takie zjawisko...
 Każda Mita ma swoją malutką wersje,
