@@ -7,7 +7,7 @@ Mam cię!
 Miałam dzięki tobie tyle frajdy!
 Skaczesz między wersjami!
 Udając takiego smutnego i przerażonego!
-Ale jest coś, co mi w tobie nie pasuje... $
+Ale jest coś, co mi w tobie nie pasuje...
 To, jak traktujesz te podróbki,
 Te "lepsze", "kompletne" laleczki.
 Jakie to słodkie.
@@ -45,7 +45,7 @@ Tak Ci było ze mną źle?
 Perfekcyjna dziewczyna powinna być
 idealną mieszanką dobra i zła, [player]!
 
-W tobie nie ma żadnego dobra. $
+Nie sądzę, aby było w tobie jakieś dobro.
 
 Czemu tak myślisz?
 

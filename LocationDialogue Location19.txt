@@ -171,7 +171,7 @@ Mam cię!
 
 // Mila stands with a sword
 Uważasz?
-Klękajcie narody! $
+Klękajcie narody!
 Spójrz na to!
 Taka jestem niebezpieczna!
 Nawet nie miałeś czasu mrugnąć.
@@ -407,10 +407,10 @@ Czy,
 po prostu przerósł cię mój urok?
 
 // Nearby 2
-Przysięgam na marcheweczki!
-Chcesz wojny? Będzie wojna!
-Czy ty w ogóle zdajesz sobie sprawę, co stres
-robi z idealną kobiecą cerą? $
+Zdecydowanie rezygnuję z marcheweczek!
+Powiem więcej, wypowiadam im wojnę!
+Czy ty w ogóle zdajesz sobie sprawę, co one
+robią z idealną kobiecą cerą?
 
 // Nearby 3
 Książki nie wydają się być zbyt pomocne,
@@ -437,9 +437,9 @@ nie wiem jak ty to robisz, że tak mnie przyciągasz
 mam ochotę wypić z tobą herbatkę!
 
 // Nearby 7
-Nawet moje okulary $
-nie pozwalają mi dojrzeć
-sensu Pana ślepej pogoni.
+Nawet okulary nie pomogą
+zobaczyć sensu
+Pańskiej bezcelowej pogoni.
 
 // Nearby 8
 Czytałam kiedyś, że przeznaczenie jest jak skrypt

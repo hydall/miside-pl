@@ -265,19 +265,19 @@ Stare kreskówki!
 Czy to czasem nie mój telefon?
 Przecież miałem go w kieszeni!
 Skąd on się tu do licha znalazł?
-
+// Mita
 Emm, to nie jest ważne..
 Mam pomysł!
 Zróbmy sobie razem zdjęcie!
 Uśmiech!
 Świetnie wyszedłeś!
 To dla ciebie, na pamiątkę.
-
+// Gracz
 Mam pytanie.
 Czy jeśli
 Włączę na nim grę,
 Będę w stanie cię w niej zobaczyć?
-
+// Mita
 Nie, to tak nie działa.
 
 
@@ -358,7 +358,7 @@ I przytulnie...
 A na dodatek jestem tu ja!
 
 Nie rozumiesz.
-Bardzo chciałabym zostać.
+Bardzo chciałbym zostać.
 Po prostu.... martwię się.
 Martwię się, że zostawiłem coś ważnego w domu...
 Pojawiłem się tutaj ni stąd ni zowąd

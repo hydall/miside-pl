@@ -65,7 +65,7 @@ Mity
 Zacznij od zera
 Jesteś pewny? Usunie to wszystkie twoje postępy i zapisy!
 Kompilacja shaderów, Przewidywany czas: 2 godziny.
-Dwu godzinna kompilacja?! Bzdura! Specjalnie dla ciebie ją skróciliśmy!
+Dwu godzinna kompilacja?! Bzdura! Specjalnie dla ciebie nawet jej nie ma!
 Tworzenie realistycznych cieni— Może zająć to do 10 minut.
 Żartuję, nie mamy tutaj takiej grafiki!
 Eee...
