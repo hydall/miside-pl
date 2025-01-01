@@ -309,29 +309,28 @@ prawdziwą, namacalną książką.
 To właśnie przez nie
 zaczynam się uczyć
 o tym świecie...
--------------------------------------------------------------------
 
 // Ask about the paintings
 Te zdjęcia. Są prawdziwe?
-W innych wersjach?
-Tak, istnieją. Ale są zbyt... 'przemalowane'.
+W innych wersjach też istnieją,
+ale wyglądają sztucznie...
 
-Jestem MiLa, pamiętaj
-A te zdjęcia.
-To w rzeczywistości rysunki.
-każda inna Mita je posiada.
-ale wszystkie są
-tak samo sztuczne.
+Jestem Mila, nie Mita.
+I czy to naprawdę zdjęcia?
+To przecież rysunki,
+Po co udawać...
+Swego czasu widziałam te Mity,
+wszystkie stały w ten sposób.
 
 Mila?
 Ziemia do Mili?
 // Mila.
-Mam tego dość...
-Ja już tak nie chce.
+Po tym wszystkim...
+Nie chcę być jak one.
 To... Obrzydliwe!
 
 // Ask about the butterfly painting
-Widziałaś kiedyś naturę?
+Czy widziałaś kiedyś piękno natury?
 Wiesz, motyle i te sprawy?
 
 Nie,
@@ -361,9 +360,9 @@ Głuptas...
 // Make long eye contact 3
 No weź!
 Gapisz się jakbyś kobiety nie widział.
-To niezręczne!
+To niekulturalne!
 
-Słyszałeś kiedyś o manierach?
+Słyszałaś kiedyś o kulturze?
 Sio! Won!
 
 // Whispers 1
@@ -374,7 +373,7 @@ Traktują mnie jak zabawkę!
 Jak jakieś Tamagotchi!
 
 // Whispers 2
-Ten debil tylko łazi po domu...
+Ten głupek tylko łazi po domu...
 i wtyka nos w nie swoje sprawy.
 
 // Whispers 3
@@ -405,13 +404,13 @@ w ciszy...
 PO CO MY TU W OGÓLE STOIMY?
 Odjęło ci mowę?
 Czy,
-po prostu przerósł cie mój urok?
+po prostu przerósł cię mój urok?
 
 // Nearby 2
 Przysięgam na marcheweczki!
 Chcesz wojny? Będzie wojna!
 Czy ty w ogóle zdajesz sobie sprawę, co stres
-robi z idealną kobiecą cerą?
+robi z idealną kobiecą cerą? $
 
 // Nearby 3
 Książki nie wydają się być zbyt pomocne,
@@ -421,7 +420,7 @@ Marcheweczek pojawiających się z niczego
 To przerażające!
 
 // Nearby 4
-Istnieje wiele typów ekscentryków!
+Istnieje wiele typów dziwaków!
 Jedni kochają marcheweczki, inni koty...
 I jesteś też ty. Szukający błędów.
 Serio, jesteś najdziwniejszą osobą jaką poznałam!
@@ -438,9 +437,9 @@ nie wiem jak ty to robisz, że tak mnie przyciągasz
 mam ochotę wypić z tobą herbatkę!
 
 // Nearby 7
-Nawet moje okulary,
-Nie pozwalają mi dojrzeć przez warstwy,
-twojej prostolinijnej determinacji.
+Nawet moje okulary $
+nie pozwalają mi dojrzeć
+sensu Pana ślepej pogoni.
 
 // Nearby 8
 Czytałam kiedyś, że przeznaczenie jest jak skrypt
@@ -457,7 +456,7 @@ Nienawidzę ich.
 Niektóre Mity
 są nawet dość urocze...
 Chciała bym je poznać, nawet jeśli
-są tylko kopiami kopii kopii.
+są tylko kopiami kopii.
 
 // Nearby 11
 Jest taka jedna, całkiem inna.
@@ -466,7 +465,7 @@ Ale chyba poluzowała jej się śruba.
 // Nearby 12
 Nienawidzę kucyków!
 Odcięła bym je, gdybym mogła!
-Są zawstydzające!
+Są niewygodne!
 Wiesz o czym mówię. W końcu masz krótkie włosy!
 
 // Nearby 13
@@ -491,7 +490,7 @@ Po co ci ta statuetka?
 Dowiesz się
 w swoim czasie.
 Tak właściwie, czemu go naśladujesz?
-Rozchmurz się, ponurasie.
+Rozchmurz się.
 
 Em...
 dobra.
@@ -504,7 +503,7 @@ jeden celny cios
 pozbawił by cię głowy.
 Jestem wykwalifikowaną szermierką, w porównaniu do kogoś!
 Lepiej uważaj—
-nie chciał byś przypadkiem stracić paluszków hihi.
+nie chciał byś przypadkiem stracić paluszków.
 
 // Mirror
 Lustro...
@@ -559,7 +558,7 @@ Nigdy, przenigdy!
 To mydło... Jest prawdziwe?
 Czy może to tylko kolejna dekoracja?
 
-Jaja sobie robisz?
+Żartujesz sobie?
 Większość tutejszych rzeczy
 jest jak najbardziej prawdziwe...
 
@@ -580,7 +579,7 @@ Ah, wróciliśmy.
 Masz słaby wzrok?
 Po co ci okulary?
 
-Co ci się znowu nie podoba.
+Co ci się znowu nie podoba?
 To się nazywa mieć styl!
 A mój wzrok jest idealny.
 
@@ -590,9 +589,9 @@ A czemu nie...
 Mi-Ka?
 lub Mi-Sa?
 
-Jestem Mila. To tyle. Dlaczego?
+Jestem Mila. To tyle.
 
-Bo tak.
+Rozumiem...
 
 // Quest 3 Evening
 Kocham wieczory.
