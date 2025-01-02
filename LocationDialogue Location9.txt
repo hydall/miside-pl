@@ -17,7 +17,7 @@ tak jak moja siostrzyczka!
 Twoja siostrzyczka?
 
 Tak, moja siostrzyczka.
-Nie gadaj że jej nie spotkałeś!
+Nie gadaj, że jej nie spotkałeś!
 
 Em... Spotkałem... Chyba?
 
@@ -63,7 +63,7 @@ pytasz o takie bzdury...
 Ale,
 to nasze pierwsze spotkanie!
 Więc ci wybaczam
-Ale ostrzegam, jeśli ktoś skradnie moją stylówe
+Ale ostrzegam, jeśli ktoś skradnie moją stylówę
 To nawet szalona Mita mnie nie powstrzyma!
 
 // Quest 3 (Dlaczego tu jesteś?)
@@ -71,7 +71,7 @@ Nie rozumiesz?
 To punkt kontrolny—
 test inteligencji!
 No weź!
-Wskazuje drogę zaginionym duszyczkom!
+Wskazuję drogę zaginionym duszyczkom!
 
 // Quest 4 (Dlaczego mi pomagasz?)
 Nie jesteś jakiś specjalny...

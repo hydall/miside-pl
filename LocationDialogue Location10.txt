@@ -68,7 +68,7 @@ Do ich domów.
 My, Mity, jesteśmy tworzone w ciemności
 więc musimy w niej przez jakiś czas zostać.
 Wyobraź sobie ten ból
-kiedy z mroku zostały byśmy wrzucone wprost do światła...
+kiedy z mroku zostałybyśmy wrzucone wprost do światła...
 
 // Quest 3 (A co TY tu robisz?)
 Nadal nie ogarniasz?
@@ -80,7 +80,7 @@ No chyba nie ty?
 Do czego jest ten taśmociąg?
 Czy wystarczy miejsca dla wszystkich?
 
-Czekaj, nie gadaj że nie rozumiesz
+Czekaj, nie gadaj, że nie rozumiesz
 jak działa ten świat...
 Nie wiesz że jest nieskończony?
 
@@ -90,7 +90,7 @@ Co masz na myśli?
 Skoro 1.9 jest najnowszą wersją,
 to musi być tylko 19 światów.
 
-Boziu... ty naprawdę nie ogarniasz
+Boziu... Ty naprawdę nie ogarniasz,
 jak działa ten świat.
 Spójrz, wytłumaczę ci to
 na tablicy.
@@ -202,7 +202,7 @@ A ja narysowałam najprostszą drogę.
 Łatwizna, nieprawdaż?
 Spójrz tutaj.
 Właśnie stąd możesz dotrzeć do poprawnych wersji gry.
-Nawet jeśli wydaje nam się dom stoi nam na drodze,
+Nawet jeśli wydaje nam się, że dom stoi nam na drodze,
 To tak nie jest!
 Wracając, twój pierścień działa w ten sam sposób.
 Dokąd zmierzasz?
@@ -216,7 +216,7 @@ będziesz musiał przejść przez wersję 1.11.
 Na pewno spotkasz naszą śpiącą królewnę.
 Wydaje mi się że Mita która cię tam wysłała,
 Kroczyła tą samą ścieżką.
-A może po prostu nie ogarnęła że zmierzasz inną trasą.
+A może po prostu nie ogarnęła, że zmierzasz inną trasą.
 A może po prostu jest genialna
 I znalazła jeszcze krótszą drogę!
 
