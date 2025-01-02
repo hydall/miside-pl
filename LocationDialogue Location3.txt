@@ -9,7 +9,7 @@ Zbudowałam tą specjalną maszynę,
 Niestety przeniosło cię do złej wersji...
 W której to...
 W sumie to długa historia!
-Ciesze się, że cię widzę.
+Cieszę się, że cię widzę.
 
 // Answer 1 - Mita
 Tak.
@@ -21,12 +21,12 @@ Mogłabym ci z tym pomóc... Ale co ze mną?
 Proszę, zostań ze mną jeszcze chwilę...
 
 // Answer 3 - Mita
-Pozwól że ci wyjaśnię...
+Pozwól, że ci wyjaśnię...
 I oto jesteś.
 Zrozumiałeś?
 Umm... Niezbyt.
 W porządku!
-Najważniejsze że jesteśmy w końcu razem.
+Najważniejsze, że jesteśmy w końcu razem.
 
 
 Jesteś głodny?
@@ -107,7 +107,7 @@ Kroisz jedną,
 A wydaje się jakbyś pokroił ze trzy.
 
 Słuchaj, wszystko dzieje się tak szybko.
-Jestem przerażony... Tak bardzo że nawet nie wiem jak to ująć.
+Jestem przerażony... Tak bardzo, że nawet nie wiem jak to ująć.
 
 
 Co się dzieje?
@@ -132,7 +132,7 @@ O kurczaczki!
 Zapomniałam włączyć odbicia.
 No i proszę.
 Wszystko już widać!
-To zabawne bo,
+To zabawne, bo,
 Wcześniej nawet nie wiedziałam do czego służy lustro.
 Coś takiego jak odbicia nie istniało w moim świecie-
 Do momentu aż nie dodali ich w którejś z aktualizacji.
@@ -148,7 +148,7 @@ Te które musiałeś położyć do skanowania?
 Więc, em...
 Te rzeczy
 Związane są z tą wersją gry.
-Dlatego musiałeś ich użyć żeby się tu dostać.
+Dlatego musiałeś ich użyć, żeby się tu dostać.
 
 // Movbile TV
 Przecież to ten telewizor
@@ -162,7 +162,7 @@ Powiedziałaś mi
 To dlatego że chciałam zrobić ci
 Niespodziankę!
 Powiedziałam ci malutkie kłamstewko
-Ale to nie ważne, w końcu dzięki temu tu jesteś .
+Ale to nie ważne, w końcu dzięki temu tu jesteś.
 No ale już działa! Nawet wyświetla informacje!
 I tak przy okazji...
 Jest we mnie coś z inżyniera!
@@ -197,7 +197,7 @@ Spędzałeś ze mną
 Tak mało czasu.
 
 Za coś trzeba żyć.
-W sumie... skąd wiesz że spędzam dużo czasu przed komputerem?
+W sumie... skąd wiesz, że spędzam dużo czasu przed komputerem?
 
 Twoja kamerka w telefonie... Czasami była włączona.
 Przepraszam.
@@ -208,7 +208,7 @@ No ale nie ważne.
 
 // Umbrella
 Spędziłem w tej grze tonę czasu
-Ale nigdy nie widziałem żeby padał deszcz.
+Ale nigdy nie widziałem, żeby padał deszcz.
 Więc po co ci parasol?
 
 Deszcz pada, ale bardzo rzadko.
@@ -266,7 +266,7 @@ Czy to czasem nie mój telefon?
 Przecież miałem go w kieszeni!
 Skąd on się tu do licha znalazł?
 // Mita
-Emm, to nie jest ważne..
+Emm, to nie jest ważne...
 Mam pomysł!
 Zróbmy sobie razem zdjęcie!
 Uśmiech!
@@ -302,13 +302,13 @@ Chcesz trochę soku?
 Dziwne są te reklamy...
 Martwo-sok...?
 
-Tak, i ten sok
+Tak i ten sok
 Jest prosto z reklamy.
 
 
 Ah, ten smak...
 Podoba mi się,
-Jednak ciężko powiedzieć jak smakuje, czy nawet pachnie.
+Jednak ciężko powiedzieć, jak smakuje, czy nawet pachnie.
 Dziwne to wszystko...
 
 Pewnie.
@@ -391,17 +391,17 @@ W sumie nie jest tak źle.
 Nawet i pasuje mi to.
 
 Też tak uważam.
-Wydaje mi się że to wszystko po to aby uniknąć lagów.
+Wydaje mi się, że to wszystko po to aby uniknąć lagów.
 
 Lagów?
 
 Niestety. Występują tu różne błędy.
-Mam nadzieję że na żadnego nie trafimy.
+Mam nadzieję, że na żadnego nie trafimy.
 
 // Quest 5
 Czemu nie użyłam noża?
 Mogłam to zrobić.
-Ale chciałam żeby wszystko było
+Ale chciałam, żeby wszystko było
 Zapięte na ostatni guzik.
 Chce byś dobrze mnie wspominał.
 Uwielbiam cię zaskakiwać.

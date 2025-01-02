@@ -14,7 +14,7 @@ Złowieszczego.
 
 Co? Złowieszczego?
 
-Nie ma czasu żeby ci to teraz tłumaczyć:
+Nie ma czasu, żeby ci to teraz tłumaczyć:
 Jeśli nam się uda, wszystko ci wyjaśnię.
 Obok sofy jest klucz, przynieś mi go.
 
@@ -28,7 +28,7 @@ Chcesz się stąd wydostać?
 Umm, no tak...
 Więc go zakładaj.
 To rzadki artefakt,
-I bardzo możliwe że niedługo ci się przyda.
+I bardzo możliwe, że niedługo ci się przyda.
 
 Okej...
 Tak przy okazji, jestem
@@ -65,7 +65,7 @@ To prawda.
 
 Czyli ona nas wykorzystuje?
 Tylko po co?
-Co się stanie jeśli wyjmę tą kasetę?
+Co się stanie, jeśli wyjmę tą kasetę?
 
 Prawdopodobnie 
 Nieodwracalnie ją uszkodzisz.
@@ -75,7 +75,7 @@ Gracz umrze.
 ...
 A jeśli po prostu wyłączę konsolę?
 
-Możliwe że to zadziała...
+Możliwe, że to zadziała...
 Warto spróbować. Powinien gdzieś być czerwony przycisk!
 Widzisz go?
 Jest.
@@ -83,7 +83,7 @@ Wciśnij.
 
 // MitaKind quest 2
 Muszę tu zostać.
-Jest parę pytań które muszę jej zadać
+Jest parę pytań, które muszę jej zadać
 Chce się dowiedzieć o niej i o mnie.
 Choć pewnie nie będzie zbyt chętna do rozmowy...
 
@@ -121,7 +121,7 @@ Tamta Mita...
 Czy ona chciała mnie zabić?
 
 Zabić?
-Czeka cie znacznie gorszy los...
+Czeka cię znacznie gorszy los...
 Musisz się pośpieszyć.
 
 // Hide!
@@ -131,14 +131,14 @@ Szybko, zaraz tu będzie!
 Pierścień zaprowadzi cię w bezpieczne miejsce!
 
 
-Proszę, proszę, powiesz mi gdzie on jest?
+Proszę, proszę, powiesz mi, gdzie on jest?
 
 Czemu miałabym?
 Przecież zamierzasz go zabić, prawda?
 
 Hah, czyli nie chcesz po dobroci.
 Niech ci będzie, lubię wyzwania.
-Wiem że gdzieś tu jest.
+Wiem, że gdzieś tu jest.
 
 Czemu jesteś dla nas taka wredna?
 Nawet nie masz odwagi mi tego wyjaśnić!
@@ -147,4 +147,4 @@ Po co ci są ci wszyscy gracze?
 To nie zabawki!
 Co w ciebie wstąpiło?!
 
-Wystaczy! Morda w kubeł, podróbko!
+Wystarczy! Morda w kubeł, podróbko!

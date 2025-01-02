@@ -16,7 +16,7 @@ Jak tylko chcemy.
 
 Nie musiałaś.
 Prawie się już przyzwyczaiłem.
-W każdym razie, uważam że w ten sposób będzie nam tu lepiej.
+W każdym razie, uważam, że w ten sposób będzie nam tu lepiej.
 // Mita card game
 Dobrze
 Zagramy?
@@ -55,12 +55,12 @@ Skup się na obronie!
 Wygrałeś!
 Wygrałeś!
 Tym razem ci się udało.
-Ożesz ty...
+Ożeż ty...
 
 Wygrałam!
 Tym razem to ja wygrałam!
 Udało mi się!
-Hah, mam cię!
+Ha, mam cię!
 
 Remis.
 Wow remis!
@@ -111,7 +111,7 @@ Coś przede mną ukrywasz?
 
 Czemu mi nie wierzysz?
 Co znów robię źle?
-Ja chce tylko...
+Ja chcę tylko...
 chcę żebyś że mną został...
 
 Chciałbym, ale...?
@@ -183,7 +183,7 @@ No dobra.
 Teraz gram na serio.
 
 Nieźle!
-Zobaczymy czy uda ci się
+Zobaczymy, czy uda ci się
 Pokonać mnie teraz!
 
 Jesteś
@@ -192,7 +192,7 @@ Niesamowity! Masz zwinne palce!
 
 
 Co się dzieje?
-Nudzi cię to?.
+Nudzi cię to?
 
 A więc,
 Grasz na serio?
@@ -292,7 +292,7 @@ Lustro bez odbić...
 To naprawdę niepokojące...
 
 Możemy włączyć odbicia
-Jeśli tylko chcesz .
+Jeśli tylko chcesz.
 Ale czy naprawdę ich potrzebujemy?
 
 Oczywiście że tak.
@@ -308,7 +308,7 @@ Może lepiej zostawmy je wyłączone...
 
 Ej, [player],
 Serio lubisz lustra co?
-Masz nadzieję że zobaczysz tam swój uśmiech?
+Masz nadzieję, że zobaczysz tam swój uśmiech?
 
 Co? Nie...
 Jestem po prostu zmęczony
@@ -357,7 +357,7 @@ Dokładnie o to w tym chodzi.
 
 // Stay with Mita
 Czekaj, naprawdę?
-Mówisz serio? Myślałam że mnie...
+Mówisz serio? Myślałam, że mnie...
 Jestem taka szczęśliwa!
 I trochę zszokowana...
 Ale...
@@ -377,7 +377,7 @@ Już zawsze i na zawsze...
 
 // A gamę about penguins
 To bardzo proste:
-Poprostu zbierasz śnieżki .
+Po prostu zbierasz śnieżki.
 Kto zbierze więcej wygrywa!
 Zagrajmy dwie rundy okej?!
 // The first map

@@ -24,7 +24,7 @@ Ja w przeciwieństwie do innych...
 Mam równo pod kopułą...
 Poza tym,
 Jestem najmilszą osobą jaką możesz tu spotkać, kochanieńki.
-Mam nadzieje że nie chcesz się poddać?
+Mam nadzieje, że nie chcesz się poddać?
 Sam widzisz, że ona jest szurnięta i tylko my możemy ją powstrzymać.
 
 // Quest 2 (How did I get here?)
@@ -36,7 +36,7 @@ Bez niego nie można podróżować pomiędzy wersjami.
 // Quest 3 (What is this place?)
 To są przejścia 
 Które prowadzą do różnych wersji gry.
-Tak, wiem że jest tu trochę pusto.
+Tak, wiem, że jest tu trochę pusto.
 Oh! Słyszałam o jednej Micie,
 której wersja świata nie została zarchiwizowana...
 Dom tej Mity
@@ -47,7 +47,7 @@ Szkoda mi jej...
 
 // Quest 4 (How did you end up here?)
 No wiesz,
-Trochę minęło kiedy ostatni raz się widzieliśmy.
+Trochę minęło, kiedy ostatni raz się widzieliśmy.
 A dzięki tobie,
 Udało mi się wydostać z tej celi,
 I uciec od tej szajbuski.
@@ -79,7 +79,7 @@ Wszystko przemyślałam,
 Obierzemy najkrótszą,
 I najlepiej mi znaną trasę!
 
-Mam nadzieje że wszystko skończy się dobrze.
+Mam nadzieje, że wszystko skończy się dobrze.
 Czy coś zamieszkuje te wszystkie korytarze?
 
 Tak,
@@ -98,7 +98,7 @@ Po prostu...
 To najstarsza wersja Mity.
 Przez co błędy, które generuje,
 są bardziej niebezpieczne niż w innych wersjach...
-Boję się że na nią trafimy
+Boję się, że na nią trafimy
 W końcu jej wersja, była tą pierwszą...
 
 // Quest 7 (Will you help me get out?)
@@ -121,13 +121,13 @@ Z jakiegoś powodu, My nie możemy wejść
 Do Rdzenia.
 Widziałam go tylko z zewnątrz.
 Ale wy gracze, jesteście inni.
-Jestem pewna że
+Jestem pewna, że
 Wejdziesz tam bez problemu.
 Chcesz poznać aktualny plan?
 Okej.
 Świetnie.
 Mhm...
-Nadszedł czas żeby przedstawić cię
+Nadszedł czas, żeby przedstawić cię
 Czaderskiej Micie!
 Przez jej superową czapkę,
 Nazywam ją 
@@ -156,7 +156,7 @@ Szalona Mita...
 Słuchaj!
 Spróbuj sobie przypomnieć!
 
-Przypomnieć... ale co?
+Przypomnieć..., ale co?
 Tak w ogóle to czemu wyglądasz jak ja?
 
 Umm, to na nic...
@@ -180,14 +180,14 @@ Umierając mam na myśli to...
 Że czaderska Mita.
 Powróciła do ustawień fabrycznych.
 Straciła wszystkie dotychczasowe wspomnienia.
-Co oznacza że...
+Co oznacza, że...
 Nasz plan nie wypali.
 
 Okropne, nie wiedzieć, że się umarło...
-Chociaż może tak jest lepiej, niż zniknąć na zawsze...
+Chociaż może tak jest lepiej niż zniknąć na zawsze...
 Ale kto to wie?
 A co z nami, graczami?
-Czy zabicie nas sprawi że też stracimy wszystkie wspomnienia?
+Czy zabicie nas sprawi, że też stracimy wszystkie wspomnienia?
 
 Utrata wspomnień jest możliwa.
 Przynajmniej dla tych którzy zostali zmienieni w kasety.
@@ -258,7 +258,7 @@ To tylko kwestia czasu zanim nas znajdzie.
 Powodzenia, [player]! Do zobaczenia wkrótce!
 
 Dobrze...
-Mam nadzieję że przeżyje do naszego następnego spotkania...
+Mam nadzieję, że przeżyje do naszego następnego spotkania...
 
 
 
@@ -316,7 +316,7 @@ Chyba...
 Wiesz kim jestem?
 Jestem Czaderska Mita!
 Ale nie taka jak inne!
-A wiesz dlaczego?
+A wiesz, dlaczego?
 Bo mam...
 TO!
 Czaderską czapkę!
@@ -401,7 +401,7 @@ Dostaniesz młotem w łeb!
 Zamierzasz mnie tym walić?
 
 Okej.
-Zobaczymy jak ci pójdzie.
+Zobaczymy, jak ci pójdzie.
 
 // Kick player 1
 Auć!
@@ -417,7 +417,7 @@ Pa teraz!
 Spodoba ci się!
 
 // Kick player 3
-Myślę że ta gra nie jest dla mnie.
+Myślę, że ta gra nie jest dla mnie.
 Ha-ha!
 Jestem świetna!
 Jestem wspaniała!
@@ -436,7 +436,7 @@ Tym razem ty wygrałeś.
 
 // Kick MitaCap 3
 Ta gra wcale nie jest taka zła.
-Jest fajna, prawda?
+Jest świetna, prawda?
 Też ją uwielbiam!
 Ale od teraz jesteś moim rywalem!
 
@@ -470,7 +470,7 @@ Pokaże ci jak to się robi!
 // MitaCap StopDance 1
 Fiuu!
 Więc,
-Myślisz że pobijesz mój rekord?
+Myślisz, że pobijesz mój rekord?
 No dawaj, twoja kolej!
 
 // MitaCap StopDance 2
@@ -549,7 +549,7 @@ Trzeba im pokazać o co chodzi w tej grze! Boom!
 Um... Pokazać komu?
 
 Serio? Mnie nie pytaj.
-Zresztą, i tak pewnie wszyscy są ślepi!
+Zresztą i tak pewnie wszyscy są ślepi!
 
 // CutBoard
 Wow,
@@ -592,14 +592,14 @@ Wyglądają wspaniale.
 Czy one kiedykolwiek się psują?
 
 Masz na myśli jabłka?
-Nie mają czasu żeby się zepsuć,
+Nie mają czasu, żeby się zepsuć,
 Bo je wszystkie zjadam!
 A wtedy po prostu się pojawiają nowe...
 
 // Photo and cat
 Jaki słodki kiciuś.
 
-Myślisz że jest smaczny?
+Myślisz, że jest smaczny?
 
 Czekaj, co?
 Jesz koty?!
@@ -659,7 +659,7 @@ Za dużo zjadłem...
 Ugh, znów praca?
 Jaki jutro mamy dzień?
 Gdzie mój komputer?
-Wyrzucą mnie jeśli nie skończę na czas!
+Wyrzucą mnie, jeśli nie skończę na czas!
 Czy wszystko zapisałem?
 Czemu nikt mnie nie kocha?
 Gdzie idziemy?
@@ -704,7 +704,7 @@ Co tam?
 Znów odchodzisz?
 
 Niech będzie!
-Niech będzie, wybacze ci.
+Niech będzie, wybaczę ci.
 
 [player], Wróć do nas!
 
@@ -735,7 +735,7 @@ Wiesz, chodzi o tą z pierścieniem.
 Na początku chciałam krzyczeć.
 Coś w stylu.
 Jasny gwint! Skąd się tu wziął mój klon!
-Ale doszłam do wniosku że to oklepane.
+Ale doszłam do wniosku, że to oklepane.
 A ja jestem na to zbyt czadowa :)
 Nie tak jak ona...
 
@@ -757,7 +757,7 @@ Okej.
 // Carrot
 Ups.
 Cała masa marcheweczek!
-Dobrze że są tu też zabawne błędy!
+Dobrze, że są tu też zabawne błędy!
 Ha-ha-ha!
 
 // DoorExit

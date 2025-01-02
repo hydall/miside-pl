@@ -152,7 +152,7 @@ pokazane jako linie.
 Domy ustawione są na liniach.
 Powiedzmy że pobierasz wersję 1.14,
 więc tworzysz nowe życie,
-nową mite i nowy dom.
+nową Mite i nowy dom.
 
 Niebiosa...
 
@@ -196,7 +196,7 @@ wersja domu 809.
 Musimy dotrzeć do wersji 1.11,
 wersja domu 805.
 Więc, jej droga prowadziła tak.
-ALe próbowaliśmy ją skrócić,
+Ale próbowaliśmy ją skrócić,
 I śliczna Mita zasugerowała nową drogę.
 A ja narysowałam najprostszą drogę.
 Łatwizna, nieprawdaż?
