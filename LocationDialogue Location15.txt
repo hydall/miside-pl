@@ -113,7 +113,7 @@ uciec z tej pieprzonej gry...
 
 
 Zaczekaj.
-Chciała bym cię przytulić.
+Chciałabym cię przytulić.
 
 Co?
 // Hugs
