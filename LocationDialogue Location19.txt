@@ -18,7 +18,7 @@ Musze jakimś cudem dostać się do starszej wersji.
 
 Dobra!
 Jestem zbyt zajęta
-żeby cie zabawiać, głupolu!
+żeby cię zabawiać, głupolu!
 
 Niby czym? Graniem?
 
@@ -350,7 +350,7 @@ To moje marzenie!
 
 // Make long eye contact 1
 Gapisz mi się na twarz?
-Odwróć sie!
+Odwróć się!
 
 // Make long eye contact 2
 Dosyć!

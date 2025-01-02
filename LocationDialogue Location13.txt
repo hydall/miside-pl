@@ -46,7 +46,7 @@ Powiedz mi coś, czego nie wiem...
 // Answer 3 (Kim była Mita sprzed chwili?)
 To brzydka Mita.
 Agresywna i głupia.
-Nie da sie jej przemówić do rozsądku,
+Nie da się jej przemówić do rozsądku,
 jej cały świat to Szalona Mita.
 
 Ta... Zauważyłem.
@@ -59,7 +59,7 @@ to jedyna droga do rdzenia?
 
 Owszem.
 Oczywiście, gdybyśmy mieli portal
-mogli byśmy cie tam teleportować
+mogli byśmy cię tam teleportować
 ale cóż, dobre i to.
 
 Jakie są zalety pierścienia?
@@ -102,7 +102,7 @@ Tak właściwie, byłam tam kiedyś.
 
 // Look on CoreMita
 Ostrożnie, [player].
-To cie obserwuje.
+To cię obserwuje.
 
 To?
 
@@ -189,7 +189,7 @@ Ale jaką?
 Mita, wiesz coś o tym?
 
 Może jest gdzieś napisane?
-Rozejrzyj sie.
+Rozejrzyj się.
 
 // core console - nope programm
 To chyba nie to.
