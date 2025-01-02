@@ -176,7 +176,7 @@ Chodzisz do szkoły?
 Do szkoły?
 Coś ty.
 Ale bardzo mi się podoba.
-Nie powiesz przecież że nie wyglądam w nim słodko
+Nie powiesz przecież, że nie wyglądam w nim słodko
 Prawda?
 
 // PC

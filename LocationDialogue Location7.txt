@@ -57,7 +57,7 @@ W przeciwieństwie do ciebie mój drogi.
 
 // Quest 5 (What did you do with the ring?)
 Zmieniłam trasę 
-Na ta właściwą.
+Na tą właściwą.
 Ustawiłam najkrótszą możliwą drogę,
 Ze wszystkimi potrzebnymi nam rzeczami...
 Działa to bardzo prosto: otwierasz drzwi
@@ -192,10 +192,10 @@ Czy zabicie nas sprawi, że też stracimy wszystkie wspomnienia?
 Utrata wspomnień jest możliwa.
 Przynajmniej dla tych którzy zostali zmienieni w kasety.
 Ale nawet ja nie wiem,
-Co się dzieje z tymi którzy zostali zabici.
+Co się dzieje z tymi, którzy zostali zabici.
 
 Ciągle tylko te kasety... Skąd mam wiedzieć
-Czy sam nim nie jestem?
+Czy sam nią nie jestem?
 
 Podejdź na chwilę
 Sprawdzę to...
