@@ -3,7 +3,7 @@ Tutaj jesteś!
 Dlaczego opuściłeś rdzeń?
 Mówiłam ci abyś zaczekał!
 
-Długo cię nie było, myślałem że...
+Długo cię nie było, myślałem, że...
 
 No dobra...
 Wydaje mi się, że coś znalazłam...
@@ -194,19 +194,19 @@ To chyba nie to.
 Ani to.
 Pudło.
 Nie, to nie to.
-Muszę znaleźć okienko resetu postaci..
+Muszę znaleźć okienko resetu postaci...
 
 // core console - nope version
 To błędna wersja.
 Oj, mój błąd.
 To nie to.
-Trzeba poprawić
+Trzeba poprawić.
 
 // core console - nope index
-Coś jest nie tak
-Indeks jest nieprawidłowy
-Muszę go poprawić
-Nie pasuje
+Coś jest nie tak.
+Indeks jest nieprawidłowy.
+Muszę go poprawić.
+Nie pasuje.
 
 // Why kitchen
 Burczy ci w brzuszku?

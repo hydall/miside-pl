@@ -11,7 +11,7 @@ Szukałam też informacji
 o zapleczu tego cholernego wszechświata.
 
 Tak właściwie...
-Jak ty ustawiłaś te drogę na pierścieniu?
+Jak ty ustawiłaś tę drogę na pierścieniu?
 Dlaczego skończyłem w zepsutej wersji
 pełnej niebezpieczeństw?
 Ledwo udało mi się uciec
@@ -76,10 +76,10 @@ Wciągnęła mnie w swoją niebezpieczną gierkę,
 jednak wciąż żyje...
 
 Ciężko powiedzieć...
-Możliwe że szuka odpowiedniego gracza...
+Możliwe, że szuka odpowiedniego gracza...
 Takiego który ją zaakceptuje i pokocha.
 Mimo wszystko, Mita to Mita!
-Z racji że oczywiście to się nie stanie,
+Z racji, że oczywiście to się nie stanie,
 zmienia graczy w kasety,
 aby nikt nie mógł jej już uciec...
 Przynajmniej tak zgaduję.
@@ -118,7 +118,7 @@ Chyba znalazłem!
 
 Wspaniale! Dobra robota!
 
-Jednak muszę wyszczególnić wersję gry.
+Jednak muszę podać wersję gry.
 
 Jasne... Jej wersja to
 00.98.
@@ -129,7 +129,7 @@ Okej, który indeks domu?
 Indeks domu?
 
 Potrzebuję indeksu domu.
-Czekaj, nie gadaj że nie wiesz...?
+Czekaj, nie gadaj, że nie wiesz...?
 
 
 Hmm, to ma sens...
@@ -151,7 +151,7 @@ Daj mi chwilę.
 
 // Answer 2 (Może jest jakiś sposób aby go poznać?)
 Ja...
-Myślę że... To obłęd!
+Myślę, że... To obłęd!
 Totalne szaleństwo!
 To jak szukanie igły w stogu...
 
@@ -209,7 +209,7 @@ muszę zmienić wersję świata,
 nie mieści się.
 
 // Answer 4 (Little people - Chibi)
-Po drodze spotkałem wielu
+Po drodze spotkałem wiele
 mini ludzików...
 Kim oni są?
 

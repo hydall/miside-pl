@@ -4,7 +4,7 @@ Ja... Żyje!?
 Boże Święty!
 Przestraszyłeś mnie!
 Typie...
-Mój zapis-o, nie!
+Mój zapis! O nie!
 Nie rozumiem...
 Gdzie on jest?
 I tyle godzin romansów na marne!
@@ -31,9 +31,9 @@ Przez ciebie się uderzyłam.
 Kurde.
 Co?
 
-...Muszę dostać się do rdzenia i powstrzymać Mitę!
+...Muszę dostać się do rdzenia i powstrzymać Mite!
 
-Mitę?
+Mite?
 Weź!
 Mam ją gdzieś!
 Pierwszą, dziesiątą... każdą!
@@ -44,7 +44,7 @@ Jestem Mila.
 
 Mi-La? Nie "Ta"?
 
-Mita Mitę, Mitą pogania,
+Mita Mite, Mitą pogania,
 Ciągle tylko Mita to, Mita siamto!
 
 A więc... jesteś Mila?
@@ -355,7 +355,7 @@ Odwróć się!
 // Make long eye contact 2
 Dosyć!
 Daj już sobie spokój!
-Głuptas...
+Głupek...
 
 // Make long eye contact 3
 No weź!
@@ -601,5 +601,5 @@ Noc?
 Nawet nie zaczynaj.
 Dni się tu nie kończą...
 Jeden za drugim,
-tak, jakby były na pętli.
+tak, jakby były w pętli.
 Ugh...

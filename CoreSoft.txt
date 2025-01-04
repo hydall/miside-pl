@@ -40,8 +40,8 @@ Otrzymaj pendrive
 
 
 Funkcje podstawowe
-Edytor kodu binarnego [dostęp specjalny]
-Edytor macierzy jednostki [dostęp specjalny]
+Edytor kodu binarnego [Dostęp ograniczony]
+Edytor macierzy jednostki [Dostęp ograniczony]
 
 
 

@@ -10,7 +10,7 @@ Coś było nie tak… Jestem w 2D?! Jestem w wersji 2D?!
 ...
 
 
-Zawroty głowy, i niemal oszałamiająca ciemność wdarła mi się do głowy. Instynktownie złapałem się za kolana, próbując się uspokoić.
+Zawroty głowy i niemal oszałamiająca ciemność wdarła mi się do głowy. Instynktownie złapałem się za kolana, próbując się uspokoić.
 Poczułem jak moja klatka piersiowa się kurczy, jakby wessało ją do środka.
 Po kilku minutach, się uspokoiłem, i w końcu mogłem przemyśleć całą tą sytuację.
 
@@ -18,7 +18,7 @@ Po kilku minutach, się uspokoiłem, i w końcu mogłem przemyśleć całą tą 
 Cholera, i co teraz?
 
 
-Desperacko próbując zebrać myśli, wytężałem umysł, szukając pomysłów, aż w końcu jeden przyszedł mi do głowy.
+Desperacko próbując zebrać myśli, wytężałem umysł, szukając pomysłów. W końcu jeden przyszedł mi do głowy.
 
 
 Racja, powinienem po prostu wrócić do 3D!
@@ -112,8 +112,8 @@ Krzyknąłem zirytowany.
 Kuchnia
 Sypialnia
 // Description kitchen:
-Nie zostało mi nic innego jak znaleźć Mitę z tej wersji.
-W końcu miała pierścień, a bez niego jestem bezużyteczny.
+Nie zostało mi nic innego jak znaleźć Mite z tej wersji.
+W końcu miała pierścień, a bez niego jestem bezradny.
 Najpierw poszedłem do kuchni,
 w pośpiechu wparowałem przez drzwi.
 W kuchni było jeszcze jaśniej niż w salonie,
@@ -186,7 +186,7 @@ Możesz zacząć! Mam dziś dobry humor!
 
 // The game of tic-tac-toe
 Wykonałem pierwszy ruch.
-Ah, zdradziłeś się! Wiem czemu wybrałeś "X" a mi zostawiłeś "O"! Te "X-y" symbolizują chęć końca, ukrywanie sekretów. Jesteś zdenerwowany.
+Ah, zdradziłeś się! Wiem czemu wybrałeś "X" a mi zostawiłeś "O"! Te "X-y" symbolizują desperację, ukrywanie sekretów. Jesteś zdenerwowany.
 Ale rozumiem to; przy kimś tak oszałamiająco pięknym jak ja, można by pomyśleć, że po prostu padniesz trupem! A może myślałeś, że „O” pasują do mnie lepiej? Coś mi mówi, że próbujesz mnie obrazić! Ha-Ha-Ha
 Myślałem, że podjąłem mądrą decyzję,
 Uwielbiam tą grę. Te małe krzyżyki... Myślą że mogą robić co tylko zechcą! Ale to ja tu rządzę,

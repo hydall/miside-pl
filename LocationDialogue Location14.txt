@@ -4,7 +4,7 @@ Co to jest?
 
 
 Mam cię!
-Miałam dzięki tobie tyle frajdy!
+Miałam z tobą tyle frajdy!
 Skaczesz między wersjami!
 Udając takiego smutnego i przerażonego!
 Ale jest coś, co mi w tobie nie pasuje...
@@ -163,7 +163,7 @@ Chciałeś uciec od tego życia, prawda?
 
 // Quest 2
 Jesteś potworem, Mita. Jesteś chorym mordercą...
-Nie chce być uwięziony w cyfrowym więzieniu. To absurd.
+Nie chcę być uwięziony w cyfrowym więzieniu. To absurd.
 
 // 1
 Mordercą?

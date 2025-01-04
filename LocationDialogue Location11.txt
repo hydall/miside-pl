@@ -2,14 +2,14 @@
 Hejcia!
 Ups!
 Sorka,
-prawie cię zabiłam.
+prawie Cię zabiłam.
 Emm...
 Znaczy... Lodówka. Lodówka prawie cię zabiła.
 Nie mam z tym nic wspólnego,
 Przysięgam!
 Naprawdę!
 
-Jasne, wierze ci!
+Jasne, wierzę ci!
 
 Ale serio,
 to miejsce jest niebezpieczne...
@@ -19,9 +19,9 @@ w szczególności dla ciebie.
 Nie jesteś tchórzem, co?
 Kiedy cię tak oglądam
 jak mijasz różne miejsca...
-sprawia mi to satysfakcje...
+sprawia mi to satysfakcję...
 Uciekaj myszko do dziury...!
-Bo cię zobaczy kot bury!
+Bo cię złapie kot bury!
 Zuch chłopiec!
 Haha, podoba mi się to!
 
@@ -30,7 +30,7 @@ Widziałam jak zmierzasz w kierunku pociągu.
 To najdłuższa droga
 między wersjami...
 Ciekawe jak sobie poradzisz
-z tymi którzy tam mieszkają
+z tymi, którzy tam mieszkają
 w tej mgle.
 
 // Panties
@@ -62,12 +62,12 @@ Kiedyś chciałam o wszystkim zapomnieć...
 Zbiłam wszystkie lustra,
 zniszczyłam zdjęcia...
 lecz teraz...
-jedyne co czuje to żal.
+jedyne co czuję to żal.
 Jaka ja byłam głupia...
 Jasne, każdy popełnia błędy...
 Ale co robić
 kiedy konsekwencje są fatalne w skutkach?
-Tak bardzo chciała bym cofnąć czas...
+Tak bardzo chciałabym cofnąć czas...
 // Cry 2
 Mówią, że czas leczy rany...
 Ale czym jest czas?
@@ -155,7 +155,7 @@ Zdajesz sobie sprawę,
 że zmierzasz ku zagładzie?
 
 Możliwe,
-Ale to jedyna droga, jaką znam.
+Ale to moja jedyna droga.
 
 Jasne.
 Naciśnij przycisk i właź za armatę.
@@ -177,7 +177,7 @@ Hej! Wynocha mi stąd.
 Szybciutko!
 // Funicular wait 2
 I dlaczego wciąż tu sterczysz?
-Mówiłam żebyś się wynosił.
+Mówiłam, żebyś się wynosił.
 // Funicular wait 3
 Nie rozumiem...
 po co ty tu jeszcze stoisz?

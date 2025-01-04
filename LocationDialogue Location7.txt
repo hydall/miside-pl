@@ -20,10 +20,10 @@ Powiem ci, że to nie lada wyczyn!
 Minęły wieki, zanim nauczyłam się sterowania.
 
 // Quest 1 (Should I trust you?)
-Ja w przeciwieństwie do innych...
-Mam równo pod kopułą...
+Cóż, przynajmniej nie jestem szalona,
+W przeciwieństwie do niektórych...
 Poza tym,
-Jestem najmilszą osobą jaką możesz tu spotkać, kochanieńki.
+Jestem najmilszą osobą jaką możesz tu spotkać, skarbie.
 Mam nadzieje, że nie chcesz się poddać?
 Sam widzisz, że ona jest szurnięta i tylko my możemy ją powstrzymać.
 
@@ -48,12 +48,12 @@ Szkoda mi jej...
 // Quest 4 (How did you end up here?)
 No wiesz,
 Trochę minęło, kiedy ostatni raz się widzieliśmy.
-A dzięki tobie,
-Udało mi się wydostać z tej celi,
-I uciec od tej szajbuski.
+Ale dzięki tobie,
+udało mi się wydostać z tej celi,
+i uciec od tej szajbuski.
 Dla twojej informacji,
-Mogę bez trudu przenosić się między wersjami,
-W przeciwieństwie do ciebie mój drogi.
+mogę bez trudu przenosić się między wersjami,
+w przeciwieństwie do ciebie, mój drogi.
 
 // Quest 5 (What did you do with the ring?)
 Zmieniłam trasę 
@@ -176,15 +176,15 @@ Ona... Ona chyba...
 zabiła ją...
 Zabiła?!
 
-Umierając mam na myśli to...
-Że czaderska Mita.
-Powróciła do ustawień fabrycznych.
-Straciła wszystkie dotychczasowe wspomnienia.
+W tym świecie umierając...
+wracamy do ustawień fabrycznych.
+Więc czaderska Mita...
+straciła wszystkie dotychczasowe wspomnienia
 Co oznacza, że...
 Nasz plan nie wypali.
 
 Okropne, nie wiedzieć, że się umarło...
-Chociaż może tak jest lepiej niż zniknąć na zawsze...
+Chociaż może jest to lepsze niż zniknąć na zawsze...
 Ale kto to wie?
 A co z nami, graczami?
 Czy zabicie nas sprawi, że też stracimy wszystkie wspomnienia?
@@ -293,7 +293,7 @@ Umm, czy wszystko w porządku?
 To tylko zadrapanie, nie martw się.
 Jestem tu od ponad roku,
 I daje sobie radę.
-Racja... Co to w ogóle za miejsce?
+Jasne... Co to w ogóle za miejsce?
 To coś w rodzaju przestrzeni między wersjami.
 Wiesz jak się stąd wydostać?
 
@@ -329,7 +329,7 @@ Zagrać ci coś?
 
 // MitaCap Guitar Yes
 Hura!
-Podejdź bliżej, słońce...
+Chodź tu, słońce...
 Dobra!
 No, mogłam zagrać coś innego,
 Ale dobra!
@@ -647,7 +647,7 @@ Musimy dostać się do rdzenia.
 
 Mogę iść z wami?
 
-Szczerze, Nie wiem...
+Szczerze, nie wiem...
 
 Więc, nie mogę?
 
@@ -744,7 +744,7 @@ Wszystko słyszę.
 
 // quest Cap 3
 Nie nudzi ci się ta czapka?
-No i nie za ciepło ci w tych rękawiczkach?
+I nie za ciepło ci w tych rękawiczkach?
 Czemu ich nie zdejmiesz?
 
 Emm...

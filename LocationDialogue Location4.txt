@@ -29,7 +29,7 @@ Symbol zdrowia ma większą wartość
 Niż u mnie,
 To wygrywasz.
 Weź swoje karty.
-Moja kolej.
+Zobaczmy...
 Wow!
 Trafiły się niezłe karty!
 Ja pierwsza!
@@ -42,9 +42,9 @@ Ja pierwsza!
 
 
 
-OK!
+Dajesz!
 Twoja kolej!
-No nie.
+No.
 Twoja kolej!
 
 Zdrowie wygrywa!
@@ -112,13 +112,13 @@ Coś przede mną ukrywasz?
 Czemu mi nie wierzysz?
 Co znów robię źle?
 Ja chcę tylko...
-chcę żebyś że mną został...
+chcę żebyś ze mną został...
 
 Chciałbym, ale...?
 
 Dlaczego tak się uparłeś na tą szafę?!
 
-Chce cholera jasna wiedzieć co to za odgłos!
+Chcę tylko wiedzieć co to za odgłos!
 
 Czy to dlatego
 Że ten świat
@@ -130,9 +130,9 @@ Czemu po prostu nie możesz ze mną zostać?
 // Don't stay with Mita
 Rozumiem.
 Znowu to samo...
-Skoro tak bardzo chcesz się przekonać,
-Co w niej jest,
-To sobie sprawdź!
+Skoro tak chcesz wiedzieć, co tam jest
+To za chwilę...
+się dowiesz!
 
 
 
@@ -194,8 +194,8 @@ Niesamowity! Masz zwinne palce!
 Co się dzieje?
 Nudzi cię to?
 
-A więc,
-Grasz na serio?
+Zrobiłam to!
+Fatality!
 
 Ehh,
 Weź się w garść albo będę cię nazywać przegrywem!
@@ -280,9 +280,9 @@ Gdzie jest portal?
 Albo jakkolwiek się to nazywało?
 
 Użyłam odrobinę
-Magii
-I przeniosłam go
-Gdzieś indziej.
+magii
+i przeniosłam go
+gdzieś indziej.
 Nie potrzebujemy go już.
 Będzie nam przeszkadzał.
 
@@ -300,7 +300,7 @@ Chyba że... ma to jakieś konsekwencje?
 
 Tak.
 Będziemy się zacinać i wolniej poruszać.
-Widziałeś kiedyś jakaś kreskówkę z niskimi klatkami na sekundę?
+Widziałeś kiedyś jakąś kreskówkę z niskim klatkarzem?
 Będzie tak mniej więcej cały czas.
 
 Rozumiem.
@@ -326,11 +326,11 @@ Nie przypominam sobie żebym takie miał.
 
 To teraz już masz.
 Możesz je nosić
-Gdy wyjdziemy na dwór.
+gdy wyjdziemy na dwór.
 
 A co z ubraniami?
-Wszystko co mam
-To tylko te, które mam na sobie.
+Wszystko co mam to tylko te
+które mam na sobie.
 Można tu jakoś zdobyć inne?
 
 Oczywiście.
@@ -348,7 +348,7 @@ W co chcesz pograć?
 // Game milk
 To bijatyka!
 Zobaczmy kto kogo pierwszy stłucze na zsiadłe mleko. 
-Nieźle ci poszło!
+Niesamowite, co nie?
 Myślę że wystarczy już mleka na ten moment, może zagramy w coś innego?
 // Gamę penguins
 W tej grze jesteś pingwinem
@@ -377,9 +377,9 @@ Już zawsze i na zawsze...
 
 // A gamę about penguins
 To bardzo proste:
-Po prostu zbierasz śnieżki.
-Kto zbierze więcej wygrywa!
-Zagrajmy dwie rundy okej?!
+Musisz zbierać śnieżki.
+Kto zbierze więcej - wygrywa!
+Zagrajmy dwie rundy, okej?
 // The first map
 Wow, jak ci się udało zebrać aż tyle?
 Hee-hee! Mam najwięcej śnieżek!

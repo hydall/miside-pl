@@ -96,7 +96,7 @@ Szybko zadziałały...
 [player], jesteśmy w grze.
 Wszystko jest tutaj prostsze.
 Nawet najmniejsze rzeczy
-Dają wspaniałe rezultaty
+dają wspaniałe rezultaty
 W końcu koncept tej gry polega na:
 U-pro-szcza-niu.
 
@@ -160,10 +160,10 @@ Powiedziałaś mi
 Że jest zepsuty.
 
 To dlatego że chciałam zrobić ci
-Niespodziankę!
+niespodziankę!
 Powiedziałam ci malutkie kłamstewko
-Ale to nie ważne, w końcu dzięki temu tu jesteś.
-No ale już działa! Nawet wyświetla informacje!
+ale to nie ważne, w końcu dzięki temu tu jesteś.
+Teraz ten telewizor wyświetla informacje.
 I tak przy okazji...
 Jest we mnie coś z inżyniera!
 
@@ -219,11 +219,11 @@ Czyż nie?
 
 // Electrical panel
 Skrzynka z bezpiecznikami?
-Przecież jesteś w grze,
-To po co ci jest potrzebna?
+Przecież jesteśmy w grze,
+To po co ona jest potrzebna?
 
 Po pierwsze to,
-MY jesteśmy w grze.
+My jesteśmy W GRZE.
 Więc pytanie po co...
 Jest bez sensu.
 Co nie oznacza, że nie działa.
@@ -269,7 +269,7 @@ Skąd on się tu do licha znalazł?
 Emm, to nie jest ważne...
 Mam pomysł!
 Zróbmy sobie razem zdjęcie!
-Uśmiech!
+Patrz!
 Świetnie wyszedłeś!
 To dla ciebie, na pamiątkę.
 // Gracz
@@ -403,7 +403,7 @@ Czemu nie użyłam noża?
 Mogłam to zrobić.
 Ale chciałam, żeby wszystko było
 Zapięte na ostatni guzik.
-Chce byś dobrze mnie wspominał.
+Przygotowane specjalnie dla ciebie.
 Uwielbiam cię zaskakiwać.
 Na szczęście przygotowania nie były zbyt długie!
 Hii-hii.

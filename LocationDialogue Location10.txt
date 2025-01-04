@@ -7,7 +7,7 @@ jak się tu dostałeś?
 
 Emm...
 Pierścień otwiera właściwe drzwi.
-Szczerze mówiąc nie wiem jak działa.
+Szczerze mówiąc, nie wiem, jak działa.
 
 Pierścień?
 
@@ -61,8 +61,8 @@ Nie zapominaj!
 Są nowe. Prosto z fabryki.
 Potrzebują trochę czasu
 by zyskały "świadomość".
-A później już ja odprowadzam je
-Do ich domów.
+A potem je odprowadzam
+do ich domów.
 
 // Quest 2 (Dlaczego na dole jest tak ciemno?)
 My, Mity, jesteśmy tworzone w ciemności
@@ -76,8 +76,8 @@ Pomagam nowym Mitom się zadomowić!
 W końcu kto im pomoże jak nie ja?
 No chyba nie ty?
 
-// Quest 4 (Do czego jest ten taśmociąg?)
-Do czego jest ten taśmociąg?
+// Quest 4 (Po co to wszystko na taką skalę?)
+Po co to wszystko na taką skalę?
 Czy wystarczy miejsca dla wszystkich?
 
 Czekaj, nie gadaj, że nie rozumiesz
@@ -140,7 +140,7 @@ Mam tylko nadzieję że nie będzie jak na lekcji
 i nie zasnę z nudów.
 
 Wiesz, zawsze możesz wyjść,
-albo zostań i posłuchaj
+albo zostać i posłuchać
 jeśli cię to ciekawi.
 Gracz pobiera MiSide
 I gra ile mu pasuje.
@@ -168,7 +168,7 @@ nigdy jej nie powtórzono.
 To jedyna unikalna wersja gry.
 Tego typu wersje są specjalne
 i posiadają drogi do innych wersji.
-śpiąca Mita przesiaduje w jednej z tych wersji, 1.1.
+śpiąca Mita przesiaduje w tej wersji, 1.1.
 
 Śpiąca Mita?
 Bo inni przechodzący przez jej wersje
