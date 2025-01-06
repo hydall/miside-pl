@@ -30,7 +30,7 @@ Konsola poleceń [Ogólne]
 
 
 
-Funkcje zawaaansowane
+Funkcje zaawansowane
 Usuń obiekt [Wybierz wersję]
 Wyświetlanie kamer [Wybierz wersję]
 Wyświetlanie triggerów [Wybierz wersję]

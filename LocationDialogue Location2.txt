@@ -5,5 +5,5 @@ O cholera... Jestem w grze???
 // Player try open the door
 Hmm... Zamknięte?
 // Player in dark
-Cholera jak tu ciemno.
+Cholera, jak tu ciemno.
 Nic nie widzę!

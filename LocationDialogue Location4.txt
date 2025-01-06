@@ -9,20 +9,20 @@ Więc zostawiłam cię w spokoju.
 Czemu rozmieszczenie pokoi się zmieniło?
 
 Przemeblowałam pokoje.
-Żebyś mógł się poczuć bardziej jak w domu,
+Żebyś mógł się poczuć bardziej jak w domu.
 Na szczęście,
 Tutaj możemy aranżować pokoje
 Jak tylko chcemy.
 
 Nie musiałaś.
 Prawie się już przyzwyczaiłem.
-W każdym razie, uważam, że w ten sposób będzie nam tu lepiej.
+W każdym razie uważam, że w ten sposób będzie nam tu lepiej.
 // Mita card game
-Dobrze
+Dobrze.
 Zagramy?
 Zasady gry są proste:
-Moneta dyktuje na które statystyki gramy,
-Na przykład zdrowie:
+Moneta dyktuje, na które statystyki gramy.
+Na przykład zdrowie.
 Każdy z nas wystawia kartę,
 I jeśli na twojej karcie
 Symbol zdrowia ma większą wartość
@@ -63,7 +63,7 @@ Udało mi się!
 Ha, mam cię!
 
 Remis.
-Wow remis!
+Wow, remis!
 Tym razem to remis!
 Ehh, ta sama liczba...
 
@@ -105,7 +105,7 @@ Znowu to samo...
 
 Co jest z tobą nie tak!?
 To zwykła szafa...
-Trzymam tam swoją bieliznę ...!
+Trzymam tam swoją bieliznę...!
 
 Coś przede mną ukrywasz?
 
@@ -118,9 +118,9 @@ Chciałbym, ale...?
 
 Dlaczego tak się uparłeś na tę szafę?!
 
-Chcę tylko wiedzieć co to za odgłos!
+Chcę tylko wiedzieć, co to za odgłos!
 
-Czy to dlatego
+Czy to dlatego,
 Że ten świat
 To tylko cztery pokoje?
 To dla ciebie za mało?
@@ -130,9 +130,9 @@ Czemu po prostu nie możesz ze mną zostać?
 // Don't stay with Mita
 Rozumiem.
 Znowu to samo...
-Skoro tak chcesz wiedzieć, co tam jest
+Skoro tak chcesz wiedzieć, co tam jest,
 To za chwilę...
-się dowiesz!
+Się dowiesz!
 
 
 
@@ -148,7 +148,7 @@ Jesteśmy w czyimś telefonie?
 Może w jakimś przestarzałym, ze słabym procesorem?
 
 Nie o to chodzi.
-Niestety nie wszystko jest tutaj
+Niestety, nie wszystko jest tutaj
 Idealne...
 Jesteśmy ładowani
 Przez rdzeń świata.
@@ -160,7 +160,7 @@ Typowe, co nie?
 
 
 Nieważne.
-Możemy pograć na konsoli
+Możemy pograć na konsoli,
 Albo w karty.
 Wybieraj.
 
@@ -171,7 +171,7 @@ Chcesz zawalczyć?
 Musisz wygrać
 Cztery razy.
 No dawaj.
-Nie martw się
+Nie martw się,
 Na początku dam ci fory.
 
 
@@ -198,11 +198,11 @@ Zrobiłam to!
 Fatality!
 
 Ehh,
-Weź się w garść albo będę cię nazywać przegrywem!
+Weź się w garść, albo będę cię nazywać przegrywem!
 
 Co z tobą?
 Wytarłam tobą podłogę.
-Nie dałeś z siebie wszystkiego-
+Nie dałeś z siebie wszystkiego -
 Dlatego wygrałam!
 
 
@@ -222,7 +222,7 @@ Chyba pobrałam coś
 Z internetu.
 Chciałam trochę urozmaicić
 Obszar wokół domu.
-Ale jak widać
+Ale jak widać,
 Musiało być coś nie tak z tym plikiem.
 Później to naprawię.
 
@@ -244,9 +244,9 @@ Jest połączony z moim telefonem?
 A więc, umm...
 Szczerze to nie wiem.
 Ale czas nie ma tu znaczenia...
-Nieważne czy jest wcześnie czy późno,
-Dziewczyna jak ja
-Jest zawsze pełna energii-
+Nieważne czy jest wcześnie, czy późno,
+Dziewczyna taka jak ja
+Jest zawsze pełna energii -
 Nigdy się nie męczę!
 Możemy mieć wieczną wiosnę,
 Lub urządzić sobie wieczny romantyczny wieczór!
@@ -270,7 +270,7 @@ Czyli są tutaj jeszcze inne osoby?
 Można tak powiedzieć.
 Kiedyś ci je przedstawię.
 Ale jeszcze nie teraz.
-Teraz, chcę cię mieć tylko dla siebie.
+Teraz chcę cię mieć tylko dla siebie.
 
 
 
@@ -291,11 +291,11 @@ Będzie nam przeszkadzał.
 Lustro bez odbić...
 To naprawdę niepokojące...
 
-Możemy włączyć odbicia
+Możemy włączyć odbicia,
 Jeśli tylko chcesz.
 Ale czy naprawdę ich potrzebujemy?
 
-Oczywiście że tak.
+Oczywiście, że tak.
 Chyba że... ma to jakieś konsekwencje?
 
 Tak.
@@ -307,12 +307,12 @@ Rozumiem.
 Może lepiej zostawmy je wyłączone...
 
 Ej, [player],
-Serio lubisz lustra co?
+Serio lubisz lustra, co?
 Masz nadzieję, że zobaczysz tam swój uśmiech?
 
 Co? Nie...
 Jestem po prostu zmęczony
-Po całej tej pracy.
+po całej tej pracy.
 
 
 
@@ -322,20 +322,20 @@ To twoje?
 Nie, te są twoje.
 Nie pamiętasz?
 
-Nie przypominam sobie żebym takie miał.
+Nie przypominam sobie, żebym takie miał.
 
 To teraz już masz.
-Możesz je nosić
+Możesz je nosić,
 gdy wyjdziemy na dwór.
 
 A co z ubraniami?
-Wszystko co mam to tylko te
+Wszystko, co mam, to tylko te,
 które mam na sobie.
 Można tu jakoś zdobyć inne?
 
 Oczywiście.
-Widziałam co nosisz-
-I jeśli mam być szczera to masz słaby gust.
+Widziałam, co nosisz -
+I jeśli mam być szczera, to masz słaby gust.
 W każdym razie, pomogę ci się porządnie ubrać.
 Ale wszystko w swoim czasie.
 Obiecuję.
@@ -347,11 +347,11 @@ Okej.
 W co chcesz pograć?
 // Game milk
 To bijatyka!
-Zobaczmy kto kogo pierwszy stłucze na zsiadłe mleko.
-Niesamowite, co nie?
-Myślę że wystarczy już mleka na ten moment, może zagramy w coś innego?
+Zobaczmy, kto kogo pierwszy stłucze na zsiadłe mleko.
+Szaleństwo, nie?
+Myślę, że wystarczy już mleka na ten moment. Może zagramy w coś innego?
 // Gamę penguins
-W tej grze jesteś pingwinem
+W tej grze jesteś pingwinem.
 Musisz się ślizgać i zbierać śnieżki.
 Dokładnie o to w tym chodzi.
 
@@ -361,7 +361,7 @@ Mówisz serio? Myślałam, że mnie...
 Jestem taka szczęśliwa!
 I trochę zszokowana...
 Ale...
-Będziemy już razem-
+Będziemy już razem -
 Już zawsze i na zawsze...
 
 

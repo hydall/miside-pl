@@ -23,18 +23,18 @@ Minęły wieki, zanim nauczyłam się sterowania.
 Cóż, przynajmniej nie jestem szalona,
 W przeciwieństwie do niektórych...
 Poza tym,
-Jestem najmilszą osobą jaką możesz tu spotkać, skarbie.
+Jestem najmilszą osobą, jaką możesz tu spotkać, skarbie.
 Mam nadzieje, że nie chcesz się poddać?
 Sam widzisz, że ona jest szurnięta i tylko my możemy ją powstrzymać.
 
 // Quest 2 (How did I get here?)
 Pierścień cię tu przyprowadził.
 To niezwykły artefakt.
-Gracze go potrzebują,
+Gracze go potrzebują.
 Bez niego nie można podróżować pomiędzy wersjami.
 
 // Quest 3 (What is this place?)
-To są przejścia
+To są przejścia,
 Które prowadzą do różnych wersji gry.
 Tak, wiem, że jest tu trochę pusto.
 Oh! Słyszałam o jednej Micie,
@@ -42,47 +42,47 @@ której wersja świata nie została zarchiwizowana...
 Dom tej Mity
 Po prostu zniknął...
 Teraz podobno błądzi
-W tych korytarzach,
+w tych korytarzach.
 Szkoda mi jej...
 
 // Quest 4 (How did you end up here?)
 No wiesz,
-Trochę minęło, kiedy ostatni raz się widzieliśmy.
-Ale dzięki tobie,
-udało mi się wydostać z tej celi,
+Trochę minęło, odkąd ostatni raz się widzieliśmy.
+Ale dzięki tobie
+udało mi się wydostać z tej celi
 i uciec od tej szajbuski.
-Dla twojej informacji,
-mogę bez trudu przenosić się między wersjami,
-w przeciwieństwie do ciebie, mój drogi.
+Dla twojej informacji
+mogę bez trudu przenosić się między wersjami.
+W przeciwieństwie do ciebie, mój drogi.
 
 // Quest 5 (What did you do with the ring?)
 Zmieniłam trasę
 na tę właściwą.
 Ustawiłam najkrótszą możliwą drogę.
 Posłuchaj!
-Działa to bardzo prosto: otwierasz drzwi
+Działa to bardzo prosto: otwierasz drzwi,
 A pierścień otwiera odpowiednie przejście
-Pomiędzy wersjami.
+pomiędzy wersjami.
 
 // Quest 6 (Are the passages dangerous?)
-Odkąd się tu przeniosłem widziałem już
-Wiele dziwnych rzeczy.
+Odkąd się tu przeniosłem, widziałem już
+wiele dziwnych rzeczy.
 Wszystko tutaj...
-Wydaje się takie... Ciche,
-Ale te korytarze powodują u mnie...
-Dreszcze.
+Wydaje się takie... ciche,
+ale te korytarze powodują u mnie...
+dreszcze.
 
-Masz rację, to miejsce wywołuje dziwne uczucia
+Masz rację, to miejsce wywołuje dziwne uczucia,
 A z każdym dniem staje się jeszcze bardziej nieprzewidywalne.
 Ale rozchmurz się!
 Wszystko przemyślałam,
-Obierzemy najkrótszą,
-I najlepiej mi znaną trasę!
+Obierzemy najkrótszą
+i najlepiej mi znaną trasę!
 
-Mam nadzieje, że wszystko skończy się dobrze.
+Mam nadzieję, że wszystko skończy się dobrze.
 Czy coś zamieszkuje te wszystkie korytarze?
 
-Tak,
+Tak.
 Błędy i anomalie.
 Niektóre nawet są świadome.
 Były przypadki, że próbowały nawet zabić, gdy tylko kogoś zauważyły...
@@ -98,16 +98,16 @@ Po prostu...
 To najstarsza wersja Mity.
 Przez co błędy, które generuje,
 są bardziej niebezpieczne niż w innych wersjach...
-Boję się, że na nią trafimy
-W końcu jej wersja, była tą pierwszą...
+Boję się, że na nią trafimy.
+W końcu jej wersja była tą pierwszą...
 
 // Quest 7 (Will you help me get out?)
-Szczerze to nie wiem jeszcze jak ci pomóc...
+Szczerze, to nie wiem jeszcze jak ci pomóc...
 W każdym razie,
 Udało ci się tu dostać, prawda?
 No i poza tym,
 Nie masz lepszego wyjścia
-Niż zdać się na mnie, tę milusią, kochaną Mite!
+niż zdać się na mnie, tę milusią, kochaną Mite!
 Ciężko zaprzeczyć...
 
 // Quest 8 (You were talking about some kind of plan...)
@@ -117,12 +117,12 @@ Mój kobiecy zmysł mówi mi,
 
 Czemu nie pójdziesz tam sama? Po co potrzebna ci moja pomoc?
 
-Z jakiegoś powodu, My nie możemy wejść
-Do Rdzenia.
+Z jakiegoś powodu,
+My nie możemy wejść do Rdzenia.
 Widziałam go tylko z zewnątrz.
 Ale wy gracze, jesteście inni.
 Jestem pewna, że
-Wejdziesz tam bez problemu.
+wejdziesz tam bez problemu.
 Chcesz poznać aktualny plan?
 Okej.
 Świetnie.
@@ -138,7 +138,7 @@ W drogę, [player]!
 
 
 Siemaneczko!
-Jesteś moim nowym... Graczem?
+Jesteś moim nowym... graczem?
 Jak masz na imię?
 Ja...
 
@@ -151,19 +151,19 @@ Kim ty do diabła jesteś?
 
 Cholera jasna!
 [player]...
-ONA Tu była,
+ONA tu była,
 Szalona Mita...
 Słuchaj!
 Spróbuj sobie przypomnieć!
 
 Przypomnieć..., ale co?
-Tak w ogóle to czemu wyglądasz jak ja?
+Tak w ogóle, to czemu wyglądasz jak ja?
 
 Umm, to na nic...
 Słuchaj, [player],
 Niestety sprawy nie idą
 Zgodnie z planem...!
-Mieliśmy użyć tu portalu
+Mieliśmy użyć tu portalu,
 Dzięki niemu nasza podróż byłaby milion razy szybsza i bezpieczniejsza.
 Ale nie uda nam się go uruchomić bez pomocy Czapci.
 A na dodatek nie mamy kilku części...
@@ -177,9 +177,9 @@ zabiła ją...
 Zabiła?!
 
 W tym świecie umierając...
-wracamy do ustawień fabrycznych.
+Wracamy do ustawień fabrycznych.
 Więc czaderska Mita...
-straciła wszystkie dotychczasowe wspomnienia
+Straciła wszystkie dotychczasowe wspomnienia,
 Co oznacza, że...
 Nasz plan nie wypali.
 
@@ -190,14 +190,14 @@ A co z nami, graczami?
 Czy zabicie nas sprawi, że też stracimy wszystkie wspomnienia?
 
 Utrata wspomnień jest możliwa.
-Przynajmniej dla tych którzy zostali zmienieni w kasety.
+Przynajmniej dla tych, którzy zostali zmienieni w kasety.
 Ale nawet ja nie wiem,
 Co się dzieje z tymi, którzy zostali zabici.
 
-Ciągle tylko te kasety... Skąd mam wiedzieć
+Ciągle tylko te kasety... Skąd mam wiedzieć,
 Czy sam nią nie jestem?
 
-Podejdź na chwilę
+Podejdź na chwilę,
 Sprawdzę to...
 // MitaKind check
 Uff...
@@ -219,13 +219,13 @@ Muszę zmienić trasę.
 
 Znasz jakąś inną?
 
-Słuchaj mój drogi,
-Będziesz musiał przedostać się przez inne wersje
+Słuchaj, mój drogi,
+Będziesz musiał przedostać się przez inne wersje,
 Aby dostać się do rdzenia.
 Tak szybko jak potrafisz, rozumiesz?
 
 Muszę iść sam?
-Ale ja nie znam drogi, skąd będę wiedział czy dobrze idę?
+Ale ja nie znam drogi, skąd będę wiedział, czy dobrze idę?
 
 Pomogę ci na tyle,
 Na ile pozwoli sytuacja.
@@ -245,16 +245,16 @@ Podejdź tu na chwilę.
 Słuchaj.
 Niestety to prawda, [player].
 Będziesz musiał iść sam,
-Muszę się dowiedzieć o co w tym wszystkim chodzi.
+Muszę się dowiedzieć, o co w tym wszystkim chodzi.
 Mój plan był idealny...
 A jednak wszystko się zepsuło.
 Muszę przyjrzeć się wszystkiemu i dowiedzieć się,
-gdzie się podział nasz sprzęt...
+Gdzie się podział nasz sprzęt...
 Spróbuję go znaleźć.
 Wtedy moglibyśmy użyć razem portalu.
 Ale nie ma czasu do stracenia.
 Szalona Mita wie o tym miejscu,
-To tylko kwestia czasu zanim nas znajdzie.
+To tylko kwestia czasu, zanim nas znajdzie.
 Powodzenia, [player]! Do zobaczenia wkrótce!
 
 Dobrze...
@@ -272,7 +272,7 @@ Mam nadzieję, że przeżyje do naszego następnego spotkania...
 // Chibi players
 Czemu?
 Kim ja jestem?
-Chce do domu!
+Chcę do domu!
 Jak?
 Dlaczego?
 
@@ -292,13 +292,13 @@ Umm, czy wszystko w porządku?
 
 To tylko zadrapanie, nie martw się.
 Jestem tu od ponad roku,
-I daje sobie radę.
+I daję sobie radę.
 Jasne... Co to w ogóle za miejsce?
 To coś w rodzaju przestrzeni między wersjami.
 Wiesz jak się stąd wydostać?
 
 A wygląda jakbym wiedział?
-Poza tym, nie chce stąd wychodzić.
+Poza tym, nie chcę stąd wychodzić.
 Dobrze mi tu.
 Emm, czemu nie?
 Koniec pogadanki, muszę iść.
@@ -310,10 +310,10 @@ Spadaj!
 
 
 Wszystko słyszałam!
-Nie wiem o co w tym wszystkim chodzi,
+Nie wiem, o co w tym wszystkim chodzi,
 Ale to wszystko brzmi ekstra!
 Chyba...
-Wiesz kim jestem?
+Wiesz, kim jestem?
 Jestem Czaderska Mita!
 Ale nie taka jak inne!
 A wiesz, dlaczego?
@@ -348,7 +348,7 @@ Zabawimy się!
 
 // GAME HUMMER
 
-Jaki fajny czerwony przycisk.
+Jaki fajny, czerwony przycisk.
 Mam ochotę go wcisnąć.
 Mogę?
 
@@ -364,7 +364,7 @@ Ha-ha!
 Uwielbiam tę grę!
 Ale czegoś mi tu brakuje...
 Chyba mam go w ekwipunku!
-Chwilka okej...
+Chwilka, okej...
 Errr!
 Noo...
 Wiesz...
@@ -385,7 +385,7 @@ Po prostu zagrajmy, OK?!
 Musimy?
 
 No dawaj!
-Wiesz w ogóle co to za gra?
+Wiesz w ogóle, co to za gra?
 
 
 // How play hammer game
@@ -458,14 +458,14 @@ Czemu jest taka mała...
 
 Whoo-hoo!
 Zatańczymy?
-Zacznijmy od czegoś łatwego,
+Zacznijmy od czegoś łatwego.
 Wybierz piosenkę!
 
 Spróbujmy tę.
 
 Oki-doki!
 Pójdę na pierwszy ogień!
-Pokaże ci jak to się robi!
+Pokaże ci, jak to się robi!
 
 // MitaCap StopDance 1
 Fiuu!
@@ -544,7 +544,7 @@ Bolą mnie już nogi!
 Widzę że lubisz się wyszaleć!
 
 Tak, jestem jaka jestem!
-Trzeba im pokazać o co chodzi w tej grze! Boom!
+Trzeba im pokazać, o co chodzi w tej grze! Boom!
 
 Um... Pokazać komu?
 
@@ -559,10 +559,10 @@ Po co ci one?
 A jak myślisz?
 Służą do robienia niesamowitych rzeczy!
 Takich jak...
-Krojenie marcheweczek,
+Krojenie marcheweczek.
 I takich jak
-krojenie marcheweczek,
-oraz takich jak...
+krojenie marcheweczek.
+Oraz takich jak...
 
 Dobra, już rozumiem.
 
@@ -618,7 +618,7 @@ Uwielbiam koty.
 // Mita Kind with ring
 Co to jest?
 
-To interfejs pierścienia,
+To interfejs pierścienia.
 Zmieniam na nim trasę.
 
 Umm, przecież ty tylko przesuwasz kółka...
@@ -628,14 +628,14 @@ Ja tu widzę dane.
 
 Długo ci to zajmie?
 
-Przeszkadzaj mi dalej
-to nie skończę do jutra.
+Przeszkadzaj mi dalej,
+To nie skończę do jutra.
 
-Racja,
+Racja!
 Czyli spędzimy razem więcej czasu,
-jeśli będziemy ci przeszkadzać?
+Jeśli będziemy ci przeszkadzać?
 
-Oj, Czapciu,
+Oj, Czapciu...
 Tak bardzo chciałabym przywrócić ci pamięć...
 
 Obiecuję, że niedługo wszystko będzie dobrze...
@@ -651,7 +651,7 @@ Szczerze, wątpię...
 
 Więc, nie mogę?
 
-Niestety nie...
+Niestety, nie...
 
 // PlayerChibi
 Spóźnię się... Bardzo się spóźnię!
@@ -722,7 +722,7 @@ No tak.
 Straciłaś pamięć.
 
 Naprawdę macie w sobie to coś!
-Serio powinnam coś pamiętać,
+Serio, powinnam coś pamiętać,
 czy po prostu się ze mną droczycie?
 Bo patrząc na wasze miny...
 To sama już nie wiem!
@@ -733,9 +733,9 @@ spotkać dokładną kopię siebie?
 Wiesz, chodzi o tę z pierścieniem.
 
 Na początku chciałam krzyczeć.
-Coś w stylu.
+Coś w stylu:
 Jasny gwint! Skąd się tu wziął mój klon!
-Ale zauważyłam że nie jest tak wesoła jak ja!
+Ale zauważyłam, że nie jest tak wesoła jak ja!
 A to znaczy, że jestem lepsza!
 Zobacz, jaka ponura...
 
@@ -784,10 +784,10 @@ Uh-oh.
 Co tu się robi?
 
 Po prostu zbierasz pieniądze
-I unikasz żab.
+i unikasz żab.
 
 Meh, brzmi to okropnie nudno.
-Serio nazywasz to grą?
+Serio, nazywasz to grą?
 
 // Tetris again
 Skąd to masz?

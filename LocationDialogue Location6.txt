@@ -8,13 +8,13 @@ Ale jakaś inna...
 
 Cóż za spostrzegawczość.
 Jednak masz rację, jestem Mita.
-Ale nie tą, którą poznałeś wcześniej.
+Ale nie ta, którą poznałeś wcześniej.
 Uważaj, ona knuje coś...
 Złowieszczego.
 
 Co? Złowieszczego?
 
-Nie ma czasu, żeby ci to teraz tłumaczyć:
+Nie ma czasu, żeby ci to teraz tłumaczyć.
 Jeśli nam się uda, wszystko ci wyjaśnię.
 Obok sofy jest klucz, przynieś mi go.
 
@@ -56,7 +56,7 @@ Nie, to dzieje się na żywo.
 To inny gracz.
 Wykorzystuje go.
 Uważaj, bo ty też...
-możesz stać się kasetą...
+Możesz stać się kasetą...
 
 Muszę się stąd wydostać.
 Ty także.
@@ -83,16 +83,16 @@ Wciśnij.
 
 // MitaKind quest 2
 Muszę tu zostać.
-Jest parę pytań, które muszę jej zadać
+Jest parę pytań, które muszę jej zadać.
 Chce się dowiedzieć o niej i o mnie.
 Choć pewnie nie będzie zbyt chętna do rozmowy...
 
 // MitaKind quest 3
 Jesteśmy w mojej wersji gry.
-Dotrzymywałam towarzystwa innemu graczowi,
+Dotrzymywałam towarzystwa innemu graczowi.
 Ale nagle coś się zmieniło.
 Pojawiła się ona...
-Zmieniła gracza w kasetę
+Zmieniła gracza w kasetę.
 A mnie zamknęła tutaj.
 
 Czekaj, co?
@@ -103,7 +103,7 @@ Po co jej gracze?
 Ona jest szalona...
 Bawi się nimi, wykorzystuje ich do spełnienia chorych fantazji!
 A później zamienia wszystkich w kasety...
-Niektórzy nie wiedzieli co się dzieje...
+Niektórzy nie wiedzieli, co się dzieje...
 A inni nie stawiali nawet oporu...
 To przykre...
 Musisz nam pomóc!
@@ -115,7 +115,7 @@ Pierścień zaprowadzi cię do prawidłowej wersji.
 Tam się spotkamy.
 
 // MitaKind quest 4
-Dalej nie rozumiem
+Dalej nie rozumiem,
 Co się odwaliło...
 Tamta Mita...
 Czy ona chciała mnie zabić?

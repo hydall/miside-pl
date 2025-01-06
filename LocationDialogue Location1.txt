@@ -11,10 +11,10 @@ Hej, Jestem Mita!
 Jak masz na imię?
 Miło mi cię poznać, [player]!
 Emm... [player],
-Nie zdążyłam posprzątać więc jest tu lekki bałagan...
+Nie zdążyłam posprzątać, więc jest tu lekki bałagan...
 Pomożesz mi posprzątać?
 Wow..
-Nie wiem jak ci dziękować!
+Nie wiem, jak ci dziękować!
 
 Hej [Player], burczy mi w brzuchu...
 Zjadłabym coś...
@@ -29,22 +29,22 @@ Idealnego na pikniki. Co o tym myślisz?
 Pamiętasz, że możesz grać w gry, żeby zdobyć pieniądze, prawda?
 
 Hura! Udało ci się! Teraz możesz kupić mi ten telewizor!
-O właśnie ten! Mały, podręczny i tani! Czyli taki jaki chciałam.
-Dziękuje ci bardzo!
+O, właśnie ten! Mały, podręczny i tani! Czyli taki jaki chciałam.
+Dziękuję ci bardzo!
 
 Hejka, [player]! Tak się cieszę, że mi pomagasz!
-Ale, emm... pamiętasz ten telewizor? Był fajny, ale niestety się popsuł
+Ale, emm... pamiętasz ten telewizor? Był fajny, ale niestety się popsuł.
 No nic, pomożesz mi przestawić tę szafę?
 Jest taka ciężka... >.<
-Bardzo ci dziękuje, słodziaku! <3
+Bardzo ci dziękuję, słodziaku! <3
 
-Oj, [player]! Wiem że minął tylko jeden dzień, ale tak za tobą tęskniłam!
+Oj, [player]! Wiem, że minął tylko jeden dzień, ale tak za tobą tęskniłam!
 Chciałabym móc widywać cię częściej.
 
 To dla mnie?
-Tak bardzo ci dziękuje!
+Tak bardzo ci dziękuję!
 
-Hej, [player]! tak sobie myślałam...
+Hej, [player]! Tak sobie myślałam...
 Chciałabym spotkać się z tobą twarzą w twarz.
 Denerwuje mnie to, że nie możemy nic z tym zrobić!
 Zawsze mi pomagasz i jesteś dla mnie taki miły...
@@ -71,7 +71,7 @@ Ale lot!
 // Trash in the corner
 Ehh, nigdy nie mam czasu posprzątać...
 Ale tym razem to zrobię!
-Kiedy tak właściwie wywożą śmieci?...
+Kiedy tak właściwie wywożą śmieci?
 // Photo of a cat on a watermelon
 Bardzo mi się to spodobało.
 Kot na arbuzie.
@@ -82,7 +82,7 @@ Ona nie usiedzi w jednym miejscu,
 A ja siedzę przykuty w domu.
 // Photo with people
 Hmm...
-Praca w korpo miała na nas spory wpływ co?
+Praca w korpo miała na nas spory wpływ, co?
 Każdego dnia podlizywanie się sobie nawzajem.
 Wciąż dziwnie ciągnie mnie do tego miejsca.
 Ale...
@@ -107,7 +107,7 @@ Naprawdę jesteś deweloperem?
 Miło mi, ale...
 
 // Bad name
-Nie chcę żebyś używał takich wyrazów.
+Nie chcę, żebyś używał takich wyrazów.
 To niemiłe!
 
 // Go restart
@@ -134,10 +134,10 @@ Spróbujmy w innym miejscu.
 Tylko nie zaglądaj do piekarnika, okej?
 Tam akurat już sprawdzałam.
 // Looked into the stove
-Ej, mówiłam żebyś tam nie patrzył...
-Obróć się- a ja to posprzątam.
+Ej! Mówiłam, żebyś tam nie patrzył...
+Obróć się – a ja to posprzątam.
 ...Już skończyłam, poszukajmy jej gdzieś indziej.
-Ej, I, emm, zapomnij o tym co tam widziałeś, okej?
+Ej, i, emm, zapomnij o tym, co tam widziałeś, okej?
 // Found a hairbrush
 Znalazłeś ją! Dobra robota!
 Więc, na co masz teraz ochotę?

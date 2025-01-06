@@ -2,7 +2,7 @@
 Witaj, [player]!
 W końcu mogę cię poznać!
 Jestem tak podekscytowana!
-Wiem ze masz wiele pytań...
+Wiem, ze masz wiele pytań...
 Ale tak w skrócie,
 Zbudowałam tę specjalną maszynę,
 Żeby cię tu do mnie sprowadzić.
@@ -65,7 +65,7 @@ Nie kończyć...
 
 // Help
 Co się dzieje?
-Powiedz mi co widzisz.
+Powiedz mi, co widzisz.
 
 Serce wali jak szalone,
 I mam mroczki przed oczami.
@@ -96,7 +96,7 @@ Szybko zadziałały...
 [player], jesteśmy w grze.
 Wszystko jest tutaj prostsze.
 Nawet najmniejsze rzeczy
-dają wspaniałe rezultaty
+dają wspaniałe rezultaty.
 W końcu koncept tej gry polega na:
 U-pro-szcza-niu.
 
@@ -104,10 +104,10 @@ Jakiś przykład?
 
 Przykładowo takie marcheweczki.
 Kroisz jedną,
-A wydaje się jakbyś pokroił ze trzy.
+A wydaje się, jakbyś pokroił ze trzy.
 
 Słuchaj, wszystko dzieje się tak szybko.
-Jestem przerażony... Tak bardzo, że nawet nie wiem jak to ująć.
+Jestem przerażony... Tak bardzo, że nawet nie wiem, jak to ująć.
 
 
 Co się dzieje?
@@ -133,8 +133,8 @@ Zapomniałam włączyć odbicia.
 No i proszę.
 Wszystko już widać!
 To zabawne, bo,
-Wcześniej nawet nie wiedziałam do czego służy lustro.
-Coś takiego jak odbicia nie istniało w moim świecie-
+Wcześniej nawet nie wiedziałam, do czego służy lustro.
+Coś takiego jak odbicia nie istniało w moim świecie -
 Do momentu aż nie dodali ich w którejś z aktualizacji.
 U ciebie jest dużo odbić?
 W sensie w twoim świecie?
@@ -144,7 +144,7 @@ Jest ich od groma!
 
 Czy pamiętasz
 Te trzy rzeczy?
-Te które musiałeś położyć do skanowania?
+Te, które musiałeś położyć do skanowania?
 Więc, em...
 Te rzeczy
 Związane są z tą wersją gry.
@@ -159,9 +159,9 @@ Nom!
 Powiedziałaś mi
 Że jest zepsuty.
 
-To dlatego że chciałam zrobić ci
+To dlatego, że chciałam zrobić ci
 niespodziankę!
-Powiedziałam ci malutkie kłamstewko
+Powiedziałam ci malutkie kłamstewko,
 ale to nieważne, w końcu dzięki temu tu jesteś.
 Teraz ten telewizor wyświetla informacje.
 I tak przy okazji...
@@ -176,7 +176,7 @@ Chodzisz do szkoły?
 Do szkoły?
 Coś ty.
 Ale bardzo mi się podoba.
-Nie powiesz przecież, że nie wyglądam w nim słodko
+Nie powiesz przecież, że nie wyglądam w nim słodko,
 Prawda?
 
 // PC
@@ -207,7 +207,7 @@ Emm... to niezbyt legalne.
 No ale nieważne.
 
 // Umbrella
-Spędziłem w tej grze tonę czasu
+Spędziłem w tej grze tonę czasu,
 Ale nigdy nie widziałem, żeby padał deszcz.
 Więc po co ci parasol?
 
@@ -220,7 +220,7 @@ Czyż nie?
 // Electrical panel
 Skrzynka z bezpiecznikami?
 Przecież jesteśmy w grze,
-To po co ona jest potrzebna?
+To po co ona?"
 
 Po pierwsze to,
 My jesteśmy W GRZE.
@@ -253,7 +253,7 @@ Po co ci drugi telewizor?
 I to jeszcze taki stary?
 
 Nie podoba ci się?
-Jeśli chcesz mogę go zabrać...
+Jeśli chcesz, mogę go zabrać...
 Ale jak już musisz wiedzieć...
 To służy on do dekoracji,
 Urozmaica to wyposażenie kuchni.
@@ -275,7 +275,7 @@ To dla ciebie, na pamiątkę.
 // Gracz
 Mam pytanie.
 Czy jeśli
-Włączę na nim grę,
+włączę na nim grę,
 Będę w stanie cię w niej zobaczyć?
 // Mita
 Nie, to tak nie działa.
@@ -288,8 +288,8 @@ Czy może działa to inaczej?...
 
 To działa troszeczkę inaczej...
 Mam na nim dostęp do internetu.
-Dzięki temu możemy oglądać,
-Wszystko co jest dostępne w sieci.
+Dzięki temu możemy oglądać
+wszystko, co jest dostępne w sieci.
 Czekaj moment,
 Emm, ups.
 Co to jest?
@@ -308,7 +308,7 @@ Jest prosto z reklamy.
 
 Ah, ten smak...
 Podoba mi się,
-Jednak ciężko powiedzieć, jak smakuje, czy nawet pachnie.
+jednak ciężko powiedzieć, jak smakuje, czy nawet pachnie.
 Nie rozumiem, jak to działa...
 
 Pewnie.
@@ -321,7 +321,7 @@ Zawstydzasz mnie.
 // The statuette
 Co za straszna figurka.
 Czy
-Podobają ci się takie rzeczy?
+podobają ci się takie rzeczy?
 
 Przeraża cię?
 
@@ -337,15 +337,15 @@ Może masz rację...
 Mita?
 Co się dzieje?
 // Mita kitchen
-Może chwilę porozmawiamy
-Zanim zaczniemy jeść?
+Może chwilę porozmawiamy,
+zanim zaczniemy jeść?
 
 // Start Eat
 Smacznego.
 
 // Quest 1
 Prawda?
-Jeśli chcesz możesz zostać.
+Jeśli chcesz, możesz zostać.
 Nie przeszkadza mi to.
 A tak właściwie...
 JESTEM NA TAK!
@@ -363,7 +363,7 @@ Po prostu.... martwię się.
 Martwię się, że zostawiłem coś ważnego w domu...
 Pojawiłem się tutaj ni stąd ni zowąd
 Nie miałem nawet czasu
-Się przygotować.
+się przygotować.
 
 Przepraszam.... Nie pomyślałam o tym.
 // Quest 3
@@ -383,7 +383,7 @@ Głupol!
 // Quest 4
 W tym świecie
 Po prostu już tak jest.
-Może się to dla ciebie wydawać dziwne
+Może się to dla ciebie wydawać dziwne,
 Że nie można niczego dostrzec
 W oddali.
 
@@ -391,12 +391,12 @@ W sumie nie jest tak źle.
 Nawet i pasuje mi to.
 
 Też tak uważam.
-Wydaje mi się, że to wszystko po to aby uniknąć lagów.
+Wydaje mi się, że to wszystko po to, aby uniknąć lagów.
 
 Lagów?
 
 Niestety. Występują tu różne błędy.
-Mam nadzieję, że na żadnego nie trafimy.
+Mam nadzieję, że na żaden nie trafimy.
 
 // Quest 5
 Czemu nie użyłam noża?
