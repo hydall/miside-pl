@@ -654,33 +654,33 @@ Więc, nie mogę?
 Niestety nie...
 
 // PlayerChibi
-Jestem spóźniony... bardzo spóźniony!
-Za dużo zjadłem...
+Spóźnię się... Bardzo się spóźnię!
+Jem za dużo...
 Ugh, znów praca?
 Jaki jutro mamy dzień?
 Gdzie mój komputer?
 Wyrzucą mnie, jeśli nie skończę na czas!
-Czy wszystko zapisałem?
+Czy wszystko zapisane?
 Czemu nikt mnie nie kocha?
 Gdzie idziemy?
 Hej!
 Kończy mi się cierpliwość...
 Muszę ciężej pracować...
-Nic mi się nie udaje!
+Jakie to wszystko wielkie.
 Gdzie mój telefon?
 Umm...
 Co się wczoraj wydarzyło?
 Niech ten dzień się skończy!
-Ajjj?
+Hej?
 Jest gdzieś wolne łóżko?
-Co powinienem zrobić?
+Co mam teraz zrobić?
 Nie zdążę na czas...
-W czym jest problem...
+W czym jest problem?
 Ściany?
 20 minut przerwy raczej nie zaszkodzi...
 Sen jest dla słabych!
 Czas się umyć i iść do pracy!
-Jestem głodny!
+Chce mi się jeść!
 Jest źle, bardzo źle.
 
 // Player is gone 1
@@ -777,7 +777,7 @@ Po co te nerwy?
 Wow!
 Co to jest?
 Konsola!?
-Daj mi!
+Daj mi spróbować!
 
 Uh-oh.
 

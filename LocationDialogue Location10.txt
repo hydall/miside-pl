@@ -112,11 +112,11 @@ kiedy wrzucono mnie do tego świata!
 Whoa!
 Ale jak...?
 Czekaj, w której wersji domu byłeś?
-Jest wersja, w której "ja" nie potrafię przestać się mazać,
-wersja, w której moje "ja" lubi się bawić,
-wersja, w której ma słabą pamięć i lubi zastraszać innych...
+Jest wersja, w której "ja" nie potrafi przestać się mazać,
+wersja, w której "ja" lubi się bawić,
+wersja, w której "ja" ma słabą pamięć i lubi zastraszać innych...
 Długo by wymieniać...
-Powiedz mi co pamiętasz.
+Powiedz mi, co pamiętasz.
 
 Było mrocznie.
 Na ścianach były napisy
@@ -197,7 +197,7 @@ Musimy dotrzeć do wersji 1.11,
 wersja domu 805.
 Więc, jej droga prowadziła tak.
 Ale próbowaliśmy ją skrócić,
-I śliczna Mita zasugerowała nową drogę.
+I śliczna Mita zasugerowała nową ścieżkę.
 Ale ja narysowałam najprostszą drogę.
 To przecież oczywiste!
 Patrz.
