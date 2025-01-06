@@ -146,7 +146,7 @@ Gracz pobiera MiSide
 Siedzi zadowolony i gra.
 W ten sposób stworzył nowy dom,
 I nową Mite.
-To dwuwymiarową reprezentację.
+To dwuwymiarowa reprezentacja.
 To, są wersje gry,
 pokazane jako linie.
 Domy ustawione są na liniach.
