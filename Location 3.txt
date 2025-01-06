@@ -1,5 +1,5 @@
 // Quest none
-Nie ważne.
+Nieważne.
 // Quest "Pierwsza Mita"
 Jesteś... Mita?
 A co jeśli chciałbym wrócić do domu?

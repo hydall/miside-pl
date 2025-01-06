@@ -3,7 +3,7 @@ Karty
 Otwórz drzwi
 2D Mita
 // Quest
-Nie ważne.
+Nieważne.
 Masz słaby wzrok?
 O co chodzi z tym imieniem?
 Na zewnątrz już ciemno.

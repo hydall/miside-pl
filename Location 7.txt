@@ -1,9 +1,9 @@
-// Nazwy utworów 
+// Nazwy utworów
 Cracker
 Bubble drink
 Balloon
 // Quest none
-Nie ważne.
+Nieważne.
 // Quest "Mila Mita"
 Powinienem ci ufać?
 Skąd tu się wziąłem?

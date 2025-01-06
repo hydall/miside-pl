@@ -46,7 +46,7 @@ Jestem... Mita.
 
 
 // MitaKind quest 1
-Widzisz tą konsolę?
+Widzisz tę konsolę?
 Podnieś ją.
 
 To nagranie?

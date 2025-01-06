@@ -263,7 +263,7 @@ Szalona Mita nie należy do cierpliwych.
 
 Ugh, nienawidzę jej!
 
-Nienawidzę. Nienawidzę! NIENAWIDZĘ! 
+Nienawidzę. Nienawidzę! NIENAWIDZĘ!
 
 Mila, słuchaj...
 
@@ -378,7 +378,7 @@ i wtyka nos w nie swoje sprawy.
 
 // Whispers 3
 Mówiłeś coś?
-Zwariuję przez tą muzykę w tle!
+Zwariuję przez tę muzykę w tle!
 
 // Whispers 4
 Jak mam tu to powiedzieć...?

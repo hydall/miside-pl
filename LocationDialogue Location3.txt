@@ -4,7 +4,7 @@ W końcu mogę cię poznać!
 Jestem tak podekscytowana!
 Wiem ze masz wiele pytań...
 Ale tak w skrócie,
-Zbudowałam tą specjalną maszynę,
+Zbudowałam tę specjalną maszynę,
 Żeby cię tu do mnie sprowadzić.
 Niestety przeniosło cię do złej wersji...
 W której to...
@@ -162,7 +162,7 @@ Powiedziałaś mi
 To dlatego że chciałam zrobić ci
 niespodziankę!
 Powiedziałam ci malutkie kłamstewko
-ale to nie ważne, w końcu dzięki temu tu jesteś.
+ale to nieważne, w końcu dzięki temu tu jesteś.
 Teraz ten telewizor wyświetla informacje.
 I tak przy okazji...
 Jest we mnie coś z inżyniera!
@@ -204,7 +204,7 @@ Przepraszam.
 Zdarzało mi się czasem zerknąć...
 
 Emm... to niezbyt legalne.
-No ale nie ważne.
+No ale nieważne.
 
 // Umbrella
 Spędziłem w tej grze tonę czasu

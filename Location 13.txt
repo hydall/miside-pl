@@ -1,5 +1,5 @@
 // Quest none
-Nie ważne.
+Nieważne.
 // Quest "First"
 Gdzie się podziewałaś?
 Jak udało ci się tu dotrzeć?

@@ -1,5 +1,5 @@
 // Quest none
-Nie ważne.
+Nieważne.
 // Quest
 Jesteś Mita, prawda?
 Co ci się stało?

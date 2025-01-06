@@ -10,7 +10,7 @@ Chyba czas na wyjaśnienia, nie sądzisz?
 // If the player did not approach the good Mitya and decided to play a race - Mita Kind
 Czekam tu na ciebie tyle czasu,
 A ty sobie beztrosko grasz?!
-Ehh... Nie ważne, chodź tu szybko ...
+Ehh... Nieważne, chodź tu szybko ...
 // If the player talked to Mita first, and went through the game to the end - Mita Kind
 Brawo, wygrałeś!
 Też w to grałam!
@@ -57,7 +57,7 @@ w przeciwieństwie do ciebie, mój drogi.
 
 // Quest 5 (What did you do with the ring?)
 Zmieniłam trasę
-Na tą właściwą.
+na tę właściwą.
 Ustawiłam najkrótszą możliwą drogę.
 Posłuchaj!
 Działa to bardzo prosto: otwierasz drzwi
@@ -107,7 +107,7 @@ W każdym razie,
 Udało ci się tu dostać, prawda?
 No i poza tym,
 Nie masz lepszego wyjścia
-Niż zdać się na mnie, tą milusią, kochaną Mite!
+Niż zdać się na mnie, tę milusią, kochaną Mite!
 Ciężko zaprzeczyć...
 
 // Quest 8 (You were talking about some kind of plan...)
@@ -361,7 +361,7 @@ I co teraz?
 Mogę już go wcisnąć?
 
 Ha-ha!
-Uwielbiam tą grę!
+Uwielbiam tę grę!
 Ale czegoś mi tu brakuje...
 Chyba mam go w ekwipunku!
 Chwilka okej...
@@ -379,7 +379,7 @@ Serio?
 Nie widziałem tu żadnych bobrów...
 
 Huh? Bobrów?
-Dobra, nie ważne.
+Dobra, nieważne.
 Po prostu zagrajmy, OK?!
 
 Musimy?
@@ -461,7 +461,7 @@ Zatańczymy?
 Zacznijmy od czegoś łatwego,
 Wybierz piosenkę!
 
-Spróbujmy tą.
+Spróbujmy tę.
 
 Oki-doki!
 Pójdę na pierwszy ogień!
@@ -730,7 +730,7 @@ To sama już nie wiem!
 // quest Cap 2
 Jakie to uczucie
 spotkać dokładną kopię siebie?
-Wiesz, chodzi o tą z pierścieniem.
+Wiesz, chodzi o tę z pierścieniem.
 
 Na początku chciałam krzyczeć.
 Coś w stylu.
