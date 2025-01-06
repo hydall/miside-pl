@@ -1,5 +1,5 @@
 
-Stój! Zaczekaj!
+Czekaj! Czekaj!
 Nie tak głośno...
 Droga przed nami jest niebezpieczna.
 Tak właściwie...
@@ -7,7 +7,7 @@ jak się tu dostałeś?
 
 Emm...
 Pierścień otwiera właściwe drzwi.
-Szczerze mówiąc, nie wiem, jak działa.
+Szczerze mówiąc nie wiem, jak działa.
 
 Pierścień?
 
@@ -92,9 +92,9 @@ to musi być tylko 19 światów.
 
 Boziu... Ty naprawdę nie ogarniasz,
 jak działa ten świat.
-Spójrz, wytłumaczę ci to
-na tablicy.
-Chcesz posłuchać?
+Podejdźmy do tablicy.
+Spróbuje ci wyjaśnić.
+Co ty na to?
 
 // Quest 5 (Jaką jest twoją wersja?)
 Czekaj,
@@ -143,16 +143,16 @@ Wiesz, zawsze możesz wyjść,
 albo zostać i posłuchać
 jeśli cię to ciekawi.
 Gracz pobiera MiSide
-I gra ile mu pasuje.
-Właśnie wtedy, tworzy nowy dom
+Siedzi zadowolony i gra.
+W ten sposób stworzył nowy dom,
 I nową Mite.
-To dwuwymiarowy wykres.
+To dwuwymiarową reprezentację.
 To, są wersje gry,
 pokazane jako linie.
 Domy ustawione są na liniach.
 Powiedzmy że pobierasz wersję 1.14,
-więc tworzysz nowe życie,
-nową Mite i nowy dom.
+więc w tej wersji rodzi się
+nowe życie, Mita i jej dom.
 
 Niebiosa...
 
@@ -181,11 +181,11 @@ a ona nawet się nie zorientuje.
 // He asks about the shaded circle
 Dlaczego to kółko jest zamalowane?
 
-Umm to tutaj
-zrobiła Śliczna Mita.
-Ona to namalowała.
-Kłóciliśmy się
-kto dotrze szybciej do wersji 1.11.
+Umm to tutaj?
+To dzieło Ślicznej Mity.
+Ona to narysowała.
+Kłóciliśmy się,
+jak najszybciej dostać się do wersji 1.11.
 
 A więc? Kto wygrał?
 
@@ -198,10 +198,10 @@ wersja domu 805.
 Więc, jej droga prowadziła tak.
 Ale próbowaliśmy ją skrócić,
 I śliczna Mita zasugerowała nową drogę.
-A ja narysowałam najprostszą drogę.
-Łatwizna, nieprawdaż?
-Spójrz tutaj.
-Właśnie stąd możesz dotrzeć do poprawnych wersji gry.
+Ale ja narysowałam najprostszą drogę.
+To przecież oczywiste!
+Patrz.
+Stąd możesz przejść bezpośrednio do wybranej wersji.
 Nawet jeśli wydaje nam się, że dom stoi nam na drodze,
 To tak nie jest!
 Wracając, twój pierścień działa w ten sam sposób.

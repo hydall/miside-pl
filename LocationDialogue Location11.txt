@@ -4,7 +4,7 @@ Ups!
 Sorka,
 prawie Cię zabiłam.
 Emm...
-Znaczy... Lodówka. Lodówka prawie cię zabiła.
+Znaczy... Lodówka. Lodówka prawie Cię zabiła.
 Nie mam z tym nic wspólnego,
 Przysięgam!
 Naprawdę!
@@ -173,7 +173,7 @@ Dobra. Jazda z tematem.
 Niesamowite!
 Udało ci się.
 // Funicular stop
-Hej! Wynocha mi stąd.
+Dobra! A teraz wysiadka!
 Szybciutko!
 // Funicular wait 2
 I dlaczego wciąż tu sterczysz?

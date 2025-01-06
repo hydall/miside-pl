@@ -49,7 +49,7 @@ ile już tu jesteś...
 Poczekaj chwilkę,
 muszę usiąść.
 
-No i?
+Dobra, to..?
 
 Nie wiem co powiedzieć...
 Muszę iść dalej,
@@ -145,7 +145,7 @@ Z czym ty dokładnie potrzebujesz pomocy?
 
 // Put button
 Nic się nie stało?
-Co tu robi ten przycisk?
+Do czego w ogóle ten przycisk? 
 
 // Cofee
 Jeszcze kawy?

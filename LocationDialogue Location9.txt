@@ -36,8 +36,8 @@ Teraz drewno...
 Dziękuję!
 Pomożesz, proszę?
 Gotowe. I teraz...
-Whoa... Ale ślicznie.
-Naciśnij przycisk, no dalej!
+Whoa... Ale śliczne.
+No dawaj! Wciskaj!
 Teraz uważaj...
 proszę, weź go!
 Klucz jest twój.
@@ -52,7 +52,7 @@ Klucz jest twój.
 
 // Quest 1 (Jesteś Mita?)
 Jestem MiniMita.fbx!
-Masa lin,
+Masa linii,
 Najprostszy model, i—
 co najważniejsze - piękne włoski!
 
@@ -60,28 +60,28 @@ co najważniejsze - piękne włoski!
 Głuptas!
 To trochę urocze, wiesz?
 pytasz o takie bzdury...
-Ale,
+Ale nie,
 to nasze pierwsze spotkanie!
-Więc ci wybaczam
-Ale ostrzegam, jeśli ktoś skradnie moją stylówę
+Ale poczekaj...
+Ale ostrzegam, jeśli ktoś skradł moją stylówę
 To nawet szalona Mita mnie nie powstrzyma!
 
 // Quest 3 (Dlaczego tu jesteś?)
 Nie rozumiesz?
 To punkt kontrolny—
-test inteligencji!
-No weź!
-Wskazuję drogę zaginionym duszyczkom!
+test bystrości!
+No dawaj!
+Jestem tu po to, żeby wskazać drogę zaginionym duszyczkom!
 
 // Quest 4 (Dlaczego mi pomagasz?)
-Nie jesteś jakiś specjalny...
-Po prostu stwierdziłam, że czemu nie.
+A kim ty jesteś?
+Żeby ci NIE pomagać?
 
-No co..
+Co?
 
 Taki niemądry...
 Pojawiłeś się znikąd
-Nie powinno cię tu być,
+Nie powinno cię tu być
 więc ci pomagam!
 
 Pa-Pa głuptasku!

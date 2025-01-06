@@ -21,7 +21,7 @@ W każdym razie, uważam, że w ten sposób będzie nam tu lepiej.
 Dobrze
 Zagramy?
 Zasady gry są proste:
-Moneta dyktuje które na które statystyki gramy,
+Moneta dyktuje na które statystyki gramy,
 Na przykład zdrowie:
 Każdy z nas wystawia kartę,
 I jeśli na twojej karcie
@@ -116,7 +116,7 @@ chcę żebyś ze mną został...
 
 Chciałbym, ale...?
 
-Dlaczego tak się uparłeś na tą szafę?!
+Dlaczego tak się uparłeś na tę szafę?!
 
 Chcę tylko wiedzieć co to za odgłos!
 
@@ -145,7 +145,7 @@ Poczekaj chwilkę.
 
 Dziwne.
 Jesteśmy w czyimś telefonie?
-Może w jakimś słabym, z słabym procesorem?
+Może w jakimś przestarzałym, ze słabym procesorem?
 
 Nie o to chodzi.
 Niestety nie wszystko jest tutaj
@@ -155,7 +155,7 @@ Przez rdzeń świata.
 
 Rdzeń świata?
 
-Typowe nie sądzisz?
+Typowe, co nie?
 
 
 
@@ -347,7 +347,7 @@ Okej.
 W co chcesz pograć?
 // Game milk
 To bijatyka!
-Zobaczmy kto kogo pierwszy stłucze na zsiadłe mleko. 
+Zobaczmy kto kogo pierwszy stłucze na zsiadłe mleko.
 Niesamowite, co nie?
 Myślę że wystarczy już mleka na ten moment, może zagramy w coś innego?
 // Gamę penguins

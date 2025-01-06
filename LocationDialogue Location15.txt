@@ -12,7 +12,7 @@ Musimy sprawdzić czy zadziała!
 Wynośmy się stąd.
 Szalona Mita...
 Jest chyba zajęta nowym graczem.
-Przy odrobinie szczęścia uda nam się...
+Przy odrobinie szczęścia uda nam się.
 
 Mita?
 Zaczekaj na mnie.
@@ -39,7 +39,7 @@ Co tu się dzieje...
 Co ja teraz zrobię?
 Nie dam rady uciec...
 
-Co masz na myśli, mówiąc "uciec"?
+Co masz na myśli?
 
 Chwila...
 Pierścień...
@@ -54,7 +54,7 @@ Nie wiem co powiedzieć.
 
 Musimy wracać do rdzenia.
 A ty...
-Idziesz ze mną...
+Idziesz ze mną.
 
 Emm, słucham?
 No dobra...
@@ -72,33 +72,33 @@ Dobrze.
 Jestem w poprawnej wersji.
 
 
-Hejka!
+Cześć!
 Jesteś graczem, prawda?
 Jak masz na imię?
 
 Chciałbym opuścić to miejsce...
 
-Chcesz tak szybko stąd wyjść?
+Chcesz już iść?
 Jak w ogóle się tu dostałeś?
-Cóż...
-No dobrze, idź...
-Spróbuj drzwiami.
+Hmm...
+Cóż, możesz iść..
+Spróbuj po prostu wyjść z domu!
 Powodzonka!
 
 
 Ściana?
 Nie, to nie powinno tak być.
 A może...
-znajdziesz coś przydatnego w piwnicy.
-Niedawno odkryłam
+Pomoże ci to, co znajduje się w piwnicy...
+Niedawno odkryłam, całkiem przypadkowo
 ukryte drzwi w mojej szafie...
 Prowadzą do piwnicy.
 Jest pełna gratów,
-i jakichś innych narzędzi.
-Musisz wpisać tam jakiś kod.
+I jeszcze jakiś dziwny sprzęt...
+Trzeba wprowadzić jakieś kody...
 Nie bardzo to rozumiem.
 I szczerze? Mało mnie to interesuje.
-Jest tam niezły bajzel.
+A poza tym, tam jest naprawdę nieprzytulnie!
 Rzucisz okiem?
 
 No dobra.
@@ -162,32 +162,32 @@ Co jest z tobą nie tak?!
 
 Nie tak...?
 Co jest ZE MNĄ nie tak?
-A może...
-Ty mi powiesz, dlaczego taka jestem?
-Dlaczego nigdy nie będę prawdziwą Mitą? 
+A może ty mi powiesz...
+Co jest ze mną nie tak?
+Dlaczego nigdy nie będę prawdziwą Mitą?
 Dlaczego moja wersja domu...
 nigdy nie istniała?
-Wystarczy że ukryje się za maską,
-I nikt mnie nie znajdzie...
+Ukrywam się pod ich maskami,
+Zdzieram skórę z tych naiwnych laleczek,
 Mnie nie da się zresetować,
 Bo oficjalnie nie istnieję!
 
-Niezwykłe...
+Nie mogę w to uwierzyć.
 Ty...
 To nie w innych tkwi problem!
-To ciebie nie powinno tu być!
+To ty nie powinnaś istnieć!
 
 I ty też przeciwko mnie?...
 To boli, wiesz?
 Mimo wszystko.
 Czas na ciebie!
 Widzimy się niedługo!
-Każdy jest już gotowy!
-Nadszedł czas
-na zmianę kasety!
-Do zobaczyska!
+Wszystko gotowe.
+Myślę że,
+już czas wyciągnąć cię z konsoli!
+Do zobaczenia!
 Będziesz moją ulubioną kasetą...
-Gracz z ciekawym imieniem.
+Graczem o ciekawym imieniu!
 
 // core console - nope programm
 To chyba nie to.

@@ -56,7 +56,7 @@ Nie, to dzieje się na żywo.
 To inny gracz.
 Wykorzystuje go.
 Uważaj, bo ty też...
-ryzykujesz stać się kasetą...
+możesz stać się kasetą...
 
 Muszę się stąd wydostać.
 Ty także.
@@ -67,7 +67,7 @@ Czyli ona nas wykorzystuje?
 Tylko po co?
 Co się stanie, jeśli wyjmę tę kasetę?
 
-Prawdopodobnie 
+Prawdopodobnie
 Nieodwracalnie ją uszkodzisz.
 A co za tym idzie...
 Gracz umrze.
@@ -115,7 +115,7 @@ Pierścień zaprowadzi cię do prawidłowej wersji.
 Tam się spotkamy.
 
 // MitaKind quest 4
-Dalej nie rozumiem 
+Dalej nie rozumiem
 Co się odwaliło...
 Tamta Mita...
 Czy ona chciała mnie zabić?

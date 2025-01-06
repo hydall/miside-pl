@@ -14,8 +14,8 @@ Ehh... Nie ważne, chodź tu szybko ...
 // If the player talked to Mita first, and went through the game to the end - Mita Kind
 Brawo, wygrałeś!
 Też w to grałam!
-Próbowałam nawet zebrać wszystkie monety i zdobyć 1 miejsce. 
-jest za to osiągnięcie!
+Próbowałam nawet zebrać wszystkie monety i zdobyć 1 miejsce.
+Jest za to osiągnięcie!
 Powiem ci, że to nie lada wyczyn!
 Minęły wieki, zanim nauczyłam się sterowania.
 
@@ -34,7 +34,7 @@ Gracze go potrzebują,
 Bez niego nie można podróżować pomiędzy wersjami.
 
 // Quest 3 (What is this place?)
-To są przejścia 
+To są przejścia
 Które prowadzą do różnych wersji gry.
 Tak, wiem, że jest tu trochę pusto.
 Oh! Słyszałam o jednej Micie,
@@ -56,10 +56,10 @@ mogę bez trudu przenosić się między wersjami,
 w przeciwieństwie do ciebie, mój drogi.
 
 // Quest 5 (What did you do with the ring?)
-Zmieniłam trasę 
+Zmieniłam trasę
 Na tą właściwą.
-Ustawiłam najkrótszą możliwą drogę,
-Ze wszystkimi potrzebnymi nam rzeczami...
+Ustawiłam najkrótszą możliwą drogę.
+Posłuchaj!
 Działa to bardzo prosto: otwierasz drzwi
 A pierścień otwiera odpowiednie przejście
 Pomiędzy wersjami.
@@ -106,7 +106,7 @@ Szczerze to nie wiem jeszcze jak ci pomóc...
 W każdym razie,
 Udało ci się tu dostać, prawda?
 No i poza tym,
-Nie masz lepszego wyjścia 
+Nie masz lepszego wyjścia
 Niż zdać się na mnie, tą milusią, kochaną Mite!
 Ciężko zaprzeczyć...
 
@@ -130,7 +130,7 @@ Mhm...
 Nadszedł czas, żeby przedstawić cię
 Czaderskiej Micie!
 Przez jej superową czapkę,
-Nazywam ją 
+Nazywam ją
 Czapcia.
 Planowałam z nią jak,
 pozbyć się szalonej Mity.
@@ -161,7 +161,7 @@ Tak w ogóle to czemu wyglądasz jak ja?
 
 Umm, to na nic...
 Słuchaj, [player],
-Niestety sprawy nie idą 
+Niestety sprawy nie idą
 Zgodnie z planem...!
 Mieliśmy użyć tu portalu
 Dzięki niemu nasza podróż byłaby milion razy szybsza i bezpieczniejsza.
@@ -248,11 +248,11 @@ Będziesz musiał iść sam,
 Muszę się dowiedzieć o co w tym wszystkim chodzi.
 Mój plan był idealny...
 A jednak wszystko się zepsuło.
-Co do jasnej cholery poszło nie tak?...
-I gdzie są zaginione części tego ustrojstwa?...
-Muszę je znaleźć.
+Muszę przyjrzeć się wszystkiemu i dowiedzieć się,
+gdzie się podział nasz sprzęt...
+Spróbuję go znaleźć.
 Wtedy moglibyśmy użyć razem portalu.
-Ale nie mamy na to czasu.
+Ale nie ma czasu do stracenia.
 Szalona Mita wie o tym miejscu,
 To tylko kwestia czasu zanim nas znajdzie.
 Powodzenia, [player]! Do zobaczenia wkrótce!
@@ -338,17 +338,17 @@ Przynudzasz...
 
 
 Hej,
-Jesteś niezwykle żywa!
+Jesteś nader żywiołowa!
 
 No!
 Oczywiście że jestem!
 W każdym razie...
-Chodź 
+Chodź
 Zabawimy się!
 
 // GAME HUMMER
 
-Jaki piękny czerwony przycisk.
+Jaki fajny czerwony przycisk.
 Mam ochotę go wcisnąć.
 Mogę?
 
@@ -411,9 +411,9 @@ Niezbyt.
 To nie traćmy czasu!
 
 // Kick player 2
-Okej
-Powoli się przyzwyczajam
-Pa teraz!
+Okej...
+Powoli się przyzwyczajam.
+Patrz na mnie!
 Spodoba ci się!
 
 // Kick player 3
@@ -494,7 +494,7 @@ A ruszasz się jak stary dziad!
 
 // MitaCap = Lose 3
 Może jakbyś usiadł
-Na te przyciski 
+na te przyciski.
 To miałbyś szansę wykręcić sensowny wynik Ha-ha!
 
 // MitaCap = Win 1
@@ -531,17 +531,17 @@ To co,
 Jeszcze jedna?
 
 // MitaCap Next? 2
-Świetnie.
+Świetnie!
 Może zatańczymy jeszcze raz?
 
 // MitaCap Endgame
-No chodź!
+Uf... wystarczy.
 Bolą mnie już nogi!
 
 // Just talk
 // Photo
 Świetne zdjęcia.
-Zawsze jesteś taka roześmiana?
+Widzę że lubisz się wyszaleć!
 
 Tak, jestem jaka jestem!
 Trzeba im pokazać o co chodzi w tej grze! Boom!
@@ -571,16 +571,16 @@ To deska do krojenia zrobiła ciach-ciach!
 I tak jakoś wyszło...
 
 // Books
-Czytasz je tak w kółko, co?
+Przeczytałaś wszystko, co nie?
 Pewnie z nudów.
 
 Ugh, Nienawidzę książek!
-Lubię po prostu mieć co robić!
+Wolę praktykę!
 
-Jest w tym jakiś sens.
-Masz coś konkretnego na myśli?
+Jest to jakiś sposób...
+Ale bez teorii...
 
-Wszystko - biegać, skakać, dotykać, no wiesz
+Bum - ruch, skok, dotyk, działanie! Kumasz?
 Książki to tylko papier, nigdzie mi nie uciekną!
 Gdybyś tylko mógł ze mną zostać,
 Moglibyśmy robić razem tyle rzeczy!
@@ -621,7 +621,7 @@ Co to jest?
 To interfejs pierścienia,
 Zmieniam na nim trasę.
 
-Umm, przecież ty tylko przesuwasz kółka... 
+Umm, przecież ty tylko przesuwasz kółka...
 
 Tak ci się tylko wydaje.
 Ja tu widzę dane.
@@ -647,7 +647,7 @@ Musimy dostać się do rdzenia.
 
 Mogę iść z wami?
 
-Szczerze, nie wiem...
+Szczerze, wątpię...
 
 Więc, nie mogę?
 
@@ -735,9 +735,9 @@ Wiesz, chodzi o tą z pierścieniem.
 Na początku chciałam krzyczeć.
 Coś w stylu.
 Jasny gwint! Skąd się tu wziął mój klon!
-Ale doszłam do wniosku, że to oklepane.
-A ja jestem na to zbyt czadowa :)
-Nie tak jak ona...
+Ale zauważyłam że nie jest tak wesoła jak ja!
+A to znaczy, że jestem lepsza!
+Zobacz, jaka ponura...
 
 Jestem obok.
 Wszystko słyszę.
@@ -768,7 +768,7 @@ Niech to będzie sekret :).
 Co jest za drzwiami?
 
 Sekret to sekret,
-A sekrety powinny być trzymane w tajemnicy, nie sądzisz?
+I niech tak zostanie.
 
 Ehh...
 Po co te nerwy?

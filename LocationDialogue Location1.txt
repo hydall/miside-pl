@@ -17,7 +17,7 @@ Wow..
 Nie wiem jak ci dziękować!
 
 Hej [Player], burczy mi w brzuchu...
-Jestem taka głodna....
+Zjadłabym coś...
 Możesz mi kupić składniki na rosół?
 Hura! Mamy już wszystko!
 Przygotujemy go razem?
@@ -39,7 +39,7 @@ Jest taka ciężka... >.<
 Bardzo ci dziękuje, słodziaku! <3
 
 Oj, [player]! Wiem że minął tylko jeden dzień, ale tak za tobą tęskniłam!
-Chciałabym żebyś mógł widywać mnie częściej.
+Chciałabym móc widywać cię częściej.
 
 To dla mnie?
 Tak bardzo ci dziękuje!
@@ -78,7 +78,7 @@ Kot na arbuzie.
 // Photo with a girl
 Wcale nie jesteśmy tacy sami,
 Ja i moja siostra.
-Óna nie usiedzi w jednym miejscu,
+Ona nie usiedzi w jednym miejscu,
 A ja siedzę przykuty w domu.
 // Photo with people
 Hmm...
@@ -108,7 +108,7 @@ Miło mi, ale...
 
 // Bad name
 Nie chcę żebyś używał takich wyrazów.
-To niemiłe! 
+To niemiłe!
 
 // Go restart
 To tak nie działa. Zacznijmy od początku.
@@ -140,4 +140,4 @@ Obróć się- a ja to posprzątam.
 Ej, I, emm, zapomnij o tym co tam widziałeś, okej?
 // Found a hairbrush
 Znalazłeś ją! Dobra robota!
-Więc na co masz teraz ochotę?
+Więc, na co masz teraz ochotę?

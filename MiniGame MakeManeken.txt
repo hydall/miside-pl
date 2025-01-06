@@ -15,8 +15,8 @@ Skan zakończony
 
 
 // Tutorial finish
-O tak!
-Udało ci się!
+Whoo-hoo! Udało ci się!
+Zadanie zostało wykonane!
 
 // Tutorial
 A więc... Co ja tu robię?

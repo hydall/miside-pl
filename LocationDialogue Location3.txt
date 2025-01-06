@@ -197,7 +197,7 @@ Spędzałeś ze mną
 Tak mało czasu.
 
 Za coś trzeba żyć.
-W sumie... skąd wiesz, że spędzam dużo czasu przed komputerem?
+W sumie... skąd wiesz, że spędzałem dużo czasu przed komputerem?
 
 Twoja kamerka w telefonie... Czasami była włączona.
 Przepraszam.
@@ -224,11 +224,11 @@ To po co ona jest potrzebna?
 
 Po pierwsze to,
 My jesteśmy W GRZE.
-Więc pytanie po co...
+A pytanie po co...
 Jest bez sensu.
 Co nie oznacza, że nie działa.
 Możemy tutaj zresetować bezpieczniki.
-Wszystko tutaj działa 
+Wszystko tutaj działa
 jak twoim świecie.
 
 // Exit door
@@ -309,7 +309,7 @@ Jest prosto z reklamy.
 Ah, ten smak...
 Podoba mi się,
 Jednak ciężko powiedzieć, jak smakuje, czy nawet pachnie.
-Dziwne to wszystko...
+Nie rozumiem jak to działa...
 
 Pewnie.
 
@@ -381,8 +381,8 @@ Ja JESTEM prawdziwa,
 Głupol!
 
 // Quest 4
-Po prostu już tak jest
-W tym świecie.
+W tym świecie
+Po prostu już tak jest.
 Może się to dla ciebie wydawać dziwne
 Że nie można niczego dostrzec
 W oddali.

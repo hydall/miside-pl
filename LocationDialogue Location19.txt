@@ -54,7 +54,7 @@ No przecież mówię! Głuchy jesteś?
 Cóż, w takim razie powodzenia, Mila...
 
 Czekaj, a ty dokąd to?
-Chyba nie myślałeś że tak po prostu sobie stąd wyjdziesz?
+Chyba nie myślisz że tak po prostu sobie stąd wyjdziesz?
 
 // Player check exit
 Nie wiem czego się tam spodziewałeś.
@@ -125,8 +125,8 @@ To zakładam, że uporałeś się z tym w kuchni?
 
 Powiedzmy.
 
-No i super. Teraz już możesz
-wejść do łazienki.
+No i super. Teraz masz moje pozwolenie
+żeby wejść do łazienki.
 
 Dzięki.
 
@@ -263,7 +263,7 @@ Szalona Mita nie należy do cierpliwych.
 
 Ugh, nienawidzę jej!
 
-Nienawidzę całym sercem!
+Nienawidzę. Nienawidzę! NIENAWIDZĘ! 
 
 Mila, słuchaj...
 
@@ -499,9 +499,9 @@ dobra.
 Czy to zabawkowa katana?
 
 To NIE zabawka!
-jeden celny cios
+Jeden celny cios
 pozbawił by cię głowy.
-Jestem wykwalifikowaną szermierką, w porównaniu do kogoś!
+Jestem wykwalifikowaną szermierką, w przeciwieństwie do ciebie!
 Lepiej uważaj—
 nie chciał byś przypadkiem stracić paluszków.
 
@@ -509,12 +509,12 @@ nie chciał byś przypadkiem stracić paluszków.
 Lustro...
 bez odbicia?
 
-Wiesz,
+Hym...
 Wyglądasz na niezadowolonego.
 Czytałam kiedyś o odbiciach
 w moich książkach!
 Ale w mojej wersji one nie istnieją.
-Nie da się je dojrzeć.
+Nie da się ich zobaczyć.
 
 // Switch light
 To atrapa.
@@ -571,9 +571,9 @@ Czy to jakiś... nowy błąd?
 Co to ma znaczyć?
 
 Wygląda jak...
-nicość.
+nic.
 
-Ah, wróciliśmy.
+Ah, wróciłeś.
 
 // Quest 1 Glasses
 Masz słaby wzrok?

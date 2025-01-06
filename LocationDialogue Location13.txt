@@ -155,12 +155,12 @@ Myślę, że... To obłęd!
 Totalne szaleństwo!
 To jak szukanie igły w stogu...
 
-Co ty wyprawiasz?
+Co ty robisz?
 
-Niektóre przeszkody aż eksplodują informacjami,
-wiesz, tak jakby światu wyrywał ktoś flaki!
-Dzienniki i dane.
-A co jeśli to koniec?
+Niektóre miejsca są przepełnione informacjami,
+wiesz, to jakby wybebeszać cały świat!
+Dzienniki, dzienniki, dane...
+Może to to!?
 
 Hm? Co się stało?
 
@@ -180,7 +180,7 @@ Jak chcesz sobie poradzić z psychopatką dzierżącą piłę łańcuchową?
 Ona kroi marchewki nie tylko nożem!
 I z jakiegoś powodu jest przerażająco silna!
 To cud, że jeszcze żyjemy...
-No dalej, musimy dostać się do rdzenia.
+Musimy ją podejść inaczej.
 
 
 // core console entry

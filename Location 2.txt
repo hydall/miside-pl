@@ -1,9 +1,9 @@
 // Tablica
 Na początku wciśnij przycisk.
-Potrzebne do skanowania:
-Łyżka 
+Przedmioty wymagane do skanu:
+Łyżka
 Ołówek
-Gumka do włosów 
+Gumka do włosów
 // Telewizor
 PRZESTARZAŁA WERSJA GRY
 WERSJA
@@ -11,9 +11,9 @@ ABY ZAKTUALIZOWAĆ, URUCHOM PROGRAM
 PRZESTARZAŁA WERSJA GRY
 POŁÓŻ OBIEKTY NA SKANERZE
 NIE WYKRYTO WERSJI
-GOTOWE DO URUCHOMIENIA 
+GOTOWE DO URUCHOMIENIA
 START
-WCZYTYWANIE 
+WCZYTYWANIE
 PORTAL AKTYWOWANY
 BŁĄD
 NISKI POZIOM ZASILANIA!!!
