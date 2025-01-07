@@ -27,7 +27,7 @@ W porządku, trzymajmy się planu.
 
 // Answer 2 (Jak się tu dostałaś?)
 Musiałeś chyba sporo przejść,
-Skoro zapomniałeś o czym mówiłam.
+skoro zapomniałeś, o czym mówiłam.
 Jestem Mita. Mogę podróżować między wersjami kiedy zapragnę.
 Pamiętasz?
 
@@ -38,7 +38,7 @@ Strasznie przez to cierpiały.
 Niestety, ich wersje są zepsute,
 A światy pełne błędów...
 Cholera...
-Wiesz kto za tym wszystkim stoi, prawda?
+Wiesz, kto za tym wszystkim stoi, prawda?
 Szalona Mita.
 
 Powiedz mi coś, czego nie wiem...
@@ -47,7 +47,7 @@ Powiedz mi coś, czego nie wiem...
 To brzydka Mita.
 Agresywna i głupia.
 Nie da się jej przemówić do rozsądku,
-Jej cały świat to Szalona Mita.
+Jej cały świat - to Szalona Mita.
 
 Ta... Zauważyłem.
 
@@ -59,7 +59,7 @@ To jedyna droga do rdzenia?
 
 Owszem.
 Oczywiście, gdybyśmy mieli portal,
-Moglibyśmy cię tam teleportować.
+Moglibyśmy go użyć.
 Ale cóż, dobre i to.
 
 Jakie są zalety pierścienia?
@@ -73,7 +73,7 @@ Więc możesz łatwo znaleźć do nich drogę.
 // Answer 5 (Do czego Szalona Mita mnie potrzebuje?)
 Dlaczego Szalona Mita nie da mi spokoju?
 Wciągnęła mnie w swoją niebezpieczną gierkę,
-jednak wciąż żyje...
+jednak wciąż żyję...
 
 Ciężko powiedzieć...
 Możliwe, że szuka odpowiedniego gracza...
@@ -98,7 +98,7 @@ Wracając, jestem pewna,
 Że rozwiązanie naszych wszystkich problemów,
 Znajduje się w środku!
 [player], wejdź.
-Tak właściwie, byłam tam kiedyś.
+Udało ci się...
 
 // Look on CoreMita
 Ostrożnie, [player].
@@ -136,7 +136,7 @@ Hmm, to ma sens...
 Każda Mita ma własny indeks,
 Aby przypadkiem nie zresetować całej wersji gry...
 To by spowodowało chaos!
-Nie mogę uwierzyć że o tym zapomniałam...
+Nie mogę uwierzyć, że o tym zapomniałam...
 
 
 
@@ -155,14 +155,14 @@ Myślę, że... To obłęd!
 Totalne szaleństwo!
 To jak szukanie igły w stogu...
 
-Co ty robisz?
+O co chodzi?
 
 Niektóre miejsca są przepełnione informacjami!
 Wiesz, to jakby wybebeszać cały świat!
 Dzienniki, dzienniki, dane...
 Może to to!?
 
-Hm? Co się stało?
+Hm? Co jest?
 
 Znam pewne miejsce!
 Zaczekaj tu.
@@ -201,12 +201,12 @@ Muszę znaleźć okienko resetu postaci.
 To błędna wersja.
 Oj, mój błąd.
 To nie to.
-Będę potrzebować kolejnej.
+Trzeba poprawić.
 // core console - nope index
-Coś jest nie tak
-z wersją świata.
-muszę zmienić wersję świata,
-nie mieści się.
+Coś jest nie tak.
+Indeks jest nieprawidłowy.
+Muszę poprawić indeks.
+Nie pasuje.
 
 // Answer 4 (Little people - Chibi)
 Po drodze spotkałem wiele

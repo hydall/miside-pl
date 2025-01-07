@@ -34,8 +34,8 @@ Ale mniej więcej tak to wygląda.
 
 Dobra, ale po co mi ta wiedza?
 
-Myślisz że robiłam sobie jaja kiedy
-mówiłam że droga przed nami jest niebezpieczna?
+Myślisz, że robiłam sobie jaja, kiedy mówiłam,
+Że droga przed nami jest niebezpieczna?
 Natkniesz się na... zapomniane modele...
 Te, których się pozbyto, te "zepsute".
 Są agresywne i mogą cię nawet zabić.
@@ -48,7 +48,7 @@ Wow!
 W takim razie nie odwracaj się do nich plecami.
 Nie trać ich z zasięgu wzroku!
 Są nieśmiałe kiedy na nie patrzysz,
-na tyle że przestają się ruszać.
+na tyle, że przestają się ruszać.
 Nie zapominaj!
 
 
@@ -73,7 +73,7 @@ kiedy z mroku zostałybyśmy wrzucone wprost do światła...
 // Quest 3 (A co TY tu robisz?)
 Nadal nie ogarniasz?
 Pomagam nowym Mitom się zadomowić!
-W końcu kto im pomoże jak nie ja?
+W końcu kto im pomoże, jak nie ja?
 No chyba nie ty?
 
 // Quest 4 (Po co to wszystko na taką skalę?)
@@ -82,7 +82,7 @@ Czy wystarczy miejsca dla wszystkich?
 
 Czekaj, nie gadaj, że nie rozumiesz,
 jak działa ten świat...
-Nie wiesz że jest nieskończony?
+Nie wiesz, że jest nieskończony?
 
 Nieskończony?
 Uhm...
@@ -125,18 +125,18 @@ na przykład...
 
 Ah,
 szkoda...
-To moje "ja",
-które zastrasza innych i ma sklerozę.
+To "ja",
+która zastrasza innych i ma sklerozę.
 
 // Mita wants to tell you [No]
-Dzięki ale wolę nie wiedzieć.
+Dzięki, ale wolę nie wiedzieć.
 Dam sobie radę bez tego.
 
 W porządku, twój wybór.
 
 // Mita wants to tell you [Yes].
 Jasne, dawaj.
-Mam tylko nadzieję że nie będzie jak na lekcji
+Mam tylko nadzieję, że nie będzie, jak na lekcji
 i nie zasnę z nudów.
 
 Wiesz, zawsze możesz wyjść,
@@ -144,15 +144,15 @@ Albo zostać i posłuchać,
 Jeśli cię to ciekawi.
 Gracz pobiera MiSide.
 Siedzi zadowolony i gra.
-W ten sposób stworzył nowy dom,
-I nową Mite.
+W ten sposób stworzył nowy dom
+i nową Mite.
 To dwuwymiarowa reprezentacja.
 To, są wersje gry,
 pokazane jako linie.
 Domy ustawione są na liniach.
 Powiedzmy, że pobierasz wersję 1.14,
-więc w tej wersji rodzi się -
-Nowe życie, Mita i jej dom.
+więc w tej wersji rodzi się:
+nowe życie, Mita i jej dom.
 
 Niebiosa...
 
@@ -171,8 +171,8 @@ i posiadają drogi do innych wersji.
 Śpiąca Mita przesiaduje w tej wersji, 1.1.
 
 Śpiąca Mita?
-Bo inni przechodzący przez jej wersje,
-I nie dają jej się wyspać?
+Bo inni przechodzący przez jej wersje
+i nie dają jej się wyspać?
 
 Nie, to nie tak.
 Możesz przejść tuż obok niej,
@@ -181,7 +181,7 @@ A ona nawet się nie zorientuje.
 // He asks about the shaded circle
 Dlaczego to kółko jest zamalowane?
 
-Umm to tutaj?
+Umm, to tutaj?
 To dzieło Ślicznej Mity.
 Ona to narysowała.
 Kłóciliśmy się,
@@ -214,8 +214,8 @@ Hmm...
 Jeśli chcesz najkrótszą drogę,
 będziesz musiał przejść przez wersję 1.11.
 Na pewno spotkasz naszą śpiącą królewnę.
-Wydaje mi się że Mita która cię tam wysłała,
-Kroczyła tą samą ścieżką.
+Wydaje mi się, że Mita, która cię tam wysłała,
+kroczyła tą samą ścieżką.
 A może po prostu nie ogarnęła, że zmierzasz inną trasą.
 A może po prostu jest genialna
 I znalazła jeszcze krótszą drogę!

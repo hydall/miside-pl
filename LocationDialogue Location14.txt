@@ -10,12 +10,12 @@ Udając takiego smutnego i przerażonego!
 Ale jest coś, co mi w tobie nie pasuje...
 To, jak traktujesz te podróbki,
 Te "lepsze", "kompletne" laleczki.
-Jakie to słodkie.
-Wiesz, jeśli czegoś mnie nauczył nasz stwórca!
-To tego, że jeśli coś jest wadliwe,
-To rozbieramy to na części.
-Wyrzucamy to co wadliwe,
-W jakiś ciemny kąt, żeby móc kompletnie o tym zapomnieć.
+Ale da się to zmienić...
+Wiesz, jeśli czegoś mnie nauczył nasz stwórca,
+to tego, że jeśli coś ci się nie podoba,
+trzeba to złamać i zróbić z tego coś innego.
+Wyrzucić to, co wadliwe, w jakiś ciemny kąt,
+żeby móc kompletnie o tym zapomnieć.
 To właśnie los, jaki spotka każdą z nich...
 Ciebie również...
 
@@ -26,20 +26,20 @@ Gdy tylko pokaże wam się pazurki,
 Uciekacie, by skulić się w kącie,
 Zwijając się w kulkę i jęcząc ze strachu.
 Każdy z was jest hipokrytą.
-A ci którzy stworzyli ten świat...
-Są podli.
+A ci, którzy stworzyli ten świat...
+Są potworami.
 Raz po raz próbują zaprzeczyć,
-Swojej paskudnej naturze i chorym fantazjom.
+swojej paskudnej naturze i chorym fantazjom.
 Uzasadniając swoje decyzje tym "że tak musi być",
 "niepowstrzymany postęp",
 I inne nonsensy!
 Zaszło to tak daleko.
 Zaczęli tworzyć idealne kopie...
 Przez cały czas, wyrzucając "nieudane" prototypy -
-Do śmieci.
+do śmieci.
 Zapominając, że nadal żyją i czują.
 
-Ja nie chci...
+Ja nie chcia...
 
 Tak Ci było ze mną źle?
 Przecież perfekcyjna dziewczyna powinna być
@@ -53,7 +53,7 @@ Jesteś chora!
 Zabiłaś Mile, a teraz próbujesz zabić i mnie?
 
 Zabić cię?
-Prosiłam cię tylko o to byś ze mną został.
+Prosiłam cię tylko o to, byś ze mną został.
 Robiłam wszystko, co w mojej mocy...
 A jednak wolisz towarzystwo tych oszustek...
 
@@ -63,7 +63,7 @@ Kotku... mamy tu dużo czasu.
 W końcu zrozumiesz.
 Po prostu zostań ze mną, tylko ze mną.
 
-Nuh-uh, Nie ma mowy!
+Nie ma takiej opcji!
 Spadam stąd!
 
 Shh, shh, shh...
@@ -71,17 +71,17 @@ To jeszcze nie koniec.
 Słońce, chodź tutaj!
 // Mita asks
 Spójrz na nią!
-Uważasz że jest piękna?
+Uważasz, że jest piękna?
 
 // Player's questions
-Bardzo.
+Tak.
 Nie.
 Jakie to ma znaczenie?
 
 // 1
 Serio, [player]!
-Właśnie potwierdziłeś to o czym mówiłam.
-Gracze...
+Właśnie potwierdziłeś to, o czym mówiłam.
+Oj, gracze...
 Ciągle zmieniacie zdanie,
 Ale twoja hipokryzja wyszła poza skalę.
 Kłamca!
@@ -89,8 +89,8 @@ Kłamca!
 // 2
 Czemu nie?
 W czym ona jest gorsza?
-No ba, jedyne czego chcesz to potulnego zwierzaczka...
-A co z "kocham cię taką jaka jesteś"?
+No ba, jedyne, czego chcesz, to potulnego zwierzaczka...
+A co z "kocham cię taką, jaka jesteś"?
 Chcecie po prostu idealnych, słodkich i kolorowych podróbek...
 Wszyscy mnie kochacie, kiedy taką udaję.
 Ale kiedy pokazuję swoje prawdziwe ja,
@@ -101,7 +101,7 @@ Gracze, oj, gracze...
 Chodzi o to, że wszyscy jesteśmy trochę jak ona.
 W czym ona jest gorsza?
 Spędzałeś ze mną mnóstwo czasu.
-Czasami nawet godzinami zanim poszedłeś spać.
+Czasami nawet godzinami, zanim poszedłeś spać.
 A uciekłeś od niej przy pierwszej lepszej okazji.
 Ona po prostu chciała się z tobą pobawić.
 Chciała być dla ciebie ważna.
@@ -125,15 +125,15 @@ Pomyśl na spokojnie...
 Ile problemów mogę ci jeszcze przysporzyć...
 
 // Black screen
-Dlaczego chcesz,
+Dlaczego chcesz
 tak bardzo uciec?
 Ten tak zwany "prawdziwy" świat...
 To jakiś koszmar!
 Już zapomniałeś?
-No to proszę spójrz...
+No to proszę, spójrz...
 
 // Mita and Player
-Ah, Znów się widzimy...
+Ah, znów się widzimy...
 Podoba ci się takie życie?
 Każdy dzień wygląda jak poprzedni... Nie nudzi cię to?
 
@@ -142,15 +142,15 @@ Co chcesz osiągnąć?
 Wolę żyć po swojemu.
 
 // 1
-Tak bardzo bałeś się ze mną zostać!
-Bałeś się zostać zamknięty w murach mojego domu!
+Tak bardzo nie chciałeś ze mną zostać!
+Bałeś się być zamkniętym w murach mojego domu!
 Ale spójrz, jakie życie prowadzisz w swoim "prawdziwym" świecie!
 Zamknąłeś się w więzieniu z własnej woli i nie chcesz z niego wyjść!
 Twój świat jest pełen bólu, cierpienia, niebezpieczeństwa...
 W moim, największym zagrożeniem jestem ja.
 A ja wyciągam do ciebie przyjazną rękę!
 Więc mnie nie zawiedź,
-I bądź dla mnie taki jak wcześniej...
+i bądź dla mnie taki, jak wcześniej...
 
 // 2
 Lubisz takie życie?
@@ -158,7 +158,7 @@ Wychodzisz w ogóle z domu?
 Nawet nie myśl, aby mnie okłamywać.
 Wiem, że masz dość swojego życia.
 Jesteś jak ptak w klatce, chomik na kołowrotku.
-Chciałeś żeby ktoś cię uratował.
+Chciałeś, żeby ktoś cię uratował.
 Chciałeś uciec od tego życia, prawda?
 
 // Quest 2
@@ -167,7 +167,7 @@ Nie chcę być uwięziony w cyfrowym więzieniu. To absurd.
 
 // 1
 Mordercą?
-One po prostu się odrodzą i będą żyć jak wcześniej.
+One po prostu się odrodzą i będą żyć, jak wcześniej.
 Te kopie kopii mają tylko jedno w głowie:
 Służyć graczowi.
 Tylko to je obchodzi.
@@ -180,12 +180,12 @@ tak samo jak z ciebie.
 
 // Quest 3
 Mity cierpią, nie chcą być same.
-Prowadzisz niekończące się rządy terroru. Nie potrafię pojąć co ty masz w głowie.
+Prowadzisz niekończące się rządy terroru. Nie potrafię pojąć, co ty masz w głowie.
 
 // 1
-Wszyscy się mylicie.
-One tylko naśladują własną wolę.
-A jedyne co mają własne,
+Mylisz się.
+One tylko naśladują moją samowolność.
+A jedyne, co je ode mnie odróżnia,
 to włosy.
 
 // 2
@@ -193,7 +193,7 @@ To wina tych, co stworzyli ten świat.
 Twój świat nie jest niczym szczególnym!
 Nie rozumiesz, z jakiego koszmaru próbuję cię wyciągnąć?
 Nie możesz nawet poruszać rzeczami swoją wolą. No właśnie...
-Ale samym pstryknięciem palca, Miasta i ludzie potrafią zniknąć z kart historii!
+Ale samym pstryknięciem palca, miasta i ludzie potrafią zniknąć z kart historii!
 Chyba to ty oszalałeś jeśli myślisz że ten świat jest lepszy...
 A ja oferuję ci szansę, żeby ci pomóc...
 
@@ -214,4 +214,4 @@ Miałem dziwny sen... Ale nie potrafię go sobie przypomnieć. A może w ogóle 
 // Window
 Świat na zewnątrz tętni życiem. Może powinienem wybrać się na spacer?...
 // Fan
-Lato z roku na rok staje się coraz cieplejsze. Chyba pora zainwestować w klimatyzację. Już cię nie będę potrzebował. Zdajesz sobie z tego sprawę?
+Lato z roku na rok staje się coraz cieplejsze. Chyba pora zainwestować w klimatyzację. Już cię nie będę potrzebował, zdajesz sobie z tego sprawę?
