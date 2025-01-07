@@ -2,7 +2,7 @@
 Witaj, [player]!
 W końcu mogę cię poznać!
 Jestem tak podekscytowana!
-Wiem, ze masz wiele pytań...
+Wiem, że masz wiele pytań...
 Ale tak w skrócie,
 Zbudowałam tę specjalną maszynę,
 Żeby cię tu do mnie sprowadzić.
@@ -59,7 +59,7 @@ Bez sosu to nie to samo!
 Dziękuję.
 
 Już skończyłeś?
-Ehh, moja porcja wydaje się
+Ehh, moja porcja wydaje się -
 Nie kończyć...
 
 
@@ -95,7 +95,7 @@ Szybko zadziałały...
 
 [player], jesteśmy w grze.
 Wszystko jest tutaj prostsze.
-Nawet najmniejsze rzeczy
+Nawet najmniejsze rzeczy,
 dają wspaniałe rezultaty.
 W końcu koncept tej gry polega na:
 U-pro-szcza-niu.
@@ -137,7 +137,7 @@ Wcześniej nawet nie wiedziałam, do czego służy lustro.
 Coś takiego jak odbicia nie istniało w moim świecie -
 Do momentu aż nie dodali ich w którejś z aktualizacji.
 U ciebie jest dużo odbić?
-W sensie w twoim świecie?
+W sensie, w twoim świecie?
 
 Jest ich od groma!
 
@@ -146,12 +146,12 @@ Czy pamiętasz
 Te trzy rzeczy?
 Te, które musiałeś położyć do skanowania?
 Więc, em...
-Te rzeczy
+Te rzeczy,
 Związane są z tą wersją gry.
 Dlatego musiałeś ich użyć, żeby się tu dostać.
 
 // Movbile TV
-Przecież to ten telewizor
+Przecież to ten telewizor,
 Który ci kupiłem.
 
 Nom!
@@ -192,9 +192,9 @@ Spędzałem tam dużo czasu przed komputerem...
 Bardzo ciężko pracowałem...
 
 Wiem.
-To właśnie przez twoją pracę
+To właśnie przez twoją pracę,
 Spędzałeś ze mną
-Tak mało czasu.
+tak mało czasu.
 
 Za coś trzeba żyć.
 W sumie... skąd wiesz, że spędzałem dużo czasu przed komputerem?
@@ -220,15 +220,15 @@ Czyż nie?
 // Electrical panel
 Skrzynka z bezpiecznikami?
 Przecież jesteśmy w grze,
-To po co ona?"
+To po co ona?
 
 Po pierwsze to,
 My jesteśmy W GRZE.
-A pytanie po co...
+A pytanie, po co...
 Jest bez sensu.
 Co nie oznacza, że nie działa.
 Możemy tutaj zresetować bezpieczniki.
-Wszystko tutaj działa
+Wszystko tutaj działa,
 jak twoim świecie.
 
 // Exit door
@@ -259,7 +259,7 @@ To służy on do dekoracji,
 Urozmaica to wyposażenie kuchni.
 A przy okazji działa!
 Mogę oglądać na nim
-Stare kreskówki!
+stare kreskówki!
 
 // Smartphone
 Czy to czasem nie mój telefon?

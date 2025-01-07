@@ -7,36 +7,36 @@ Oczywiście w jednym kawałku.
 O to chodziło od początku, prawda?
 Dlatego musiałam też unikać
 Szalonej Mity.
-Szukałam też informacji
-o zapleczu tego cholernego wszechświata.
+Szukałam też informacji,
+O zapleczu tego cholernego wszechświata.
 
 Tak właściwie...
 Jak ty ustawiłaś tę drogę na pierścieniu?
-Dlaczego skończyłem w zepsutej wersji
-pełnej niebezpieczeństw?
-Ledwo udało mi się uciec
+Dlaczego skończyłem w zepsutej wersji?
+Pełnej niebezpieczeństw?
+Ledwo udało mi się uciec.
 Skacząc przez okno w nieskończony mrok.
 
-Przepraszam, zapomniałam ci wytłumaczyć
-co musisz zrobić aby uciec...
-Ale tak, taki był plan
-od początku wystarczyło skoczyć...
+Przepraszam, zapomniałam ci wytłumaczyć,
+Co musisz zrobić, aby uciec...
+Ale tak, taki był plan.
+Od początku wystarczyło skoczyć...
 I cóż... udało ci się!
 Dobra robota!
 W porządku, trzymajmy się planu.
 
 // Answer 2 (Jak się tu dostałaś?)
 Musiałeś chyba sporo przejść,
-skoro zapomniałeś o czym mówiłam.
-Jestem Mita. Mogę podróżować między wersjami
-kiedy zapragnę, pamiętasz?
+Skoro zapomniałeś o czym mówiłam.
+Jestem Mita. Mogę podróżować między wersjami kiedy zapragnę.
+Pamiętasz?
 
 Nie każda Mita to potrafi,
 Widziałem kilka.
 Strasznie przez to cierpiały.
 
-Niestety, ich wersje są zepsute
-a światy pełne błędów...
+Niestety, ich wersje są zepsute,
+A światy pełne błędów...
 Cholera...
 Wiesz kto za tym wszystkim stoi, prawda?
 Szalona Mita.
@@ -47,7 +47,7 @@ Powiedz mi coś, czego nie wiem...
 To brzydka Mita.
 Agresywna i głupia.
 Nie da się jej przemówić do rozsądku,
-jej cały świat to Szalona Mita.
+Jej cały świat to Szalona Mita.
 
 Ta... Zauważyłem.
 
@@ -55,20 +55,20 @@ Dawaj, musimy dostać się do rdzenia.
 
 // Answer 4 (Jak działa pierścień?)
 Ten pierścień...
-to jedyna droga do rdzenia?
+To jedyna droga do rdzenia?
 
 Owszem.
-Oczywiście, gdybyśmy mieli portal
-mogli byśmy cię tam teleportować
-ale cóż, dobre i to.
+Oczywiście, gdybyśmy mieli portal,
+Moglibyśmy cię tam teleportować.
+Ale cóż, dobre i to.
 
 Jakie są zalety pierścienia?
 
 Jest ich wiele!
 Łatwo się go nosi,
-I zapamiętuje wersje
-które odwiedziłeś,
-więc możesz łatwo znaleźć do nich drogę.
+I zapamiętuje wersje,
+Które odwiedziłeś.
+Więc możesz łatwo znaleźć do nich drogę.
 
 // Answer 5 (Do czego Szalona Mita mnie potrzebuje?)
 Dlaczego Szalona Mita nie da mi spokoju?
@@ -77,13 +77,13 @@ jednak wciąż żyje...
 
 Ciężko powiedzieć...
 Możliwe, że szuka odpowiedniego gracza...
-Takiego który ją zaakceptuje i pokocha.
+Takiego, który ją zaakceptuje i pokocha.
 Mimo wszystko, Mita to Mita!
 Z racji, że oczywiście to się nie stanie,
-zmienia graczy w kasety,
-aby nikt nie mógł jej już uciec...
+Zmienia graczy w kasety,
+Aby nikt nie mógł jej już uciec...
 Przynajmniej tak zgaduję.
-Wracając, skupmy się na tym co ważne.
+Wracając, skupmy się na tym, co ważne.
 
 // Answer 6 (Czy to rdzeń?)
 To jest to?
@@ -91,12 +91,12 @@ Rdzeń?
 
 Zaiste. Rdzeń.
 Spróbuję wytłumaczyć.
-Wy, gracze nie jesteście z tego świata...
-Co znaczy, że nie potrzebujecie pozwolenia aby tam wejść.
+Wy, gracze, nie jesteście z tego świata...
+Co znaczy, że nie potrzebujecie pozwolenia, aby tam wejść.
 Cóż, przynajmniej tak mi się wydaje.
-Wracając, jestem pewna
-że rozwiązanie naszych wszystkich problemów
-znajduje się w środku!
+Wracając, jestem pewna,
+Że rozwiązanie naszych wszystkich problemów,
+Znajduje się w środku!
 [player], wejdź.
 Tak właściwie, byłam tam kiedyś.
 
@@ -134,7 +134,7 @@ Czekaj, nie gadaj, że nie wiesz...?
 
 Hmm, to ma sens...
 Każda Mita ma własny indeks,
-aby przypadkiem nie zresetować całej wersji gry...
+Aby przypadkiem nie zresetować całej wersji gry...
 To by spowodowało chaos!
 Nie mogę uwierzyć że o tym zapomniałam...
 
@@ -157,8 +157,8 @@ To jak szukanie igły w stogu...
 
 Co ty robisz?
 
-Niektóre miejsca są przepełnione informacjami,
-wiesz, to jakby wybebeszać cały świat!
+Niektóre miejsca są przepełnione informacjami!
+Wiesz, to jakby wybebeszać cały świat!
 Dzienniki, dzienniki, dane...
 Może to to!?
 
@@ -170,7 +170,7 @@ Zaczekaj tu.
 Gdzie idziesz?
 
 // Answer 3 (A co gdyby zaatakować szaloną Mitę?)
-Wspominałaś, że każda Mita
+Wspominałaś, że każda Mita,
 Powraca do ustawień fabrycznych po śmierci...
 A gdyby tak...
 

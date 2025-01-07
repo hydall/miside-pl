@@ -12,7 +12,7 @@ Mam cię!
 // The usual conversation
 Huh, myślałam że będziesz niższy!
 A jesteś ogromniasty!
-tak jak moja siostrzyczka!
+Tak jak moja siostrzyczka!
 
 Twoja siostrzyczka?
 
@@ -63,7 +63,7 @@ pytasz o takie bzdury...
 Ale nie,
 to nasze pierwsze spotkanie!
 Ale poczekaj...
-Ale ostrzegam, jeśli ktoś skradł moją stylówę
+Ale ostrzegam, jeśli ktoś skradł moją stylówę,
 To nawet szalona Mita mnie nie powstrzyma!
 
 // Quest 3 (Dlaczego tu jesteś?)
@@ -80,8 +80,8 @@ A kim ty jesteś?
 Co?
 
 Taki niemądry...
-Pojawiłeś się znikąd
-Nie powinno cię tu być
+Pojawiłeś się znikąd.
+Nie powinno cię tu być,
 więc ci pomagam!
 
 Pa-Pa głuptasku!

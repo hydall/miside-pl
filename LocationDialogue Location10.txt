@@ -7,7 +7,7 @@ jak się tu dostałeś?
 
 Emm...
 Pierścień otwiera właściwe drzwi.
-Szczerze mówiąc nie wiem, jak działa.
+Szczerze mówiąc nie wiem jak to działa.
 
 Pierścień?
 
@@ -59,15 +59,15 @@ Nie zapominaj!
 
 // Quest 1 (Dlaczego są tu inne Mity?)
 Są nowe. Prosto z fabryki.
-Potrzebują trochę czasu
-by zyskały "świadomość".
-A potem je odprowadzam
+Potrzebują trochę czasu,
+By zyskały "świadomość".
+A potem je odprowadzam,
 do ich domów.
 
 // Quest 2 (Dlaczego na dole jest tak ciemno?)
-My, Mity, jesteśmy tworzone w ciemności
+My, Mity, jesteśmy tworzone w ciemności,
 więc musimy w niej przez jakiś czas zostać.
-Wyobraź sobie ten ból
+Wyobraź sobie ten ból,
 kiedy z mroku zostałybyśmy wrzucone wprost do światła...
 
 // Quest 3 (A co TY tu robisz?)
@@ -80,7 +80,7 @@ No chyba nie ty?
 Po co to wszystko na taką skalę?
 Czy wystarczy miejsca dla wszystkich?
 
-Czekaj, nie gadaj, że nie rozumiesz
+Czekaj, nie gadaj, że nie rozumiesz,
 jak działa ten świat...
 Nie wiesz że jest nieskończony?
 
@@ -93,10 +93,10 @@ to musi być tylko 19 światów.
 Boziu... Ty naprawdę nie ogarniasz,
 jak działa ten świat.
 Podejdźmy do tablicy.
-Spróbuje ci wyjaśnić.
+Spróbuję ci wyjaśnić.
 Co ty na to?
 
-// Quest 5 (Jaką jest twoją wersja?)
+// Quest 5 (Jaką jest twoja wersja?)
 Czekaj,
 czy my czasem nie spotkaliśmy się w ostatniej wersji gry?
 A może mi się tylko wydaje?
@@ -106,7 +106,7 @@ Jestem z wersji 1.5.
 Byłeś tam?
 
 Tak.
-To tam się pojawiłem
+To tam się pojawiłem,
 kiedy wrzucono mnie do tego świata!
 
 Whoa!
@@ -119,13 +119,13 @@ Długo by wymieniać...
 Powiedz mi, co pamiętasz.
 
 Było mrocznie.
-Na ścianach były napisy
+Na ścianach były napisy,
 na przykład...
 "Pobawimy się?"
 
 Ah,
 szkoda...
-To moje "ja"
+To moje "ja",
 które zastrasza innych i ma sklerozę.
 
 // Mita wants to tell you [No]
@@ -140,9 +140,9 @@ Mam tylko nadzieję że nie będzie jak na lekcji
 i nie zasnę z nudów.
 
 Wiesz, zawsze możesz wyjść,
-albo zostać i posłuchać
-jeśli cię to ciekawi.
-Gracz pobiera MiSide
+Albo zostać i posłuchać,
+Jeśli cię to ciekawi.
+Gracz pobiera MiSide.
 Siedzi zadowolony i gra.
 W ten sposób stworzył nowy dom,
 I nową Mite.
@@ -150,33 +150,33 @@ To dwuwymiarowa reprezentacja.
 To, są wersje gry,
 pokazane jako linie.
 Domy ustawione są na liniach.
-Powiedzmy że pobierasz wersję 1.14,
-więc w tej wersji rodzi się
-nowe życie, Mita i jej dom.
+Powiedzmy, że pobierasz wersję 1.14,
+więc w tej wersji rodzi się -
+Nowe życie, Mita i jej dom.
 
 Niebiosa...
 
-Jeśli czegoś nie rozumiesz
-pytaj śmiało,
-a postaram się wytłumaczyć .
+Jeśli czegoś nie rozumiesz,
+Pytaj śmiało,
+A postaram się wytłumaczyć.
 
 // He asks about the only circle
 Czemu tu jest pojedyncze kółko?
 
 Ta wersja została wydana tylko raz,
-nigdy jej nie powtórzono.
+Nigdy jej nie powtórzono.
 To jedyna unikalna wersja gry.
 Tego typu wersje są specjalne
 i posiadają drogi do innych wersji.
-śpiąca Mita przesiaduje w tej wersji, 1.1.
+Śpiąca Mita przesiaduje w tej wersji, 1.1.
 
 Śpiąca Mita?
-Bo inni przechodzący przez jej wersje
-nie dają jej się wyspać?
+Bo inni przechodzący przez jej wersje,
+I nie dają jej się wyspać?
 
 Nie, to nie tak.
 Możesz przejść tuż obok niej,
-a ona nawet się nie zorientuje.
+A ona nawet się nie zorientuje.
 
 // He asks about the shaded circle
 Dlaczego to kółko jest zamalowane?
@@ -185,11 +185,11 @@ Umm to tutaj?
 To dzieło Ślicznej Mity.
 Ona to narysowała.
 Kłóciliśmy się,
-jak najszybciej dostać się do wersji 1.11.
+Jak najszybciej dostać się do wersji 1.11.
 
 A więc? Kto wygrał?
 
-Oczywiście że JA!
+Oczywiście, że JA!
 Spójrz, jesteśmy tu
 w wersji 1.15,
 wersja domu 809.

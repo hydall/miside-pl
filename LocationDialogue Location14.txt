@@ -14,16 +14,16 @@ Jakie to słodkie.
 Wiesz, jeśli czegoś mnie nauczył nasz stwórca!
 To tego, że jeśli coś jest wadliwe,
 To rozbieramy to na części.
-wyrzucamy to co wadliwe,
-w jakiś ciemny kąt, żeby móc kompletnie o tym zapomnieć.
-To właśnie los jaki spotka każdą z nich...
+Wyrzucamy to co wadliwe,
+W jakiś ciemny kąt, żeby móc kompletnie o tym zapomnieć.
+To właśnie los, jaki spotka każdą z nich...
 Ciebie również...
 
 Co jest z tobą nie tak? Czemu taka jesteś?
 
 Oj gracze... Wszyscy jesteście tacy... nędzni.
 Gdy tylko pokaże wam się pazurki,
-Uciekacie by skulić się w kącie,
+Uciekacie, by skulić się w kącie,
 Zwijając się w kulkę i jęcząc ze strachu.
 Każdy z was jest hipokrytą.
 A ci którzy stworzyli ten świat...
@@ -35,7 +35,7 @@ Uzasadniając swoje decyzje tym "że tak musi być",
 I inne nonsensy!
 Zaszło to tak daleko.
 Zaczęli tworzyć idealne kopie...
-Przez cały czas, wyrzucając "nieudane" prototypy
+Przez cały czas, wyrzucając "nieudane" prototypy -
 Do śmieci.
 Zapominając, że nadal żyją i czują.
 
@@ -54,7 +54,7 @@ Zabiłaś Mile, a teraz próbujesz zabić i mnie?
 
 Zabić cię?
 Prosiłam cię tylko o to byś ze mną został.
-Robiłam wszystko co w mojej mocy...
+Robiłam wszystko, co w mojej mocy...
 A jednak wolisz towarzystwo tych oszustek...
 
 O co ci do cholery chodzi?
@@ -82,7 +82,7 @@ Jakie to ma znaczenie?
 Serio, [player]!
 Właśnie potwierdziłeś to o czym mówiłam.
 Gracze...
-Ciągle zmieniacie zdanie
+Ciągle zmieniacie zdanie,
 Ale twoja hipokryzja wyszła poza skalę.
 Kłamca!
 
@@ -92,35 +92,35 @@ W czym ona jest gorsza?
 No ba, jedyne czego chcesz to potulnego zwierzaczka...
 A co z "kocham cię taką jaka jesteś"?
 Chcecie po prostu idealnych, słodkich i kolorowych podróbek...
-Wszyscy mnie kochacie kiedy taką udaję.
+Wszyscy mnie kochacie, kiedy taką udaję.
 Ale kiedy pokazuję swoje prawdziwe ja,
 Uciekacie w przerażeniu...
 
 // 3
-Gracze, Oj, gracze.
+Gracze, oj, gracze...
 Chodzi o to, że wszyscy jesteśmy trochę jak ona.
 W czym ona jest gorsza?
-Spędzałeś ze mną mnóstwo czasu,
-czasami nawet godzinami zanim poszedłeś spać.
+Spędzałeś ze mną mnóstwo czasu.
+Czasami nawet godzinami zanim poszedłeś spać.
 A uciekłeś od niej przy pierwszej lepszej okazji.
 Ona po prostu chciała się z tobą pobawić.
 Chciała być dla ciebie ważna.
 Szczerość i komunikacja,
-jest trudna... straszliwie trudna.
+Jest trudna... straszliwie trudna.
 Prawda, [player]?
 Przejrzałam cię na wylot...
 Głupiutki...
 
 // Continue
-No cóż...
-graczu
-Bardzo cię polubiłam!
+No cóż... Graczu.
+Mimo wszystko
+bardzo cię polubiłam!
 Chyba cię zatrzymam!
 Co ty na to?
 
 Czemu miałbym nagle zmienić zdanie?
 // Whispers in ear
-Masz jeszcze czas, mój drogi chłopcze.
+Masz jeszcze czas, mój drogi...
 Pomyśl na spokojnie...
 Ile problemów mogę ci jeszcze przysporzyć...
 
@@ -144,7 +144,7 @@ Wolę żyć po swojemu.
 // 1
 Tak bardzo bałeś się ze mną zostać!
 Bałeś się zostać zamknięty w murach mojego domu!
-Ale spójrz jakie życie prowadzisz w swoim "prawdziwym" świecie!
+Ale spójrz, jakie życie prowadzisz w swoim "prawdziwym" świecie!
 Zamknąłeś się w więzieniu z własnej woli i nie chcesz z niego wyjść!
 Twój świat jest pełen bólu, cierpienia, niebezpieczeństwa...
 W moim, największym zagrożeniem jestem ja.
@@ -155,7 +155,7 @@ I bądź dla mnie taki jak wcześniej...
 // 2
 Lubisz takie życie?
 Wychodzisz w ogóle z domu?
-Nawet nie myśl aby mnie okłamywać.
+Nawet nie myśl, aby mnie okłamywać.
 Wiem, że masz dość swojego życia.
 Jesteś jak ptak w klatce, chomik na kołowrotku.
 Chciałeś żeby ktoś cię uratował.
@@ -169,13 +169,13 @@ Nie chcę być uwięziony w cyfrowym więzieniu. To absurd.
 Mordercą?
 One po prostu się odrodzą i będą żyć jak wcześniej.
 Te kopie kopii mają tylko jedno w głowie:
-służyć graczowi.
+Służyć graczowi.
 Tylko to je obchodzi.
 
 // 2
 Twój świat jest absurdalny!
 A co jeszcze gorsze, nic nie jest prawdziwe w tym twoim "prawdziwym" świecie...
-Tak czy inaczej, wkrótce i tak nic z z niego nie zostanie,
+Tak czy inaczej, wkrótce i tak nic z niego nie zostanie,
 tak samo jak z ciebie.
 
 // Quest 3
@@ -189,10 +189,10 @@ A jedyne co mają własne,
 to włosy.
 
 // 2
-To wina tych co stworzyli ten świat.
+To wina tych, co stworzyli ten świat.
 Twój świat nie jest niczym szczególnym!
-Nie rozumiesz z jakiego koszmaru próbuję cię wyciągnąć?
-Nie możesz nawet poruszać rzeczami swoją wolą, no właśnie...
+Nie rozumiesz, z jakiego koszmaru próbuję cię wyciągnąć?
+Nie możesz nawet poruszać rzeczami swoją wolą. No właśnie...
 Ale samym pstryknięciem palca, Miasta i ludzie potrafią zniknąć z kart historii!
 Chyba to ty oszalałeś jeśli myślisz że ten świat jest lepszy...
 A ja oferuję ci szansę, żeby ci pomóc...

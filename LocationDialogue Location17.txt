@@ -1,6 +1,6 @@
 // Player thinks + Make coffee
 Potrzebuję czyjejś pomocy.
-Mam nadzieję że ta Mita nie gryzie...
+Mam nadzieję, że ta Mita nie gryzie...
 
 Marnuje swój czas...
 
@@ -44,20 +44,20 @@ Tak.
 Skąd o nich wiesz?
 W sumie głupie pytanie...
 Patrząc na to,
-ile już tu jesteś...
+Ile już tu jesteś...
 
 Poczekaj chwilkę,
-muszę usiąść.
+Muszę usiąść.
 
 Dobra, to..?
 
 Nie wiem co powiedzieć...
 Muszę iść dalej,
-pierścień wskazuje mi drogę.
+Pierścień wskazuje mi drogę.
 
 Masz jej pierścień?
-Nie dziwię się
-że znalazłeś te miejsce.
+Nie dziwię się,
+Że znalazłeś te miejsce.
 
 Dokładnie.
 Więc, pomożesz mi?
@@ -145,7 +145,7 @@ Z czym ty dokładnie potrzebujesz pomocy?
 
 // Put button
 Nic się nie stało?
-Do czego w ogóle ten przycisk? 
+Do czego w ogóle ten przycisk?
 
 // Cofee
 Jeszcze kawy?
