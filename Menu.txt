@@ -56,7 +56,7 @@ Czas:
 Napisy
 Jasność
 Synchronizacja pionowa
-Zapisy
+Zapisywane...
 Postacie
 Postacie - Mity
 Postacie - Kasety
