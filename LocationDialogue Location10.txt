@@ -171,7 +171,7 @@ i posiadają drogi do innych wersji.
 Śpiąca Mita przesiaduje w tej wersji, 1.1.
 
 Śpiąca Mita?
-Bo inni przechodzący przez jej wersje
+Bo inni przechodzą przez jej wersje
 i nie dają jej się wyspać?
 
 Nie, to nie tak.
@@ -213,7 +213,7 @@ Rdzenia?
 Hmm...
 Jeśli chcesz najkrótszą drogę,
 będziesz musiał przejść przez wersję 1.11.
-Na pewno spotkasz naszą śpiącą królewnę.
+A dalej na pewno spotkasz naszą śpiącą królewnę.
 Wydaje mi się, że Mita, która cię tam wysłała,
 kroczyła tą samą ścieżką.
 A może po prostu nie ogarnęła, że zmierzasz inną trasą.
