@@ -11,12 +11,12 @@ Pingwinie zwycięstwo!
 Łap śnieżkę!
 
 Sejf życia
-Uważaj na siebie
+Uważaj na siebie.
 
 Zwycięstwo muchy
 Kum-Kum.
 
-O Wielka Mito!
+O, Wielka Mito!
 Pamiętaj o nas...
 
 Znalazłem cię!
@@ -37,20 +37,20 @@ Ej! Psujesz mi fryzurę!
 Mam wszystkich graczy
 No to... Kto następny?
 
-Cześć Mita!
+Cześć, Mita!
 Każda jest wyjątkowa.
 
 Czy to już koniec?
-Oczywiście że to koniec!
+Oczywiście, że to koniec!
 
 Maksymalna prędkość!
 Brummmmmmmmm!!!
 
 Jakieś osiągnięcie?
-I Jakiś opis?
+I jakiś opis?
 
 Wspaniały taniec
-Lewo, Prawo oraz Środek.
+Lewo, prawo oraz środek.
 
 Dłuuugi ogon
 Znowu jabłko?
@@ -58,13 +58,13 @@ Znowu jabłko?
 Nie pozwolę ci przejść!
 Zbuduj płot.
 
-Logi z fazy pierwszej.
+Logi z fazy pierwszej
 Niewykryty błąd.
 
 Logi z fazy drugiej
 Błąd naprawiony.
 
-Piekielna Wygrana!
+Piekielna wygrana!
 Nie na mojej warcie!
 
 Żadnych obrażeń?!
