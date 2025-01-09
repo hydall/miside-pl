@@ -20,9 +20,9 @@ Niech cię...
 Zacznijmy od małego testu!
 Sprawdzimy twoją koordynację!
 Oraz umiejętność adaptacji!
-Co jeśli jest coś z tobą nie tak!?
-Co jeśli nie zasługujesz nawet
-na to ciało z którego jesteś taki dumny!?
+Co, jeśli jest coś z tobą nie tak!?
+Co, jeśli nie zasługujesz nawet
+na to ciało, z którego jesteś taki dumny!?
 
 // Show knifes
 Spójrz...
@@ -43,7 +43,7 @@ na przykład...
 Obczaj to!
 Potrzebujemy do tego muzyki!
 Co myślisz o tej melodii?
-Sprawia że moja krew pulsuje!
+Sprawia, że moja krew pulsuje!
 Najpierw wyjaśnię ci
 Zasady tej gry!
 // Show rules
@@ -51,8 +51,8 @@ Gdy gra muzyka,
 możesz się poruszać.
 Ale gdy muzyka zamilknie...
 ANI DRGNIJ!
-Albo cię zabiję, Hihi~
-W skrócie: dobiegnij do końca
+Albo cię zabiję, hi-hi~
+W skrócie: dobiegnij do końca,
 zanim skończy się muzyka.
 Zaczynajmy!
 Dalej stoisz w miejscu?
@@ -72,18 +72,18 @@ Znam jeszcze inne gry!
 Na przykład...:
 Zamknę oczy...
 A gdy je otworzę,
-lepiej żebym cię nie widziała!
+lepiej, żebym cię nie widziała!
 Rozumiesz?
 Jeśli cię zobaczę, będzie kara!
 Gotowy? Zaczynajmy!
 
-To bezsensu...
+To bez sensu...
 
 // Ready hide
 Udało ci się!
 Jesteś w tym świetny!
 Ale teraz będzie trudniej.
-O wiele trudniej
+O wiele trudniej!
 Chowaj się, Biegnij, Przeżyj—
 
 Ugh! Niech cię diabli!

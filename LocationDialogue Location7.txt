@@ -51,7 +51,7 @@ Trochę minęło, odkąd ostatni raz się widzieliśmy.
 Ale dzięki tobie
 udało mi się wydostać z tej celi
 i uciec od tej szajbuski.
-Dla twojej informacji
+Dla twojej informacji,
 mogę bez trudu przenosić się między wersjami.
 W przeciwieństwie do ciebie, mój drogi.
 
@@ -61,7 +61,7 @@ na tę właściwą.
 Ustawiłam najkrótszą możliwą drogę.
 Posłuchaj!
 Działa to bardzo prosto: otwierasz drzwi,
-A pierścień otwiera odpowiednie przejście
+a pierścień otwiera odpowiednie przejście
 pomiędzy wersjami.
 
 // Quest 6 (Are the passages dangerous?)
@@ -76,7 +76,7 @@ Masz rację, to miejsce wywołuje dziwne uczucia,
 A z każdym dniem staje się jeszcze bardziej nieprzewidywalne.
 Ale rozchmurz się!
 Wszystko przemyślałam,
-Obierzemy najkrótszą
+obierzemy najkrótszą
 i najlepiej mi znaną trasę!
 
 Mam nadzieję, że wszystko skończy się dobrze.
@@ -85,7 +85,7 @@ Czy coś zamieszkuje te wszystkie korytarze?
 Tak.
 Błędy i anomalie.
 Niektóre nawet są świadome.
-Były przypadki, że próbowały nawet zabić, gdy tylko kogoś zauważyły...
+Były przypadki, że próbowały zabić, gdy tylko kogoś zauważyły...
 
 Emm...
 Czy są jeszcze jakieś inne, szalone Mity?
@@ -97,23 +97,23 @@ I żeby nie było, to nie ja ją tak nazwałam!
 Po prostu...
 To najstarsza wersja Mity.
 Przez co błędy, które generuje,
-są bardziej niebezpieczne niż w innych wersjach...
+są bardziej niebezpieczne, niż w innych wersjach...
 Boję się, że na nią trafimy.
 W końcu jej wersja była tą pierwszą...
 
 // Quest 7 (Will you help me get out?)
-Szczerze, to nie wiem jeszcze jak ci pomóc...
+Szczerze, to nie wiem jeszcze, jak ci pomóc...
 W każdym razie,
 Udało ci się tu dostać, prawda?
 No i poza tym,
-Nie masz lepszego wyjścia
+Nie masz lepszego wyjścia,
 niż zdać się na mnie, tę milusią, kochaną Mite!
 Ciężko zaprzeczyć...
 
 // Quest 8 (You were talking about some kind of plan...)
 Hmm, musimy dostać się do rdzenia.
 Mój kobiecy zmysł mówi mi,
-Że to tam znajdziemy rozwiązanie naszych problemów.
+że to tam znajdziemy rozwiązanie naszych problemów.
 
 Czemu nie pójdziesz tam sama? Po co potrzebna ci moja pomoc?
 
@@ -132,7 +132,7 @@ Czaderskiej Micie!
 Przez jej superową czapkę,
 Nazywam ją
 Czapcia.
-Planowałam z nią jak,
+Planowałam z nią, jak
 pozbyć się szalonej Mity.
 W drogę, [player]!
 
@@ -151,7 +151,7 @@ Kim ty do diabła jesteś?
 
 Cholera jasna!
 [player]...
-ONA tu była,
+Ona tu była,
 Szalona Mita...
 Słuchaj!
 Spróbuj sobie przypomnieć!
@@ -161,9 +161,9 @@ Tak w ogóle, to czemu wyglądasz jak ja?
 
 Umm, to na nic...
 Słuchaj, [player],
-Niestety sprawy nie idą
-Zgodnie z planem...!
-Mieliśmy użyć tu portalu,
+Niestety, sprawy nie idą
+zgodnie z planem...!
+Mieliśmy użyć tu portalu.
 Dzięki niemu nasza podróż byłaby milion razy szybsza i bezpieczniejsza.
 Ale nie uda nam się go uruchomić bez pomocy Czapci.
 A na dodatek nie mamy kilku części...
@@ -202,7 +202,7 @@ Sprawdzę to...
 // MitaKind check
 Uff...
 Jeszcze nie jesteś kasetą.
-Jesteś człowiekiem z krwi i kości.
+Jesteś "żywym" człowiekiem z krwi i kości.
 
 Przynajmniej jedna dobra wiadomość...
 
@@ -219,16 +219,16 @@ Muszę zmienić trasę.
 
 Znasz jakąś inną?
 
-Słuchaj, mój drogi,
+Słuchaj, mój drogi.
 Będziesz musiał przedostać się przez inne wersje,
 Aby dostać się do rdzenia.
-Tak szybko jak potrafisz, rozumiesz?
+Tak szybko, jak potrafisz, rozumiesz?
 
 Muszę iść sam?
 Ale ja nie znam drogi, skąd będę wiedział, czy dobrze idę?
 
 Pomogę ci na tyle,
-Na ile pozwoli sytuacja.
+na ile pozwoli sytuacja.
 Będę dawała ci wskazówki,
 Gdy tylko będzie możliwość.
 To się spotkamy...
@@ -249,16 +249,16 @@ Muszę się dowiedzieć, o co w tym wszystkim chodzi.
 Mój plan był idealny...
 A jednak wszystko się zepsuło.
 Muszę przyjrzeć się wszystkiemu i dowiedzieć się,
-Gdzie się podział nasz sprzęt...
+gdzie się podział nasz sprzęt...
 Spróbuję go znaleźć.
 Wtedy moglibyśmy użyć razem portalu.
 Ale nie ma czasu do stracenia.
 Szalona Mita wie o tym miejscu,
-To tylko kwestia czasu, zanim nas znajdzie.
+to tylko kwestia czasu, zanim nas znajdzie.
 Powodzenia, [player]! Do zobaczenia wkrótce!
 
 Dobrze...
-Mam nadzieję, że przeżyje do naszego następnego spotkania...
+Mam nadzieję, że przeżyję do naszego następnego spotkania...
 
 
 
@@ -295,9 +295,9 @@ Jestem tu od ponad roku,
 I daję sobie radę.
 Jasne... Co to w ogóle za miejsce?
 To coś w rodzaju przestrzeni między wersjami.
-Wiesz jak się stąd wydostać?
+Wiesz, jak się stąd wydostać?
 
-A wygląda jakbym wiedział?
+A wygląda, jakbym wiedział?
 Poza tym, nie chcę stąd wychodzić.
 Dobrze mi tu.
 Emm, czemu nie?
@@ -315,8 +315,8 @@ Ale to wszystko brzmi ekstra!
 Chyba...
 Wiesz, kim jestem?
 Jestem Czaderska Mita!
-Ale nie taka jak inne!
-A wiesz, dlaczego?
+Ale nie taka, jak inne!
+A wiesz dlaczego?
 Bo mam...
 TO!
 Czaderską czapkę!
@@ -332,18 +332,18 @@ Hura!
 Chodź tu, słońce...
 Dobra!
 No, mogłam zagrać coś innego,
-Ale dobra!
+ale dobra!
 // MitaCap Guitar No
 Przynudzasz...
 
 
 Hej,
-Jesteś nader żywiołowa!
+jesteś nader żywiołowa!
 
 No!
-Oczywiście że jestem!
+Oczywiście, że jestem!
 W każdym razie...
-Chodź
+Chodź.
 Zabawimy się!
 
 // GAME HUMMER
@@ -426,12 +426,12 @@ A przede wszystkim jestem zajebista!
 // Kick MitaCap 1
 O żesz ty!
 Okej,
-Teraz skopie ci tyłek!
+teraz skopię ci tyłek!
 
 // Kick MitaCap 2
 Ugh, znów przegrałam!
 Bolało cię to?
-Oczywiście że nie, przecież to tylko zabawka!
+Oczywiście, że nie, przecież to tylko zabawka!
 Tym razem ty wygrałeś.
 
 // Kick MitaCap 3
@@ -495,12 +495,12 @@ A ruszasz się jak stary dziad!
 // MitaCap = Lose 3
 Może jakbyś usiadł
 na te przyciski.
-To miałbyś szansę wykręcić sensowny wynik Ha-ha!
+To miałbyś szansę wykręcić sensowny wynik, ha-ha!
 
 // MitaCap = Win 1
 Niesamowite!
-Szczerze mówiąc myślałam
-Że ci się nie uda!
+Szczerze mówiąc, myślałam,
+że ci się nie uda!
 
 // MitaCap = Win 2
 Wow!
@@ -518,7 +518,7 @@ Ja!
 Mamy dobre zgranie!
 
 // MitaCap = Draw 2
-Chyba sam los chciał żebyśmy się spotkali!
+Chyba sam los chciał, żebyśmy się spotkali!
 Jesteśmy wspaniałym duetem!
 
 // MitaCap = Draw 3
@@ -528,7 +528,7 @@ A ja wygrała...
 
 // MitaCap Next? 1
 To co,
-Jeszcze jedna?
+jeszcze jedna?
 
 // MitaCap Next? 2
 Świetnie!
@@ -541,7 +541,7 @@ Bolą mnie już nogi!
 // Just talk
 // Photo
 Świetne zdjęcia.
-Widzę że lubisz się wyszaleć!
+Widzę, że lubisz się wyszaleć!
 
 Tak, jestem jaka jestem!
 Trzeba im pokazać, o co chodzi w tej grze! Boom!
@@ -574,7 +574,7 @@ I tak jakoś wyszło...
 Przeczytałaś wszystko, co nie?
 Pewnie z nudów.
 
-Ugh, Nienawidzę książek!
+Ugh, nienawidzę książek!
 Wolę praktykę!
 
 Jest to jakiś sposób...
@@ -593,7 +593,7 @@ Czy one kiedykolwiek się psują?
 
 Masz na myśli jabłka?
 Nie mają czasu, żeby się zepsuć,
-Bo je wszystkie zjadam!
+bo je wszystkie zjadam!
 A wtedy po prostu się pojawiają nowe...
 
 // Photo and cat
@@ -689,14 +689,14 @@ Emm...
 Ahahaha.
 
 Rozumiem...
-dostał co chce,
+dostał, co chce,
 i odszedł.
 
 Ale to dziwne!
 i zabawne.
 
 Serio?
-[player], Co robisz?
+[player], co robisz?
 
 // Player is gone 2
 Co tam?
@@ -706,7 +706,7 @@ Znów odchodzisz?
 Niech będzie!
 Niech będzie, wybaczę ci.
 
-[player], Wróć do nas!
+[player], wróć do nas!
 
 // Don't pay attention
 Nawet na mnie nie spojrzał!
@@ -728,14 +728,14 @@ Bo patrząc na wasze miny...
 To sama już nie wiem!
 
 // quest Cap 2
-Jakie to uczucie
+Jakie to uczucie:
 spotkać dokładną kopię siebie?
 Wiesz, chodzi o tę z pierścieniem.
 
 Na początku chciałam krzyczeć.
 Coś w stylu:
 Jasny gwint! Skąd się tu wziął mój klon!
-Ale zauważyłam, że nie jest tak wesoła jak ja!
+Ale zauważyłam, że nie jest tak wesoła, jak ja!
 A to znaczy, że jestem lepsza!
 Zobacz, jaka ponura...
 
@@ -749,7 +749,7 @@ Czemu ich nie zdejmiesz?
 
 Emm...
 Ale z ciebie żartowniś!
-A może, powinnam zdjąć coś innego? :)
+A może, powinnam zdjąć coś innego?
 
 Pytam się serio.
 Okej.
@@ -762,8 +762,8 @@ Ha-ha-ha!
 
 // DoorExit
 Czekaj!
-Nie chcesz wiedzieć co tam jest...
-Niech to będzie sekret :).
+Nie chcesz wiedzieć, co tam jest...
+Niech to będzie sekret!
 
 Co jest za drzwiami?
 
@@ -771,7 +771,7 @@ Sekret to sekret,
 I niech tak zostanie.
 
 Ehh...
-Po co te nerwy?
+Po prostu byłem ciekawy...
 
 // Tetris
 Wow!
@@ -800,7 +800,7 @@ O proszę,
 Znalazłeś błąd!
 Powinien włączyć się jakiś filmik.
 A w tym wypadku telewizor,
-Znika i się pojawia!
+znika i się pojawia!
 Fajne, co?
 
 // Player sit
@@ -821,7 +821,7 @@ Musisz już iść, [player]!
 Idź, nie bój się!
 
 Ja bym cię,
-Nie zostawiła samego!
+nie zostawiła samego!
 W porównaniu do pewnych innych osób!
 
 Czapciu!
@@ -830,8 +830,8 @@ Nie żartuj, dobrze?
 Bah-hah!
 
 // Goodbye 3
-Co tak stoisz jak słup?
+Co tak stoisz, jak słup?
 Nie mamy na to czasu!
 
 Hejka!
-Znaczy... miałam na myśli Pa-Pa!
+Znaczy... miałam na myśli pa-pa!

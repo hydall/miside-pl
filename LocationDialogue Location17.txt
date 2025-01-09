@@ -2,7 +2,7 @@
 Potrzebuję czyjejś pomocy.
 Mam nadzieję, że ta Mita nie gryzie...
 
-Marnuje swój czas...
+Marnuję swój czas...
 
 
 
@@ -12,7 +12,7 @@ Mita?
 Mita, wstawaj!
 Mita!
 
-Mita, Pobudkaaa!
+Mita, pobudkaaa!
 Potrzebuję twojej pomocy.
 
 Kim ty jesteeeeeś?
@@ -31,7 +31,7 @@ Mi-ita!
 
 // Player gives away the coffee
 Mita,
-Masz swoją kawusie.
+masz swoją kawę.
 
 
 
@@ -44,20 +44,20 @@ Tak.
 Skąd o nich wiesz?
 W sumie głupie pytanie...
 Patrząc na to,
-Ile już tu jesteś...
+ile już tu jesteś...
 
 Poczekaj chwilkę,
-Muszę usiąść.
+muszę usiąść.
 
 Dobra, to..?
 
 Nie wiem co powiedzieć...
 Muszę iść dalej,
-Pierścień wskazuje mi drogę.
+pierścień wskazuje mi drogę.
 
 Masz jej pierścień?
 Nie dziwię się,
-Że znalazłeś te miejsce.
+że znalazłeś te miejsce.
 
 Dokładnie.
 Więc, pomożesz mi?
@@ -108,7 +108,7 @@ Zaczynaj.
 // Player lose 1
 Zasypiasz?
 No dawaj,
-Jeszcze raz...
+jeszcze raz...
 
 // Player lose 2
 Jeszcze jeden raz?
@@ -157,5 +157,5 @@ Ta kawa jest okropna...
 Wszystko jest w porządku...
 
 // Button
-Mita? Przycisk nie działa... słyszysz mnie?
+Mita? Przycisk nie działa... Słyszysz mnie?
 Haloo?

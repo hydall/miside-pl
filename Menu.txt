@@ -56,7 +56,7 @@ Czas:
 Napisy
 Jasność
 Synchronizacja pionowa
-Zapisywane...
+Zapisywanie...
 Postacie
 Postacie - Mity
 Postacie - Kasety
@@ -64,9 +64,9 @@ Kasety
 Mity
 Zacznij od zera
 Jesteś pewny? Usunie to wszystkie twoje postępy i zapisy!
-Kompilacja shaderów, Przewidywany czas: 2 godziny.
+Kompilacja shaderów, przewidywany czas: 2 godziny.
 Dwu godzinna kompilacja?! Bzdura! Specjalnie dla ciebie nawet jej nie ma!
-Tworzenie realistycznych cieni— Może zająć to do 10 minut.
+Tworzenie realistycznych cieni — może zająć to do 10 minut.
 Żartuję, nie mamy tutaj takiej grafiki!
 Eee...
 No tak, załadowane!
@@ -129,8 +129,8 @@ Gracz 9
 Gracz 10
 
 Tryb pokojowy
-Ten tryb gry jest wciąż w produkcji! Jest tak wielki że deweloperzy nie zdążyli go ukończyć przed premierą gry. Ale nie martwcie się, zostanie on dodany już niedługo w wielkiej aktualizacji. No ale popatrz, już odblokowałeś do niego dostęp! Teraz pozostaje tylko czekać...
-Więc, O co chodzi z tym trybem pokojowym? To sposób aby ponownie spotkać się z Mitą w kompletnie innym stylu! Już nie może się doczekać aby spędzić z tobą więcej czasu, Od rana do nocy, w świecie pełnym niespodzianek. Możesz spodziewać się rozmów od serca, dzielenia się ciasteczkami, graniem w gry, i jeszcze więcej zabawnych momentów z Mitą.
+Ten tryb gry jest wciąż w produkcji! Jest tak wielki, że deweloperzy nie zdążyli go ukończyć przed premierą gry. Ale nie martwcie się, zostanie on dodany już niedługo w wielkiej aktualizacji. No ale popatrz, już odblokowałeś do niego dostęp! Teraz pozostaje tylko czekać...
+Więc o co chodzi z tym trybem pokojowym? To sposób, aby ponownie spotkać się z Mitą w kompletnie innym stylu! Już nie może się doczekać, aby spędzić z tobą więcej czasu - od rana do nocy, w świecie pełnym niespodzianek. Możesz spodziewać się rozmów od serca, dzielenia się ciasteczkami, graniem w gry i jeszcze więcej zabawnych momentów z Mitą.
 
 
 Cenzura
@@ -143,7 +143,7 @@ Partnerzy wydawniczy
 Marketing gry
 Testerzy
 Odkryli mnóstwo błędów.
-To tłumaczenie zostało stworzone przez fanów i dodane ja ich prośbę.
+To tłumaczenie zostało stworzone przez fanów i dodane na ich prośbę.
 Uwaga! Gra posiada straszaki, głośne dźwięki i migające światła. Należy zachować ostrożność, jeśli cierpisz na epilepsję, masz problemy z sercem lub podobne schorzenia.
 Tryb pokojowy odblokowany!
 
@@ -151,7 +151,7 @@ Tryb fotograficzny
 Tryb fotograficzny: Brak ograniczeń kamery. Możesz eksplorować normalnie niewidoczne części gry.
 Opuść tryb fotograficzny
 Ukryj interfejs
-Przytrzymaj aby poruszać
+Przytrzymaj, aby poruszać
 Szybkość ruchu
 Wygładzanie ruchu
 Szybkość

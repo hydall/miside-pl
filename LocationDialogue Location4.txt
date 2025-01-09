@@ -8,11 +8,11 @@ Zamarłeś przed lustrem.
 Więc zostawiłam cię w spokoju.
 Czemu rozmieszczenie pokoi się zmieniło?
 
-Przemeblowałam pokoje.
-Żebyś mógł się poczuć bardziej jak w domu.
+Przestawiłam je,
+żebyś mógł się poczuć bardziej jak w domu.
 Na szczęście,
-Tutaj możemy aranżować pokoje
-Jak tylko chcemy.
+tutaj możemy aranżować pokoje,
+jak tylko chcemy.
 
 Nie musiałaś.
 Prawie się już przyzwyczaiłem.
@@ -24,10 +24,10 @@ Zasady gry są proste:
 Moneta dyktuje, na które statystyki gramy.
 Na przykład zdrowie.
 Każdy z nas wystawia kartę,
-I jeśli na twojej karcie
-Symbol zdrowia ma większą wartość
-Niż u mnie,
-To wygrywasz.
+i jeśli na twojej karcie
+symbol zdrowia ma większą wartość
+niż u mnie,
+to wygrywasz.
 Weź swoje karty.
 Zobaczmy...
 Wow!
@@ -47,7 +47,7 @@ Twoja kolej!
 No.
 Twoja kolej!
 
-Zdrowie wygrywa!
+Gramy na zdrowie!
 Teraz tylko atak!
 Skup się na obronie!
 
@@ -161,7 +161,7 @@ Typowe, co nie?
 
 Nieważne.
 Możemy pograć na konsoli,
-Albo w karty.
+albo w karty.
 Wybieraj.
 
 
@@ -169,10 +169,10 @@ Wybieraj.
 // Mita play fight
 Chcesz zawalczyć?
 Musisz wygrać
-Cztery razy.
+cztery razy.
 No dawaj.
 Nie martw się,
-Na początku dam ci fory.
+na początku dam ci fory.
 
 
 Dobrze ci idzie.
@@ -203,7 +203,7 @@ Weź się w garść, albo będę cię nazywać przegrywem!
 Co z tobą?
 Wytarłam tobą podłogę.
 Nie dałeś z siebie wszystkiego -
-Dlatego wygrałam!
+dlatego wygrałam!
 
 
 A więc.
@@ -218,12 +218,12 @@ Gdzie są...
 
 Ohh.
 Przepraszam...
-Chyba pobrałam coś
-Z internetu.
+Ściągnęłam sobie mały pliczek
+z internetu.
 Chciałam trochę urozmaicić
-Obszar wokół domu.
+obszar wokół domu.
 Ale jak widać,
-Musiało być coś nie tak z tym plikiem.
+musiało być coś nie tak z tym plikiem.
 Później to naprawię.
 
 Dlatego nie mogę opuścić domu?
@@ -242,14 +242,14 @@ Czy może czas z gry?
 Jest połączony z moim telefonem?
 
 A więc, umm...
-Szczerze to nie wiem.
+Szczerze, to nie wiem.
 Ale czas nie ma tu znaczenia...
-Nieważne czy jest wcześnie, czy późno,
+Nieważne, czy jest wcześnie, czy późno,
 Dziewczyna taka jak ja
 Jest zawsze pełna energii -
 Nigdy się nie męczę!
 Możemy mieć wieczną wiosnę,
-Lub urządzić sobie wieczny romantyczny wieczór!
+lub urządzić sobie wieczny romantyczny wieczór!
 
 Interesujące...
 I trochę straszne.
@@ -292,7 +292,7 @@ Lustro bez odbić...
 To naprawdę niepokojące...
 
 Możemy włączyć odbicia,
-Jeśli tylko chcesz.
+jeśli tylko chcesz.
 Ale czy naprawdę ich potrzebujemy?
 
 Oczywiście, że tak.
@@ -362,7 +362,7 @@ Jestem taka szczęśliwa!
 I trochę zszokowana...
 Ale...
 Będziemy już razem -
-Już zawsze i na zawsze...
+już zawsze i na zawsze...
 
 
 

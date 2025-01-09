@@ -84,7 +84,7 @@ Wciśnij.
 // MitaKind quest 2
 Muszę tu zostać.
 Jest parę pytań, które muszę jej zadać.
-Chce się dowiedzieć o niej i o mnie.
+Chcę się dowiedzieć o niej.
 Choć pewnie nie będzie zbyt chętna do rozmowy...
 
 // MitaKind quest 3

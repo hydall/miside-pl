@@ -1,7 +1,7 @@
 Wyjdź z piwnicy.
 Rozejrzyj się.
 Wejdź do rdzenia.
-Wprowadź dane i użyj dźwigni żeby zrestartować Szaloną Mite.
+Wprowadź dane i użyj dźwigni, żeby zrestartować Szaloną Mite.
 Otwórz drzwi wejściowe.
 Idź do piwnicy i wprowadź swoje ID.
 Opuść ten świat.

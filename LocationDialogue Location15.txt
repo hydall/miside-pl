@@ -1,7 +1,7 @@
 
 Tutaj jesteś!
 Dlaczego opuściłeś rdzeń?
-Mówiłam ci abyś zaczekał!
+Mówiłam ci, abyś zaczekał!
 
 Długo cię nie było, myślałem, że...
 
@@ -45,12 +45,12 @@ Chwila...
 Pierścień...
 A to?
 
-Nie mam pojęcia co to.
+Nie mam pojęcia, co to.
 
 To jej indeks!
 Udało ci się!
 
-Nie wiem co powiedzieć.
+Nie wiem, co powiedzieć.
 
 Musimy wracać do rdzenia.
 A ty...
@@ -105,7 +105,7 @@ No dobra.
 
 // Player thinks
 Chyba zapomniała...
-straciła pamięć...
+Straciła pamięć...
 Udało nam się?
 Zresetowaliśmy ją?
 W takim razie muszę tylko
@@ -120,7 +120,7 @@ Co?
 Miło było...
 
 Ahh...
-wielka szkoda...
+Wielka szkoda...
 Że ty i ja,
 Spędziliśmy ze sobą tak mało czasu.
 
@@ -129,7 +129,7 @@ O czym ty mówisz?
 
 No wiesz,
 mogłeś ze mną zostać...
-to wszystko moja wina...
+To wszystko moja wina...
 Ta szafa i... stukanie.
 Mogłam ją wcześniej ZABIĆ!
 
@@ -138,7 +138,7 @@ Czy ty...?
 Jakim cudem wszystko pamiętasz?
 
 HAHAHA!
-Naprawdę myślałeś że to takie proste?
+Naprawdę myślałeś, że to takie proste?
 Jesteś głupcem...
 Jak wszyscy inni...
 Rychło w czas!
@@ -149,7 +149,7 @@ Sorka, hihi.
 
 Nie wierze...
 Co poszło nie tak...?
-Daje sobie uciąć głowę, że cię zresetowałem...
+Daję sobie uciąć głowę, że cię zresetowałem...
 
 Wciąż nie rozumiesz...?
 Ha-ha-ha!
@@ -214,7 +214,7 @@ Umiem świetnie kroić marcheweczki!
 
 // Why bathroom
 Ah, chyba...
-chyba wolisz być sam...
+Chyba wolisz być sam...
 
 // Why bedroom back
 Czemu się tak kręcisz po mieszkaniu?

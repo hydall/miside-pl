@@ -1,5 +1,5 @@
 
-Ja... Żyje!?
+Ja... Żyję!?
 
 Boże Święty!
 Przestraszyłeś mnie!
@@ -14,7 +14,7 @@ Wersji...
 
 Co?
 
-Musze jakimś cudem dostać się do starszej wersji.
+Muszę jakimś cudem dostać się do starszej wersji.
 
 Dobra!
 Jestem zbyt zajęta,
@@ -54,10 +54,10 @@ No przecież mówię! Głuchy jesteś?
 Cóż, w takim razie powodzenia, Mila...
 
 Czekaj, a ty dokąd to?
-Chyba nie myślisz że tak po prostu sobie stąd wyjdziesz?
+Chyba nie myślisz, że tak po prostu sobie stąd wyjdziesz?
 
 // Player check exit
-Nie wiem czego się tam spodziewałeś.
+Nie wiem, czego się tam spodziewałeś.
 
 Pieprzyć to wszystko!
 Co to ma do cholery być?
@@ -76,7 +76,7 @@ Chyba dobrze idę.
 // Glitch kitchen
 Co to ma być?
 
-Nie zbliżaj się!
+Uważaj!
 To chyba jakiś błąd...
 Lepiej się nie zbliżać!
 
@@ -94,7 +94,7 @@ Jak wysadzisz mi dom - jesteś trupem!
 // Bathroom - Mila is washing
 EJ!
 WYNOCHA!
-Nie widzisz że łazienka jest zajęta?!
+Nie widzisz, że łazienka jest zajęta?!
 // The player continues to stand 1
 I CO TAK STERCZYSZ?!
 WYNOCHA STĄD!
@@ -110,10 +110,10 @@ Co to miało znaczyć?
 Bezwstydny rozpustnik...
 
 Byłaś obok i tak nagle zniknęłaś...
-Nie wiedziałem gdzie jesteś
+Nie wiedziałem, gdzie jesteś
 Więc poszedłem cię poszukać.
 
-Bo nie wiedziałam ile ci to zajmie..
+Bo nie wiedziałam, ile ci to zajmie..
 Jak długo zamierzasz babrać się w tych błędach?
 
 Błędach?
@@ -125,7 +125,7 @@ To zakładam, że uporałeś się z tym w kuchni?
 
 Powiedzmy.
 
-No i super. Teraz masz moje pozwolenie
+No i super. Teraz masz moje pozwolenie,
 żeby wejść do łazienki.
 
 Dzięki.
@@ -144,7 +144,7 @@ Ty naprawdę myślisz, że twoje durne błędy
 są ważniejsze niż dokończenie mojej książki?
 Nie, nie widziałam!
 
-Dobra już dobra. Sam poszukam.
+Dobra już, dobra. Sam poszukam.
 
 Czekaj,
 Mam pytanie...
@@ -152,7 +152,7 @@ Chcesz stąd odejść,
 prawda?
 
 Zgadza się.
-Chce uciec z tej gry.
+Chcę uciec z tej gry.
 
 To może zabrzmieć dziwnie...
 ale nie mógłbyś zostać i ze mną poczytać?
@@ -185,18 +185,18 @@ No... niezbyt.
 
 Czyli ty naprawdę widzisz wszystko...
 Kiedy naprawiasz te błędy...
-Wiedziałeś, że kamień był przecięty
-Prawda?
+Wiedziałeś, że kamień był przecięty,
+prawda?
 
 Nie.
 Po prostu... Jesteśmy w grze.
 Tutaj wszystko jest na pstryknięcie palca.
 
 Oh,
-Głupek!
+głupek!
 Na pstryknięcie palca, co?
 A jak myślisz, po co czytam te wszystkie książki?
-Żebym mogła wyciągnąć rękę, i je sobie streścić?
+Żeby potem pstryknąć palcami i wszystko gotowe?
 Wole robić wszystko sama,
 a nie polegać na leniwym systemie.
 
@@ -217,7 +217,7 @@ Jeśli chodzi o to pytanie głupca—
 To tylko żarty.
 I nie jestem dziwna!
 Jestem wyjątkowa!
-Chce być inna niż wszystkie.
+Chcę być inna niż wszystkie.
 
 Przecież nie musisz się tak starać.
 Uwierz, jesteś wystarczająco wyjątkowa.
@@ -255,8 +255,8 @@ Przepraszam! Nie chciałam.
 Nic się nie stało. Wybacz, ale muszę już iść.
 
 Wiem że musisz, ale...
-nie mógł byś zostać
-choć jeszcze chwile?
+nie mógłbyś zostać
+choć jeszcze chwilę?
 
 Wybacz Mila, nie mam czasu do stracenia.
 Szalona Mita nie należy do cierpliwych.
@@ -273,16 +273,16 @@ Dlaczego?!
 Nigdy stąd nie wyjdę!
 
 Wiem jak się czujesz, Mila.
-Chciała byś abym kiedyś wrócił?
+Chciałabyś, abym kiedyś wrócił?
 Wiesz, po wszystkim?
 
 Zostań tu...
 Z tobą jest fajnie, nie chcę być znowu sama...
-A co jeśli ci się nie uda?
+A co, jeśli ci się nie uda?
 
 Uda. Potrzebuję tylko trochę czasu.
 // If the player clicks on the computer
-Dopiero co udało mi się wydostać z tego płaskiego świata,
+Dopiero co byłem w dwumiarowej rzeczywistości,
 a teraz... no proszę.
 Nie mogę się doczekać powrotu do prawdziwego świata...
 
@@ -292,7 +292,7 @@ Oj,
 To tylko miejska legenda!
 Nigdy go nie widziałam.
 
-Myślę że...
+Myślę, że...
 musi być jakiś sposób na powrót.
 
 Cwaniak!
@@ -334,7 +334,7 @@ Czy widziałaś kiedyś piękno natury?
 Wiesz, motyle i te sprawy?
 
 Nie,
-Ale mam gdzieś o nich książkę.
+ale mam gdzieś o nich książkę.
 Nawet ma w sobie rysunki ich skrzydeł...
 Ale,
 ten obraz...
@@ -342,11 +342,11 @@ krzywo wisi.
 I jest na nim plama...
 Od razu lepiej.
 
-Chciała byś kiedyś zobaczyć prawdziwą naturę?
+Chciałabyś kiedyś zobaczyć prawdziwą naturę?
 
 Nie zadawaj głupich pytań!
 Pewnie że tak,
-To moje marzenie!
+to moje marzenie!
 
 // Make long eye contact 1
 Gapisz mi się na twarz?
@@ -368,7 +368,7 @@ Sio! Won!
 // Whispers 1
 Czemu ciągle wysyłają do mnie
 jakiegoś bezmózga,
-i myślą że będę milusia?
+i myślą, że będę milusia?
 Traktują mnie jak zabawkę!
 Jak jakieś Tamagotchi!
 
@@ -384,7 +384,7 @@ Zwariuję przez tę muzykę w tle!
 Jak mam tu to powiedzieć...?
 Zajęta jestem?
 Nie lubię towarzystwa?
-A co jeśli stąd pójdzie? Chwila, czemu w ogóle się tym przejmuje?
+A co jeśli stąd pójdzie? Chwila, czemu w ogóle się tym przejmuję?
 
 // Whispers 5
 Mama... Tata...
@@ -416,14 +416,14 @@ robią z idealną kobiecą cerą?
 Książki nie wydają się być zbyt pomocne,
 ale przy odrobinie szczęścia...
 Uda mi się rozwiązać zagadkę
-Marcheweczek pojawiających się z niczego
+marcheweczek pojawiających się z niczego.
 To przerażające!
 
 // Nearby 4
 Istnieje wiele typów dziwaków!
 Jedni kochają marcheweczki, inni koty...
 I jesteś też ty. Szukający błędów.
-Serio, jesteś najdziwniejszą osobą jaką poznałam!
+Serio, jesteś najdziwniejszą osobą, jaką poznałam!
 
 // Nearby 5
 Chciałbyś poznać moje najskrytsze pragnienia?
@@ -432,9 +432,9 @@ Chciałbyś poznać moje najskrytsze pragnienia?
 // Nearby 6
 Mówią, że walka z naturą
 jest ogromnym wyzwaniem.
-Ja, pracuje nad samodyscypliną, ale...
-nie wiem jak ty to robisz, że tak mnie przyciągasz
-mam ochotę wypić z tobą herbatkę!
+Ja pracuję nad samodyscypliną, ale...
+nie wiem, jak ty to robisz, że tak bardzo
+chciałabym wypić z tobą herbatkę!
 
 // Nearby 7
 Nawet okulary nie pomogą
@@ -442,8 +442,8 @@ zobaczyć sensu
 Pańskiej bezcelowej pogoni.
 
 // Nearby 8
-Czytałam kiedyś, że przeznaczenie jest jak skrypt
-który dokładnie mówi
+Czytałam kiedyś, że przeznaczenie jest jak skrypt,
+który dokładnie mówi,
 jak potoczy się twoje życie.
 Ha! Co za głupek to pisał.
 To chyba nie ty?
@@ -464,12 +464,12 @@ Ale chyba poluzowała jej się śruba.
 
 // Nearby 12
 Nienawidzę kucyków!
-Odcięła bym je, gdybym mogła!
-Są niewygodne!
-Wiesz o czym mówię. W końcu masz krótkie włosy!
+Niektórym bym je nawet odcięła, gdybym mogła!
+To przecież niewygodne!
+Wiesz, o czym mówię. W końcu masz krótkie włosy!
 
 // Nearby 13
-A co jeśli za tymi drzwiami nic nie ma?
+A co, jeśli za tymi drzwiami nic nie ma?
 A ten dom, oraz ty i ja
 nie mamy celu istnienia?
 Skąd w tobie ta pewność?
@@ -503,7 +503,7 @@ Jeden celny cios
 pozbawił by cię głowy.
 Jestem wykwalifikowaną szermierką, w przeciwieństwie do ciebie!
 Lepiej uważaj—
-nie chciał byś przypadkiem stracić paluszków.
+nie chciałbyś przypadkiem stracić paluszków.
 
 // Mirror
 Lustro...
@@ -533,17 +533,17 @@ Chwila. Gdzie ona się podziała?
 
 Ugh! Nienawidzę jej!
 To prawie tak jakby była żywa!
-Za każdym razem jak ją zobaczę,
+Za każdym razem, jak ją zobaczę,
 to zawsze się gdzieś teleportuje.
 
 // Little carrot
 O! Marcheweczka!...
 i znów jej nie ma!
-Myślisz że możemy coś z tym zrobić?
+Myślisz, że możemy coś z tym zrobić?
 
 Nie.
 Wierz mi,
-Próbowałam!
+próbowałam!
 Po prostu ją zignoruj.
 To chyba jakiś nieśmieszny żart.
 

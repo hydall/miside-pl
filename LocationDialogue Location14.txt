@@ -190,11 +190,11 @@ to włosy.
 
 // 2
 To wina tych, co stworzyli ten świat.
-Twój świat nie jest niczym szczególnym!
+Ale twój jest jeszcze gorszy!
 Nie rozumiesz, z jakiego koszmaru próbuję cię wyciągnąć?
-Nie możesz nawet poruszać rzeczami swoją wolą. No właśnie...
-Ale samym pstryknięciem palca, miasta i ludzie potrafią zniknąć z kart historii!
-Chyba to ty oszalałeś jeśli myślisz że ten świat jest lepszy...
+W twoim świecie nie można nawet ruszyć przedmiotu pstryknięciem palca,
+ale za to tym samym pstryknięciem miasta i ludzie potrafią zniknąć z kart historii!
+To chyba ty oszalałeś, jeśli myślisz, że twoja rzeczywistość jest lepsza.
 A ja oferuję ci szansę, żeby ci pomóc...
 
 // Continue

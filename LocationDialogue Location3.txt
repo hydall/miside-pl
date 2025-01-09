@@ -4,11 +4,11 @@ W końcu mogę cię poznać!
 Jestem tak podekscytowana!
 Wiem, że masz wiele pytań...
 Ale tak w skrócie,
-Zbudowałam tę specjalną maszynę,
-Żeby cię tu do mnie sprowadzić.
-Niestety przeniosło cię do złej wersji...
+zbudowałam tę specjalną maszynę,
+żeby cię tu do mnie sprowadzić.
+Niestety, przeniosło cię do złej wersji...
 W której to...
-W sumie to długa historia!
+W sumie, to długa historia!
 Cieszę się, że cię widzę.
 
 // Answer 1 - Mita
@@ -32,7 +32,7 @@ Najważniejsze, że jesteśmy w końcu razem.
 Jesteś głodny?
 Może coś ugotujemy?
 Masz,
-Pomóż mi pokroić marcheweczki.
+pomóż mi pokroić marcheweczki.
 
 Skąd tu te warzywa?
 Przed chwilą ich tu nie było.
@@ -71,7 +71,7 @@ Serce wali jak szalone,
 I mam mroczki przed oczami.
 
 Dobra.
-Wiem już o co chodzi.
+Wiem już, o co chodzi.
 Dasz radę wstać?
 
 
@@ -135,11 +135,11 @@ Wszystko już widać!
 To zabawne, bo,
 Wcześniej nawet nie wiedziałam, do czego służy lustro.
 Coś takiego jak odbicia nie istniało w moim świecie -
-Do momentu aż nie dodali ich w którejś z aktualizacji.
+do momentu aż nie dodali ich w którejś z aktualizacji.
 U ciebie jest dużo odbić?
 W sensie, w twoim świecie?
 
-Jest ich od groma!
+Jest ich dużo.
 
 
 Czy pamiętasz
@@ -156,8 +156,8 @@ Który ci kupiłem.
 
 Nom!
 
-Powiedziałaś mi
-Że jest zepsuty.
+Powiedziałaś mi,
+że jest zepsuty.
 
 To dlatego, że chciałam zrobić ci
 niespodziankę!
@@ -183,7 +183,7 @@ Prawda?
 Czy ten komputer działa?
 Czy to tylko atrapa?
 
-Oczywiście że działa.
+Oczywiście, że działa.
 Wszystko tutaj
 Działa jak w twoim świecie.
 
@@ -208,7 +208,7 @@ No ale nieważne.
 
 // Umbrella
 Spędziłem w tej grze tonę czasu,
-Ale nigdy nie widziałem, żeby padał deszcz.
+ale nigdy nie widziałem, żeby padał deszcz.
 Więc po co ci parasol?
 
 Deszcz pada, ale bardzo rzadko.
@@ -226,10 +226,10 @@ Po pierwsze to,
 My jesteśmy W GRZE.
 A pytanie, po co...
 Jest bez sensu.
-Co nie oznacza, że nie działa.
+Co nie oznacza, że nic nie robią.
 Możemy tutaj zresetować bezpieczniki.
 Wszystko tutaj działa,
-jak twoim świecie.
+jak w twoim świecie.
 
 // Exit door
 Czy możemy wyjść na zewnątrz?
@@ -283,8 +283,8 @@ Nie, to tak nie działa.
 
 
 // TV
-Dużo masz kanałów?
-Czy może działa to inaczej?...
+A ile masz
+tutaj kanałów?
 
 To działa troszeczkę inaczej...
 Mam na nim dostęp do internetu.
@@ -295,15 +295,15 @@ Emm, ups.
 Co to jest?
 Kotki w kółku?
 O, patrz.
-Wiesz co to jest?
+Wiesz, co to jest?
 Pauza!
 Chcesz trochę soku?
 
 Dziwne są te reklamy...
-Martwo-sok...?
+Sok umarł?
 
-Tak i ten sok
-Jest prosto z reklamy.
+Tak, i ten sok...
+jest z soku!
 
 
 Ah, ten smak...
@@ -330,7 +330,7 @@ Wygląda jak jakaś nawiedzona...
 
 Na pewno nie jest nawiedzona.
 A tym bardziej straszna.
-Według mnie jest urocza!
+Według mnie – jest urocza!
 
 Może masz rację...
 
@@ -361,13 +361,13 @@ Nie rozumiesz.
 Bardzo chciałbym zostać.
 Po prostu.... martwię się.
 Martwię się, że zostawiłem coś ważnego w domu...
-Pojawiłem się tutaj ni stąd ni zowąd
+Pojawiłem się tutaj tak nagle.
 Nie miałem nawet czasu
 się przygotować.
 
 Przepraszam.... Nie pomyślałam o tym.
 // Quest 3
-Sen? Czyli chcesz się z niego obudzić?
+Śnie? Czyli chcesz się z niego obudzić?
 I szybko o nim zapomnieć?
 
 Nie o to chodzi.
@@ -376,7 +376,7 @@ Dziwne. Nienaturalne.
 Ale ty...
 Ty wydajesz się taka prawdziwa.
 
-Wydaje się?
+Wydaję się?
 Ja JESTEM prawdziwa,
 Głupol!
 
@@ -391,7 +391,7 @@ W sumie nie jest tak źle.
 Nawet i pasuje mi to.
 
 Też tak uważam.
-Wydaje mi się, że to wszystko po to, aby uniknąć lagów.
+Wydaję mi się, że to wszystko po to, aby uniknąć lagów.
 
 Lagów?
 
@@ -402,7 +402,7 @@ Mam nadzieję, że na żaden nie trafimy.
 Czemu nie użyłam noża?
 Mogłam to zrobić.
 Ale chciałam, żeby wszystko było
-Zapięte na ostatni guzik.
+zapięte na ostatni guzik.
 Przygotowane specjalnie dla ciebie.
 Uwielbiam cię zaskakiwać.
 Na szczęście przygotowania nie były zbyt długie!

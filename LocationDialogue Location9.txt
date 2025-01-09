@@ -10,7 +10,7 @@ Nic a nic!
 Mam cię!
 
 // The usual conversation
-Huh, myślałam że będziesz niższy!
+Huh, myślałam, że będziesz niższy!
 A jesteś ogromniasty!
 Tak jak moja siostrzyczka!
 
@@ -21,7 +21,7 @@ Nie gadaj, że jej nie spotkałeś!
 
 Em... Spotkałem... Chyba?
 
-Nie rób z siebie idioty
+Nie rób z siebie idioty!
 
 Emm...
 
@@ -53,18 +53,18 @@ Klucz jest twój.
 // Quest 1 (Jesteś Mita?)
 Jestem MiniMita.fbx!
 Masa linii,
-Najprostszy model, i—
+najprostszy model, i—
 co najważniejsze - piękne włoski!
 
 // Quest 2 (Czy myśmy się gdzieś nie widzieli?)
 Głuptas!
 To trochę urocze, wiesz?
-pytasz o takie bzdury...
+Pytasz o takie bzdury...
 Ale nie,
 to nasze pierwsze spotkanie!
 Ale poczekaj...
-Ale ostrzegam, jeśli ktoś skradł moją stylówę,
-To nawet szalona Mita mnie nie powstrzyma!
+Ostrzegam, jeśli ktoś skradł moją stylówę,
+to nawet Szalona Mita mnie nie powstrzyma!
 
 // Quest 3 (Dlaczego tu jesteś?)
 Nie rozumiesz?
@@ -84,4 +84,4 @@ Pojawiłeś się znikąd.
 Nie powinno cię tu być,
 więc ci pomagam!
 
-Pa-Pa głuptasku!
+Pa-Pa, głuptasku!
