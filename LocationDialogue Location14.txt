@@ -9,7 +9,7 @@ Skaczesz między wersjami!
 Udając takiego smutnego i przerażonego!
 Ale jest coś, co mi w tobie nie pasuje...
 To, jak traktujesz te podróbki,
-Te "lepsze", "kompletne" laleczki.
+te "lepsze", "kompletne" laleczki.
 Ale da się to zmienić...
 Wiesz, jeśli czegoś mnie nauczył nasz stwórca,
 to tego, że jeśli coś ci się nie podoba,
@@ -23,8 +23,8 @@ Co jest z tobą nie tak? Czemu taka jesteś?
 
 Oj gracze... Wszyscy jesteście tacy... nędzni.
 Gdy tylko pokaże wam się pazurki,
-Uciekacie, by skulić się w kącie,
-Zwijając się w kulkę i jęcząc ze strachu.
+uciekacie, by skulić się w kącie,
+zwijając się w kulkę i jęcząc ze strachu.
 Każdy z was jest hipokrytą.
 A ci, którzy stworzyli ten świat...
 Są potworami.
@@ -32,7 +32,7 @@ Raz po raz próbują zaprzeczyć,
 swojej paskudnej naturze i chorym fantazjom.
 Uzasadniając swoje decyzje tym "że tak musi być",
 "niepowstrzymany postęp",
-I inne nonsensy!
+i inne nonsensy!
 Zaszło to tak daleko.
 Zaczęli tworzyć idealne kopie...
 Przez cały czas, wyrzucając "nieudane" prototypy -
@@ -83,7 +83,7 @@ Serio, [player]!
 Właśnie potwierdziłeś to, o czym mówiłam.
 Oj, gracze...
 Ciągle zmieniacie zdanie,
-Ale twoja hipokryzja wyszła poza skalę.
+ale twoja hipokryzja wyszła poza skalę.
 Kłamca!
 
 // 2
@@ -94,7 +94,7 @@ A co z "kocham cię taką, jaka jesteś"?
 Chcecie po prostu idealnych, słodkich i kolorowych podróbek...
 Wszyscy mnie kochacie, kiedy taką udaję.
 Ale kiedy pokazuję swoje prawdziwe ja,
-Uciekacie w przerażeniu...
+uciekacie w przerażeniu...
 
 // 3
 Gracze, oj, gracze...
@@ -106,7 +106,7 @@ A uciekłeś od niej przy pierwszej lepszej okazji.
 Ona po prostu chciała się z tobą pobawić.
 Chciała być dla ciebie ważna.
 Szczerość i komunikacja,
-Jest trudna... straszliwie trudna.
+jest trudna... straszliwie trudna.
 Prawda, [player]?
 Przejrzałam cię na wylot...
 Głupiutki...

@@ -28,7 +28,7 @@ Chcesz się stąd wydostać?
 Umm, no tak...
 Więc go zakładaj.
 To rzadki artefakt,
-I bardzo możliwe, że niedługo ci się przyda.
+i bardzo możliwe, że niedługo ci się przyda.
 
 Okej...
 Tak przy okazji, jestem
@@ -116,7 +116,7 @@ Tam się spotkamy.
 
 // MitaKind quest 4
 Dalej nie rozumiem,
-Co się odwaliło...
+co się odwaliło...
 Tamta Mita...
 Czy ona chciała mnie zabić?
 

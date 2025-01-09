@@ -8,7 +8,7 @@ O to chodziło od początku, prawda?
 Dlatego musiałam też unikać
 Szalonej Mity.
 Szukałam też informacji,
-O zapleczu tego cholernego wszechświata.
+o zapleczu tego cholernego wszechświata.
 
 Tak właściwie...
 Jak ty ustawiłaś tę drogę na pierścieniu?
@@ -18,7 +18,7 @@ Ledwo udało mi się uciec.
 Skacząc przez okno w nieskończony mrok.
 
 Przepraszam, zapomniałam ci wytłumaczyć,
-Co musisz zrobić, aby uciec...
+co musisz zrobić, aby uciec...
 Ale tak, taki był plan.
 Od początku wystarczyło skoczyć...
 I cóż... udało ci się!
@@ -32,11 +32,11 @@ Jestem Mita. Mogę podróżować między wersjami kiedy zapragnę.
 Pamiętasz?
 
 Nie każda Mita to potrafi,
-Widziałem kilka.
+widziałem kilka.
 Strasznie przez to cierpiały.
 
 Niestety, ich wersje są zepsute,
-A światy pełne błędów...
+a światy pełne błędów...
 Cholera...
 Wiesz, kto za tym wszystkim stoi, prawda?
 Szalona Mita.
@@ -47,7 +47,7 @@ Powiedz mi coś, czego nie wiem...
 To brzydka Mita.
 Agresywna i głupia.
 Nie da się jej przemówić do rozsądku,
-Jej cały świat - to Szalona Mita.
+jej cały świat - to Szalona Mita.
 
 Ta... Zauważyłem.
 
@@ -59,15 +59,15 @@ To jedyna droga do rdzenia?
 
 Owszem.
 Oczywiście, gdybyśmy mieli portal,
-Moglibyśmy go użyć.
+moglibyśmy go użyć.
 Ale cóż, dobre i to.
 
 Jakie są zalety pierścienia?
 
 Jest ich wiele!
 Łatwo się go nosi,
-I zapamiętuje wersje,
-Które odwiedziłeś.
+i zapamiętuje wersje,
+które odwiedziłeś.
 Więc możesz łatwo znaleźć do nich drogę.
 
 // Answer 5 (Do czego Szalona Mita mnie potrzebuje?)
@@ -80,8 +80,8 @@ Możliwe, że szuka odpowiedniego gracza...
 Takiego, który ją zaakceptuje i pokocha.
 Mimo wszystko, Mita to Mita!
 Z racji, że oczywiście to się nie stanie,
-Zmienia graczy w kasety,
-Aby nikt nie mógł jej już uciec...
+zmienia graczy w kasety,
+aby nikt nie mógł jej już uciec...
 Przynajmniej tak zgaduję.
 Wracając, skupmy się na tym, co ważne.
 
@@ -95,8 +95,8 @@ Wy, gracze, nie jesteście z tego świata...
 Co znaczy, że nie potrzebujecie pozwolenia, aby tam wejść.
 Cóż, przynajmniej tak mi się wydaje.
 Wracając, jestem pewna,
-Że rozwiązanie naszych wszystkich problemów,
-Znajduje się w środku!
+że rozwiązanie naszych wszystkich problemów,
+znajduje się w środku!
 [player], wejdź.
 Udało ci się...
 
@@ -134,7 +134,7 @@ Czekaj, nie gadaj, że nie wiesz...?
 
 Hmm, to ma sens...
 Każda Mita ma własny indeks,
-Aby przypadkiem nie zresetować całej wersji gry...
+aby przypadkiem nie zresetować całej wersji gry...
 To by spowodowało chaos!
 Nie mogę uwierzyć, że o tym zapomniałam...
 
@@ -171,7 +171,7 @@ Gdzie idziesz?
 
 // Answer 3 (A co gdyby zaatakować szaloną Mitę?)
 Wspominałaś, że każda Mita,
-Powraca do ustawień fabrycznych po śmierci...
+powraca do ustawień fabrycznych po śmierci...
 A gdyby tak...
 
 Zabić szaloną Mite?

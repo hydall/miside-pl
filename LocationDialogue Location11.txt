@@ -6,7 +6,7 @@ prawie Cię zabiłam.
 Emm...
 Znaczy... Lodówka. Lodówka prawie Cię zabiła.
 Nie mam z tym nic wspólnego,
-Przysięgam!
+przysięgam!
 Naprawdę!
 
 Jasne, wierzę ci!
@@ -18,7 +18,7 @@ w szczególności dla ciebie.
 // After a while 1
 Nie jesteś tchórzem, co?
 Kiedy cię tak oglądam,
-Jak mijasz różne miejsca...
+jak mijasz różne miejsca...
 Sprawia mi to satysfakcję...
 Uciekaj myszko do dziury...!
 Bo cię złapie kot bury!
@@ -50,7 +50,7 @@ Połamania nóg!
 Kto tam?!
 Wyczuwam twoją obecność...
 Posłuchaj,
-Jesteś graczem,
+jesteś graczem,
 prawda?
 Pomóż mi znaleźć...
 Znaleźć...
@@ -66,17 +66,17 @@ Jedyne co czuję - to żal.
 Jaka ja byłam głupia...
 Jasne, każdy popełnia błędy...
 Ale co robić,
-Kiedy konsekwencje są fatalne w skutkach?
+kiedy konsekwencje są fatalne w skutkach?
 Tak bardzo chciałabym cofnąć czas...
 // Cry 2
 Mówią, że czas leczy rany...
 Ale czym jest czas?
 W nic już nie wierzę...
 Skoro czas leczy rany,
-Albo przynajmniej jest w stanie...
+albo przynajmniej jest w stanie...
 Zabrać mnie z tego świata...
 To błagam,
-Przyśpiesz go.
+przyśpiesz go.
 Abym mogła umrzeć,
 raz na zawsze.
 // Cry 3
@@ -155,7 +155,7 @@ Zdajesz sobie sprawę,
 że zmierzasz ku zagładzie?
 
 Możliwe,
-Ale to moja jedyna droga.
+ale to moja jedyna droga.
 
 Jasne.
 Naciśnij przycisk i właź za armatę.

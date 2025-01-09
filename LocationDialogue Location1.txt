@@ -11,7 +11,7 @@ Hej, Jestem Mita!
 Jak masz na imię?
 Miło mi cię poznać, [player]!
 Emm... [player],
-Nie zdążyłam posprzątać, więc jest tu lekki bałagan...
+nie zdążyłam posprzątać, więc jest tu lekki bałagan...
 Pomożesz mi posprzątać?
 Wow..
 Nie wiem, jak ci dziękować!
@@ -65,7 +65,7 @@ Pewnie nie dałbym rady zrobić tego ponownie...
 Zobaczmy...
 Lista zadań...
 Napisać skrypty postaci,
-I wcisnąć gdzieś czas na kodowanie.
+i wcisnąć gdzieś czas na kodowanie.
 // The airplane
 Ale lot!
 // Trash in the corner
@@ -77,9 +77,9 @@ Bardzo mi się to spodobało.
 Kot na arbuzie.
 // Photo with a girl
 Wcale nie jesteśmy tacy sami,
-Ja i moja siostra.
+ja i moja siostra.
 Ona nie usiedzi w jednym miejscu,
-A ja siedzę przykuty w domu.
+a ja siedzę przykuty w domu.
 // Photo with people
 Hmm...
 Praca w korpo miała na nas spory wpływ, co?

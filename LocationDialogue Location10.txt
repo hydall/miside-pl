@@ -35,7 +35,7 @@ Ale mniej więcej tak to wygląda.
 Dobra, ale po co mi ta wiedza?
 
 Myślisz, że robiłam sobie jaja, kiedy mówiłam,
-Że droga przed nami jest niebezpieczna?
+że droga przed nami jest niebezpieczna?
 Natkniesz się na... zapomniane modele...
 Te, których się pozbyto, te "zepsute".
 Są agresywne i mogą cię nawet zabić.
@@ -60,7 +60,7 @@ Nie zapominaj!
 // Quest 1 (Dlaczego są tu inne Mity?)
 Są nowe. Prosto z fabryki.
 Potrzebują trochę czasu,
-By zyskały "świadomość".
+by zyskały "świadomość".
 A potem je odprowadzam,
 do ich domów.
 
@@ -140,8 +140,8 @@ Mam tylko nadzieję, że nie będzie, jak na lekcji
 i nie zasnę z nudów.
 
 Wiesz, zawsze możesz wyjść,
-Albo zostać i posłuchać,
-Jeśli cię to ciekawi.
+albo zostać i posłuchać,
+jeśli cię to ciekawi.
 Gracz pobiera MiSide.
 Siedzi zadowolony i gra.
 W ten sposób stworzył nowy dom
@@ -157,14 +157,14 @@ nowe życie, Mita i jej dom.
 Niebiosa...
 
 Jeśli czegoś nie rozumiesz,
-Pytaj śmiało,
-A postaram się wytłumaczyć.
+pytaj śmiało,
+a postaram się wytłumaczyć.
 
 // He asks about the only circle
 Czemu tu jest pojedyncze kółko?
 
 Ta wersja została wydana tylko raz,
-Nigdy jej nie powtórzono.
+nigdy jej nie powtórzono.
 To jedyna unikalna wersja gry.
 Tego typu wersje są specjalne
 i posiadają drogi do innych wersji.
@@ -176,7 +176,7 @@ i nie dają jej się wyspać?
 
 Nie, to nie tak.
 Możesz przejść tuż obok niej,
-A ona nawet się nie zorientuje.
+a ona nawet się nie zorientuje.
 
 // He asks about the shaded circle
 Dlaczego to kółko jest zamalowane?
@@ -185,7 +185,7 @@ Umm, to tutaj?
 To dzieło Ślicznej Mity.
 Ona to narysowała.
 Kłóciliśmy się,
-Jak najszybciej dostać się do wersji 1.11.
+jak najszybciej dostać się do wersji 1.11.
 
 A więc? Kto wygrał?
 
@@ -197,13 +197,13 @@ Musimy dotrzeć do wersji 1.11,
 wersja domu 805.
 Więc, jej droga prowadziła tak.
 Ale próbowaliśmy ją skrócić,
-I śliczna Mita zasugerowała nową ścieżkę.
+i śliczna Mita zasugerowała nową ścieżkę.
 Ale ja narysowałam najprostszą drogę.
 To przecież oczywiste!
 Patrz.
 Stąd możesz przejść bezpośrednio do wybranej wersji.
 Nawet jeśli wydaje nam się, że dom stoi nam na drodze,
-To tak nie jest!
+to tak nie jest!
 Wracając, twój pierścień działa w ten sam sposób.
 Dokąd zmierzasz?
 
@@ -243,4 +243,4 @@ czy może
 ma to głębsze znaczenie?
 
 Coś ty,
-To tylko bazgroły.
+to tylko bazgroły.

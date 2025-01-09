@@ -121,7 +121,7 @@ Dlaczego tak się uparłeś na tę szafę?!
 Chcę tylko wiedzieć, co to za odgłos!
 
 Czy to dlatego,
-Że ten świat
+że ten świat
 To tylko cztery pokoje?
 To dla ciebie za mało?
 Czemu po prostu nie możesz ze mną zostać?
@@ -131,7 +131,7 @@ Czemu po prostu nie możesz ze mną zostać?
 Rozumiem.
 Znowu to samo...
 Skoro tak chcesz wiedzieć, co tam jest,
-To za chwilę...
+to za chwilę...
 Się dowiesz!
 
 
@@ -198,7 +198,7 @@ Zrobiłam to!
 Fatality!
 
 Ehh,
-Weź się w garść, albo będę cię nazywać przegrywem!
+weź się w garść, albo będę cię nazywać przegrywem!
 
 Co z tobą?
 Wytarłam tobą podłogę.
@@ -237,7 +237,7 @@ Czegoś potrzebujesz?
 
 // Wall Clock
 Hej, ten zegar,
-Pokazuje aktualny czas?
+pokazuje aktualny czas?
 Czy może czas z gry?
 Jest połączony z moim telefonem?
 
@@ -245,7 +245,7 @@ A więc, umm...
 Szczerze, to nie wiem.
 Ale czas nie ma tu znaczenia...
 Nieważne, czy jest wcześnie, czy późno,
-Dziewczyna taka jak ja
+dziewczyna taka jak ja
 Jest zawsze pełna energii -
 Nigdy się nie męczę!
 Możemy mieć wieczną wiosnę,
@@ -307,7 +307,7 @@ Rozumiem.
 Może lepiej zostawmy je wyłączone...
 
 Ej, [player],
-Serio lubisz lustra, co?
+serio lubisz lustra, co?
 Masz nadzieję, że zobaczysz tam swój uśmiech?
 
 Co? Nie...

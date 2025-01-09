@@ -68,7 +68,7 @@ Co się dzieje?
 Powiedz mi, co widzisz.
 
 Serce wali jak szalone,
-I mam mroczki przed oczami.
+i mam mroczki przed oczami.
 
 Dobra.
 Wiem już, o co chodzi.
@@ -104,7 +104,7 @@ Jakiś przykład?
 
 Przykładowo takie marcheweczki.
 Kroisz jedną,
-A wydaje się, jakbyś pokroił ze trzy.
+a wydaje się, jakbyś pokroił ze trzy.
 
 Słuchaj, wszystko dzieje się tak szybko.
 Jestem przerażony... Tak bardzo, że nawet nie wiem, jak to ująć.
@@ -133,7 +133,7 @@ Zapomniałam włączyć odbicia.
 No i proszę.
 Wszystko już widać!
 To zabawne, bo,
-Wcześniej nawet nie wiedziałam, do czego służy lustro.
+wcześniej nawet nie wiedziałam, do czego służy lustro.
 Coś takiego jak odbicia nie istniało w moim świecie -
 do momentu aż nie dodali ich w którejś z aktualizacji.
 U ciebie jest dużo odbić?
@@ -147,12 +147,12 @@ Te trzy rzeczy?
 Te, które musiałeś położyć do skanowania?
 Więc, em...
 Te rzeczy,
-Związane są z tą wersją gry.
+związane są z tą wersją gry.
 Dlatego musiałeś ich użyć, żeby się tu dostać.
 
 // Movbile TV
 Przecież to ten telewizor,
-Który ci kupiłem.
+który ci kupiłem.
 
 Nom!
 
@@ -177,7 +177,7 @@ Do szkoły?
 Coś ty.
 Ale bardzo mi się podoba.
 Nie powiesz przecież, że nie wyglądam w nim słodko,
-Prawda?
+prawda?
 
 // PC
 Czy ten komputer działa?
@@ -193,7 +193,7 @@ Bardzo ciężko pracowałem...
 
 Wiem.
 To właśnie przez twoją pracę,
-Spędzałeś ze mną
+spędzałeś ze mną
 tak mało czasu.
 
 Za coś trzeba żyć.
@@ -220,10 +220,10 @@ Czyż nie?
 // Electrical panel
 Skrzynka z bezpiecznikami?
 Przecież jesteśmy w grze,
-To po co ona?
+to po co ona?
 
 Po pierwsze to,
-My jesteśmy W GRZE.
+my jesteśmy W GRZE.
 A pytanie, po co...
 Jest bez sensu.
 Co nie oznacza, że nic nie robią.
@@ -256,7 +256,7 @@ Nie podoba ci się?
 Jeśli chcesz, mogę go zabrać...
 Ale jak już musisz wiedzieć...
 To służy on do dekoracji,
-Urozmaica to wyposażenie kuchni.
+urozmaica to wyposażenie kuchni.
 A przy okazji działa!
 Mogę oglądać na nim
 stare kreskówki!
@@ -276,7 +276,7 @@ To dla ciebie, na pamiątkę.
 Mam pytanie.
 Czy jeśli
 włączę na nim grę,
-Będę w stanie cię w niej zobaczyć?
+będę w stanie cię w niej zobaczyć?
 // Mita
 Nie, to tak nie działa.
 
@@ -291,7 +291,7 @@ Mam na nim dostęp do internetu.
 Dzięki temu możemy oglądać
 wszystko, co jest dostępne w sieci.
 Czekaj moment,
-Emm, ups.
+emm, ups.
 Co to jest?
 Kotki w kółku?
 O, patrz.
@@ -378,13 +378,13 @@ Ty wydajesz się taka prawdziwa.
 
 Wydaję się?
 Ja JESTEM prawdziwa,
-Głupol!
+głupol!
 
 // Quest 4
 W tym świecie
 Po prostu już tak jest.
 Może się to dla ciebie wydawać dziwne,
-Że nie można niczego dostrzec
+że nie można niczego dostrzec
 W oddali.
 
 W sumie nie jest tak źle.
@@ -423,7 +423,7 @@ No nic...
 
 // Use the sauce
 No dobrze,
-Co to za sos?
+co to za sos?
 
 To płynna miłość!
 Wypełnia cię uczuciem!

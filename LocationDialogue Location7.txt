@@ -9,7 +9,7 @@ Gotowe!
 Chyba czas na wyjaśnienia, nie sądzisz?
 // If the player did not approach the good Mitya and decided to play a race - Mita Kind
 Czekam tu na ciebie tyle czasu,
-A ty sobie beztrosko grasz?!
+a ty sobie beztrosko grasz?!
 Ehh... Nieważne, chodź tu szybko ...
 // If the player talked to Mita first, and went through the game to the end - Mita Kind
 Brawo, wygrałeś!
@@ -21,9 +21,9 @@ Minęły wieki, zanim nauczyłam się sterowania.
 
 // Quest 1 (Should I trust you?)
 Cóż, przynajmniej nie jestem szalona,
-W przeciwieństwie do niektórych...
+w przeciwieństwie do niektórych...
 Poza tym,
-Jestem najmilszą osobą, jaką możesz tu spotkać, skarbie.
+jestem najmilszą osobą, jaką możesz tu spotkać, skarbie.
 Mam nadzieje, że nie chcesz się poddać?
 Sam widzisz, że ona jest szurnięta i tylko my możemy ją powstrzymać.
 
@@ -35,7 +35,7 @@ Bez niego nie można podróżować pomiędzy wersjami.
 
 // Quest 3 (What is this place?)
 To są przejścia,
-Które prowadzą do różnych wersji gry.
+które prowadzą do różnych wersji gry.
 Tak, wiem, że jest tu trochę pusto.
 Oh! Słyszałam o jednej Micie,
 której wersja świata nie została zarchiwizowana...
@@ -47,7 +47,7 @@ Szkoda mi jej...
 
 // Quest 4 (How did you end up here?)
 No wiesz,
-Trochę minęło, odkąd ostatni raz się widzieliśmy.
+trochę minęło, odkąd ostatni raz się widzieliśmy.
 Ale dzięki tobie
 udało mi się wydostać z tej celi
 i uciec od tej szajbuski.
@@ -73,7 +73,7 @@ ale te korytarze powodują u mnie...
 dreszcze.
 
 Masz rację, to miejsce wywołuje dziwne uczucia,
-A z każdym dniem staje się jeszcze bardziej nieprzewidywalne.
+a z każdym dniem staje się jeszcze bardziej nieprzewidywalne.
 Ale rozchmurz się!
 Wszystko przemyślałam,
 obierzemy najkrótszą
@@ -104,9 +104,9 @@ W końcu jej wersja była tą pierwszą...
 // Quest 7 (Will you help me get out?)
 Szczerze, to nie wiem jeszcze, jak ci pomóc...
 W każdym razie,
-Udało ci się tu dostać, prawda?
+udało ci się tu dostać, prawda?
 No i poza tym,
-Nie masz lepszego wyjścia,
+nie masz lepszego wyjścia,
 niż zdać się na mnie, tę milusią, kochaną Mite!
 Ciężko zaprzeczyć...
 
@@ -118,7 +118,7 @@ Mój kobiecy zmysł mówi mi,
 Czemu nie pójdziesz tam sama? Po co potrzebna ci moja pomoc?
 
 Z jakiegoś powodu,
-My nie możemy wejść do Rdzenia.
+my nie możemy wejść do Rdzenia.
 Widziałam go tylko z zewnątrz.
 Ale wy gracze, jesteście inni.
 Jestem pewna, że
@@ -130,7 +130,7 @@ Mhm...
 Nadszedł czas, żeby przedstawić cię
 Czaderskiej Micie!
 Przez jej superową czapkę,
-Nazywam ją
+nazywam ją
 Czapcia.
 Planowałam z nią, jak
 pozbyć się szalonej Mity.
@@ -152,7 +152,7 @@ Kim ty do diabła jesteś?
 Cholera jasna!
 [player]...
 Ona tu była,
-Szalona Mita...
+szalona Mita...
 Słuchaj!
 Spróbuj sobie przypomnieć!
 
@@ -161,7 +161,7 @@ Tak w ogóle, to czemu wyglądasz jak ja?
 
 Umm, to na nic...
 Słuchaj, [player],
-Niestety, sprawy nie idą
+niestety, sprawy nie idą
 zgodnie z planem...!
 Mieliśmy użyć tu portalu.
 Dzięki niemu nasza podróż byłaby milion razy szybsza i bezpieczniejsza.
@@ -180,7 +180,7 @@ W tym świecie umierając...
 Wracamy do ustawień fabrycznych.
 Więc czaderska Mita...
 Straciła wszystkie dotychczasowe wspomnienia,
-Co oznacza, że...
+co oznacza, że...
 Nasz plan nie wypali.
 
 Okropne, nie wiedzieć, że się umarło...
@@ -192,13 +192,13 @@ Czy zabicie nas sprawi, że też stracimy wszystkie wspomnienia?
 Utrata wspomnień jest możliwa.
 Przynajmniej dla tych, którzy zostali zmienieni w kasety.
 Ale nawet ja nie wiem,
-Co się dzieje z tymi, którzy zostali zabici.
+co się dzieje z tymi, którzy zostali zabici.
 
 Ciągle tylko te kasety... Skąd mam wiedzieć,
-Czy sam nią nie jestem?
+czy sam nią nie jestem?
 
 Podejdź na chwilę,
-Sprawdzę to...
+sprawdzę to...
 // MitaKind check
 Uff...
 Jeszcze nie jesteś kasetą.
@@ -221,7 +221,7 @@ Znasz jakąś inną?
 
 Słuchaj, mój drogi.
 Będziesz musiał przedostać się przez inne wersje,
-Aby dostać się do rdzenia.
+aby dostać się do rdzenia.
 Tak szybko, jak potrafisz, rozumiesz?
 
 Muszę iść sam?
@@ -230,7 +230,7 @@ Ale ja nie znam drogi, skąd będę wiedział, czy dobrze idę?
 Pomogę ci na tyle,
 na ile pozwoli sytuacja.
 Będę dawała ci wskazówki,
-Gdy tylko będzie możliwość.
+gdy tylko będzie możliwość.
 To się spotkamy...
 Na razie pobaw się z Czapcią.
 Daj mi z 10 minut...
@@ -240,12 +240,12 @@ OK.
 Zrobione!
 // MitaKind ready
 [player],
-Podejdź tu na chwilę.
+podejdź tu na chwilę.
 // MitaKind ring
 Słuchaj.
 Niestety to prawda, [player].
 Będziesz musiał iść sam,
-Muszę się dowiedzieć, o co w tym wszystkim chodzi.
+muszę się dowiedzieć, o co w tym wszystkim chodzi.
 Mój plan był idealny...
 A jednak wszystko się zepsuło.
 Muszę przyjrzeć się wszystkiemu i dowiedzieć się,
@@ -292,7 +292,7 @@ Umm, czy wszystko w porządku?
 
 To tylko zadrapanie, nie martw się.
 Jestem tu od ponad roku,
-I daję sobie radę.
+i daję sobie radę.
 Jasne... Co to w ogóle za miejsce?
 To coś w rodzaju przestrzeni między wersjami.
 Wiesz, jak się stąd wydostać?
@@ -311,7 +311,7 @@ Spadaj!
 
 Wszystko słyszałam!
 Nie wiem, o co w tym wszystkim chodzi,
-Ale to wszystko brzmi ekstra!
+ale to wszystko brzmi ekstra!
 Chyba...
 Wiesz, kim jestem?
 Jestem Czaderska Mita!
@@ -395,8 +395,8 @@ Jeśli liczby spadną do zera,
 i pojawi się zielony ptaszek,
 wciśnij przycisk.
 Ale jeśli będę szybsza,
-Albo wciśniesz go w złym momencie,
-Dostaniesz młotem w łeb!
+albo wciśniesz go w złym momencie,
+dostaniesz młotem w łeb!
 
 Zamierzasz mnie tym walić?
 
@@ -470,7 +470,7 @@ Pokaże ci, jak to się robi!
 // MitaCap StopDance 1
 Fiuu!
 Więc,
-Myślisz, że pobijesz mój rekord?
+myślisz, że pobijesz mój rekord?
 No dawaj, twoja kolej!
 
 // MitaCap StopDance 2
@@ -481,7 +481,7 @@ Teraz ty!
 // MitaCap StopDance 3
 Pam, Pam, Pam, Pam!
 Dobra,
-Parkiet jest twój!
+parkiet jest twój!
 
 // MitaCap = Lose 1
 Ha-ha!
@@ -490,7 +490,7 @@ I kto tu rządzi?
 // MitaCap = Lose 2
 Ojoj!
 Trzy przyciski,
-A ruszasz się jak stary dziad!
+a ruszasz się jak stary dziad!
 
 // MitaCap = Lose 3
 Może jakbyś usiadł
@@ -553,7 +553,7 @@ Zresztą i tak pewnie wszyscy są ślepi!
 
 // CutBoard
 Wow,
-Czemu jest ich... aż tyle?
+czemu jest ich... aż tyle?
 Po co ci one?
 
 A jak myślisz?
@@ -567,7 +567,7 @@ Oraz takich jak...
 Dobra, już rozumiem.
 
 Szczerze,
-To deska do krojenia zrobiła ciach-ciach!
+to deska do krojenia zrobiła ciach-ciach!
 I tak jakoś wyszło...
 
 // Books
@@ -583,7 +583,7 @@ Ale bez teorii...
 Bum - ruch, skok, dotyk, działanie! Kumasz?
 Książki to tylko papier, nigdzie mi nie uciekną!
 Gdybyś tylko mógł ze mną zostać,
-Moglibyśmy robić razem tyle rzeczy!
+moglibyśmy robić razem tyle rzeczy!
 Na pewno byśmy mieli co robić...
 
 // Fruits
@@ -629,11 +629,11 @@ Ja tu widzę dane.
 Długo ci to zajmie?
 
 Przeszkadzaj mi dalej,
-To nie skończę do jutra.
+to nie skończę do jutra.
 
 Racja!
 Czyli spędzimy razem więcej czasu,
-Jeśli będziemy ci przeszkadzać?
+jeśli będziemy ci przeszkadzać?
 
 Oj, Czapciu...
 Tak bardzo chciałabym przywrócić ci pamięć...
@@ -768,7 +768,7 @@ Niech to będzie sekret!
 Co jest za drzwiami?
 
 Sekret to sekret,
-I niech tak zostanie.
+i niech tak zostanie.
 
 Ehh...
 Po prostu byłem ciekawy...
@@ -797,7 +797,7 @@ Dziwne, nie sądzisz?
 // TV
 Ugh!
 O proszę,
-Znalazłeś błąd!
+znalazłeś błąd!
 Powinien włączyć się jakiś filmik.
 A w tym wypadku telewizor,
 znika i się pojawia!

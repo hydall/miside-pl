@@ -87,7 +87,7 @@ Już prawie jesteśmy.
 
 // Switches
 Dobra,
-Jestem gotowa.
+jestem gotowa.
 
 Też jestem gotowy.
 
@@ -113,7 +113,7 @@ jeszcze raz...
 // Player lose 2
 Jeszcze jeden raz?
 No weź,
-Zas...
+zas...
 Ja tu zasypiam...
 
 // Player lose 3
@@ -122,7 +122,7 @@ Zaraz usnę...
 
 
 Wspaniale,
-Dziękuję, Mita.
+dziękuję, Mita.
 
 Mm-hmm.
 
