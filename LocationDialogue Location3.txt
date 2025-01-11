@@ -64,7 +64,7 @@ Nie kończyć...
 
 
 // Help
-Co się dzieje?
+Co ci jest?
 Powiedz mi, co widzisz.
 
 Serce wali jak szalone,
@@ -124,7 +124,7 @@ Na razie coś zjedzmy.
 Podasz mi nożyczki?
 
 // Pierścień
-Pierścień??
+Pierścień?
 // lustro
 To sztuczne lustro?
 
