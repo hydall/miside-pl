@@ -60,7 +60,7 @@ Dziękuję.
 
 Już skończyłeś?
 Ehh, moja porcja wydaje się -
-Nie kończyć...
+nie kończyć...
 
 
 // Help
@@ -291,10 +291,10 @@ Mam na nim dostęp do internetu.
 Dzięki temu możemy oglądać
 wszystko, co jest dostępne w sieci.
 Czekaj moment,
-emm, ups.
+Emm, ups.
 Co to jest?
 Kotki w kółku?
-O, patrz.
+O, patrz!
 A wiesz co?
 Momencik!
 Chcesz trochę soku?
@@ -306,7 +306,7 @@ Tak, i ten sok...
 jest z soku!
 
 
-Ah, ten smak...
+Mm, ten smak...
 Podoba mi się,
 jednak ciężko powiedzieć, jak smakuje, czy nawet pachnie.
 Nie rozumiem, jak to działa...
@@ -385,7 +385,7 @@ W tym świecie
 Po prostu już tak jest.
 Może się to dla ciebie wydawać dziwne,
 że nie można niczego dostrzec
-W oddali.
+w oddali.
 
 W sumie nie jest tak źle.
 Nawet i pasuje mi to.

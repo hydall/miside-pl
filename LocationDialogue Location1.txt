@@ -7,7 +7,7 @@
 
 
 
-Hej, Jestem Mita!
+Hej, jestem Mita!
 Jak masz na imię?
 Miło mi cię poznać, [player]!
 Emm... [player],

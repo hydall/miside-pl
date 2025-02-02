@@ -48,6 +48,6 @@ DZIEŃ [0]
 
 
 Samouczek: Potrzebujesz pomocy w nauce gry?
-Rozglądnij się.
-Przejdź się.
-Interakcja.
+Rozglądnij się
+Przejdź się
+Interakcja
