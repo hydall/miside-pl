@@ -6,12 +6,12 @@ Próbowałam dostać się do rdzenia.
 Oczywiście w jednym kawałku.
 O to chodziło od początku, prawda?
 Dlatego musiałam też unikać
-Szalonej Mity.
-Szukałam też informacji,
-o zapleczu tego cholernego wszechświata.
+Szalonej Mity, prawda?
+I znaleźć też informacji,
+o zapleczu tego cholernego wszechświata, prawda?
 
-Tak właściwie...
-Jak ty ustawiłaś tę drogę na pierścieniu?
+Emm, no tak...
+Ale jak ty ustawiłaś tę drogę na pierścieniu?
 Dlaczego skończyłem w zepsutej wersji?
 Pełnej niebezpieczeństw?
 Ledwo udało mi się uciec.
@@ -44,7 +44,7 @@ Szalona Mita.
 Powiedz mi coś, czego nie wiem...
 
 // Answer 3 (Kim była Mita sprzed chwili?)
-To brzydka Mita.
+To Brzydka Mita.
 Agresywna i głupia.
 Nie da się jej przemówić do rozsądku,
 jej cały świat - to Szalona Mita.
@@ -62,9 +62,9 @@ Oczywiście, gdybyśmy mieli portal,
 moglibyśmy go użyć.
 Ale cóż, dobre i to.
 
-Jakie są zalety pierścienia?
+Czy pierścień w ogóle ma jakieś zalety?
 
-Jest ich wiele!
+Oczywiście!
 Łatwo się go nosi,
 i zapamiętuje wersje,
 które odwiedziłeś.
@@ -108,7 +108,7 @@ To?
 
 Nie mam pojęcia co to...
 
-Fajne...
+Fajnie...
 
 
 A cóż to?
@@ -124,11 +124,11 @@ Jasne... Jej wersja to
 00.98.
 
 Bingo!
-Okej, który indeks domu?
+Okej, który indeks?
 
-Indeks domu?
+Indeks?
 
-Potrzebuję indeksu domu.
+Potrzebuję indeksu.
 Czekaj, nie gadaj, że nie wiesz...?
 
 
@@ -177,15 +177,15 @@ A gdyby tak...
 Zabić szaloną Mite?
 Mówisz poważnie?
 Jak chcesz sobie poradzić z psychopatką dzierżącą piłę łańcuchową?
-Ona kroi marchewki nie tylko nożem!
+I poczekaj - ona kroi nożem nie tylko marchewki!
 I z jakiegoś powodu jest przerażająco silna!
 To cud, że jeszcze żyjemy...
-Musimy ją podejść inaczej.
+Chodź, musimy zająć się rdzeniem.
 
 
 // core console entry
-Musimy wprowadzić komendę...
-Ale jaką?
+Trzeba podać login...
+Ale jaki?
 Mita, wiesz coś o tym?
 
 Może jest gdzieś napisane?

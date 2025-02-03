@@ -26,7 +26,7 @@ Zuch chłopiec!
 Haha, podoba mi się to!
 
 // After a while 2
-Widziałam, jak zmierzasz w kierunku pociągu.
+Widziałam, jak zmierzasz w kierunku kolejki linowej.
 To najdłuższa droga
 między wersjami...
 Ciekawe, jak sobie poradzisz z tymi,
@@ -150,7 +150,7 @@ Kto tam?
 
 Ehh... kolejny gracz...
 Mitafon - miło mi.
-Steruję kolejką liniową.
+Steruję kolejką linową.
 Zdajesz sobie sprawę,
 że zmierzasz ku zagładzie?
 

@@ -159,8 +159,8 @@ Typowe, co nie?
 
 
 
-Nieważne.
-Możemy pograć na konsoli,
+Możemy 
+pograć na konsoli,
 albo w karty.
 Wybieraj.
 
@@ -226,7 +226,7 @@ Ale jak widać,
 musiało być coś nie tak z tym plikiem.
 Później to naprawię.
 
-Dlatego nie mogę opuścić domu?
+Dlatego nie możemy opuścić domu?
 Dokładnie.
 // Mita shy
 Hej...

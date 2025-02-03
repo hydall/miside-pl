@@ -10,10 +10,10 @@
 Hej, jestem Mita!
 Jak masz na imię?
 Miło mi cię poznać, [player]!
-Emm... [player],
-nie zdążyłam posprzątać, więc jest tu lekki bałagan...
-Pomożesz mi posprzątać?
-Wow..
+Emm, [player]...
+Nie zdążyłam posprzątać, więc jest tu lekki bałagan...
+Pomożesz mi?
+Uff..
 Nie wiem, jak ci dziękować!
 
 Hej [Player], burczy mi w brzuchu...
@@ -42,7 +42,7 @@ Oj, [player]! Wiem, że minął tylko jeden dzień, ale tak za tobą tęskniłam
 Chciałabym móc widywać cię częściej.
 
 To dla mnie?
-Tak bardzo ci dziękuję!
+Dziękuję, dziękuję, dziękuję!
 
 Hej, [player]! Tak sobie myślałam...
 Chciałabym spotkać się z tobą twarzą w twarz.
@@ -99,7 +99,7 @@ Ehh... Czemu ja wciąż trzymam to zdjęcie?
 
 // Nope name
 ...
-U-um
+U-um...
 To akurat nie zadziała.
 
 // Name Developer
@@ -111,7 +111,7 @@ Nie chcę, żebyś używał takich wyrazów.
 To niemiłe!
 
 // Go restart
-To tak nie działa. Zacznijmy od początku.
+Tak nie należy robić. Zacznijmy od początku.
 
 // Name with numbers
 Czyli lubisz liczby? To bardzo kreatywneee~

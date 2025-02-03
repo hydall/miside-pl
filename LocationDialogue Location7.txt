@@ -80,21 +80,21 @@ obierzemy najkrótszą
 i najlepiej mi znaną trasę!
 
 Mam nadzieję, że wszystko skończy się dobrze.
-Czy coś zamieszkuje te wszystkie korytarze?
+Czy coś zamieszkuje te korytarze?
 
-Tak.
-Błędy i anomalie.
-Niektóre nawet są świadome.
-Były przypadki, że próbowały zabić, gdy tylko kogoś zauważyły...
+Hmm...
+Błędy, anomalie...
+Ożywione błędy, anomalie...
+No i poczekaj, jeszcze masz bardzo agresywne błędy, anomalie...
 
 Emm...
-Czy są jeszcze jakieś inne, szalone Mity?
+A, i jeszcze żłośliwe Mity.
 Bardziej świrnięte i niebezpieczne?
 
-Wiem tylko o jednej...
-Paskudna Mita.
+Znam jedną taką...
+Brzydka Mita.
 I żeby nie było, to nie ja ją tak nazwałam!
-Po prostu...
+Kurcze...
 To najstarsza wersja Mity.
 Przez co błędy, które generuje,
 są bardziej niebezpieczne, niż w innych wersjach...
@@ -181,7 +181,7 @@ Wracamy do ustawień fabrycznych.
 Więc czaderska Mita...
 Straciła wszystkie dotychczasowe wspomnienia,
 co oznacza, że...
-Nasz plan nie wypali.
+nasz plan nie wypali.
 
 Okropne, nie wiedzieć, że się umarło...
 Chociaż może jest to lepsze niż zniknąć na zawsze...
@@ -368,7 +368,7 @@ Chwilka, okej...
 Errr!
 Noo...
 Wiesz...
-To gra dla dorosłych, nie?
+To gra dla pełnoletnich, nie?
 
 Co tam miałaś?
 
@@ -413,15 +413,15 @@ To nie traćmy czasu!
 // Kick player 2
 Okej...
 Powoli się przyzwyczajam.
-Patrz na mnie!
-Spodoba ci się!
+Uważaj, bo...
+jeszcze ci się spodoba!
 
 // Kick player 3
 Myślę, że ta gra nie jest dla mnie.
 Ha-ha!
 Jestem świetna!
 Jestem wspaniała!
-A przede wszystkim jestem zajebista!
+A przede wszystkim jestem słodka!
 
 // Kick MitaCap 1
 O żesz ty!
@@ -544,12 +544,12 @@ Bolą mnie już nogi!
 Widzę, że lubisz się wyszaleć!
 
 Tak, jestem jaka jestem!
-Trzeba im pokazać, o co chodzi w tej grze! Boom!
+Pokazałam im, o co chodzi w tej grze! Boom!
 
-Um... Pokazać komu?
+Um... Pokazałaś komu?
 
-Serio? Mnie nie pytaj.
-Zresztą i tak pewnie wszyscy są ślepi!
+A właśnie... komu?
+Zresztą i tak pewnie wszyscy oślepli!
 
 // CutBoard
 Wow,
@@ -610,7 +610,7 @@ Szczerze to
 nigdy żadnego nie widziałam!
 Wiesz, takiego żywego.
 Tylko zdjęcia w internecie.
-Są przesłodkie prawda?
+Są przesłodkie, prawda?
 
 Ta, nawet bardzo.
 Uwielbiam koty.
@@ -638,7 +638,7 @@ jeśli będziemy ci przeszkadzać?
 Oj, Czapciu...
 Tak bardzo chciałabym przywrócić ci pamięć...
 
-Obiecuję, że niedługo wszystko będzie dobrze...
+Długo to nie potrwa...
 
 Świetnie!
 

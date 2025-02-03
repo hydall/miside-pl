@@ -1,5 +1,5 @@
 // Tablica
-Na początku wciśnij przycisk.
+Na początku wciśnij przycisk
 Przedmioty wymagane do skanu:
 Łyżka
 Ołówek

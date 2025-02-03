@@ -45,7 +45,7 @@ Potrzebujemy do tego muzyki!
 Co myślisz o tej melodii?
 Sprawia, że moja krew pulsuje!
 Najpierw wyjaśnię ci
-Zasady tej gry!
+zasady tej gry!
 // Show rules
 Gdy gra muzyka,
 możesz się poruszać.
@@ -69,7 +69,7 @@ Wypuść mnie w końcu!
 
 To nie koniec!
 Znam jeszcze inne gry!
-Na przykład...:
+Na przykład...
 Zamknę oczy...
 A gdy je otworzę,
 lepiej, żebym cię nie widziała!
@@ -84,7 +84,7 @@ Udało ci się!
 Jesteś w tym świetny!
 Ale teraz będzie trudniej.
 O wiele trudniej!
-Chowaj się, Biegnij, Przeżyj—
+Chowaj się, biegnij, przeżyj—
 
 Ugh! Niech cię diabli!
 
