@@ -188,7 +188,7 @@ Trzeba podać login...
 Ale jaki?
 Mita, wiesz coś o tym?
 
-Może jest gdzieś napisane?
+Może jest gdzieś napisany?
 Rozejrzyj się.
 
 // core console - nope programm
