@@ -165,7 +165,7 @@ Jaką znowu armatę?
 No coś ty.
 Chyba nie myślałeś, że po prostu tak sobie przejedziesz?
 Najpierw musisz ukończyć Potworo-Klepkę,
-więc żołnierzu, odbezpieczyć broń.
+więc, szeregowy [player], odbezpieczyć broń!
 
 // Funicular go
 Dobra. Jazda z tematem.
