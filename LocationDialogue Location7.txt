@@ -699,11 +699,11 @@ Serio?
 [player], co robisz?
 
 // Player is gone 2
-Co tam?
+Co do?...
 
-Znów odchodzisz?
+Znów odszedł?
 
-Niech będzie!
+No!
 Niech będzie, wybaczę ci.
 
 [player], wróć do nas!
