@@ -10,7 +10,7 @@ Chyba czas na wyjaśnienia, nie sądzisz?
 // If the player did not approach the good Mitya and decided to play a race - Mita Kind
 Czekam tu na ciebie tyle czasu,
 a ty sobie beztrosko grasz?!
-Ehh... Nieważne, chodź tu szybko ...
+Ehh... Nieważne, chodź tu szybko...
 // If the player talked to Mita first, and went through the game to the end - Mita Kind
 Brawo, wygrałeś!
 Też w to grałam!
