@@ -31,7 +31,7 @@ Sam widzisz, że ona jest szurnięta i tylko my możemy ją powstrzymać.
 Pierścień cię tu przyprowadził.
 To niezwykły artefakt.
 Gracze go potrzebują.
-Bez niego nie można podróżować pomiędzy wersjami.
+Bez niego nie da się podróżować między wersjami.
 
 // Quest 3 (What is this place?)
 To są przejścia,
@@ -58,7 +58,7 @@ W przeciwieństwie do ciebie, mój drogi.
 // Quest 5 (What did you do with the ring?)
 Zmieniłam trasę
 na tę właściwą.
-Ustawiłam najkrótszą możliwą drogę.
+I ustawiłam najkrótszą możliwą drogę.
 Posłuchaj!
 Działa to bardzo prosto: otwierasz drzwi,
 a pierścień otwiera odpowiednie przejście
@@ -179,7 +179,7 @@ Zabiła?!
 W tym świecie umierając...
 Wracamy do ustawień fabrycznych.
 Więc czaderska Mita...
-Straciła wszystkie dotychczasowe wspomnienia,
+Straciła wszystkie wspomnienia,
 co oznacza, że...
 nasz plan nie wypali.
 
