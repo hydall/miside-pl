@@ -126,14 +126,14 @@ wejdziesz tam bez problemu.
 Chcesz poznać aktualny plan?
 Okej.
 Świetnie.
-Mhm...
+A więc...
 Nadszedł czas, żeby przedstawić cię
 Czaderskiej Micie!
 Przez jej superową czapkę,
 nazywam ją
 Czapcia.
-Planowałam z nią, jak
-pozbyć się szalonej Mity.
+Planowałam z nią,
+jak pozbyć się szalonej Mity.
 W drogę, [player]!
 
 
@@ -200,8 +200,8 @@ czy sam nią nie jestem?
 Podejdź na chwilę,
 sprawdzę to...
 // MitaKind check
-Uff...
-Jeszcze nie jesteś kasetą.
+Na szczęście...
+na razie nie jesteś kasetą.
 Jesteś "żywym" człowiekiem z krwi i kości.
 
 Przynajmniej jedna dobra wiadomość...
@@ -242,15 +242,15 @@ Zrobione!
 [player],
 podejdź tu na chwilę.
 // MitaKind ring
-Słuchaj.
+Trzymaj.
 Niestety to prawda, [player].
 Będziesz musiał iść sam,
 muszę się dowiedzieć, o co w tym wszystkim chodzi.
 Mój plan był idealny...
-A jednak wszystko się zepsuło.
-Muszę przyjrzeć się wszystkiemu i dowiedzieć się,
-gdzie się podział nasz sprzęt...
-Spróbuję go znaleźć.
+A jednak wszystko poszło z dymem...
+Muszę to przemyśleć i dowiedzieć się,
+gdzie są nasze rzeczy...
+Spróbuję je znaleźć.
 Wtedy moglibyśmy użyć razem portalu.
 Ale nie ma czasu do stracenia.
 Szalona Mita wie o tym miejscu,
@@ -688,7 +688,7 @@ Emm...
 
 Ahahaha.
 
-Rozumiem...
+Aha...
 Po prostu sobie
 odszedł.
 
@@ -696,7 +696,7 @@ Ale to dziwne!
 i zabawne.
 
 Serio?
-[player], co robisz?
+[player], co ty wyprawiasz?
 
 // Player is gone 2
 Co do?...
@@ -704,7 +704,7 @@ Co do?...
 Znów odszedł?
 
 No!
-Niech będzie, wybaczę ci.
+Niech robi, co chce...
 
 [player], wróć do nas!
 
@@ -739,8 +739,8 @@ Ale zauważyłam, że nie jest tak wesoła, jak ja!
 A to znaczy, że jestem lepsza!
 Zobacz, jaka ponura...
 
-Jestem obok.
-Wszystko słyszę.
+Jestem obok
+i wszystko słyszę.
 
 // quest Cap 3
 Nie nudzi ci się ta czapka?
@@ -812,20 +812,20 @@ Chodźmy się zabawić!
 
 // Goodbye 1
 Wyjdź tymi drzwiami
-przed tobą.
+do salonu.
 
 Pa-paa!
 
 // Goodbye 2
-Musisz już iść, [player]!
-Idź, nie bój się!
+Czas na ciebie, [player]!
+Musisz już iść!
 
 Ja bym cię,
 nie zostawiła samego!
 W porównaniu do pewnych innych osób!
 
 Czapciu!
-Nie żartuj, dobrze?
+Nie żartuj sobie, dobrze?
 
 Bah-hah!
 
