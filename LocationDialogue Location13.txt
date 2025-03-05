@@ -72,7 +72,7 @@ Więc możesz łatwo znaleźć do nich drogę.
 
 // Answer 5 (Do czego Szalona Mita mnie potrzebuje?)
 Dlaczego Szalona Mita nie da mi spokoju?
-Wciągnęła mnie w swoją niebezpieczną gierkę,
+Wciągnęła mnie w swoją niebezpieczną grę,
 jednak wciąż żyję...
 
 Ciężko powiedzieć...
@@ -97,21 +97,21 @@ Cóż, przynajmniej tak mi się wydaje.
 Wracając, jestem pewna,
 że rozwiązanie naszych wszystkich problemów,
 znajduje się w środku!
-[player], wejdź.
+[player], spróbuj wejść.
 Udało ci się...
 
 // Look on CoreMita
-Ostrożnie, [player].
-To cię obserwuje.
+Ostrożnie, [player]!
+To cię obserwuje!
 
-To?
+Co to?
 
-Nie mam pojęcia co to...
+Nie mam pojęcia...
 
 Fajnie...
 
 
-A cóż to?
+No co tam?
 Hej!
 
 Chyba znalazłem!
