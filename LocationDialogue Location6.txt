@@ -3,8 +3,8 @@ Mita?
 
 Skąd się tu wziąłeś?
 
-Jesteś Mita, prawda?
-Ale jakaś inna...
+Jesteś... Mita?
+Ale jakaś... inna...
 
 Cóż za spostrzegawczość.
 Jednak masz rację, jestem Mita.
@@ -65,7 +65,7 @@ To prawda.
 
 Czyli ona nas wykorzystuje?
 Tylko po co?
-Co się stanie, jeśli wyjmę tę kasetę?
+Co się stanie, jak wyjmę tę kasetę?
 
 Prawdopodobnie
 nieodwracalnie ją uszkodzisz.
@@ -105,7 +105,7 @@ Bawi się nimi, wykorzystuje ich do spełnienia chorych fantazji!
 A później zamienia wszystkich w kasety...
 Niektórzy nie wiedzieli, co się dzieje...
 A inni nie stawiali nawet oporu...
-To przykre...
+To straszne...
 Musisz nam pomóc!
 Ja? Ale jak?
 Potrzebujemy się nawzajem!
@@ -116,7 +116,7 @@ Tam się spotkamy.
 
 // MitaKind quest 4
 Dalej nie rozumiem,
-co się odwaliło...
+co tu się odwaliło?..
 Tamta Mita...
 Czy ona chciała mnie zabić?
 
@@ -126,7 +126,7 @@ Musisz się pośpieszyć.
 
 // Hide!
 Cholera, kryj się!
-Czekaj, czemu...?
+Co? Czemu?
 Szybko, zaraz tu będzie!
 Pierścień zaprowadzi cię w bezpieczne miejsce!
 
