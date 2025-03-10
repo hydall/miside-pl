@@ -67,7 +67,7 @@ Lista zadań...
 Napisać skrypty postaci,
 i wcisnąć gdzieś czas na kodowanie.
 // The airplane
-Ale lot!
+Ale poleciał!
 // Trash in the corner
 Ehh, nigdy nie mam czasu posprzątać...
 Ale tym razem to zrobię!
