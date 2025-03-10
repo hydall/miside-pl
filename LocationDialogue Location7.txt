@@ -315,7 +315,7 @@ ale to wszystko brzmi ekstra!
 Chyba już wiesz
 kim jestem?
 Jestem Czaderska Mita!
-Ale nie taka, jak inne!
+Ale nie taka, jak tamta!
 A wiesz dlaczego?
 Bo mam...
 TO!
@@ -323,7 +323,7 @@ Czaderską czapkę!
 I BOOOM!
 Odjechane rękawiczki!
 Ale to nie wszystko!
-Jest też przekozacka gitara elektryczna!
+Jest jeszcze przekozacka gitara elektryczna!
 Tak bardzo ją kooooooooocham!
 Zagrać ci coś?
 
@@ -456,7 +456,7 @@ Czy to mata do tańca?
 Czemu jest taka mała...
 
 
-Whoo-hoo!
+O tak!
 Zatańczymy?
 Zacznijmy od czegoś łatwego.
 Wybierz piosenkę!
@@ -490,7 +490,7 @@ I kto tu rządzi?
 // MitaCap = Lose 2
 Ojoj!
 Trzy przyciski,
-a ruszasz się jak stary dziad!
+a ty ruszasz się jak stary dziad!
 
 // MitaCap = Lose 3
 Może jakbyś usiadł
@@ -568,7 +568,7 @@ Dobra, już rozumiem.
 
 Szczerze,
 to deska do krojenia zrobiła ciach-ciach!
-I tak jakoś wyszło...
+I jakoś tak wyszło...
 
 // Books
 Przeczytałaś wszystko, co nie?
@@ -632,15 +632,15 @@ Przeszkadzaj mi dalej,
 to nie skończę do jutra.
 
 Racja!
-Czyli spędzimy razem więcej czasu,
-jeśli będziemy ci przeszkadzać?
+Czyli... jeśli będziemy ci w kółko przeszkadzać,
+to spędzimy razem więcej czasu?
 
 Oj, Czapciu...
 Tak bardzo chciałabym przywrócić ci pamięć...
 
-Długo to nie potrwa...
+Nawet jeśli, to nie na długo...
 
-Świetnie!
+A byłoby świetnie!
 
 Nie ma czasu do stracenia.
 Musimy dostać się do rdzenia.
@@ -795,12 +795,12 @@ Przecież ci jej nie oddałam.
 Dziwne, nie sądzisz?
 
 // TV
-Ugh!
+U-ugh!
 O proszę,
 znalazłeś błąd!
 Powinien włączyć się jakiś filmik.
 A w tym wypadku telewizor,
-znika i się pojawia!
+pojawia się i znika!
 Fajne, co?
 
 // Player sit

@@ -24,7 +24,7 @@ Pośpiesz się!
 
 
 // After mini-gamę
-Więc, rozumiesz już sens gry?
+I jak, już rozumiesz już sens gry?
 
 Pod moją skórą są kości, a pod waszą - model szkieletu?
 
@@ -36,16 +36,16 @@ Dobra, ale po co mi ta wiedza?
 
 Myślisz, że robiłam sobie jaja, kiedy mówiłam,
 że droga przed nami jest niebezpieczna?
-Natkniesz się na... zapomniane modele...
-Te, których się pozbyto, te "zepsute".
-Są agresywne i mogą cię nawet zabić.
+Natkniesz się na zapomniane modele...
+Te, których się pozbyto, te agresywne i "zepsute".
+Po co robić sobie "pod górkę"?
 
 Nie mam wyboru...
 Po prostu pójdę
 gdziekolwiek poprowadzą mnie drzwi.
 
 Wow!
-W takim razie nie odwracaj się do nich plecami.
+W takim razie nie odwracaj się od nich plecami.
 Nie trać ich z zasięgu wzroku!
 Są nieśmiałe kiedy na nie patrzysz,
 na tyle, że przestają się ruszać.
@@ -93,7 +93,7 @@ to musi być tylko 19 światów.
 Boziu... Ty naprawdę nie ogarniasz,
 jak działa ten świat.
 Podejdźmy do tablicy.
-Spróbuję ci wyjaśnić.
+Spróbuję ci to wyjaśnić.
 Co ty na to?
 
 // Quest 5 (Jaką jest twoja wersja?)
@@ -109,7 +109,7 @@ Tak.
 To tam się pojawiłem,
 kiedy wrzucono mnie do tego świata!
 
-Whoa!
+Ojej!
 Ale jak...?
 Czekaj, w której wersji domu byłeś?
 Jest wersja, w której "ja" nie potrafi przestać się mazać,
@@ -167,8 +167,8 @@ Ta wersja została wydana tylko raz,
 nigdy jej nie powtórzono.
 To jedyna unikalna wersja gry.
 Tego typu wersje są specjalne
-i posiadają drogi do innych wersji.
-Śpiąca Mita przesiaduje w tej wersji, 1.1.
+i nie da się ich pominąć.
+Śpiąca Mita przesiaduje właśnie w niej.
 
 Śpiąca Mita?
 Bo inni przechodzą przez jej wersje
@@ -196,7 +196,7 @@ indeks domu 809.
 Musimy dotrzeć do wersji 1.11,
 indeks domu 805.
 Więc, jej droga prowadziła tak.
-Ale próbowaliśmy ją skrócić,
+Ale próbowałyśmy ją skrócić,
 i śliczna Mita zasugerowała nową ścieżkę.
 Ale ja narysowałam najprostszą drogę.
 To przecież oczywiste!

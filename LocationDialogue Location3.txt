@@ -286,7 +286,7 @@ Nie, to tak nie działa.
 A ile masz
 tutaj kanałów?
 
-To działa troszeczkę inaczej...
+To działa troszkę inaczej...
 Mam na nim dostęp do internetu.
 Dzięki temu możemy oglądać
 wszystko, co jest dostępne w sieci.
@@ -328,7 +328,7 @@ Przeraża cię?
 Trochę.
 Wygląda jak jakaś nawiedzona...
 
-Na pewno nie jest nawiedzona.
+No.. Na pewno nie jest nawiedzona.
 A tym bardziej straszna.
 Według mnie – jest urocza!
 
@@ -413,7 +413,7 @@ Nosisz okulary?
 
 Nie.
 Ale mogę je założyć, jeśli chcesz.
-Pasują mi?
+I jak, pasują mi?
 // Yes
 Naprawdę?
 W takim razie je zostawię.

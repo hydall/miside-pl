@@ -44,7 +44,7 @@ Tak.
 Skąd o nich wiesz?
 W sumie głupie pytanie...
 Patrząc na to,
-ile już tu jesteś...
+ile już tu jesteś... 
 
 Poczekaj chwilkę,
 muszę usiąść.
@@ -56,7 +56,7 @@ Muszę iść dalej,
 pierścień wskazuje mi drogę.
 
 Masz jej pierścień?
-Nie dziwię się,
+No to nie dziwię się,
 że znalazłeś to miejsce.
 
 Dokładnie.
@@ -135,13 +135,13 @@ wolne...
 Idę spać...
 
 // Why kitchen?
-Czemu jesteśmy w kuchni?
+Po co przyszliśmy do kuchni?
 Jak zasnę na zimnej podłodze,
 to będzie twoja wina.
 
 // Why bathroom?
 Nie rozumiem...
-Z czym ty dokładnie potrzebujesz pomocy?
+Za jaką dźwignię mam tu pociągnąć?
 
 // Put button
 Nic się nie stało?

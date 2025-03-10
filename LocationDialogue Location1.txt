@@ -50,7 +50,7 @@ Denerwuje mnie to, że nie możemy nic z tym zrobić!
 Zawsze mi pomagasz i jesteś dla mnie taki miły...
 Chciałabym zrobić też coś dla ciebie.
 ...
-Mam pomysł!
+Albo wiesz co? Mam pomysł!
 Jesteśmy już razem.
 Możesz odłożyć telefon.
 
@@ -103,11 +103,11 @@ U-um...
 To akurat nie zadziała.
 
 // Name Developer
-Naprawdę jesteś deweloperem?
-Miło mi, ale...
+Naprawdę postanowiłeś nazwać się, jak deweloper?
+Miło mi, że go znasz, ale…
 
 // Bad name
-Nie chcę, żebyś używał takich wyrazów.
+Wiem, co to znaczy, i nie chcę, żebyś tak o sobie mówił.
 To niemiłe!
 
 // Go restart
