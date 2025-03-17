@@ -24,7 +24,7 @@ Pośpiesz się!
 
 
 // After mini-gamę
-I jak, już rozumiesz już sens gry?
+I jak, już rozumiesz sens gry?
 
 Pod moją skórą są kości, a pod waszą - model szkieletu?
 
@@ -116,7 +116,7 @@ Jest wersja, w której "ja" nie potrafi przestać się mazać,
 wersja, w której "ja" lubi się bawić,
 wersja, w której "ja" ma słabą pamięć i lubi zastraszać innych...
 Długo by wymieniać...
-Powiedz mi, co pamiętasz.
+Powiedz mi, co pamiętasz?
 
 Było mrocznie.
 Na ścianach były napisy,
@@ -200,7 +200,7 @@ Ale próbowałyśmy ją skrócić,
 i śliczna Mita zasugerowała nową ścieżkę.
 Ale ja narysowałam najprostszą drogę.
 To przecież oczywiste!
-Patrz.
+Spójrz.
 Stąd możesz przejść bezpośrednio do wybranej wersji.
 Nawet jeśli wydaje nam się, że dom stoi nam na drodze,
 to tak nie jest!
@@ -238,9 +238,9 @@ Nie. To zadanie fajnej Mity.
 Jest twarda.
 
 // He asks about the drawings
-To tylko rysunek,
-czy może
-ma to głębsze znaczenie?
+A ten rysunek...
+Ma jakieś znaczenie?
+Czy może to zwykłe bazgroły?
 
-Coś ty,
-to tylko bazgroły.
+Tak, to tylko zwykłe bazgroły
+Nic szczególnego. 

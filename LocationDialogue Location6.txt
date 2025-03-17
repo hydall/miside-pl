@@ -76,7 +76,7 @@ Gracz umrze.
 A jeśli po prostu wyłączę konsolę?
 
 Możliwe, że to zadziała...
-Warto spróbować. Powinien gdzieś być czerwony przycisk!
+Warto spróbować. Powinien gdzieś być czerwony przycisk.
 Widzisz go?
 Jest.
 Wciśnij.
