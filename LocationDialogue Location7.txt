@@ -552,7 +552,7 @@ A właśnie... komu?
 Zresztą i tak pewnie wszyscy oślepli!
 
 // CutBoard
-Wow,
+O wow,
 czemu jest ich... aż tyle?
 Po co ci one?
 
@@ -564,7 +564,7 @@ I takich jak
 krojenie marcheweczek.
 Oraz takich jak...
 
-Dobra, już rozumiem.
+Dobra, dobra, już rozumiem.
 
 Szczerze,
 to deska do krojenia zrobiła ciach-ciach!
@@ -584,7 +584,7 @@ Bum - ruch, skok, dotyk, działanie! Kumasz?
 Książki to tylko papier, nigdzie mi nie uciekną!
 Gdybyś tylko mógł ze mną zostać,
 moglibyśmy robić razem tyle rzeczy!
-Na pewno byśmy mieli co robić...
+No, na pewno mielibyśmy co robić...
 
 // Fruits
 Te owoce są prawdziwe?
@@ -613,7 +613,7 @@ Tylko zdjęcia w internecie.
 Są przesłodkie, prawda?
 
 Ta, nawet bardzo.
-Uwielbiam koty.
+Uwielbiam kicie.
 
 // Mita Kind with ring
 Co to jest?

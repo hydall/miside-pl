@@ -52,7 +52,7 @@ Chciałbyś trochę sosu?
 
 Nie, dzięki.
 
-Szkoda.
+No szkoda.
 Bez sosu to nie to samo!
 
 
@@ -98,11 +98,11 @@ Wszystko jest tutaj prostsze.
 Nawet najmniejsze rzeczy,
 dają wspaniałe rezultaty.
 To jest jedna z koncepcji tej gry:
-U-pro-szcza-nie.
+Uproszczanie.
 
 Jakiś przykład?
 
-Przykładowo takie marcheweczki.
+Marcheweczka!
 Kroisz jedną,
 a wydaje się, jakbyś pokroił ze trzy.
 
@@ -110,7 +110,7 @@ Słuchaj, wszystko dzieje się tak szybko.
 Jestem przerażony... Tak bardzo, że nawet nie wiem, jak to ująć.
 
 
-Co się dzieje?
+Coś się stało?
 
 Znalazłem kasety w wentylacji.
 Miały na sobie imiona.
@@ -337,11 +337,11 @@ Może i masz rację...
 Mita?
 Co się dzieje?
 // Mita kitchen
-Może chwilę porozmawiamy,
-zanim zaczniemy jeść?
+Zanim zaczniemy jeść,
+może trochę pogadamy?
 
 // Start Eat
-Smacznego.
+Smacznego!
 
 // Quest 1
 Prawda?
@@ -382,20 +382,20 @@ głupol!
 
 // Quest 4
 W tym świecie
-Po prostu już tak jest.
-Może się to dla ciebie wydawać dziwne,
-że nie można niczego dostrzec
-w oddali.
+Po prostu tak już jest.
+Może cię to zaskoczy,
+ale jeśli spojrzysz przez okno,
+to nic nie zobaczysz.
 
 W sumie nie jest tak źle.
 Nawet mi to pasuje.
 
-Też tak uważam.
+Też tak uważam!
 Wydaję mi się, że to wszystko po to, aby uniknąć lagów.
 
 Lagów?
 
-Niestety. Występują tu różne błędy.
+Mhm, niestety. Występują tu różne błędy.
 Mam nadzieję, że na żaden nie trafimy.
 
 // Quest 5
@@ -426,12 +426,12 @@ Jasne,
 a co to za sos?
 
 To płynna miłość!
-Wypełnia cię uczuciem!
-I... daje ciekawe spojrzenie na świat.
+Wypełnia cię uczuciem,
+i... daje ciekawe spojrzenie na świat.
 Ciekawe, nieprawdaż?
 
 No pewnie...
 
 // Tetris - Mita
-To twoja konsola?
-Ale fajna.
+To twoja konsolka?
+Ale fajna!
