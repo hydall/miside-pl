@@ -69,8 +69,8 @@ Odkąd się tu przeniosłem, widziałem już
 wiele dziwnych rzeczy.
 Wszystko tutaj...
 Wydaje się takie... ciche,
-ale te korytarze powodują u mnie...
-dreszcze.
+ale te korytarze... 
+powodują u mnie dreszcze.
 
 Masz rację, to miejsce wywołuje dziwne uczucia,
 a z każdym dniem staje się jeszcze bardziej nieprzewidywalne.
@@ -124,7 +124,7 @@ Ale wy gracze, jesteście inni.
 Jestem pewna, że
 wejdziesz tam bez problemu.
 Chcesz poznać aktualny plan?
-Okej.
+Jasne.
 Świetnie.
 A więc...
 Nadszedł czas, żeby przedstawić cię
@@ -168,7 +168,7 @@ Dzięki niemu nasza podróż byłaby milion razy szybsza i bezpieczniejsza.
 Ale nie uda nam się go uruchomić bez pomocy Czapci.
 A na dodatek nie mamy kilku części...
 Może i jest kapryśna, ale za to nie znam nikogo innego tak bystrego jak ona...
-No dobrze, więc co teraz?
+No dobrze, ale co teraz?
 Coś wymyślimy.
 Co szalona Mita jej zrobiła?
 
@@ -183,7 +183,7 @@ Straciła wszystkie wspomnienia,
 co oznacza, że...
 nasz plan nie wypali.
 
-Okropne, nie wiedzieć, że się umarło...
+To okropne, nie wiedzieć, że się umarło...
 Chociaż może jest to lepsze niż zniknąć na zawsze...
 Ale kto to wie?
 A co z nami, graczami?
@@ -194,8 +194,8 @@ Przynajmniej dla tych, którzy zostali zmienieni w kasety.
 Ale nawet ja nie wiem,
 co się dzieje z tymi, którzy zostali zabici.
 
-Ciągle tylko te kasety... Skąd mam wiedzieć,
-czy sam nią nie jestem?
+Ciągle tylko te kasety... 
+Skąd mam wiedzieć, czy sam nią nie jestem?
 
 Podejdź na chwilę,
 sprawdzę to...
@@ -338,7 +338,7 @@ Przynudzasz...
 
 
 Hej,
-jesteś nader żywiołowa!
+widzę, że rozpiera cię energia!
 
 No!
 Oczywiście, że jestem!
@@ -752,7 +752,7 @@ Ale z ciebie żartowniś!
 A może, powinnam zdjąć coś innego?
 
 Pytam się serio.
-Okej.
+Ale dobra.
 
 // Carrot
 Ups.

@@ -67,7 +67,7 @@ nie kończyć...
 Co ci jest?
 Powiedz mi, co widzisz.
 
-Serce wali jak szalone,
+Serce... wali jak szalone,
 i mam mroczki przed oczami.
 
 Dobra.
@@ -91,7 +91,7 @@ I jak, lepiej?
 Pomogło?
 
 Tak.
-Szybko zadziałały...
+Tak szybko zadziałały...
 
 [player], jesteśmy w grze.
 Wszystko jest tutaj prostsze.
@@ -139,7 +139,7 @@ do momentu aż nie dodali ich w którejś z aktualizacji.
 U ciebie jest dużo odbić?
 W sensie, w twoim świecie?
 
-Jest ich dużo.
+No.. jest ich dużo.
 
 
 Czy pamiętasz
@@ -151,8 +151,8 @@ związane są z tą wersją gry.
 Dlatego musiałeś ich użyć, żeby się tu dostać.
 
 // Movbile TV
-Przecież to ten telewizor,
-który ci kupiłem.
+Czy to nie ten telewizor,
+który ci kupiłem?
 
 Nom!
 
@@ -196,8 +196,8 @@ To właśnie przez twoją pracę,
 spędzałeś ze mną
 tak mało czasu.
 
-Za coś trzeba żyć.
-W sumie... skąd wiesz, że spędzałem dużo czasu przed komputerem?
+No, wiesz, za coś trzeba żyć...
+W sumie... skąd o tym wszystkim wiesz?
 
 Twoja kamerka w telefonie... czasami była włączona.
 Przepraszam.
@@ -220,7 +220,7 @@ Czyż nie?
 // Electrical panel
 Skrzynka z bezpiecznikami?
 Przecież jesteśmy w grze,
-to po co ona?
+to po co ci ona?
 
 Po pierwsze to,
 my jesteśmy W GRZE.
@@ -232,7 +232,7 @@ Wszystko tutaj działa,
 jak w twoim świecie.
 
 // Exit door
-Czy możemy wyjść na zewnątrz?
+Może wyjdziemy na zewnątrz?
 
 Emm...
 Jeszcze nie.
@@ -264,7 +264,7 @@ stare kreskówki!
 // Smartphone
 Czy to czasem nie mój telefon?
 Przecież miałem go w kieszeni!
-Skąd on się tu do licha znalazł?
+Skąd on się tu u licha wziął?
 // Mita
 Emm, to nie jest ważne...
 Mam pomysł!
@@ -274,8 +274,8 @@ Patrz!
 To dla ciebie, na pamiątkę.
 // Gracz
 Mam pytanie.
-Czy jeśli
-włączę na nim grę,
+Czy jeśli...
+włączę w nim grę,
 będę w stanie cię w niej zobaczyć?
 // Mita
 Nie, to tak nie działa.
@@ -283,8 +283,8 @@ Nie, to tak nie działa.
 
 
 // TV
-A ile masz
-tutaj kanałów?
+Ten telewizor działa?
+Ile masz kanałów?
 
 To działa troszkę inaczej...
 Mam na nim dostęp do internetu.
@@ -332,7 +332,7 @@ No.. Na pewno nie jest nawiedzona.
 A tym bardziej straszna.
 Według mnie – jest urocza!
 
-Może masz rację...
+Może i masz rację...
 
 Mita?
 Co się dzieje?
@@ -361,9 +361,9 @@ Nie rozumiesz.
 Bardzo chciałbym zostać.
 Po prostu.... martwię się.
 Martwię się, że zostawiłem coś ważnego w domu...
+Nie miałem nawet czasu,
+aby się przygotować.
 Pojawiłem się tutaj tak nagle.
-Nie miałem nawet czasu
-się przygotować.
 
 Przepraszam.... Nie pomyślałam o tym.
 // Quest 3
@@ -388,7 +388,7 @@ Może się to dla ciebie wydawać dziwne,
 w oddali.
 
 W sumie nie jest tak źle.
-Nawet i pasuje mi to.
+Nawet mi to pasuje.
 
 Też tak uważam.
 Wydaję mi się, że to wszystko po to, aby uniknąć lagów.
@@ -422,15 +422,15 @@ Nie...?
 No nic...
 
 // Use the sauce
-No dobrze,
-co to za sos?
+Jasne,
+a co to za sos?
 
 To płynna miłość!
 Wypełnia cię uczuciem!
 I... daje ciekawe spojrzenie na świat.
 Ciekawe, nieprawdaż?
 
-A jakże...
+No pewnie...
 
 // Tetris - Mita
 To twoja konsola?

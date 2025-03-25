@@ -1,7 +1,7 @@
 // Player start
 Gdzie ja jestem?
 To miejsce wygląda znajomo...
-O cholera... Jestem w grze???
+Co jest? Jestem w grze???
 // Player try open the door
 Hmm... Zamknięte?
 // Player in dark

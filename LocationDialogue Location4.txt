@@ -144,8 +144,8 @@ Pokój nie zdążył się załadować.
 Poczekaj chwilkę.
 
 Dziwne.
-Jesteśmy w czyimś telefonie?
-Może w jakimś przestarzałym, ze słabym procesorem?
+Jesteśmy w czyimś telefonie? 
+Może w jakimś przestarzałym, ze starym procesorem?
 
 Nie o to chodzi.
 Niestety, nie wszystko jest tutaj
@@ -277,7 +277,7 @@ Teraz chcę cię mieć tylko dla siebie.
 
 // Portal
 Gdzie jest portal?
-Albo jakkolwiek się to nazywało?
+Albo jakkolwiek to się nazywało?..
 
 Użyłam odrobinę
 magii
@@ -322,7 +322,7 @@ To twoje?
 Nie, te są twoje.
 Nie pamiętasz?
 
-Nie przypominam sobie, żebym takie miał.
+Nie przypominam sobie, żebym takie miał...
 
 To teraz już masz.
 Możesz je nosić,
@@ -353,10 +353,10 @@ Myślę, że wystarczy już mleka na ten moment. Może zagramy w coś innego?
 // Gamę penguins
 W tej grze jesteś pingwinem.
 Musisz się ślizgać i zbierać śnieżki.
-Dokładnie o to w tym chodzi.
+Już w to graliśmy...
 
 // Stay with Mita
-Czekaj, naprawdę?
+Czekaj, co?
 Mówisz serio? Myślałam, że mnie...
 Jestem taka szczęśliwa!
 I trochę zszokowana...
