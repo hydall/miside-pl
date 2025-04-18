@@ -305,7 +305,7 @@ Koniec pogadanki, muszę iść.
 Moja kochana Mita czeka na mnie w domu.
 Muszę ją znaleźć...
 Żegnam.
-Czekaj...!
+Poczekaj...!
 Spadaj!
 
 
@@ -403,8 +403,8 @@ Zamierzasz mnie tym walić?
 Okej.
 Zobaczymy, jak ci pójdzie.
 
-// Kick player 1
-Auć!
+// Kick player 1  
+Ała!
 Nie powstrzymujesz się, co?
 Bolało?
 Niezbyt.
@@ -779,7 +779,7 @@ Co to jest?
 Konsola!?
 Daj mi spróbować!
 
-Uh-oh.
+Eee...
 
 Co tu się robi?
 
