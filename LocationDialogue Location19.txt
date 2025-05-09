@@ -381,7 +381,7 @@ Mówiłeś coś?
 Zwariuję przez tę muzykę w tle!
 
 // Whispers 4
-Jak mam tu to powiedzieć...?
+Jak mam mu to powiedzieć...?
 Zajęta jestem?
 Nie lubię towarzystwa?
 A co jeśli stąd pójdzie? Chwila, czemu w ogóle się tym przejmuję?
@@ -455,7 +455,7 @@ Nienawidzę ich.
 // Nearby 10
 Niektóre Mity
 są nawet dość urocze...
-Chciała bym je poznać, nawet jeśli
+Chciałabym je poznać, nawet jeśli
 są tylko kopiami kopii.
 
 // Nearby 11
