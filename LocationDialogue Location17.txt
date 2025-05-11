@@ -1,5 +1,5 @@
 // Player thinks + Make coffee
-Potrzebuję czyjejś pomocy.
+Będę potrzebował czyjejś pomocy.
 Mam nadzieję, że ta Mita nie gryzie...
 
 Marnuję swój czas...
@@ -12,7 +12,7 @@ Mita?
 Mita, wstawaj!
 Mita!
 
-Mita, pobudkaaa!
+Mita, pobudka!
 Potrzebuję twojej pomocy.
 
 Kim ty jesteeeeeś?
@@ -25,7 +25,7 @@ Albo przynieś mi kawę.
 
 Przecież są niedaleko...
 Mita?
-Mi-ita!
+Mi-taa!
 
 
 
@@ -89,7 +89,7 @@ Już prawie jesteśmy.
 Dobra,
 jestem gotowa.
 
-Też jestem gotowy.
+Też jestem gotów.
 
 Dobra.
 Zacznę
@@ -149,7 +149,7 @@ Do czego w ogóle ten przycisk?
 
 // Cofee
 Jeszcze kawy?
-Czy znów mi zaśniesz?
+Czy znowu mi zaśniesz?
 
 Coo?
 Nieeee...

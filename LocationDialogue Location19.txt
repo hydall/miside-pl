@@ -1,5 +1,5 @@
 
-Ja... Żyję!?
+Ja... Ja żyję!
 
 Boże Święty!
 Przestraszyłeś mnie!
@@ -10,7 +10,7 @@ Gdzie on jest?
 I tyle godzin romansów na marne!
 Czego w ogóle tu szukasz?
 
-Wersji...
+Poszukuję wersji...
 
 Co?
 
@@ -42,7 +42,7 @@ Przecież ty też jesteś Mita...
 
 Jestem Mila.
 
-Mi-La? Nie "Ta"?
+Mi-La? A nie Mi-Ta?
 
 Mita, Mite, Mitą pogania,
 ciągle tylko Mita to, Mita siamto!
@@ -80,7 +80,7 @@ Uważaj!
 To chyba jakiś błąd...
 Lepiej się nie zbliżać!
 
-Pierścień wibruje...
+Hmm... pierścień wibruje...
 
 Co to za pierścień?
 Zaręczynowy?
@@ -111,7 +111,7 @@ Bezwstydny rozpustnik...
 
 Byłaś obok i tak nagle zniknęłaś...
 Nie wiedziałem, gdzie jesteś
-Więc poszedłem cię poszukać.
+Więc poszedłem cię szukać.
 
 Bo nie wiedziałam, ile ci to zajmie..
 Jak długo zamierzasz babrać się w tych błędach?
@@ -138,7 +138,7 @@ Ała!
 Znowu mnie przestraszyłeś!
 Czego chcesz?
 
-Widziałaś jeszcze jakieś błędy?
+Widziałaś może jeszcze jakieś błędy?
 
 Ty naprawdę myślisz, że twoje durne błędy
 są ważniejsze niż dokończenie mojej książki?
@@ -299,7 +299,7 @@ Cwaniak!
 Niezły dowcip!
 
 // Ask about books
-Po co ty w ogóle to czytasz?
+Po co w ogóle czytasz te książki?
 Przecież masz internet...
 
 W internecie jest pełno głupot!
@@ -493,10 +493,10 @@ Tak właściwie, czemu go naśladujesz?
 Rozchmurz się.
 
 Em...
-dobra.
+no dobra.
 
 // Katana
-Czy to zabawkowa katana?
+Czy to jest zabawkowa katana?
 
 To NIE zabawka!
 Jeden celny cios
@@ -506,8 +506,8 @@ Lepiej uważaj—
 nie chciałbyś przypadkiem stracić paluszków.
 
 // Mirror
-Lustro...
-bez odbicia?
+Lustro?
+Bez odbicia?
 
 Hym...
 Jaki niezadowolony!
@@ -538,7 +538,7 @@ to zawsze się gdzieś teleportuje.
 
 // Little carrot
 O! Marcheweczka!...
-i znów jej nie ma!
+i znowu jej nie ma!
 Myślisz, że możemy coś z tym zrobić?
 
 Nie.
@@ -591,7 +591,7 @@ lub Mi-Sa?
 
 Jestem Mila. To tyle.
 
-Rozumiem...
+Jasne...
 
 // Quest 3 Evening
 Kocham wieczory.

@@ -7,7 +7,7 @@ jak się tu dostałeś?
 
 Emm...
 Pierścień otwiera właściwe drzwi.
-Szczerze mówiąc nie wiem jak to działa.
+Szczerze mówiąc, nie wiem, jak to działa.
 
 Pierścień?
 
@@ -98,15 +98,15 @@ Co ty na to?
 
 // Quest 5 (Jaką jest twoja wersja?)
 Czekaj,
-czy my czasem nie spotkaliśmy się w ostatniej wersji gry?
+nie widzieliśmy się czasem w ostatniej wersji gry?
 A może mi się tylko wydaje?
 
 Cóż... to możliwe.
 Jestem z wersji 1.5.
 Byłeś tam?
 
-Tak.
-To tam się pojawiłem,
+Tak! 
+To właśnie tam się pojawiłem,
 kiedy wrzucono mnie do tego świata!
 
 Ojej!
@@ -136,7 +136,7 @@ W porządku, twój wybór.
 
 // Mita wants to tell you [Yes].
 Jasne, dawaj.
-Mam tylko nadzieję, że nie będzie, jak na lekcji
+Mam tylko nadzieję, że nie będzie, jak na lekcjach
 i nie zasnę z nudów.
 
 Wiesz, zawsze możesz wyjść,
@@ -238,9 +238,9 @@ Nie. To zadanie fajnej Mity.
 Jest twarda.
 
 // He asks about the drawings
-A ten rysunek...
-Ma jakieś znaczenie?
-Czy może to zwykłe bazgroły?
+To tylko rysunek,
+czy może
+ma to głębsze znaczenie?
 
-Tak, to tylko zwykłe bazgroły
-Nic szczególnego. 
+Coś ty,
+to tylko bazgroły.

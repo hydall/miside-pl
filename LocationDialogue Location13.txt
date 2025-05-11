@@ -6,7 +6,7 @@ Próbowałam dostać się do rdzenia.
 Oczywiście w jednym kawałku.
 O to chodziło od początku, prawda?
 Dlatego musiałam też unikać
-Szalonej Mity, prawda?
+Szalonej Mity, prawda? 
 I znaleźć też informacje,
 o zapleczu tego cholernego wszechświata, prawda?
 
@@ -31,7 +31,7 @@ skoro zapomniałeś, o czym mówiłam.
 Jestem Mita. Mogę podróżować między wersjami kiedy zapragnę.
 Pamiętasz?
 
-Nie każda Mita to potrafi,
+Ale nie każda Mita to potrafi,
 widziałem kilka.
 Strasznie przez to cierpiały.
 
@@ -62,7 +62,7 @@ Oczywiście, gdybyśmy mieli portal,
 moglibyśmy go użyć.
 Ale cóż, dobre i to.
 
-Czy pierścień w ogóle ma jakieś zalety?
+Czy ten pierścień w ogóle ma jakieś zalety?
 
 Oczywiście!
 Łatwo się go nosi,
@@ -124,7 +124,7 @@ Jasne... Jej wersja to
 00.98.
 
 Bingo!
-Okej, który indeks?
+Okej, a który indeks?
 
 Indeks?
 
@@ -196,7 +196,7 @@ To chyba nie to.
 Ani to.
 Pudło.
 Nie, to nie to.
-Muszę znaleźć okienko resetu postaci.
+Muszę znaleźć opcje resetu postaci.
 // core console - nope version
 To błędna wersja.
 Oj, mój błąd.
@@ -209,13 +209,13 @@ Muszę poprawić indeks.
 Nie pasuje.
 
 // Answer 4 (Little people - Chibi)
-Po drodze spotkałem wiele
-mini ludzików...
+Po drodze spotkałem
+wiele mini ludzików...
 Kim oni są?
 
 Chibi?
 Jakby ci to wytłumaczyć...
-A to takie zjawisko!
+To takie zjawisko...
 Każda Mita ma swoją malutką wersje,
 gracze też je mają...
 Wiesz, że możemy je przyzwać?
@@ -224,7 +224,7 @@ Co? Jak?
 
 Patrz na to!
 
-Prawie jak magia...
+Ale magia...
 
 Ale coś jest nie tak z moimi słodziakami,
 są w większości martwe.

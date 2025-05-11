@@ -9,7 +9,7 @@ Nie mam z tym nic wspólnego,
 przysięgam!
 Naprawdę!
 
-Jasne, wierzę ci!
+Jasne, już ci wierzę!
 
 Ale serio,
 to miejsce jest niebezpieczne...
@@ -154,7 +154,7 @@ Steruję kolejką linową.
 Zdajesz sobie sprawę,
 że zmierzasz ku zagładzie?
 
-Możliwe,
+Nie,
 ale to moja jedyna droga.
 
 Jasne.
@@ -163,7 +163,7 @@ Naciśnij przycisk i właź za armatę.
 Jaką znowu armatę?
 
 No coś ty.
-Chyba nie myślałeś, że po prostu tak sobie przejedziesz?
+Chyba nie myślałeś, że tak po prostu sobie przejedziesz?
 Najpierw musisz ukończyć Potworo-Klepkę,
 więc, szeregowy [player], odbezpieczyć broń!
 

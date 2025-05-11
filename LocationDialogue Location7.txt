@@ -169,7 +169,7 @@ Ale nie uda nam się go uruchomić bez pomocy Czapci.
 A na dodatek nie mamy kilku części...
 Może i jest kapryśna, ale za to nie znam nikogo innego tak bystrego jak ona...
 No dobrze, ale co teraz?
-Coś wymyślimy.
+Coś wymyślimy...
 Co szalona Mita jej zrobiła?
 
 Ona... Ona chyba...
@@ -243,9 +243,9 @@ Zrobione!
 podejdź tu na chwilę.
 // MitaKind ring
 Trzymaj.
-Niestety to prawda, [player].
-Będziesz musiał iść sam,
-muszę się dowiedzieć, o co w tym wszystkim chodzi.
+Niestety to prawda, [player]...
+Będziesz musiał iść sam.
+Muszę się dowiedzieć, o co w tym wszystkim chodzi.
 Mój plan był idealny...
 A jednak wszystko poszło z dymem...
 Muszę to przemyśleć i dowiedzieć się,
@@ -783,7 +783,7 @@ Eee...
 
 Co tu się robi?
 
-Po prostu zbierasz pieniądze
+Po prostu zbierasz monety
 i unikasz żab.
 
 Meh, brzmi to okropnie nudno.
