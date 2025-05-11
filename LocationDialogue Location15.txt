@@ -117,7 +117,7 @@ Chciałabym cię przytulić.
 
 Co?
 // Hugs
-Miło było...
+Miło było cię poznać...
 
 Ahh...
 Wielka szkoda...
@@ -153,7 +153,7 @@ Daję sobie uciąć głowę, że cię zresetowałem...
 
 Wciąż nie rozumiesz...?
 Ha-ha-ha!
-Jestem cudowną aktorką!
+Cudowna ze mnie aktorka!
 Powinieneś był zobaczyć się w lustrze!
 To takie zabawne!
 
@@ -205,7 +205,7 @@ Trzeba poprawić.
 // core console - nope index
 Coś jest nie tak.
 Indeks jest nieprawidłowy.
-Muszę go poprawić.
+Muszę poprawić indeks.
 Nie pasuje.
 
 // Why kitchen

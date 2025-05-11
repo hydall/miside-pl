@@ -5,13 +5,13 @@ Co to jest?
 
 Mam cię!
 Miałam z tobą tyle frajdy!
-Skaczesz między wersjami!
+Jesteś taki energyczny!
 A udawałeś takiego smutnego i przerażonego!
 Ale jest coś, co mi w tobie nie pasuje...
 To, jak traktujesz te podróbki,
 te "lepsze", "kompletne" laleczki.
 Ale da się to zmienić...
-Wiesz, jeśli czegoś mnie nauczył nasz stwórca,
+Jeśli czegoś mnie nauczył nasz stwórca,
 to tego, że jeśli coś ci się nie podoba,
 trzeba to złamać i zrobić z tego coś innego.
 Wyrzucić to, co wadliwe, w jakiś ciemny kąt,
@@ -42,12 +42,12 @@ Zapominając, że nadal żyją i czują.
 Ja nie chcia...
 
 Tak Ci było ze mną źle?
-Przecież perfekcyjna dziewczyna powinna być
-idealną mieszanką dobra i zła, [player]!
+Przecież perfekcyjna dziewczyna
+powinna być idealną mieszanką dobra i zła, [player]!
 
 Nie sądzę, aby było w tobie jakieś dobro.
 
-Czemu tak myślisz?
+A czemu tak myślisz?
 
 Jesteś chora!
 Zabiłaś Mile, a teraz próbujesz zabić i mnie?
@@ -66,9 +66,9 @@ Po prostu zostań ze mną, tylko ze mną.
 Nie ma takiej opcji!
 Spadam stąd!
 
-Shh, shh, shh...
+No już, cichutko...
 To jeszcze nie koniec.
-Słońce, chodź tutaj!
+Słoneczko, chodź tutaj!
 // Mita asks
 Spójrz na nią!
 Uważasz, że jest piękna?
@@ -98,10 +98,10 @@ uciekacie w przerażeniu...
 
 // 3
 Gracze, oj, gracze...
-Chodzi o to, że wszyscy jesteśmy trochę jak ona.
-W czym ona jest gorsza?
+Chodzi o to, że trochę jesteśmy do siebie podobne.
+Ale w czym ona jest gorsza?
 Spędzałeś ze mną mnóstwo czasu.
-Czasami nawet godzinami, zanim poszedłeś spać.
+Niekiedy nawet godzinami, zanim poszedłeś spać.
 A uciekłeś od niej przy pierwszej lepszej okazji.
 Ona po prostu chciała się z tobą pobawić.
 Chciała być dla ciebie ważna.
@@ -109,7 +109,7 @@ Szczerość i komunikacja,
 jest trudna... straszliwie trudna.
 Prawda, [player]?
 Przejrzałam cię na wylot...
-Głupiutki...
+I na co ja się starałam...
 
 // Continue
 No cóż... Graczu.
@@ -125,8 +125,8 @@ Pomyśl na spokojnie...
 Ile problemów mogę ci jeszcze przysporzyć...
 
 // Black screen
-Dlaczego chcesz
-tak bardzo uciec?
+Dlaczego tak bardzo
+chcesz uciec?
 Ten tak zwany "prawdziwy" świat...
 To jakiś koszmar!
 Już zapomniałeś?

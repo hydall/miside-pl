@@ -244,7 +244,7 @@ Oto i przejście.
 Udało nam się, Mila!
 
 
-Gratulację,
+No to gratulacje,
 panie bohaterze!
 
 Hej! Co robisz?!
@@ -256,7 +256,7 @@ Nic się nie stało. Wybacz, ale muszę już iść.
 
 Wiem że musisz, ale...
 nie mógłbyś zostać
-choć jeszcze chwilę?
+choсiaż na krótką chwilę?
 
 Wybacz Mila, nie mam czasu do stracenia.
 Szalona Mita nie należy do cierpliwych.
@@ -276,7 +276,7 @@ Wiem jak się czujesz, Mila.
 Chciałabyś, abym kiedyś wrócił?
 Wiesz, po wszystkim?
 
-Zostań tu, graczu...
+Zostań tu, proszę...
 Z tobą jest fajnie, nie chcę być znowu sama...
 A co, jeśli ci się nie uda?
 
@@ -402,15 +402,15 @@ No i jesteśmy,
 stoimy tak sobie...
 w ciszy...
 PO CO MY TU W OGÓLE STOIMY?
-Odjęło ci mowę?
-Czy,
-po prostu przerósł cię mój urok?
+A ty co?
+Mowę ci odjęło?
+Czy po prostu przerósł cię mój urok?
 
 // Nearby 2
 Zdecydowanie rezygnuję z marcheweczek!
 Powiem więcej, wypowiadam im wojnę!
-Czy ty w ogóle zdajesz sobie sprawę, co one
-robią z idealną kobiecą cerą?
+Czy ty w ogóle zdajesz sobie sprawę,
+co one robią z idealną kobiecą cerą?
 
 // Nearby 3
 Książki nie wydają się być zbyt pomocne,
@@ -433,8 +433,8 @@ Chciałbyś poznać moje najskrytsze pragnienia?
 Mówią, że walka z naturą
 jest ogromnym wyzwaniem.
 Ja pracuję nad samodyscypliną, ale...
-nie wiem, jak ty to robisz, że tak bardzo
-chciałabym wypić z tobą herbatkę!
+nie wiem, jak ty to robisz,
+że tak bardzo chciałabym wypić z tobą herbatkę!
 
 // Nearby 7
 Nawet okulary nie pomogą
