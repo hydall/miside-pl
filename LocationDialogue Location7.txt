@@ -133,7 +133,7 @@ Przez jej superową czapkę,
 nazywam ją
 Czapcia.
 Planowałam z nią,
-jak pozbyć się szalonej Mity.
+jak pozbyć się Szalonej Mity.
 W drogę, [player]!
 
 
@@ -152,11 +152,11 @@ Kim ty do diabła jesteś?
 Cholera jasna!
 [player]...
 Ona tu była,
-szalona Mita...
+Szalona Mita...
 Słuchaj!
 Spróbuj sobie przypomnieć!
 
-Przypomnieć..., ale co?
+Przypomnieć... ale co?
 Tak w ogóle, to czemu wyglądasz jak ja?
 
 Umm, to na nic...
@@ -170,7 +170,7 @@ A na dodatek nie mamy kilku części...
 Może i jest kapryśna, ale za to nie znam nikogo innego tak bystrego jak ona...
 No dobrze, ale co teraz?
 Coś wymyślimy...
-Co szalona Mita jej zrobiła?
+Co Szalona Mita jej zrobiła?
 
 Ona... Ona chyba...
 zabiła ją...
@@ -178,7 +178,7 @@ Zabiła?!
 
 W tym świecie umierając...
 Wracamy do ustawień fabrycznych.
-Więc czaderska Mita...
+Więc Czaderska Mita...
 Straciła wszystkie wspomnienia,
 co oznacza, że...
 nasz plan nie wypali.
@@ -229,9 +229,9 @@ Ale ja nie znam drogi, skąd będę wiedział, czy dobrze idę?
 
 Pomogę ci na tyle,
 na ile pozwoli sytuacja.
-Będę dawała ci wskazówki,
-gdy tylko będzie możliwość.
-To się spotkamy...
+Będę dawała ci wskazówki.
+Gdy tylko będzie możliwość,
+to się spotkamy...
 Na razie pobaw się z Czapcią.
 Daj mi z 10 minut...
 
@@ -380,23 +380,23 @@ Nie widziałem tu żadnych bobrów...
 
 Huh? Bobrów?
 Dobra, nieważne.
-Po prostu zagrajmy, OK?!
+Po prostu zagrajmy, oki?!
 
 Musimy?
 
-No dawaj!
+A więc!
 Wiesz w ogóle, co to za gra?
 
 
 // How play hammer game
-Widzisz te liczby?
+Widzisz te cyfry?
 To jest zegar.
-Jeśli liczby spadną do zera,
+Jeśli cyfry spadną do zera,
 i pojawi się zielony ptaszek,
 wciśnij przycisk.
 Ale jeśli będę szybsza,
 albo wciśniesz go w złym momencie,
-dostaniesz młotem w łeb!
+dostaniesz młotkiem w łeb!
 
 Zamierzasz mnie tym walić?
 
@@ -429,20 +429,20 @@ Okej,
 teraz skopię ci tyłek!
 
 // Kick MitaCap 2
-Ugh, znów przegrałam!
+Ugh, znowu przegrałam!
 Bolało cię to?
 Oczywiście, że nie, przecież to tylko zabawka!
-Tym razem ty wygrałeś.
+Tym razem wygrałeś.
 
 // Kick MitaCap 3
 Ta gra wcale nie jest taka zła.
 Jest świetna, prawda?
-Też ją uwielbiam!
+Ja też ją uwielbiam!
 Ale od teraz jesteś moim rywalem!
 
 // GameHammer End
 I co, to tyle?
-Tak, to wszystko!
+Mhm-mhm!
 Chodźmy dalej.
 
 // Dance - [not]
@@ -591,10 +591,10 @@ Te owoce są prawdziwe?
 Wyglądają wspaniale.
 Czy one kiedykolwiek się psują?
 
-Masz na myśli jabłka?
+Masz na myśli jabłuszka?
 Nie mają czasu, żeby się zepsuć,
 bo je wszystkie zjadam!
-A wtedy po prostu się pojawiają nowe...
+A wtedy po prostu pojawiają się nowe...
 
 // Photo and cat
 Jaki słodki kiciuś.
@@ -734,10 +734,10 @@ Wiesz, chodzi o tę z pierścieniem.
 
 Na początku chciałam krzyczeć.
 Coś w stylu:
-Jasny gwint! Skąd się tu wziął mój klon!
+Jasny gwint! Skąd tu się wziął mój klon!
 Ale zauważyłam, że nie jest tak wesoła, jak ja!
 A to znaczy, że jestem lepsza!
-Zobacz, jaka ponura...
+No zobacz, jaka ponura...
 
 Jestem obok
 i wszystko słyszę.
@@ -814,20 +814,20 @@ Chodźmy się zabawić!
 Wyjdź tymi drzwiami
 do salonu.
 
-Pa-paa!
+Pa-paa! Pa-patki!
 
 // Goodbye 2
 Czas na ciebie, [player]!
 Musisz już iść!
 
-Ja bym cię,
-nie zostawiła samego!
+Ja, to bym nigdy
+nie zostawiła cię samego!
 W porównaniu do pewnych innych osób!
 
 Czapciu!
 Nie żartuj sobie, dobrze?
 
-Bah-hah!
+NiE żArTuJ sObIe, DoBrZe?
 
 // Goodbye 3
 Co tak stoisz, jak słup?

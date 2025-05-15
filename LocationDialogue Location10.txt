@@ -45,9 +45,9 @@ Po prostu pójdę
 gdziekolwiek poprowadzą mnie drzwi.
 
 Wow!
-W takim razie nie odwracaj się od nich plecami.
-Nie trać ich z zasięgu wzroku!
-Są nieśmiałe kiedy na nie patrzysz,
+W takim razie nie odwracaj się do nich plecami.
+I pamiętaj - nie trać ich z zasięgu wzroku!
+Są nieśmiałe, kiedy na nie patrzysz,
 na tyle, że przestają się ruszać.
 Nie zapominaj!
 
@@ -60,14 +60,14 @@ Nie zapominaj!
 // Quest 1 (Dlaczego są tu inne Mity?)
 Są nowe. Prosto z fabryki.
 Potrzebują trochę czasu,
-by zyskały "świadomość".
+wiesz, by zyskały "świadomość".
 A potem je odprowadzam,
-do ich domów.
+prościutko do ich domów.
 
 // Quest 2 (Dlaczego na dole jest tak ciemno?)
 My, Mity, jesteśmy tworzone w ciemności,
 więc musimy w niej przez jakiś czas zostać.
-Wyobraź sobie ten ból,
+Wyobraź sobie ból,
 kiedy z mroku zostałybyśmy wrzucone wprost do światła...
 
 // Quest 3 (A co TY tu robisz?)
@@ -109,7 +109,7 @@ Tak!
 To właśnie tam się pojawiłem,
 kiedy wrzucono mnie do tego świata!
 
-Ojej!
+Wow!
 Ale jak...?
 Czekaj, w której wersji domu byłeś?
 Jest wersja, w której "ja" nie potrafi przestać się mazać,
@@ -200,8 +200,8 @@ Ale próbowałyśmy ją skrócić,
 i śliczna Mita zasugerowała nową ścieżkę.
 Ale ja narysowałam najprostszą drogę.
 To przecież oczywiste!
-Spójrz.
-Stąd możesz przejść bezpośrednio do wybranej wersji.
+Patrz.
+Stąd możesz przejść prosto do wybranej wersji.
 Nawet jeśli wydaje nam się, że dom stoi nam na drodze,
 to tak nie jest!
 Wracając, twój pierścień działa w ten sam sposób.

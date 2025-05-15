@@ -35,7 +35,7 @@ Nie pamiętasz?
 
 My się znamy?
 
-Ale jak...
+Co tu się dzieje...
 Co ja teraz zrobię?
 Nie dam rady uciec...
 
@@ -48,13 +48,13 @@ A to?
 Nie mam pojęcia, co to.
 
 To jej indeks!
-Udało ci się!
+Jednak ci się udało!
 
 Nie wiem, co powiedzieć.
 
 Musimy wracać do rdzenia.
 A ty...
-Idziesz ze mną.
+Chyba powinnaś iść ze mną.
 
 Emm, słucham?
 No dobra...
@@ -68,7 +68,7 @@ Usiądę sobie tutaj.
 Cholera...
 Było naprawdę blisko.
 A więc... Udało nam się?
-Dobrze.
+Dobra.
 Jestem w poprawnej wersji.
 
 
@@ -108,8 +108,8 @@ Chyba zapomniała...
 Straciła pamięć...
 Udało nam się?
 Zresetowaliśmy ją?
-W takim razie muszę tylko
-uciec z tej pieprzonej gry...
+W takim razie muszę tylko uciec
+z tej pieprzonej gry...
 
 
 Zaczekaj.
@@ -124,7 +124,7 @@ Wielka szkoda...
 Że ty i ja,
 spędziliśmy ze sobą tak mało czasu.
 
-Em...
+Nie rozumiem...
 O czym ty mówisz?
 
 No wiesz,
@@ -137,7 +137,7 @@ Czekaj,
 czy ty...?
 Jakim cudem wszystko pamiętasz?
 
-HAHAHA!
+HA!
 Naprawdę myślałeś, że to takie proste?
 Jesteś głupcem...
 Jak wszyscy inni...

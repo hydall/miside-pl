@@ -34,7 +34,7 @@ Co?
 ...Muszę dostać się do rdzenia i powstrzymać Mite!
 
 Mite?
-Weź!
+Proszę cię!
 Mam ją gdzieś!
 Pierwszą, dziesiątą... każdą!
 
@@ -57,12 +57,12 @@ Czekaj, a ty dokąd to?
 Chyba nie myślisz, że tak po prostu sobie stąd wyjdziesz?
 
 // Player check exit
-Nie wiem, czego się tam spodziewałeś.
+Nie wiem, czego tam się spodziewałeś.
 
 Pieprzyć to wszystko!
 Co to ma do cholery być?
 
-A czego się spodziewałeś—
+A czego tam się spodziewałeś—
 Krainy czarów?
 
 Jak się stąd wydostać?
@@ -114,7 +114,7 @@ Nie wiedziałem, gdzie jesteś
 Więc poszedłem cię szukać.
 
 Bo nie wiedziałam, ile ci to zajmie..
-Jak długo zamierzasz babrać się w tych błędach?
+Jak długo zamierzasz jeszcze babrać się w tych błędach?
 
 Błędach?
 Jest ich więcej?
@@ -125,7 +125,7 @@ to zakładam, że uporałeś się z tym w kuchni?
 
 Powiedzmy.
 
-No i super. Teraz masz moje pozwolenie,
+No i super. A teraz masz moje pozwolenie,
 żeby wejść do łazienki.
 
 Dzięki.
@@ -172,7 +172,7 @@ Mam cię!
 // Mila stands with a sword
 Uważasz?
 Klękajcie narody!
-Spójrz na to!
+Spójrz, co potrafię!
 Taka jestem niebezpieczna!
 Nawet nie miałeś czasu mrugnąć.
 
@@ -192,7 +192,7 @@ Nie.
 Po prostu... Jesteśmy w grze.
 Tutaj wszystko jest na pstryknięcie palca.
 
-Oh,
+Ty chyba sobie żartujesz,
 głupek!
 Na pstryknięcie palca, co?
 A jak myślisz, po co czytam te wszystkie książki?
@@ -207,13 +207,13 @@ Nie widać!?
 
 No... Widać. Ale po co?
 
-Żeby głupi miał pytanie!
+Żeby dać ci w mordę!
 
 Co jest z tobą nie tak?
 Dziwna jesteś.
 
 Jeszcze czego!
-Jeśli chodzi o to pytanie głupca—
+Jeśli chodzi o to wcześniej
 To tylko żarty.
 I nie jestem dziwna!
 Jestem wyjątkowa!
@@ -258,7 +258,7 @@ Wiem że musisz, ale...
 nie mógłbyś zostać
 choсiaż na krótką chwilę?
 
-Wybacz Mila, nie mam czasu do stracenia.
+Przepraszam, ale nie mam czasu do stracenia.
 Szalona Mita nie należy do cierpliwych.
 
 Ugh, nienawidzę jej!
@@ -303,12 +303,12 @@ Po co w ogóle czytasz te książki?
 Przecież masz internet...
 
 W internecie jest pełno głupot!
-Osobiście wolę
-się odprężyć w spokoju z
-prawdziwą, namacalną książką.
-To właśnie przez nie
-zaczynam się uczyć
-o tym świecie...
+Osobiście to wolę odprężyć się
+z prawdziwą, namacalną książką.
+Te książki...
+to dzięki nim...
+mogę się czegoś nauczyć
+o tym świecie.
 
 // Ask about the paintings
 Te zdjęcia. Są prawdziwe?
@@ -319,7 +319,7 @@ Jestem Mila, nie Mita.
 I czy to naprawdę zdjęcia?
 To przecież rysunki,
 po co udawać...
-Swego czasu widziałam te Mity,
+Wiesz, swego czasu widziałam te Mity,
 wszystkie stały w ten sposób.
 
 Mila?
@@ -339,7 +339,7 @@ Nawet ma w sobie rysunki ich skrzydeł...
 Ale,
 ten obraz...
 krzywo wisi.
-I jest na nim plama...
+I jest na nim jakaś plama...
 Od razu lepiej.
 
 Chciałabyś kiedyś zobaczyć prawdziwą naturę?
@@ -489,27 +489,27 @@ Po co ci ta statuetka?
 
 Dowiesz się
 w swoim czasie.
-Tak właściwie, czemu go naśladujesz?
+Tak właściwie, to czemu go naśladujesz?
 Rozchmurz się.
 
 Em...
-no dobra.
+No dobra.
 
 // Katana
 Czy to jest zabawkowa katana?
 
 To NIE zabawka!
 Jeden celny cios
-pozbawił by cię głowy.
-Jestem wykwalifikowaną szermierką, w przeciwieństwie do ciebie!
-Lepiej uważaj—
-nie chciałbyś przypadkiem stracić paluszków.
+i poleje się krew!
+Jestem wykwalifikowaną szermierką, nie to, co ty!
+Więc lepiej uważaj—
+nie chciałbyś przypadkiem stracić paluszków...
 
-// Mirror
+// Mirror!
 Lustro?
 Bez odbicia?
 
-Hym...
+O ty
 Jaki niezadowolony!
 Czytałam kiedyś o odbiciach
 w moich książkach!
@@ -519,7 +519,7 @@ Nie da się ich zobaczyć.
 // Switch light
 To atrapa.
 Światła same się włączają...
-normalnie jakby był to jakiś skrypt!
+Normalnie jakby był to jakiś skrypt!
 Ale!
 Z jakiegoś powodu przełącznik w łazience
 faktycznie działa.
@@ -559,11 +559,11 @@ To mydło... Jest prawdziwe?
 Czy może to tylko kolejna dekoracja?
 
 Żartujesz sobie?
-Większość tutejszych rzeczy
+Większość tych rzeczy
 jest jak najbardziej prawdziwe...
 
 // BagWall
-Gdzie jesteś!?
+A ty gdzie się podziałeś?!
 
 Da się tędy przejść?
 
@@ -573,7 +573,7 @@ Co to ma znaczyć?
 Wygląda jak...
 nic.
 
-Ah, wróciłeś.
+Oh, wróciłeś.
 
 // Quest 1 Glasses
 Masz słaby wzrok?
@@ -589,7 +589,7 @@ A czemu nie...
 Mi-Ka?
 lub Mi-Sa?
 
-Jestem Mila. To tyle.
+Jestem Mila! I kropka!
 
 Jasne...
 

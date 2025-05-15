@@ -1,5 +1,5 @@
 
-Hejcia!
+Hejka!
 Ups!
 Sorka,
 prawie Cię zabiłam.
@@ -16,7 +16,7 @@ to miejsce jest niebezpieczne...
 w szczególności dla ciebie.
 
 // After a while 1
-Nie jesteś tchórzem, co?
+Nie boisz się, co?
 Kiedy cię tak oglądam,
 jak mijasz różne miejsca...
 Sprawia mi to satysfakcję...
@@ -26,7 +26,7 @@ Zuch chłopiec!
 Haha, podoba mi się to!
 
 // After a while 2
-Widziałam, jak zmierzasz w kierunku kolejki linowej.
+Widzę, że zmierzasz w kierunku kolejki linowej.
 To najdłuższa droga
 między wersjami...
 Ciekawe, jak sobie poradzisz z tymi,
