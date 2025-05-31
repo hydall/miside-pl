@@ -236,7 +236,7 @@ Na razie pobaw się z Czapcią.
 Daj mi z 10 minut...
 
 // MitaKind ready, if player near
-OK.
+Okej.
 Zrobione!
 // MitaKind ready
 [player],
@@ -420,8 +420,8 @@ jeszcze ci się spodoba!
 Myślę, że ta gra nie jest dla mnie.
 Ha-ha!
 Jestem świetna!
-Jestem wspaniała!
-A przede wszystkim jestem słodka!
+I wspaniała!
+Taka właśnie jestem cała!
 
 // Kick MitaCap 1
 O żesz ty!

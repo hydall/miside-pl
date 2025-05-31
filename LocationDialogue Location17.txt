@@ -81,7 +81,7 @@ Wstawaj.
 Jesteś aż tak senna?
 
 // MitaDreamer again sleep
-Wstawaj.
+Obudź się.
 Już prawie jesteśmy.
 
 
@@ -97,7 +97,7 @@ odliczać.
 I pociągniemy je razem.
 Okej?
 
-Po prostu nie zaśnij, OK?
+Po prostu nie zaśnij, okej?
 Zaczynaj.
 
 
@@ -111,7 +111,7 @@ No dawaj,
 jeszcze raz...
 
 // Player lose 2
-Jeszcze jeden raz?
+Znowu?
 No weź,
 zas...
 Ja tu zasypiam...

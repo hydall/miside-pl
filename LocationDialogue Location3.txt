@@ -13,7 +13,7 @@ Cieszę się, że cię widzę.
 
 // Answer 1 - Mita
 Tak.
-A ty jesteś [player], prawda?
+No co ty, [player], zapomniałeś?
 
 // Answer 2 - Mita
 Chcesz już wracać?
@@ -93,7 +93,7 @@ Pomogło?
 Tak.
 Tak szybko zadziałały...
 
-[player], jesteśmy w grze.
+[player], przecież jesteśmy w grze.
 Wszystko jest tutaj prostsze.
 Nawet najmniejsze rzeczy,
 dają wspaniałe rezultaty.
@@ -222,9 +222,9 @@ Skrzynka z bezpiecznikami?
 Przecież jesteśmy w grze,
 to po co ci ona?
 
-Po pierwsze to,
-my jesteśmy W GRZE.
-A pytanie, po co...
+No właśnie,
+jesteśmy W GRZE.
+Więc pytanie, po co...
 Jest bez sensu.
 Co nie oznacza, że nic nie robią.
 Możemy tutaj zresetować bezpieczniki.
