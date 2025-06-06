@@ -692,8 +692,8 @@ Aha...
 Po prostu sobie
 odszedł.
 
-Ale to dziwne!
-i zabawne.
+To takie zabawne, ha-ha!
+Ale z niego dziwak!
 
 Serio?
 [player], co ty wyprawiasz?
@@ -701,12 +701,12 @@ Serio?
 // Player is gone 2
 Co do?...
 
-Znów odszedł?
+Znowu poszedł?
 
 No!
 Niech robi, co chce...
 
-[player], wróć do nas!
+Hej, [player], wróć do nas!
 
 // Don't pay attention
 Nawet na mnie nie spojrzał!
