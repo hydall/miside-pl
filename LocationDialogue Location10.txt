@@ -101,7 +101,7 @@ Czekaj,
 nie widzieliśmy się czasem w ostatniej wersji gry?
 A może mi się tylko wydaje?
 
-Cóż... to możliwe.
+Tak... to możliwe.
 Jestem z wersji 1.5.
 Byłeś tam?
 
@@ -184,7 +184,7 @@ Dlaczego to kółko jest zamalowane?
 Umm, to tutaj?
 To dzieło Ślicznej Mity.
 Ona to narysowała.
-Kłóciliśmy się,
+Kłóciłyśmy się,
 jak najszybciej dostać się do wersji 1.11.
 
 A więc? Kto wygrał?

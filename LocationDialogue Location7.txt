@@ -338,7 +338,7 @@ Przynudzasz...
 
 
 Hej,
-widzę, że rozpiera cię energia!
+jesteś bardzo energiczna!
 
 No!
 Oczywiście, że jestem!
@@ -795,7 +795,7 @@ Przecież ci jej nie oddałam.
 Dziwne, nie sądzisz?
 
 // TV
-U-ugh!
+U-uu!..
 O proszę,
 znalazłeś błąd!
 Powinien włączyć się jakiś filmik.
@@ -827,7 +827,7 @@ W porównaniu do pewnych innych osób!
 Czapciu!
 Nie żartuj sobie, dobrze?
 
-NiE żArTuJ sObIe, DoBrZe?
+BLE-BLE-BLE, NiE żArTuJ sObIe, DoBrZe?
 
 // Goodbye 3
 Co tak stoisz, jak słup?
