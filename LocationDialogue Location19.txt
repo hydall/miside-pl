@@ -148,7 +148,7 @@ Dobra już, dobra. Sam poszukam.
 
 Czekaj,
 mam pytanie...
-Chcesz stąd odejść,
+Chcesz... stąd odejść,
 prawda?
 
 Zgadza się.
@@ -174,7 +174,7 @@ Uważasz?
 Klękajcie narody!
 Spójrz, co potrafię!
 Taka jestem niebezpieczna!
-Nawet nie miałeś czasu mrugnąć.
+Nawet nie miałeś czasu mrugnąć!
 
 Ty tak na serio?!
 
@@ -335,7 +335,7 @@ Wiesz, motyle i te sprawy?
 
 Nie,
 ale mam gdzieś o nich książkę.
-Nawet ma w sobie rysunki ich skrzydeł...
+Nawet ma w sobie rysunki ich skrzydeł!
 Ale,
 ten obraz...
 krzywo wisi.
@@ -363,7 +363,7 @@ Gapisz się jakbyś kobiety nie widział.
 To niekulturalne!
 
 Słyszałaś kiedyś o kulturze?
-Sio! Won!
+Odwal się..
 
 // Whispers 1
 Czemu ciągle wysyłają do mnie
@@ -445,7 +445,7 @@ Pańskiej bezcelowej pogoni.
 Czytałam kiedyś, że przeznaczenie jest jak skrypt,
 który dokładnie mówi,
 jak potoczy się twoje życie.
-Ha! Co za głupek to pisał.
+Ha! Co za głupek to pisał!
 To chyba nie ty?
 
 // Nearby 9
@@ -455,8 +455,8 @@ Nienawidzę ich.
 // Nearby 10
 Niektóre Mity
 są nawet dość urocze...
-Chciałabym je poznać, nawet jeśli
-są tylko kopiami kopii.
+Chciałabym je poznać,
+nawet jeśli są tylko kopiami kopii.
 
 // Nearby 11
 Jest taka jedna, całkiem inna.
