@@ -1,14 +1,14 @@
 
 Ja... Ja żyję!
 
-Boże Święty!
+Jezus Maria!...
 Przestraszyłeś mnie!
-Człowieku...
+Gościu...
 Chwila, mój zapis... O nie!
 Nie rozumiem...
 Gdzie on jest?
 I tyle godzin romansów na marne!
-Czego w ogóle tu szukasz?
+Czego tu w ogóle szukasz?
 
 Poszukuję wersji...
 
@@ -47,7 +47,7 @@ Mi-La? A nie Mi-Ta?
 Mita, Mite, Mitą pogania,
 ciągle tylko Mita to, Mita siamto!
 
-A więc... jesteś Mila?
+A więc... jesteś... Mila?
 
 No przecież mówię! Głuchy jesteś?
 
@@ -62,8 +62,8 @@ Nie wiem, czego tam się spodziewałeś.
 Pieprzyć to wszystko!
 Co to ma do cholery być?
 
-A czego tam się spodziewałeś—
-Krainy czarów?
+A myślałeś, że co tam znajdziesz—
+Krainę czarów?
 
 Jak się stąd wydostać?
 Miało być tu wyjście.
@@ -192,8 +192,8 @@ Nie.
 Po prostu... Jesteśmy w grze.
 Tutaj wszystko jest na pstryknięcie palca.
 
-Ty chyba sobie żartujesz,
-głupek!
+Ty chyba sobie żartujesz!
+Głupek!
 Na pstryknięcie palca, co?
 A jak myślisz, po co czytam te wszystkie książki?
 Żeby potem pstryknąć palcami i wszystko gotowe?
@@ -237,7 +237,7 @@ Na samą myśl
 od razu:
 Bum!
 I jeszcze masz czelność mi o tym mówić?
-Głupku!
+Głupek!
 
 // Last glitch ready - player exit
 Oto i przejście.
@@ -287,15 +287,15 @@ a teraz... no proszę.
 Nie mogę się doczekać powrotu do prawdziwego świata...
 
 Ha-ha-ha!
-Oj,
-'prawdziwy' świat, co?
+Dokąd?
+Do prawdziwego świata?
 To tylko miejska legenda!
-Nigdy go nie widziałam.
+Nigdy o nim nie słyszałam!
 
 Myślę, że...
 musi być jakiś sposób na powrót.
 
-Cwaniak!
+Ale cwaniak!
 Niezły dowcip!
 
 // Ask about books
@@ -303,11 +303,11 @@ Po co w ogóle czytasz te książki?
 Przecież masz internet...
 
 W internecie jest pełno głupot!
-Osobiście to wolę odprężyć się
+Osobiście, to wolę odprężyć się
 z prawdziwą, namacalną książką.
-Te książki...
-to dzięki nim...
-mogę się czegoś nauczyć
+Te książki.
+To dzięki nim
+wiem więcej
 o tym świecie.
 
 // Ask about the paintings
@@ -404,7 +404,7 @@ w ciszy...
 PO CO MY TU W OGÓLE STOIMY?
 A ty co?
 Mowę ci odjęło?
-Czy po prostu przerósł cię mój urok?
+Czy może przerasta cię mój urok?
 
 // Nearby 2
 Zdecydowanie rezygnuję z marcheweczek!
@@ -422,12 +422,12 @@ To przerażające!
 // Nearby 4
 Istnieje wiele typów dziwaków!
 Jedni kochają marcheweczki, inni koty...
-I jesteś też ty. Szukający błędów.
+I mamy też takiego ciebie. Miłośnika błędów.
 Serio, jesteś najdziwniejszą osobą, jaką poznałam!
 
 // Nearby 5
-Chciałbyś poznać moje najskrytsze pragnienia?
-...Cóż, to zawstydzające.
+Chciałbyś... poznać moje pragnienia?
+Przepraszam, to zawstydzające...
 
 // Nearby 6
 Mówią, że walka z naturą
@@ -509,10 +509,10 @@ nie chciałbyś przypadkiem stracić paluszków...
 Lustro?
 Bez odbicia?
 
-O ty
-Jaki niezadowolony!
-Czytałam kiedyś o odbiciach
-w moich książkach!
+Boże...
+Co ci znowu nie pasuje?
+Czytałam kiedyś o odbiciach.
+Dowiedziałam się o nich z moich książek.
 Ale w mojej wersji one nie istnieją.
 Nie da się ich zobaczyć.
 
@@ -558,9 +558,9 @@ Nigdy, przenigdy!
 To mydło... Jest prawdziwe?
 Czy może to tylko kolejna dekoracja?
 
-Żartujesz sobie?
+Głupi jesteś?
 Większość tych rzeczy
-jest jak najbardziej prawdziwe...
+jest jak najbardziej prawdziwa...
 
 // BagWall
 A ty gdzie się podziałeś?!
@@ -601,5 +601,5 @@ Noc?
 Nawet nie zaczynaj.
 Dni się tu nie kończą...
 Jeden za drugim,
-tak, jakby były w pętli.
+tak, jakby były w jakiejś pętli.
 Ugh...
