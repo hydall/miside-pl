@@ -42,7 +42,7 @@ której wersja świata nie została zarchiwizowana...
 Dom tej Mity
 Po prostu zniknął...
 Teraz podobno błądzi
-w tych korytarzach.
+w tych mrocznych korytarzach.
 Szkoda mi jej...
 
 // Quest 4 (How did you end up here?)
@@ -60,9 +60,9 @@ Zmieniłam trasę
 na tę właściwą.
 I ustawiłam najkrótszą możliwą drogę.
 Posłuchaj!
-Działa to bardzo prosto: otwierasz drzwi,
-a pierścień otwiera odpowiednie przejście
-pomiędzy wersjami.
+Działa to bardzo prosto: 
+otwierasz drzwi, a pierścień 
+tworzy odpowiednie przejście pomiędzy wersjami.
 
 // Quest 6 (Are the passages dangerous?)
 Odkąd się tu przeniosłem, widziałem już
@@ -102,7 +102,7 @@ Boję się, że na nią trafimy.
 W końcu jej wersja była tą pierwszą...
 
 // Quest 7 (Will you help me get out?)
-Szczerze, to nie wiem, jak ci jeszcze pomóc...
+Szczerze, to nie wiem, jak ci pomóc...
 W każdym razie,
 udało ci się tu dostać, prawda?
 No i poza tym,
@@ -254,7 +254,7 @@ Spróbuję je znaleźć.
 Wtedy moglibyśmy użyć razem portalu.
 Ale nie ma czasu do stracenia.
 Szalona Mita wie o tym miejscu,
-to tylko kwestia czasu, zanim nas znajdzie.
+to tylko kwestia czasu, zanim je znajdzie.
 Powodzenia, [player]! Do zobaczenia wkrótce!
 
 Dobrze...
