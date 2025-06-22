@@ -10,7 +10,7 @@
 [Zuzanna 'Nadu' Ambroziak](https://www.youtube.com/@nadu.noodles) - Czapcia<br/>
 [veyberry](https://www.twitch.tv/veyberry) - Zaspana Mita, Mita-Duch<br/>
 [Cookie](https://www.youtube.com/@Cookie11037) - Mała Mita<br/>
-[Martyna 'Marti' Jakubowska - Mitafon](https://linktr.ee/basicallymarti)<br/>
+[Martyna 'Marti' Jakubowska](https://linktr.ee/basicallymarti) - Mitafon<br/>
 [Julia 'Izukarra' Sikora](https://www.instagram.com/izukarra) - Krótkowłosa Mita, Mila<br/>
 Franka 'Fran' Karbowiak - Szalona Mita<br/>
 Katarzyna 'waga.bunda' Laska - Uprzejma Mita<br/>
