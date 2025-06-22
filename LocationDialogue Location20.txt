@@ -44,8 +44,8 @@ Obczaj to!
 Potrzebujemy do tego muzyki!
 Co myślisz o tej melodii?
 Sprawia, że moja krew pulsuje!
-Najpierw wyjaśnię ci
-zasady tej gry!
+No to zaczynamy!
+Najpierw zasady!
 // Show rules
 Gdy gra muzyka,
 możesz się poruszać.
