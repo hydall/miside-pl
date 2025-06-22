@@ -52,7 +52,7 @@ Teraz tylko atak!
 Skup się na obronie!
 
 
-Wygrałeś!
+Zwyciężasz!
 Wygrałeś!
 Tym razem ci się udało.
 Ożeż ty...
@@ -142,7 +142,7 @@ Co do...
 Czasami się to zdarza.
 Pokój nie zdążył się załadować.
 Poczekaj chwilkę.
- 
+
 Dziwne.
 Jesteśmy w czyimś telefonie? 
 Może w jakimś przestarzałym, ze starym procesorem?
@@ -201,7 +201,7 @@ Ehh,
 weź się w garść, albo będę cię nazywać przegrywem!
 
 Co z tobą?
-Wytarłam tobą podłogę.
+Wycisnęłam z ciebie całe mleczko!
 Nie dałeś z siebie wszystkiego -
 dlatego wygrałam!
 
@@ -359,10 +359,10 @@ Już w to graliśmy...
 Czekaj, co?
 Mówisz serio? Myślałam, że mnie...
 Jestem taka szczęśliwa!
-I trochę zszokowana...
-Ale...
-Będziemy już razem -
-już zawsze i na zawsze...
+I nawet trochę zszokowana...
+W takim razie...
+Proszę...
+Zostań ze mną, już na zawsze!
 
 
 
@@ -386,7 +386,7 @@ Hee-hee! Mam najwięcej śnieżek!
 Lepiej się postaraj!
 Ha, 1:1!
 // The second map
-Jesteś świetnym pingwinem!
+Świetny z ciebie pingwinek!
 Powinieneś iść na prawdziwe lodowisko!
 Pfft, jesteś taki ślamazarny.
 Może rewanż?
